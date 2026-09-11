@@ -1,0 +1,1051 @@
+
+
+========== [HHO2.0] PAGE 1/84 ==========
+
+Allen-Xiong
+Smart Engine For Smart Vehicle To Smart World
+HHO2.0-突破技术与远景畅想
+
+========== [HHO2.0] PAGE 2/84 ==========
+
+HHO 又叫布朗气，俗称氢氧气，由布朗教授多年钻研在上世纪60年代初发现。
+尤尔.布朗(1922~1998)教授保加利亚人，毕业于机电工程专业，大学毕业后前往
+莫斯科并获得了莫斯科大学颁发的物理学学位。在1958年布朗教授作为电气工程
+师前往澳大利亚，从此便开始了他的研究生涯。他深信Jules Verne的“水中有火”
+理论是可以实现的，经过多年钻研，布朗教授发现，如果将氢和氧按特定比例混
+合不仅能够安全燃烧，而且整个燃烧过程无污染。1970年初他发明了一项专利方
+法，用水电解产生防爆的氢氧混合气体，便是今天所说的布朗气体。Brown（布
+朗）教授在1989年来到中国并工作了3年，先后多次到52研究所讲授布朗气技术，
+引起了所领导及广大科技人员的高度重视，科技人员对Brown教授科学而精确的
+电解结构设计进行了研究，最后终于成功研制出了用以产生安全环保的布朗气体。
+HHO 特性
+变温特性
+布朗气体燃烧时，火焰温度随被加热物体材料的不同具有不同的燃烧温度，我们称其为“变温特性”。
+国外有文献报道称布朗气的火焰温度在125℃～6000℃之间。
+內爆特性
+布朗气是严格按照水分子结构中氢氧摩尔当量配比的氢氧混合气体，具有其它所有燃气都无法实现的内爆
+特性，当燃烧或爆炸发生后，布朗气按1:1860体积比形成真空和负压。
+
+========== [HHO2.0] PAGE 3/84 ==========
+
+WIKIPEDIA，认为HHO，也叫做布朗气（Brown‘s gas）就是2：1氢氧气。按照2：1氢氧气来描述特性，
+但是布朗先生本人不承认HHO是常规2：1氢氧混合气，因为很多理化特性有差异，比如常规氢气与
+氧气是不允许混合加压储存的。
+
+========== [HHO2.0] PAGE 4/84 ==========
+
+百度百科，Sogou百科，360百科对HHO解释雷同，言简意赅，反而比较具有见地，
+既表明了技术可信，又说明了认知不到位造成推广受阻，同时表明了电解有特殊现象，留下无限遐想。
+
+========== [HHO2.0] PAGE 5/84 ==========
+
+What is HHO?
+The water electrolysis to H2 and O2
+H2
+O2
+2H2O(l)⟶2H2(g)+O2(g)
+Definition 1 （https://en.wikipedia.org/wiki/Oxyhydrogen#HHO_gas）
+Wikipedia explain that the HHO (oxyhydrogen or the Brown’s gas) is a 
+mixture with  2:1 molar ration of H2 and O2 gases, the same proportion 
+as in the water. It is a mixture gases (2H2 + 1O2).
+The water electrolysis to HHO
+HHO
+2H2O(l)⟶2HHO(g)
+Definition 2 （http://tophhogascar.com/what-is-hho-gas/）
+HHO gas is a newer form of gas that is created by using ‘pules electrolysis’ equipment. Being made 
+up of magnecules that contain hydrogen gas, HHO is connected to lone atoms that are oxygen 
+atoms, by “magnecular bonds”.
+H2+O2 VS HHO
+Which one is correct?
+
+========== [HHO2.0] PAGE 6/84 ==========
+
+HHO
+H2O
+What is HHO?
+学术界
+Conclusion 1
+2H2O(l)⟶2H2(g)+O2(g)
+研发界
+产业界
+HHO is a poorly defined term, it is not exactly (2H2+O2)
+电
+解
+电
+离
+/
+极
+化
+
+========== [HHO2.0] PAGE 7/84 ==========
+
+3 Different Theories on Brown’s Gas (HHO)
+Conclusion 1
+HHO is a poorly defined term, it is not exactly (2H2+O2)
+Monatomic Theory
+2H2O + ne=2H2 + O2
+Diatomic
+H2O + ne=2H + O
+Monatomic
+Water Magnecule Theory
+Plasma Orbital Expansion Theory
+
+========== [HHO2.0] PAGE 8/84 ==========
+
+2002年
+HHO GAS
+Brown Gas
+Oxyhydrogen
+Klein Gas
+2H2(g)+O2(g)
+耶尔-布朗在电解水时发现：正常的情况是2个水分子被电解生成2个氢气分子和1个氧气分子，如果是1升水，在正常
+情况下电解出的氢气和氧气在标准状态下就会有2401.667升(24.5L，温度25℃，气压101KPa)。但是，他却发现1升
+水生成了1866.6升的气体, 假设HHO是水的同分异构体成立，且电解电离后生成HHO，H2，O2三种气体，则可以推断
+出各占比为（HHO：H2：O2)=(18.9%:54%:27%)=(2:6:3)
+2016论文offenlegungsschrift里面的比例似乎是（HHO：H2：O2)=（5:6:3)，也符合我以前的一个猜想：即现在所
+谓的HHO主要是HHO H2 O2的混合体，比例不是恒定，以前的技术HHO含量低，现在的技术HHO含量高。而MHHO接近于
+纯HHO。Klein Gas可能也很纯，因为很清晰的表述了液化点信息。
+而科技界对于HHO一直没有统一的定论，原因也是因为对象不纯，没有恒定的研究目标，大家不能对着一个确定的东
+西展开研究，所以研究结果彼此有出入。
+1960年
+1975年
+Stanley Meyer
+Denny Klein
+HHO GAS
+Water powered car
+HHO GAS
+Brown Gas
+Klein Gas
+2011年
+OMASA Gas
+Ryushin OMASA
+MHHO GAS
+MHHO GAS
+Conclusion 1
+HHO is a poorly defined term, it is not exactly (2H2+O2)
+H2/D
+O2
+HHO/H2O
+H
+O
+
+========== [HHO2.0] PAGE 9/84 ==========
+
+2002年9月美国人Denny Klein 提出了一种采用新式电极器电极化（电离化）水（区别于电解水）获得新型燃气的专利申请，已于
+2004年2月获得美国专利（附件三）。这种燃气不同于Brown Gas，它的分子量和水的分子量相同，是水的同分异构体，Klein称之为
+HHO GAS或Klein Gas，它不是氢气和氧气的混合气体。
+研究表明，KLEIN的燃气发生器产生的HHO燃气，其中含有大量水的同分异构基团，这种基团的水分子不同于常规水分子的地方在于
+，其氧原子外围的两个氢原子不是成正交分布的，而是平行分布的。这种被称之为HHO的水分子具有优越的可燃性，如下：
+1.在开放的空气环境中，HHO GAS的燃烧温度低于150°C；
+2.作用于不同的物质时产生不同的温度，最高达6000°C；切割不同厚度钢板的速度比氧-乙炔燃气快30%，且切口平滑，不生锈；
+3.优越的表面吸附性，极易与汽油及其他燃气相混合（应用于汽车燃油添加剂）；
+4.优越的低压液化性能（与民用液化气相近）；
+5.零污染燃气：燃烧排放物仅为水；
+6.优越的现制现用性能和安全的存储运输性能；
+7.广泛的应用领域：
+民用炉具、所有工业燃气的替代产品（切割和焊接）、超高温超洁净焊接熔融燃气、天然能源的替代品、混合汽车燃料。
+Denny Klein
+2005年8月第一次拜访
+KLEIN和他在佛罗里达
+的公司（HTA）
+2005年10月将国内
+专家提供的测试样
+品提交KLEIN先生试
+熔
+2005年12月再次拜访
+KLEIN，拍摄了用HHO 
+GAS熔融专家提供的另
+一组相同材料的样品
+2006年3月对HTA的第
+六次访问
+
+========== [HHO2.0] PAGE 10/84 ==========
+
+MHHO Is Ideal Fuel to ICE
+HHO  VS H2 VS MHHO 
+Liquefied 
+temperature
+Energy 
+consuming
+H2
+-253°C
+40 MJ/kg 
+(11.1KWh)
+N2
+-196°C
+877KJ/Kg
+(0.24KWh)
+O2
+-183°C
+3.6-4.5MJ/Kg
+(1KWh)
+HHO
+-178°C
+0.5~1KWh*
+LNG
+-162°C
+510KJ/Kg
+(0.14KWh)
+COMPANY NAME:
+JAPAN TECHNO CO., LTD.
+Address:
+2-14-10 Kugahara ,Ota-
+Ku,Tokyo,146-0085,Japan
+tel.81-3-3754-1661
+fax.81-3-3754-7175
+Contact Person
+President Ryushin Omasa
+Video MHHO introduce
+
+========== [HHO2.0] PAGE 11/84 ==========
+
+1）1989年，澳大利亚科学家Yull Brown教授应中国北方工业公司(NORINCO)邀请来中国兵器工业第52研究所考察和技术交流；
+2）1990年2月，中国兵器工业第52研究所布朗气项目组成立；
+3）1991年5月，BN系列布朗气样机研制成功,并于第二年获国家级新产品奖；
+4）1994年12月，布朗气发生器通过内蒙古自治区科学技术成果鉴定；
+5 ）1995年，H1200布朗气发生器获国家级新产品奖、中国专利新技术产品博览会金奖；
+6 ）1996年，韩国B.E.S.T COREA CO.,LTD 公司金相南主席来公司考察；
+7）1998年12月，布朗气发生器通过GB/T19001-1994标准质量体系认证；
+8 ）1999年11月，H250B白金熔焊机获国家重点新产品奖（发证机关：中华人民共和国科学技术部、国家税务总局、中华人民共和国对外贸易经济合作部、国家质量技术监督局、国际环境保护总局）；
+9）2000年，布朗气项目被列为国家火炬计划项目；同年10月H3000型布朗气发生器正式上市销售；
+10）2002年，布朗气（氢氧气）产品被国家经贸委和国家税务总局列为第二批环保项目目录，享受相关优惠政策；我单位被科技局批准为《国家科技成果重点推广计划》项目“氢氧气发生器”的技术依托单位。
+11）2003年3月，布朗气项目进入中国兵器科学研究院宁波分院；
+12）2003年5月，推出采用布朗气技术的新型环保医用焚烧炉；
+13）2004年3月，新一代T80型火焰抛光机上市销售；
+14）2005年2月，宁波和利氢能源科技有限公司成立，布朗气项目由和利公司进行完全市场化运作；
+15）2005年3月，公司与南京净之杰固体废物处理有限公司签订合作协议，将布朗气催化燃烧技术应用于QNK-15型控气式热裂解焚烧炉中进行生产性试验，获得突破性成果。
+16 ）2005年10月，采用专利技术的布朗气复合燃料燃烧器上市；
+17 ）2005年10月，氢氧气燃烧器荣获中国宁波科技创业大赛新秀奖；
+18 ）2006年5月，开展布朗气技术在大功率柴油发动机上的应用研究工作；
+19 ）2006年8月，布朗气燃油燃烧器系统通过宁波市科技局技术成果鉴定；
+20 ）2006年9月，公司总经理作为特邀嘉宾参加在北京人民大会堂举行的“第五届中国科学家论坛”；同年11月受邀参加第七届全国氢能学术会议，发表了学术论文并做了专题报告；
+21) 2006年12月，新一代采用全封闭一体化电解槽结构的布朗气发生器正式上市；
+22）2007年3月，T1000型布朗气发生器批量投产；同年5月，T5000型布朗气发生器试制成功；
+23）2007年5月，公司作为特约嘉宾受邀参加我国第一届氢能展；
+24）2007年6月，T600型布朗气发生器批量投产；
+25）2007年9月，与扬子江药业签订合同，布朗气发生器首次应用在制药行业；
+26 ）2007年10月，公司参加上海国际广告机械展览，获得同行业高度好评；
+27）2007年11月，参加全国药品机械展，受到水针剂制药企业的普遍关注；
+28）2008年1月，与宝山钢铁集团公司达成连铸坯切割合作意向；
+29）2008年7月，在连铸坯切割领域与上海振华焊割公司签署长期战略合作协议；
+30) 2008年9月，世界最大布朗气发生器T20000型试制成功，并通过宝山钢铁集团验收；
+31）2008年10月，通过了在大功率柴油发动机上的应用试验，并得到专家认可；
+32）2008年11月，与天津铜业合作，布朗气发生器T12500正式应用于冶金熔炼行业；
+33）2009年1月，T1500、T3000型布朗气发生器批量投产；
+34）2009年5月，产品出口英国，与英国DELICATE.ECO公司建立贸易合作关系，打开了欧洲市场；
+35）2009年10月，在汽车除碳技术上取得新突破，为产品拓展了一个全新领域；
+36）2009年11月，受国家氢能协会、标准化委员会委托，起草“氢氧发生器”国家标准；
+37）2010年9月，T系列产品通过欧盟CE认证，获得了欧盟国家的安检通行证；
+38）2011年1月，我公司先后主持起草《氢氧发生器安全技术规范》等4项国家标准的制定工作；
+39）2012年1月，产品通过交通部公路科学研究院检测认证，T1500系列产品开始应用于汽车领域；
+40）2012年4月，成为中国医药设备工程协会会员；
+41）2012年8月，我公司总工程师（研究员）成为全国氢能标准化技术委员会委员
+42）2013.5 入选中国汽车工业协会及中国汽保协会会员
+43）2014.2 布朗气分子除碳机获得北京汽保国际展览会特别推荐产品奖
+44）2015.1 三元催化养护机获得中国汽保协会技术贡献奖
+45)  2015.2 通过ISO9001-2008质量体系认证
+46)  2015.11 在中国新三板挂牌成功，股票代码：834311
+47) 2016.10 获得宁波国家高新技术企业资质；
+48) 2017.1 主持制定的国家标准《氢氧发生器安全技术要求》GB/T34539-2017正式发布实施；
+49) 2018.6 喷油嘴清洗机HD10 获得年度全国“20佳维修工具”优秀奖。
+T2K氢氧焰焊接机
+型号T2K（RMB15000）
+简介：
+T2K氢氧焰焊接机，可以焊接漆包线（引出线40平方
+以下）、铜管，2针手工石英玻璃焊接等等
+浙江和利氢能科技股份有限公司
+地址：浙江省宁波市国家高新区凌云路199号
+邮编:315103
+电话：（86）574—87902271/87902261 18157475745 传真：
+（86）574—87902271
+http://www.browngas.cn
+HHO gas is already in widely use
+Conclusion2
+
+========== [HHO2.0] PAGE 12/84 ==========
+
+HHO act as a combustion improver to make the original fuel combustion more completely and cleanly.
+HHO is widely use as Carbon Cleaner (auxiliary combustion) 
+HHO Is Widely Use in Engine Carbon Cleaning
+Video-Engine Carbon Clean
+
+========== [HHO2.0] PAGE 13/84 ==========
+
+HHO Is Widely Use As Fuel Saver
+https://www.hydromoving.com
+
+========== [HHO2.0] PAGE 14/84 ==========
+
+“十二五”（2011-2015）期第一批全国重点推广公路水路交通运输节能产品（技术）目录
+HHO Is Widely Use As Fuel Saver
+
+========== [HHO2.0] PAGE 15/84 ==========
+
+技术优缺点
+
+========== [HHO2.0] PAGE 16/84 ==========
+
+HHO提纯设想
+Liquefied 
+temperature
+Energy consuming
+H2
+-253°C
+40 MJ/kg (11.1KWh)
+N2
+-196°C
+877KJ/Kg (0.24KWh)
+O2
+-183°C
+3.6-4.5MJ/Kg (1KWh)
+HHO
+-178°C
+2MJ/Kg (0.2~1KWh)？
+LNG
+-162°C
+510KJ/Kg(0.14KWh)
+H2/D
+O2
+HHO/H2O
+H
+O
+
+========== [HHO2.0] PAGE 17/84 ==========
+
+
+
+========== [HHO2.0] PAGE 18/84 ==========
+
+正常的液化提纯需要专业部门协助，在上海
+比如法国液化空气公司这类研发企业可以帮
+助分析HHO气体标准大气压下的液化点测量，
+液化提纯后气体成分分析，安全存储条件制
+定，重新气化后理化性能测试。
+
+========== [HHO2.0] PAGE 19/84 ==========
+
+
+
+========== [HHO2.0] PAGE 20/84 ==========
+
+
+
+========== [HHO2.0] PAGE 21/84 ==========
+
+HHO Is Ideal Fuel to ICE
+Hydrogen Energy Industry New Chain
+（Safe, Low Cost, Mature, Durable, Emission Free）
+Get HHO from water electrolysis
+Electricity Power Extension
+HHO Engine
+Low Cost, Mature, Durable, Emission free 
+Liquid HHO Storage
+Use LNG infrastructure
+Finding the right hydrogen fuel for the ICE is finding the right hydrogen industry chain for the vehicle.
+（找对适合内燃机的氢燃料才能正确打通汽车用氢产业）
+Hydrogen Energy Industry Old Chain
+（Expensive, Energy Consumption, No Mature, No Durable)
+Conclusion3
+
+========== [HHO2.0] PAGE 22/84 ==========
+
+HHO-发动机
+C2基于C1成功的情况下，跑全工况，记录相关转速，输出功率，扭矩，燃料消耗量，实
+际功率与排放温度和湿度的情况。
+期待的结果是：1汽车零排放，2低成本、低温、高效率(>50%)，3燃料易取易存易加注。
+
+========== [HHO2.0] PAGE 23/84 ==========
+
+HHO液化提纯
+B2测试HHO气体标准大气压下的液
+化点，液化提纯后重新汽化测试
+理化性能。
+
+========== [HHO2.0] PAGE 24/84 ==========
+
+A1：通过高速摄像机，观察极板间HHO的生成规律。
+A2：测量HHO的产气率与极板间隔，面积，与电脉冲参数的关系，实验不
+同脉冲电环境下的产气效率（纯度）。
+HHO 实验路径清单
+B1：HHO气体摩尔称重（测量HHO液化提纯后再汽化状态）
+B2：HHO气体标准大气压下的液化点（如果实验条件许可，测试加压液化）
+B3：测试HHO气体拉曼光谱吸收（对比氢气与氧气2：1成分的光谱吸收）
+B4：测试HHO2：1摩尔比下面的压燃（压爆）参数，与安全压力储存参数
+B5：测试HHO火焰传播速度，燃烧过程压力变化与温度变化情况
+C1：纯HHO供发动机运行的调校实验（两冲程/四冲程）
+C2：基于C1成功的情况下，跑全工况，记录相关转速，输出功率，扭矩，燃
+料消耗量，实际功率与排放温度和湿度的情况。
+C3: 研究内爆现象对发动机功率提升或者获取环境能路径探索。
+C4: 根据以上假设实验成功收集信息充分的情况下，推导出HHO内燃机关键参
+数。指导下一步纯HHO发动机研发方向。
+
+========== [HHO2.0] PAGE 25/84 ==========
+
+HHO技术层次
+HHO技术层次内容
+时间轴
+汽车相关
+HHO 1.0
+含有一定HHO比例的燃烧产品：HHO助燃机，
+HHO切割机，HHO焊接机，HHO除碳机，车用
+HHO Kit用于省油增程，节能减排。
+技术现状0y
+HHO 2.0
+纯HHO液化储存成功，纯HHO发动机研制成
+功，零排放高效率内燃机在汽车等各大行业
+中推广流行起来。
+近期商机5y
+HHO 3.0
+HHO内爆并生成液态水，使气缸内产生负压，
+提取大气压势能成功，发动机效率COP>1。
+发动机可以自运行，加水汽车出现，极大变
+革社会能源使用结构。
+技术突破5+y
+远景畅想10+y
+《HHO2.0-突破技术与远景畅想》
+HHO 4.0
+水在电离（电极化）过程中，实现卡西米尔
+效应，成功提取真空零点能，超一效率电离
+水生成HHO成功，自由能大功率汽车出现，
+车成为主要能源站，承担分布式清洁能源重
+要一环。经济发展成本与环境友好性得到质
+的飞跃。
+HHO 技术商业化的四个技术层次
+
+========== [HHO2.0] PAGE 26/84 ==========
+
+
+
+========== [HHO2.0] PAGE 27/84 ==========
+
+商场如战场，知识就是情报。干扰传递，阻扰判断，
+误导方向在知识竞争领域同样存在。
+HHO知识就是在这样的环境下发展的。
+俾斯麦说: 真理只在大炮射程之内。
+知识算真理吗？
+
+========== [HHO2.0] PAGE 28/84 ==========
+
+流言Discovery
+In order to fix the H2 Fuel Cell Cost issue, Ford solution is to develop the H2-ICE:
+1997, Ford Motor Company Scientific Research Laboratory started the project to design and 
+develop a practical, low-cost hydrogen fueled internal combustion engine (H2ICE) vehicle. 
+2001, Ford introduced P2000 H2ICE uses a modified version of the Zetec 2.0-liter gasoline 
+engine. The engine's efficiency is improved by 25 to 30 percent over its gasoline counterpart.
+2006,Although Ford’s work on the new HySeries fuel-cell hybrid continues to gather 
+momentum, teams within the company have made great strides to bring hydrogen fuels to 
+internal combustion engines—specifically, the Tri-Flex fueling 6.8-liter Triton V10.
+第一个是编剧没编好，把一个课本知识编成了伪科学，演戏不错，可惜走错了舞台。
+第二个视频把福特几年才能研发成功的事情，分分钟就表演成功了，功力太强了。
+Video-流言终结者的表演
+Video-Discovery的表演
+Video-2W Solar Cell Real Effect
+
+========== [HHO2.0] PAGE 29/84 ==========
+
+网红Showtime
+而这位是演戏演得太投入了，也是把我们梦寐以求的HHO2.0的目标分分钟搞成了，要给演员加鸡腿了。
+Video-网红的表演
+
+========== [HHO2.0] PAGE 30/84 ==========
+
+Emission Free ICE Car
+H H O
+Emission Free New EV Car
+H H O
+Emission Free Hybrid Car
+
+========== [HHO2.0] PAGE 31/84 ==========
+
+Video-Scooter running on 100% HHO 
+but vehicle runs on 1:1 (HHO:LPG)
+Video-HHO维持汽车怠速
+Video-Car running on HHO 
+@80km/h
+
+========== [HHO2.0] PAGE 32/84 ==========
+
+罕见的气体内爆和骤聚特性（HHO3.0核心原理）
+将水电解生成气，体积比按1：1859倍增大，如果气体通过内爆突然变回水时，体积比按1859：1急速骤聚成
+真空负压。
+内爆如果控制在密封容器里发生，就会形成高度的真空，如果把一罐子布朗气体点燃，罐子内燃烧虽然也有爆
+炸声，但是罐子不会受任何影响！如果把罐子冷却到零下20℃，就可以获得1/1000个大气压的真空，如果把
+罐子冷却到零下60℃，就可以获得百万分之一个大气压的真空，即使只是把罐子冷却到室温，也可以获得
+1/30（97%）个大气压的真空。工业上、医疗上经常需要快速制造真空，布朗气体只需一个电火花，再加上几
+分钟的冷却，就可以制造出合适的真空，而且所需成本很低。据说，只有布朗气体才具有内爆这一特性，而直
+到1990年，这一特性及其应用才通过专利的承认和批准。
+美国西南混凝土制品公司(SCP)就此演示了布朗气体内爆的特性。他们向设有电火塞，装满水的密封容器注入
+布朗气体，水从容器底部的水管排出，流入一个大水箱。等气体完全充满容器后，用高频9000伏的电压通过
+电火塞放电，引发气体内爆，爆炸声音很小。在瞬间之内，容器内减为高度真空，水立即通过水管重新流入容
+器。由此而见，布朗气体内爆特牲的最直接应用是代替水泵来抽水。
+据SCP公司的计算，耗费1度电而产生的布朗气体，内爆后借助大气的压力可以提升340公升的水，这比用电泵
+提取同样容量的水省电几十倍。因此，SCP公司设想用一系列布朗气体真空泵抽取至一定高度后，再放水下去
+推动水轮机发电，得到的能源将大大超过生产布朗气体所耗费的电源。因为用布朗气体内爆后造成的真空抽水
+是借助了大气的压力，所以以上的设想并没有违反能量守恒定律。
+HHO Vacuum Theory
+
+========== [HHO2.0] PAGE 33/84 ==========
+
+Video-the atmosphere pressure (cool the water vapor)
+Video-HHO explosion & implosion effect
+左边视频我们可以看到大气压强可以直接把油桶给压扁掉。
+这个还不是高真空。右边视频可以清晰的看到HHO点燃后
+瞬间变成了水汽。这个直接推导出高真空。
+HHO Vacuum Theory
+
+========== [HHO2.0] PAGE 34/84 ==========
+
+4 Videos-HHO explosion-implosion effect
+Recent study shows that the HHO explosion and 
+implosion will happens in a complete burning process, 
+which will make the atmosphere pressure can to 
+generate power and will cause the COP (efficiency) of 
+the HHO engine higher than 100%, it will make the 
+engine self-running to be reality.  (need verification)
+HHO Vacuum Theory
+
+========== [HHO2.0] PAGE 35/84 ==========
+
+HHO Vacuum Theory
+More evidence shows that the HHO could be the ideal fuel 
+for 2-strokes engine, which will get more output in lower 
+engine speed and meet the emission free at same time. Or 
+get the same output in small volume engine, which the 
+Hydrogen fuel can not do it. (need verification)
+HHO  VS H2 VS Gasoline
+Gasoline
+Hydrogen
+HHO
+4 strokes -ICE
+YYY
+YYYY
+YYYYY
+2 strokes-ICE
+YY
+YYYY
+YYYYY
+Stirling Engine
+YY
+YYYY
+YYYYY
+Turbojet engine
+YY
+YYYY
+YYYYY
+2 Stroke-(from 4) HHO Vacuum Theory Animation
+
+========== [HHO2.0] PAGE 36/84 ==========
+
+Video-E-battery---HHO Gas---ICE---negative pressure---motor
+Video-喝水的小鸟
+Video- Japan another COP>1 System
+HHO Vacuum Theory
+Videos-Europe HHO Technical Seminar
+
+========== [HHO2.0] PAGE 37/84 ==========
+
+Video-HHO engine self-running
+Video-1000 watt Genset without fuel The Philippine 
+military do the verification.
+Video-2500 watt Genset without fuel The Russia
+
+========== [HHO2.0] PAGE 38/84 ==========
+
+Video- Ryushin OMASA talk about the COP>1
+
+========== [HHO2.0] PAGE 39/84 ==========
+
+我们查阅了与HHO相关的1600项
+专利，没有发现类似专利，基
+于我们自己团队的一些实验，
+我们有信心证明这个发现是真
+实靠谱的，所以我申请了这个
+技术的发明专利。Pending中。
+
+========== [HHO2.0] PAGE 40/84 ==========
+
+Emission Free New EV Car
+申请这个专利
+运用到汽车行业
+
+========== [HHO2.0] PAGE 41/84 ==========
+
+HHO4.0
+HHO的超效率，超纯电解技术，
+是整个HHO整个产业顶端技术，技术皇冠。
+可以有效解决人类能源困局。
+可以确保HHO产业长久健康发展。
+
+========== [HHO2.0] PAGE 42/84 ==========
+
+
+
+========== [HHO2.0] PAGE 43/84 ==========
+
+
+
+========== [HHO2.0] PAGE 44/84 ==========
+
+
+
+========== [HHO2.0] PAGE 45/84 ==========
+
+
+
+========== [HHO2.0] PAGE 46/84 ==========
+
+水の燃焼実験
+卤水通过过热环境，就可以充当燃料燃烧，
+就可以自循环。
+融化的盐倒入水中会发生剧烈爆炸，超高速
+影像告诉我们这个不是化学反应，对比实验也证
+明不是钠与水生成NaOH放出氢气那种情形，水
+的酸碱性也没有改变。
+Videos-Melting Salt Explore with water
+Videos- Super high temperate Salt water burning
+
+========== [HHO2.0] PAGE 47/84 ==========
+
+John S. Kanzius
+March 1, 1944 – February 18, 2009 
+American inventor, radio and TV engineer
+Water powered vehicle Level 2 (Water Fuel Car)
+Video 13.56MHZ RF Frequency make the water burn
+
+========== [HHO2.0] PAGE 48/84 ==========
+
+Petros Zografos
+800W electricity output
+In Athens, Physicist Petros
+Zografos spent 30 years 
+trying to work out how, 
+using minimal energy, he 
+could break down the 
+water molecule, H20, into 
+its component parts, 
+hydrogen and oxygen. 
+Water powered vehicle Level 2 (Water Fuel Car)
+
+========== [HHO2.0] PAGE 49/84 ==========
+
+No electricity
+With the 5V electricity
+water
+Nutrol metal
+Resonant cavity
+Circuit board
+Water powered vehicle Level 2 (Water Fuel Car)
+Video-E-battery---COP>1---HHO Gas---ICE---motor
+Water Fuel-ICE-Motorcycle
+
+========== [HHO2.0] PAGE 50/84 ==========
+
+June 2008, Japanese company Genepax
+unveiled a car which it claims runs on 
+only water and air
+Water powered vehicle Level 2 (Water Fuel Car)
+Video-Japan Water Fuel Car
+Video-Japan Water Fuel
+
+========== [HHO2.0] PAGE 51/84 ==========
+
+by James Allen
+He could drive it, but he was not allowed to sell any, or manufacture his discovery in the State of Tennessee. Why not? 
+Herman's special patented sparkplugs, similar to Stan Meyer's plugs. 
+Herman has consulted with Nasa and the US Airforce on some of our country's most important Top Secret Projects including the first US satellite in 
+space, the SR-71 Blackbird, the Stealth Fighter/Bomber and Starwars. Herman worked closely with Dr. Wernher von Braun testing hydrogen powered 
+rocket engines, and he also worked with engineers at the now famous Skunk Works, the Jet Propulsion Laboratory, JPL, and Cal Tech. While in the 
+Air Force during WWII, Herman served as a fighter pilot, a flight instructor and bombardier trainer. He was certified in and flew 23 different airplanes 
+during this period. Yes there is a car that "runs on water." The car is now parked in the research facilities at MTSU.
+
+========== [HHO2.0] PAGE 52/84 ==========
+
+http://waterpoweredcar.com/nz.html
+Denny Klein
+
+========== [HHO2.0] PAGE 53/84 ==========
+
+光加水就能开1000公里！浙江青年汽车诞生首辆水氢燃料汽车
+加水就能开车？这已经成为现实。2017年8月21日，在青年汽车集团下
+线了一辆水氢燃料汽车，据悉这也是全球第一辆商用水氢燃料汽车。
+近两年来，新能源汽车的发展突飞猛进，青年汽车发明制造的水氢燃料
+汽车，站在了新能源科技的前沿，结合青年汽车控股的南通百应能源有
+限公司生产的氢燃料电池，将是新能源汽车的一次颠覆性的革命创新。
+青年汽车集团董事长庞青年介绍说，青年水氢燃料车不用加油，也不用
+充电，只加水，续航里程超过500公里，轿车可达1000公里。“青年水氢
+燃料车的车顶安置一个蓄水箱，车内的特殊的转换设置可以将水转换成
+为氢气，再输入氢燃料反应堆，产生电能，然后驱动车载电机和引擎，
+使得汽车行驶。”  
+Backup 2
+
+========== [HHO2.0] PAGE 54/84 ==========
+
+Video-Stanley Meyer and his Car
+Video-Eye witness accounts to Meyer's invention 
+that transforms water into a source of fuel
+
+========== [HHO2.0] PAGE 55/84 ==========
+
+Video-1997 Stanley Meyer
+Video-1993 Speech Stan Meyer Exposes 
+One World Government
+Video- 1989 Stanley A Meyer –
+House Meeting in New Zealand
+Video-1992 Stanley Meyer Interview
+Video-Eye witness accounts to 
+Meyer's invention that transforms 
+water into a source of fuel
+
+========== [HHO2.0] PAGE 56/84 ==========
+
+Water powered vehicle (Water Fuel Car)
+
+========== [HHO2.0] PAGE 57/84 ==========
+
+Stanley Meyer update his innovation into a water nozzle and succeed.
+Water powered vehicle (Water Fuel Car)
+
+========== [HHO2.0] PAGE 58/84 ==========
+
+Water powered vehicle (Water Fuel Car)
+
+========== [HHO2.0] PAGE 59/84 ==========
+
+Craig Westbrook
+Water powered vehicle (Water Fuel Car)
+Video- the car have been found out 
+and run in water again in 2010
+
+========== [HHO2.0] PAGE 60/84 ==========
+
+
+
+========== [HHO2.0] PAGE 61/84 ==========
+
+效率8X
+上图是Stanley Meyer完整的一套电路：包括Variable Pulse Frequency 
+Generator（可变脉冲频率发生器）, Gated Pulse Frequency Generator（选通
+脉冲频率发生器）,Phase Lock Circuit（锁相电路）, Resonant Scanning Circuit
+（共振扫描电路）, Resonant Feedback（谐振反馈）和Cell Driver Circuit电池
+驱动电路。剩下的只需要constructed Cell（造好的腔单元）, Transformer（变
+压器）, and 12v power source（12V电源）
+
+========== [HHO2.0] PAGE 62/84 ==========
+
+效率8X
+Video- mine
+Video- mine
+
+========== [HHO2.0] PAGE 63/84 ==========
+
+
+
+========== [HHO2.0] PAGE 64/84 ==========
+
+2015年11月21日，我国著名国际关系学教授金灿荣先生在上海《双休日讲座》中，
+首次披露了中国氢弹技术的秘密。
+由于氢弹技术比较复杂，当氢弹被制造出来之后，需要大量维护人员和维护设
+备进行定期维护和保养，这就造成了氢弹的维护和后期保养费用极大，一般核武器
+的维护只需要在特制的储藏设备中恒温储藏即可，在一定时间内进行定期检查和维
+护就行了，但氢弹的维护成本极高，特别是由于聚变材料和装药的寿命很短，导致
+氢弹的储存寿命太短，成本太高，核大国已经逐渐不再发展新的氢弹，转而发展价
+格比较便宜的原子弹和中子弹。
+到2012年，俄罗斯首先销毁了自己所有的氢弹，成为无氢弹核国家，而美国则
+在2013年销毁了所有氢弹，加上英国和法国已经在上世纪就不再生产氢弹，在已知
+的五大核国家中，只有中国拥有世界上仅有——30枚可使用的氢弹（印度、以色列
+和巴基斯坦并无掌握氢弹这种高端技术，今后也不可能）。
+中国火箭军装备的氢弹最小的爆炸当量为300万吨TNT，最大的爆炸当量为1500万
+吨TNT，而这相当于广岛爆炸核弹威力的1000倍。所以目前五大流氓，只有中国保
+留氢弹战备。这是中国无法获取国外先进技术下被迫砥砺前行，闭门造车的结果。
+这也是东方文明不抛弃自己文明传统的情况下积极靠拢西方物质文明的一个最好例
+证。
+
+========== [HHO2.0] PAGE 65/84 ==========
+
+所以基于我国独步天下的核
+聚变的理论基础和实战经验，
+加上我国积极融入全世界可
+控热核聚变发电研究，非常
+有可能中国会是第一个成功
+实现可控核聚变商业发电的
+国家。并将以极大的权重与
+迫使传统发达国家与我们进
+行技术交换。
+这个情形将在未来10年左右
+出现，国之重器将支撑中国
+崛起。
+
+========== [HHO2.0] PAGE 66/84 ==========
+
+何况还有KESHE这类科学大神主动提供技术给中国，中国作为五大常之一，一直秉持负责任的大国形象在世界
+上收获了一大批高技术信徒，比老大的开抢模式效果还要好。
+
+========== [HHO2.0] PAGE 67/84 ==========
+
+东方思维对纳米，甘斯，自由等离子体浅析
+西方科技对keshe纳米技术的诠释
+Keshe学习团队地球分布图（与公民科学素养成正相关性）
+
+========== [HHO2.0] PAGE 68/84 ==========
+
+
+
+========== [HHO2.0] PAGE 69/84 ==========
+
+
+
+========== [HHO2.0] PAGE 70/84 ==========
+
+
+
+========== [HHO2.0] PAGE 71/84 ==========
+
+The car can be suspended 
+and the airplane no longer 
+need the wings.
+Huge impact to the Automotive Industry
+
+========== [HHO2.0] PAGE 72/84 ==========
+
+A Stable Plasma Ring Has Been Created in Open Air 
+For the First Time Ever
+This could be a radical new way to store energy.
+Videos-stable ring of plasma in water
+"We were told by some colleagues this wasn't even 
+possible. But we can create a stable ring and 
+maintain it for as long as we want, no vacuum or 
+magnetic field or anything," says co-author Francisco 
+Pereira of the Marine Technology Research Institute in 
+Italy, a visiting scholar at Caltech.
+
+========== [HHO2.0] PAGE 73/84 ==========
+
+
+
+========== [HHO2.0] PAGE 74/84 ==========
+
+等离子电解水简介-效率80X
+日本应用物理学会
+等离子电解水实验介绍
+效率80X
+等离子电解水技术全文
+
+========== [HHO2.0] PAGE 75/84 ==========
+
+THEWATERENERGY1
+效率80X
+我近五年时间一直跟踪关注一个欧洲的
+技术团队，他们的等离子分解水非常成
+功，且他们的团队有改汽车ECU的能力，
+自然他们用水驱动汽车是成功的。同时
+他们还开发了其他产品，比如离网（不
+插电）取暖器。
+Videos-HHO drive an engine
+Videos-Plasma 1
+Videos-Plasma 2
+Videos-workshop & equipment
+
+========== [HHO2.0] PAGE 76/84 ==========
+
+THEWATERENERGY1
+效率80X
+30V*0.2A=6W
+CELL DESIGN SINCE 2008 BY THEWATERENERGY1 .... 
+ 
+Published on May 5, 2011 
+CHEVY RUN ON HHO TEST 1.2.(THIS CAR RUN ON WATER) 
+BEFORE COMMENT CLIC ON MY CHANNEL IN THE UPPER RICHT CORNER THEWATERENERGY1 TO MY OTHER VIDEOS WHIT 
+THE FLAMMABLE TEST 
+Published on May 24, 2011 
+MINICAR RUNS FOR 100% ON WATER HHO, NO GASOLINE; THIS CAR RUNS ON WATER .. !!! 
+THE FIRST MICROCAR IN THE NETHERLANDS WHICH CAN DRIVE ON WAERSTREAM / WATERGAS, !!! 
+SINS 2008 WE ARE THAT DEVELOPING A SYSTEM, TO DEVELOP .... THAT MAY MAKE IT POSSIBLE; 
+YOUR FILES AUTO, DIESEL, PETROL, LPG, 
+DRIVING ON HYDROGEN TELETHES, IN THE MIDDLE OF A LOT OF TESTING 
+INDICATING THAT IT IS POSSIBLE TO LET YOUR CURRENT BURNING ENGINE DRIVE ON HYDROGEN / WATER GAS ... 
+15-04-2013 
+AS ALL IS CONFINED, YOUR CURRENT CAR IS EASILY EQUIPPED WITH A LIQUID SYSTEM, A SO NAMED G3 SYSTEM, 
+IF YOU TAKE THIS SYSTEM AS AN EXAMPLE, IT MUST BE CLEAR THAT IT IS A MATTER OF TIME !!!! 
+EXPECTED, THIS NEW SYSTEM WILL NOT BE LONGER EXPANDED AS THE CURRENT G3 LPG SYSTEM, 
+FOR MORE INFORMATION YOU CAN MAIL WITH US, 
+Published on Oct 11, 2011 
+RESONATING PLASMA MAGNETIC FIELDS,. WATER GASES FUEL CELL 
+CELL DESIGN BY THEWATERENERGY1 ....SINCE 2008,...!!!!! RESONATING PLASMA MAGNETICS FIELDS, FUEL CELLS, THIS CELL 
+DESIGN, BY THEWATERERGY 1. E.F THIS CELL ALOUD THE RESONATING MAGNETIC FIELDS, .... IN PLASMA,..WATER,...OR ANY 
+SUBATOMIC MATTER TO INCREASE AND RELEASE ANY QUANTITY OR SUBEXOTIC EXOTIC LEAVES OF FREE ENERGY,AT THE 
+ZERO PLANE BETWEEN THE ALL BIPOLAR MAGNETIC FIELDS,..... ZERO PLANE ENERGY !!! 
+Published on Nov 20, 2011 
+THE RESONANT CAVITY TUBE IN ACTION....60 LPM HHO CAVITYCELL IS COMMING..!!! 
+Thanks for choosing,Our Tube Channel.THEWATERENERGY1. Here You see Thewaterenergy1 WFC Single Tube in Resonance Produce a 
+Great a quantity of Hydrogen H2O Ondemand, At 75v. 0.90 Amps, This Cell is driven by our Own design Circuit driver,and Transformer...!!! 
+We still Testing Those Circuit & drivers,As soon This circuit & Transformer is, Available we will send you a mail and keep you informed About 
+the Progress, Leave your email adres at : ThewaterEnergy1@Hotmail.nl Do'nt Forget to Subscribe at this Channel to Keep Informed. Thanks 
+for Wachting, Be aware that commenting is moderated; simple rules - stay on topic, be nice to one another, and keep the language clean and 
+we will approve your comments. Title: Device for the production of H2 and O2 or HHO gas DESCRIPTION Patent Title: Device for the 
+production of H2 and O2 or HHO gas DESCRIPTION 
+Published on Mar 8, 2012 
+A R.E.M.F PowerUnit In development 1.0-A R-electromag-vortexes field,particles at resonance.!! 
+The R E M F Unit,In Development By TheWaterEnergy1.....!! Actually you're looking at a zero energy Field/square, Which is right in front of 
+you at this moment, ..!! ElectroMagneticsFields In Resonance!!! Subatomic Energy !,At a plasma stage,...Right at the centre of Two 
+Oscillating electro plasma magnetic fields... Bowl Shaped ... At this central point / field we find,one between two energy fields,...Rotate in the 
+opposite direction and Fluctuating back and forward...gaining energy and releasing energy in the from of heat/ Emitting electrons/electrons 
+and atoms gaining more and more energy,during their circular path between those resonating electro magnetic fields. Liberated electrons are 
+collected as useful Energy!! Why Free ? Because our energy input was in this setup as about plus 0.6A at 12vdc, minus output 15A at 
+30.000v p 0.5 cubic inches...!!! Now we can develop your own Independent R.e.m.f Powerunit !! Generating electricity and heat form your 
+own: Macro Plasma Magnetics reactor. We name it;A R.E.M.F Powerunit. This Unit will work on base of H2O and solar light!! Non polluting 
+harmful,Renewable energy sources!! In able to understand this;https://www.youtube.com/watch?v=UNgEL... A compact unit not larger than a 
+common heating unit. 900x400x300mm Schoon energie zonder emissie,... Deze R.e.m.f. unit voorziet uw woning/bedrijf van zowel elctriciteit 
+Als van warmte,na het uittesten van het door ons ontwikkeld Plasma Magnetische Reactor. Deze reactor werk op basis van H2O en zonne 
+energy die worden omgezet In brandstof in een gesloten systeem,dus geen emissies/uitstoot. Deze apparaten zullen in de nabije toekomst 
+uw woning en bedrijven van Schone energie gaan voorzien. Uw eigen energie centrale in huis !! Deze energie centale zal niet groter zijn dan 
+uw huidige CV ketel. Techniek: het R.E.M.V.(Resonantie Electro magnetisch Veld) Vind plaats in een geheel afgestolte kamer waarbij geen 
+stralling Vrij komen.het is een proces tussen de wanden van deze kamer. The Base, with the aim to develop The R.E.M.F a energy 
+generator Cell, By Thewaterenergy1,Dhr J.E.A.F. Following In The Near Future,By Transport Object,Using The Same Basic Principles As 
+Propulsion,Steering & Directional System,... 
+Published on Jun 8, 2013 
+100% ON HYDROGEN ONDEMAND CHEVY,.NEW ECU, INJECTERS AND CAVITY ARRAY 
+With this Computer you are to program your engine in the right way, for lesser fuel. cleaner exhaust,lesser Co2 ,Lesser NOx, Not injecting 
+more fuel than needed, Not injecting fuel during engine breacking / during slow down, ... and much more, Your Own Independent Car Engine 
+Computer, Please mail At Thewaterenergy1@hotmail.nl For all information,developments ,Corporation .....And Where To Buy....!!! This are 
+the first steps,to be able to run any vehicle for 100% on water, Hydrogen on Demand....!!! HHO....On Demand !!! At this stage we are testing 
+The new ECU , Water fuel Injector plugs ,and our new Resonant Cavity Array ....!!!! Isolating the adams,pluck off the electrons inject them 
+with photons,link them together, And Now they must start to release all that energy safely safely, without flashBack ignition, With Thanks to 
+all my friends how works very close to achieve the best we can,...!!! 
+Videos-Plasma in water
+Videos-Nearly 0 energy produce the HHO
+
+========== [HHO2.0] PAGE 77/84 ==========
+
+Off-grid Home heating unit plus
+Videos-Car powered by the water
+效率80X
+
+========== [HHO2.0] PAGE 78/84 ==========
+
+THEWATERENERGY1
+效率80X
+Videos- off grid heater
+Videos- 2800Kw H-H-O Burner test..!!!,
+
+========== [HHO2.0] PAGE 79/84 ==========
+
+HHO Is Ideal Fuel to ICE
+Hydrogen Energy Industry New Chain
+（Safe, Low Cost, Mature, Durable, Emission Free）
+Get HHO from water electrolysis
+Electricity Power Extension
+HHO Engine
+Low Cost, Mature, Durable, Emission free 
+Liquid HHO Storage
+Use LNG infrastructure
+Finding the right hydrogen fuel for the ICE is finding the right hydrogen industry chain for the vehicle.
+（找对适合内燃机的氢燃料才能正确打通汽车用氢产业）
+Hydrogen Energy Industry Old Chain
+（Expensive, Energy Consumption, No Mature, No Durable)
+
+========== [HHO2.0] PAGE 80/84 ==========
+
+A1：通过高速摄像机，观察极板间HHO的生成规律。
+A2：测量HHO的产气率与极板间隔，面积，与电脉冲参数的关系，实验不
+同脉冲电环境下的产气效率。
+HHO 实验路径清单
+B1：HHO气体摩尔称重（测量HHO的摩尔重量）
+B2：HHO气体标准大气压下的液化点（如果实验条件许可，测试加压液化）
+B3：测试HHO气体拉曼光谱吸收（对比氢气与氧气2：1成分的光谱吸收）
+B4：测试HHO与轻氧气2：1摩尔比下面的压燃参数和安全压力储存参数
+B5：测试HHO火焰传播速度，燃烧过程压力变化与温度变化情况
+C1：纯HHO供发动机运行的调校实验（两冲程/四冲程）
+C2：基于C1成功的情况下，跑全工况，记录相关转速，输出功率，扭矩，燃
+料消耗量，实际功率与排放温度和湿度的情况。
+C3: 研究内爆现象对发动机功率提升或者获取环境能路径探索。
+C4: 根据以上假设实验成功收集信息充分的情况下，推导出HHO内燃机关键参
+数。指导下一步纯HHO发动机研发方向。
+
+========== [HHO2.0] PAGE 81/84 ==========
+
+HHO-发动机
+C2基于C1成功的情况下，跑全工况，记录相关转速，输出功率，扭矩，燃料消耗量，实
+际功率与排放温度和湿度的情况。
+期待的结果是：1汽车零排放，2低成本、低温、高效率(>50%)，3燃料易取易存易加注。
+
+========== [HHO2.0] PAGE 82/84 ==========
+
+HHO液化提纯
+B2测试HHO气体标准大气压下的液
+化点，液化提纯后重新汽化测试
+理化性能。
+
+========== [HHO2.0] PAGE 83/84 ==========
+
+HHO技术层次
+HHO技术层次内容
+时间轴
+汽车相关
+HHO 1.0
+含有一定HHO比例的燃烧产品：HHO助燃机，
+HHO切割机，HHO焊接机，HHO除碳机，车用
+HHO Kit用于省油增程，节能减排。
+技术现状0y
+HHO 2.0
+纯HHO液化储存成功，纯HHO发动机研制成
+功，零排放高效率内燃机在汽车等各大行业
+中推广流行起来。
+近期商机5y
+HHO 3.0
+HHO内爆并生成液态水，使气缸内产生负压，
+提取大气压势能成功，发动机效率COP>1。
+发动机可以自运行，加水汽车出现，极大变
+革社会能源使用结构。
+技术突破5+y
+远景畅想10+y
+HHO 4.0
+水在电离（电极化）过程中，实现卡西米尔
+效应，成功提取真空零点能，超一效率电离
+水生成HHO成功，自由能大功率汽车出现，
+车成为主要能源站，承担分布式清洁能源重
+要一环。经济发展成本与环境友好性得到质
+的飞跃。
+HHO 技术商业化的四个技术层次
+
+========== [HHO2.0] PAGE 84/84 ==========
+
+1，HHO Kit，节油30-40%，减排70-90%，某宝有卖，但未普及开，在“十
+二五”期第一批全国重点推广公路水路交通运输节能产品目录里面，OEM厂
+可以介入这一块，后装市场或者前装市场都可以。非汽车界可以在切割行业，
+焊接行业，节能减排行业，抗灾救险，医疗美容行业大展拳脚，这些行业现
+在正是这个技术主要推广使用范围。
+HHO 技术商业化的四个技术层次
+Liquefied 
+temperature
+Energy 
+consuming
+HHO
+-178°C
+0.5~1KWh*
+LNG
+-162°C
+510KJ/Kg (0.14KWh)
+2，HHO Engine，基于HHO液化确实如天然气一般方便，高效，
+安全，同时纯HHO发动机效率达到40-80%开发成功。低成本零
+排放内燃机车PK掉燃料电池车PK掉化学电池电动车情形出现，
+同时运载火箭大尺度瘦身，发射成本极大降低。这个是近期
+非常有可能达到的状况。独角兽爆发之地。
+Emission Free New EV Car
+Emission Free ICE Car
+H H O
+3，HHO Engine，基于HHO发动机内爆负压现象出现，使提取
+大气压势能成功，HHO发动机效率80-100%,假水燃料发动机
+（假永动机）出现，汽车只加注水运行，燃料加注站可以脱
+网依靠气压势能生产并液化HHO，供小区，学校，乡村使用。
+自由能开始真正出现在大众生活中。能源成本将极大降低。
+Emission Free New EV Car
+4，HHO Engine效率超100%,同时HHO电解制成过程成功提取零
+点能，使效率也超100%，假水燃料发动机（假永动机）大功率
+作业，脱网独立零排放汽车大功率发电让汽车成为主要能源站，
+承担分布式清洁能源重要一环。人类彻底摆脱石化经济束缚，
+经济发展成本与环境友好性得到质的飞跃。
+Emission Free New EV Car
+Emission Free ICE Car
+H H O
+当大多数人不相信的时候，你已经明白了，这就是机
+会。但你知道了却不行动，机会就会找别人。

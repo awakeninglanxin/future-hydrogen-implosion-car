@@ -1,0 +1,1278 @@
+
+
+========== [HHO1.0] PAGE 1/51 ==========
+
+Allen-Xiong
+Smart Engine For Smart Vehicle To Smart World
+HHO1.0-现有技术和眼前商机
+
+========== [HHO1.0] PAGE 2/51 ==========
+
+1885Gasoline car
+1933Diesel car
+1806HHO-ICE
+1870Gasoline-ICE
+ICE
+FC
+1834
+1881
+1899
+1958
+FCV
+1914
+BEV
+1996-1999
+2007
+-
+1832-1839
+GM EV1(NiMH)
+Tesla
+Ford
+Robert Anderson
+2006
+2001
+1807HHO car
+1893Diesel-ICE
+2006
+Ford, BMW, Benz, Mazda
+H2ICE
+Ford
+Ford FFV
+1988-1998
+1839
+1996
+Francois Isaac 
+2020
+BMW
+ICEV
+Disposable 
+Battery
+Lead-Acid 
+rechargeable
+Nickel Cadmium 
+rechargeable
+Alkaline 
+Zebra or Sodium 
+Li-ion
+(A123)
+The power system is roughly classified into three categories, ICEV,BEV, FCV, and the last two seems to be the 
+future direction. My study shows the HHO-ICE will beat the BEV & FCV.
+HHO-ICE
+
+========== [HHO1.0] PAGE 3/51 ==========
+
+January 28th 2013, Ford, Daimler, and Renault-Nissan announced they would pool research into fuel cell 
+technology. In their joint press release, they would produce fuel cell vehicle in 2017.
+June 14th 2018, Ford and Daimler planning to end their fuel cell joint venture. Ford will take fuel cell stack 
+development in-house, as well as leverage the supply base, and close Automotive Fuel Cell Cooperation 
+Corp. by summer 2018.
+In 2017, former chief technology officer Raj Nair said fuel cell technology is developing in a very disjointed way. 
+We are not clear the story behind it
+https://ca.reuters.com/article/technologyNews/idCAKBN1J92YE-OCATC
+https://www.cnet.com/roadshow/news/ford-mercedes-benz-and-nissan-target-2017-for-fuel-cell-vehicles/
+https://www.carscoops.com/2018/06/ford-daimler-planning-end-fuel-cell-joint-venture/
+
+========== [HHO1.0] PAGE 4/51 ==========
+
+Hydrogen – as the Fuel of the Future, which have advantages over battery-powered cars: they 
+offer shorter refill times and longer driving ranges.
+We acknowledges stating that the vehicles could be “an important long-term solution for 
+improving energy security and diversifying our energy sources.” We has been working on the 
+technology since 1997.
+We acknowledged there are hurdles to overcome: the price of fuel cell car and a lack of 
+infrastructure to support the cars.
+This presentation will show a chance to overcome 
+these two hurdles.
+
+========== [HHO1.0] PAGE 5/51 ==========
+
+In order to fix the H2 Fuel Cell Cost issue, Ford solution is to develop the H2-ICE:
+1997, Ford Motor Company Scientific Research Laboratory started the project to design and 
+develop a practical, low-cost hydrogen fueled internal combustion engine (H2ICE) vehicle. 
+2001, Ford introduced P2000 H2ICE uses a modified version of the Zetec 2.0-liter gasoline 
+engine. The engine's efficiency is improved by 25 to 30 percent over its gasoline 
+counterpart.
+2006,Although Ford’s work on the new HySeries fuel-cell hybrid continues to gather 
+momentum, teams within the company have made great strides to bring hydrogen fuels to 
+internal combustion engines—specifically, the Tri-Flex fueling 6.8-liter Triton V10.
+To run solely on hydrogen, engineers reinforced pistons, connecting rods and valve 
+seats, but the biggest change is the addition of a supercharger. Running at an 18- to 20-
+psi boost, the supercharger helps the motor put out 235 hp at 4000 rpm and 310 lb-ft at 
+3000 rpm. These figs. are meager compared with a naturally aspirated gas V10 (305 hp at 
+4250 rpm, 410 lb-ft at 3250 rpm).
+
+========== [HHO1.0] PAGE 6/51 ==========
+
+Same things happened in Europe.
+2007, BMW produced about 100 H2 ICE vehicles named BMW 
+Hydrogen 7, it has been modified to also allow for the combustion of 
+hydrogen as well as gasoline. 
+Some agency figure out that the efficiency of the H2 ICE too low.
+1.
+The efficiency the car had on hydrogen is about 5.6 mpg (50 
+l/100km) on average, mostly due to the difference in energy density 
+between petrol and hydrogen. So the H2 Fuel Cell Vehicle have the 
+same issue.
+2.
+The H2-ICE system efficiency is about the 40~47%, which is lower 
+than the Fuel Cell of 60%(peak). 
+the V12 hydrogen engine achieves nevertheless a power output of 191.2 kW (256-hp) 
+but same petrol engine can meet 438-hp (H2 + O2 + N2 → H2O + Nox, in order to reduce 
+the Nox, typically hydrogen engine are desgined to use about thice as much air as 
+theoretically required for comple cobustion. At this air/fuel ratio, the formation of Nox is 
+reduce to near zero. Unfortunately, this also reduces the output to about half that of a 
+similarly sized gasoline engine. That’s why Ford also use the supercharger but is still less 
+power output.
+3.
+
+========== [HHO1.0] PAGE 7/51 ==========
+
+Crack The Liquid Ammonia, Methanol 
+Conversion From Natural Gas & Petrol
+Make From The Coal 
+Get Hydrogen From Water Electrolysis
+High Pressure Storage
+Liquid Hydrogen Storage
+Solid Metal Storage
+Organic Liquid Storage
+Traditional Industrial 
+Hydrogen Consumption
+Hydrogen Fuel Cell 
+( Car, Satellite, Cogeneration )
+Hydrogen Energy Industry Chain
+High Cost Issue
+Patent issue
+BMW , Benz and Ford made H2-ICE to fix the price issue 
+already, but it won’t impact the H2 infrastructure as 
+storage and transportation 
+Solution
+Hydrogen seepage
+Energy consumption & gas escape 
+Issue
+R&D in process
+R&D in process
+Issue
+Emision not free (Nox is very few)
+H2-ICE Ver2.0
+Safe storage and transportation
+Emission Free
+
+========== [HHO1.0] PAGE 8/51 ==========
+
+For the ICE, The fuel determines the characteristics of the 
+ICE, search for the ideal fuel becomes the ultimate goal of 
+the development of the ICE.
+Hydrogen is considered to be is the 
+ideal fuel to the ICE.
+My study shows the ideal fuel to 
+the ICE should be the HHO.
+HHO  VS H2
+
+========== [HHO1.0] PAGE 9/51 ==========
+
+What is HHO?
+Video-How to get the HHO
+Video-interesting character of HHO
+Unlike the conventional electrolysis, there are two 
+necessary condition to get the HHO producing is:
+1.
+the We need to keep the electrodes very close. 
+Smaller than 1mm is better. 
+2. We need to use ‘pules electrolysis’ equipment.
+H2+O2 VS HHO
+
+========== [HHO1.0] PAGE 10/51 ==========
+
+What is HHO?
+The water electrolysis to H2 and O2
+H2
+O2
+2H2O(l)⟶2H2(g)+O2(g)
+Definition 1 （https://en.wikipedia.org/wiki/Oxyhydrogen#HHO_gas）
+Wikipedia explain that the HHO (oxyhydrogen or the Brown’s gas) is a 
+mixture with  2:1 molar ration of H2 and O2 gases, the same proportion 
+as in the water. It is a mixture gases (2H2 + 1O2).
+The water electrolysis to HHO
+HHO
+2H2O(l)⟶2HHO(g)
+Definition 2 （http://tophhogascar.com/what-is-hho-gas/）
+HHO gas is a newer form of gas that is created by using ‘pules electrolysis’ equipment. Being made 
+up of magnecules that contain hydrogen gas, HHO is connected to lone atoms that are oxygen 
+atoms, by “magnecular bonds”.
+H2+O2 VS HHO
+Which one is correct?
+
+========== [HHO1.0] PAGE 11/51 ==========
+
+The video shows that HHO explosion speed higher than the mixture gas of oxy-
+hydrogen (2H2+O2), and the mixture gas (2H2+O2) higher than the hydrogen in 
+the atmosphere, and hydrogen higher than the LPG (petrol assume). 
+What is HHO?
+The HHO explosion speed is significantly 
+higher than the mixture gas of 2:1 ratio 
+of H2 & O2, HHO should not be the 
+mixture of 2H2 + O2.
+This is an analogy, not an exact description, 
+Gasoline+Air
+H2+Air
+2H2+O2
+HHO
+3X
+12X
+18X
+X
+The Explosion Speed
+Video-H2 Explosion
+Video-2H2+O2 Explosion
+Video-HHO Explosion
+Video-LPG Explosion
+
+========== [HHO1.0] PAGE 12/51 ==========
+
+The hydrogen combustion temperature is related to the oxygen concentration 
+and the hydrogen flow rate. 
+The maximum flame speed is the equivalent combustion in air: 2.65m/s
+The equivalent flame temperature in air: 1430 ℃
+The maximum flame speed in the equivalent combustion in oxygen: 14.36m/s
+The equivalent flame temperature in oxygen: 2830℃
+What is HHO?
+The temperature of the hydrogen flame in the 
+air or in the oxygen is much lower than the 
+HHO flame temperature. HHO gas is not a 
+mixture of H2 and O2 gases.
+Acetylene
+Hydrogen
+在几秒钟内将沸点超过摄氏5500度的钨金汽化，真可谓“无坚不摧
+。
+
+========== [HHO1.0] PAGE 13/51 ==========
+
+11.3g/mol
+The Molecular weight of the HHO gas is 
+different from the mixture of  2/3 H2 and 1/3 
+O2. It shows that the HHO gas is not a 
+mixture of 2H2 + O2.
+HHO  VS H2 + O2
+2/3 H2 + 1/3 O2 =(2 + 2 + 32)/3 = 11.3g/mol.
+What is HHO?
+12.3 g/mol
+On June 30, 2003, Adsorption Research 
+Laboratory of Dublin, Ohi, measured the specific 
+weight of the HHO gas and released a signed 
+statement on the resulting value of 12.3 g/mol. 
+The same laboratory repeated the measurement 
+on a different sample of the gas and confirmed the 
+result. The released value of 12.3 g/mol is 
+anomalous. In fact, the conventional separation of 
+water into H2 and O2 produces a mixture of  2/3 
+H2 and 1/3 O2, which value should be 11.3g/mol.
+
+========== [HHO1.0] PAGE 14/51 ==========
+
+The IR signature of the HHO gas made by the 
+PdMA laboratory in Tampa, Florida shows it 
+differ from the IR scans of H2 and O2, this 
+scan shows that the HHO gas is not a 
+mixture of H2 and O2 gases.
+What is HHO?
+oxygen
+HHO
+H2O
+
+========== [HHO1.0] PAGE 15/51 ==========
+
+The Southwest Research Institute have a 
+research report about this unknown gas and 
+infer the molecular structure of HHO should 
+be the left fig. shows. HHO gas is not a 
+mixture of H2 and O2 gases.
+What is HHO?
+H2O
+HHO
+
+========== [HHO1.0] PAGE 16/51 ==========
+
+Liquefied 
+temperature
+Energy consuming
+H2
+-253°C
+40 MJ/kg (11.1KWh)
+N2
+-196°C
+877KJ/Kg
+(0.24KWh)
+O2
+-183°C
+3.6-4.5MJ/Kg
+(1KWh)
+HHO/MHHO? -178°C
+2MJ/Kg (0.2~1KWh)？
+LNG
+-162°C
+510KJ/Kg
+(0.14KWh)
+What is HHO?
+The Liquefied temperature and the color of the 
+MHHO gas researched by the TOKYO 
+METROPOLITAN UNIVERSITY shows it differ from 
+the liquefied temperature of H2 and O2, HHO gas 
+is not a mixture of H2 and O2 gases.
+
+========== [HHO1.0] PAGE 17/51 ==========
+
+What is HHO?
+The liquid MHHO density researched by the 
+TOKYO METROPOLITAN UNIVERSITY shows it 
+differ from the liquid density of 2/3H2 and 1/3O2, 
+HHO gas is not a mixture of H2 and O2 gases.
+Oxygen 
+Liquid
+Hydroge
+n Liquid
+Hydrogen Gas
+MHHO Liquid
+L-O2-
+196°C
+L-H2-
+253°C
+35MP
+a
+70MP
+a
+L-MHHO-178°C
+Hydrog
+en 
+Density
+1410kg/
+m3
+70.8kg/
+m3
+15kg/
+m3
+30kg/
+m3
+167kg/m3 (converted to
+Hydrogen content)？
+1503kg/m3 (Liquid MHHO 
+Density)？
+2/3 LH2+1/3 LO2 
+=517.2kg/m3
+The liquid MHHO contains 2.5 times hydrogen 
+compare to the liquid hydrogen in volume.
+
+========== [HHO1.0] PAGE 18/51 ==========
+
+What is HHO?
+HHO gas is ideal fuel to ICE
+HHO is a poorly defined term, it is not exactly (2H2+O2)
+HHO gas is already in widely use
+Conclusion 1
+
+========== [HHO1.0] PAGE 19/51 ==========
+
+HHO
+H2O
+What is HHO?
+学术界
+Conclusion 1
+2H2O(l)⟶2H2(g)+O2(g)
+研发界
+产业界
+HHO is a poorly defined term, it is not exactly (2H2+O2)
+吃瓜群众
+权
+威
+派
+玄
+真
+派
+
+========== [HHO1.0] PAGE 20/51 ==========
+
+HHO Is Widely Use In Metal Cutting
+The HHO flame temperature is extremely high with low 
+heat radiation, the combustion is pollution free, smoke 
+free, which is much better than other fuel gas, that why 
+the HHO gas is widely used in Metal Cutting.
+Hydrogen flame temperature in air is only 2100 degree Celsius
+Hydrogen flame temperature in Oxygen is only 2800 degree Celsius
+HHO
+Acetylene
+Video-Metal Cutting
+Video-Metal Cutting
+HHO Flame Underwater
+HHO Flame Underwater Cutting
+在几秒钟内将熔点超过摄氏6000度的钨金烧化，
+切割别的材料真是削铁如泥（这个不是文学比喻）。
+
+========== [HHO1.0] PAGE 21/51 ==========
+
+HHO Is Widely Use In Soldering
+•
+EM Manufacturing Industry
+•
+Jewelry Manufacturing Industry
+The HHO flame temperature is extremely high with low 
+heat radiation, the combustion is pollution free, smoke 
+free, which is much better than other fuel gas, that why the 
+HHO gas is widely used in soldering place.
+•
+Non-ferrous metal Welding
+•
+Advertising Industry
+•
+Medical Device Industry
+•
+Wax pattern soldering
+Zirconia hot pad is being welded to the steam pipe by HHO flame. This is an 
+amazing property of the HHO's flame to weld firmly different materials 
+together, like steel or glass to ceramic, etc., which no other gas or arc 
+welder can do. (the hydrogen gas can not do this)
+
+========== [HHO1.0] PAGE 22/51 ==========
+
+Incineration plants have prompted health concerns and Japan implemented 
+extremely strict laws in the early 2000s to alleviate fears.
+All of the small size incinerators which were not able to burn at high 
+temperature were shut down as they generated dioxins under 800°C (二恶英）.
+30+ big  HHO gas 
+generator support 
+the burning in Japan 
+incineration plant
+HHO Is Widely Use In Incineration Plant
+
+========== [HHO1.0] PAGE 23/51 ==========
+
+HHO Is Widely Use by Boilers and Electric Generator
+With high flame temperature 
+and faster flame propagation 
+speed, it can be the ideal fuel 
+for the mobile incineration 
+station, and improve the 
+burning in the Boiler and in 
+the electric generator.
+HHO Boiler
+Mobile 
+Incineration 
+station
+As A Combustion Improver 
+HHO Stove
+Video-HHO Infrared tube
+
+========== [HHO1.0] PAGE 24/51 ==========
+
+HHO As A Fuel Saver (auxiliary combustion) 
+Video-Independent Agency Report
+40% fuel efficiency improvement
+HHO Is Widely Use As Fuel Saver
+HHO act as a combustion improver to make the original fuel combustion more completely and cleanly.
+Video-EPOCH HHO KIT
+Dr Soib (seated) explaining the HHO 
+Generator. With him is USM vice-
+chancellor Prof Datuk Dr Omar Osman. 
+Japanese customer use HHO kit
+Taiwan Customer use HHO Kit 
+American customer use HHO Kit
+
+========== [HHO1.0] PAGE 25/51 ==========
+
+“十二五（2011-2015）”期第一批全国重点推广公路水路交通运输节能产品（技术）目录
+
+========== [HHO1.0] PAGE 26/51 ==========
+
+HHO Is Widely Use As Fuel Saver
+https://www.hydromoving.com
+
+========== [HHO1.0] PAGE 27/51 ==========
+
+HHO act as a combustion improver to make the original fuel combustion more completely and cleanly.
+HHO is widely use as Carbon Cleaner (auxiliary combustion) 
+HHO Is Widely Use in Engine Carbon Cleaning
+Video-Engine Carbon Clean
+
+========== [HHO1.0] PAGE 28/51 ==========
+
+1）1989年，澳大利亚科学家Yull Brown教授应中国北方工业公司(NORINCO)邀请来中国兵器工业第52研究所考察和技术交流；
+2）1990年2月，中国兵器工业第52研究所布朗气项目组成立；
+3）1991年5月，BN系列布朗气样机研制成功,并于第二年获国家级新产品奖；
+4）1994年12月，布朗气发生器通过内蒙古自治区科学技术成果鉴定；
+5 ）1995年，H1200布朗气发生器获国家级新产品奖、中国专利新技术产品博览会金奖；
+6 ）1996年，韩国B.E.S.T COREA CO.,LTD 公司金相南主席来公司考察；
+7）1998年12月，布朗气发生器通过GB/T19001-1994标准质量体系认证；
+8 ）1999年11月，H250B白金熔焊机获国家重点新产品奖（发证机关：中华人民共和国科学技术部、国家税务总局、中华人民共和国对外贸易经济合作部、国家质量技术监督局、国际环境保护总局）；
+9）2000年，布朗气项目被列为国家火炬计划项目；同年10月H3000型布朗气发生器正式上市销售；
+10）2002年，布朗气（氢氧气）产品被国家经贸委和国家税务总局列为第二批环保项目目录，享受相关优惠政策；我单位被科技局批准为《国家科技成果重点推广计划》项目“氢氧气发生器”的技术依托单位。
+11）2003年3月，布朗气项目进入中国兵器科学研究院宁波分院；
+12）2003年5月，推出采用布朗气技术的新型环保医用焚烧炉；
+13）2004年3月，新一代T80型火焰抛光机上市销售；
+14）2005年2月，宁波和利氢能源科技有限公司成立，布朗气项目由和利公司进行完全市场化运作；
+15）2005年3月，公司与南京净之杰固体废物处理有限公司签订合作协议，将布朗气催化燃烧技术应用于QNK-15型控气式热裂解焚烧炉中进行生产性试验，获得突破性成果。
+16 ）2005年10月，采用专利技术的布朗气复合燃料燃烧器上市；
+17 ）2005年10月，氢氧气燃烧器荣获中国宁波科技创业大赛新秀奖；
+18 ）2006年5月，开展布朗气技术在大功率柴油发动机上的应用研究工作；
+19 ）2006年8月，布朗气燃油燃烧器系统通过宁波市科技局技术成果鉴定；
+20 ）2006年9月，公司总经理作为特邀嘉宾参加在北京人民大会堂举行的“第五届中国科学家论坛”；同年11月受邀参加第七届全国氢能学术会议，发表了学术论文并做了专题报告；
+21) 2006年12月，新一代采用全封闭一体化电解槽结构的布朗气发生器正式上市；
+22）2007年3月，T1000型布朗气发生器批量投产；同年5月，T5000型布朗气发生器试制成功；
+23）2007年5月，公司作为特约嘉宾受邀参加我国第一届氢能展；
+24）2007年6月，T600型布朗气发生器批量投产；
+25）2007年9月，与扬子江药业签订合同，布朗气发生器首次应用在制药行业；
+26 ）2007年10月，公司参加上海国际广告机械展览，获得同行业高度好评；
+27）2007年11月，参加全国药品机械展，受到水针剂制药企业的普遍关注；
+28）2008年1月，与宝山钢铁集团公司达成连铸坯切割合作意向；
+29）2008年7月，在连铸坯切割领域与上海振华焊割公司签署长期战略合作协议；
+30) 2008年9月，世界最大布朗气发生器T20000型试制成功，并通过宝山钢铁集团验收；
+31）2008年10月，通过了在大功率柴油发动机上的应用试验，并得到专家认可；
+32）2008年11月，与天津铜业合作，布朗气发生器T12500正式应用于冶金熔炼行业；
+33）2009年1月，T1500、T3000型布朗气发生器批量投产；
+34）2009年5月，产品出口英国，与英国DELICATE.ECO公司建立贸易合作关系，打开了欧洲市场；
+35）2009年10月，在汽车除碳技术上取得新突破，为产品拓展了一个全新领域；
+36）2009年11月，受国家氢能协会、标准化委员会委托，起草“氢氧发生器”国家标准；
+37）2010年9月，T系列产品通过欧盟CE认证，获得了欧盟国家的安检通行证；
+38）2011年1月，我公司先后主持起草《氢氧发生器安全技术规范》等4项国家标准的制定工作；
+39）2012年1月，产品通过交通部公路科学研究院检测认证，T1500系列产品开始应用于汽车领域；
+40）2012年4月，成为中国医药设备工程协会会员；
+41）2012年8月，我公司总工程师（研究员）成为全国氢能标准化技术委员会委员
+42）2013.5 入选中国汽车工业协会及中国汽保协会会员
+43）2014.2 布朗气分子除碳机获得北京汽保国际展览会特别推荐产品奖
+44）2015.1 三元催化养护机获得中国汽保协会技术贡献奖
+45)  2015.2 通过ISO9001-2008质量体系认证
+46)  2015.11 在中国新三板挂牌成功，股票代码：834311
+47) 2016.10 获得宁波国家高新技术企业资质；
+48) 2017.1 主持制定的国家标准《氢氧发生器安全技术要求》GB/T34539-2017正式发布实施；
+49) 2018.6 喷油嘴清洗机HD10 获得年度全国“20佳维修工具”优秀奖。
+T2K氢氧焰焊接机
+型号T2K（RMB15000）
+简介：
+T2K氢氧焰焊接机，可以焊接漆包线（引出线40平方
+以下）、铜管，2针手工石英玻璃焊接等等
+HHO gas is widely use example
+浙江和利氢能科技股份有限公司
+地址：浙江省宁波市国家高新区凌云路199号
+邮编:315103
+电话：（86）574—87902271/87902261 18157475745 传真：
+（86）574—87902271
+http://www.browngas.cn
+
+========== [HHO1.0] PAGE 29/51 ==========
+
+What is HHO?
+HHO gas is ideal fuel to ICE
+HHO is a poorly defined term, it is not exactly (2H2+O2)
+HHO gas is already in widely use
+Conclusion 2
+
+========== [HHO1.0] PAGE 30/51 ==========
+
+HHO Is Ideal Fuel to ICE
+The information I collect shows that HHO flame 
+propagation speed 3 times faster than H2, 10 times 
+faster than gasoline. And because the ratio of H:O is 
+perfect 2:1 in atom level, the combustion is much better 
+than the compressed air combustion with H2 (turbine or 
+supercharger). As the 78% of the air is N2, the high 
+burning speed will benefit to the accurate control of 
+ignition timing. 
+HHO  VS H2 
+Video-Horse Power 
+improvement (HHO VS H2+Air)
+Video-Explosion Speed 
+(HHO VS H2)
+Video-Horse Power 
+improvement(HHO VS 2H2+O2)
+This is an analogy, not an exact description, 
+Gasoline+Air
+H2+Air
+2H2+O2
+HHO
+3X
+12X
+18X
+X
+The Explosion Speed
+
+========== [HHO1.0] PAGE 31/51 ==========
+
+HHO Is Ideal Fuel to ICE
+The HHO combustion is a kind of internal closed 
+combustion with low temperature, It doesn’t need 
+the extra air, which is much different to the 
+Hydrogen fuel. And the heat radiation is much low, 
+the damage to the engine components should be 
+much less as other fuel does(need verification)
+HHO  VS H2 
+Video-HHO Explosion In Hand
+Low heat radiation 
+Video-HHO flame Temperature
+
+========== [HHO1.0] PAGE 32/51 ==========
+
+HHO Is Ideal Fuel to ICE
+1806 François Isaac de Rivaz (from Switzerland) 
+makes the first internal combustion engine. 
+The engine runs on mixture of hydrogen and 
+oxygen（HHO）
+Video-HHO MOTOR IN MUSEUM DE RIVAZ ENGINE
+This is the actually first hho motor ever built and of course it is just sitting in a museum 
+being wasted away. The motor has existed for decades and can produce electricity from 
+small amounts off hho gas that drives the cylinder off the ground with small implosion 
+and gravity pulls the piston back down for each cycle .The hho motor belongs to the 
+people of the world not this museum. This motor uses very small needle amounts of 
+hho gas to power this huge motor. The engine produces no carbon emission and no 
+smoke runs on hho and water vapor is the only byproduct of operation.
+
+========== [HHO1.0] PAGE 33/51 ==========
+
+Video-HHO MOTOR NVH improvement
+Video-HHO engines don't need to exhaust their spent gases
+Proof that HHO is a great oxidizer for most 
+any fuel, plus it burn the fuel much more 
+efficiently and cleaner.
+HHO Is Ideal Fuel to ICE
+
+========== [HHO1.0] PAGE 34/51 ==========
+
+HHO Is Ideal Fuel to ICE
+The HHO can be used as a pure fuel to drive the 
+engine, the exhaust gas temperature is much lower 
+than the traditional one. Logically the engine can be 
+simplified very much as the air intake system can be 
+removed and the cooling requirement can be 
+reduced. (need verification)
+HHO  VS Gasoline
+Video-HHO/MHHO Run ICE
+Video-HHO Run ICE
+ICE Body Temperature @5min running
+114 Fahrenheit = 45 Celsius
+
+========== [HHO1.0] PAGE 35/51 ==========
+
+HHO Is Ideal Fuel to ICE
+More evidence shows that the HHO could be the ideal fuel 
+for 2-strokes engine, which will get more output in lower 
+engine speed and meet the emission free at same time. Or 
+get the same output in small volume engine, which the 
+Hydrogen fuel can not do it. (need verification)
+HHO  VS H2 VS Gasoline
+Gasoline
+Hydrogen
+HHO
+4 strokes -ICE
+YYY
+YYYY
+YYYYY
+2 strokes-ICE
+YY
+YYYY
+YYYYY
+Stirling Engine
+YY
+YYYY
+YYYYY
+Turbojet engine
+YY
+YYYY
+YYYYY
+2 Stroke-(from 4) HHO Vacuum Theory Animation
+
+========== [HHO1.0] PAGE 36/51 ==========
+
+HHO Is Ideal Fuel to ICE
+4 Videos-HHO explosion-implosion effect
+Recent study shows that the HHO explosion and 
+implosion will happens in a complete burning process, 
+which will make the atmosphere pressure can to 
+generate power and will cause the COP (efficiency) of 
+the HHO engine higher than 100%, it will make the 
+engine self-running to be reality.  (need verification)
+
+========== [HHO1.0] PAGE 37/51 ==========
+
+HHO Is Ideal Fuel to ICE
+Video-E-battery---HHO Gas---ICE---motor
+Video-E-battery---HHO Gas---ICE---negative pressure---motor
+Video-E-battery---COP>1---HHO Gas---ICE---motor
+Battery-ICE-Motorcycle
+Air Energy-ICE-Motorcycle
+Water Fuel-ICE-Motorcycle
+Video-Drinking birds
+
+========== [HHO1.0] PAGE 38/51 ==========
+
+No
+Origin
+Name
+Volume
+(m3H2/h）
+Pressure
+Bar
+Energy Consumption
+（kWh/m3)H2
+efficiency（%）
+(100%=3.54KW)
+1
+Norway
+Hydro-normal Pressure cell
+50-377
+1
+4.1
+86.3
+2
+Norway
+Hydro-normal Pressure cell
+10-65
+12
+4.8
+73.8
+3
+Switzerland
+Bamag normal Pressure cell
+3-330
+1
+4.2
+84.3
+4
+Switzerland
+Lurgi high Pressure cell
+110-760
+32
+4.3
+82.3
+5
+Belgium
+Hydro-normal Pressure cell
+15-200
+25-Oct
+4.2
+84.3
+6
+Switzerland
+AccaGenSA cell
+1-100
+30-Jun
+4.8-4.4
+73.8-80.4
+7
+Denmark
+Erre Due cell
+32-64
+4
+5.1-5.0
+69.4-70.8
+8
+Russia
+Uralkhimmash cell
+4-250
+10
+5.3-5
+66.8-70.8
+9
+USA
+HM Hydrogen cell
+2.8-11.2
+10
+~5.5
+~64.4
+No Origin
+Name
+Power（KW）Gas production（L/H)
+Energy Consumption
+（kWh/m3)2H2+O2
+2H2+O2 efficiency
+(100%=2.36KW)
+1
+Taiwan
+EP-230
+1.65
+504
+3.3
+72
+2
+Taiwan
+EP-230C
+1.65
+504
+3.3
+72
+3
+Taiwan
+EP-350
+2.3
+840
+2.7
+86
+4
+Taiwan
+EP-350B+ 2.3
+840
+2.7
+86
+5
+Taiwan
+EP-500
+11.5
+2688
+4.2
+55
+HHO
+HHO
+H2+O2
+No
+Origin
+Name
+Power（KW）Gas production（L/H)
+Energy Consumption
+（kWh/m3)2H2+O2
+2H2+O2 efficiency
+(100%=2.36KW)
+1
+China OKQYHJ100
+0.3
+100
+3
+78.7
+2
+China OKQYHJ200
+0.6
+200
+3
+78.7
+3
+China OKQYHJ300
+0.9
+300
+3
+78.7
+4
+China OKQYHJ400
+1.2
+400
+3
+78.7
+5
+China OKQYHJ600
+1.8
+600
+3
+78.7
+6
+China OKQYHJ800
+2.4
+800
+3
+78.7
+7
+China OKQYHJ1000
+3
+1000
+3
+78.7
+8
+China OKQYHJ2000
+6
+2000
+3
+78.7
+9
+China OKQYHJ3000
+9
+3000
+3
+78.7
+10
+China OKQYH5500
+16.5
+5500
+3
+78.7
+11
+China OKQYHJ7500
+22.5
+7500
+3
+78.7
+12
+China OKQYHJ10000 30
+10000
+3
+78.7
+13
+China OKQYHJ20000 60
+20000
+3
+78.7
+Get HHO from water electrolysis
+Electricity Power Extension
+HHO Is Ideal Fuel to ICE
+The efficiency of getting HHO by electrolysis 
+is same as the conventional way
+
+========== [HHO1.0] PAGE 39/51 ==========
+
+HHO ICE Car
+Low Cost, Mature, Durable, Emission free 
+The HHO can run
+Get HHO from water electrolysis
+Electricity Power Extension
+Video-HHO motorbike (35CC)
+Video-HHO Car Engine Idling(1.3L)
+Engine
+Electric ICE 
+Generator
+Fuel Cell Electric 
+Generator
+Motorcycle
+Vehicle
+Burner
+HHO Is Ideal Fuel to ICE
+
+========== [HHO1.0] PAGE 40/51 ==========
+
+1. HHO - ideal Heater .
+-
+CANNOT be used as a single fuel - only BLENDED, up to 50%, with gasoline, diesel, methane, LPG, for 20-60% mileage improving.
+- CANNOT be compressed over 2 bar - explodes.
+- CANNOT be stored in bottles.
+- Significant Hydrogen LEAKAGE observed through regular sealants.
+- CANNOT be liquefied - oxygen crystallizes.
+- Extremely FLAMMABLE - CAN be ignited by a small spark.
+- VERY LOW own FLAME temperature : 140 deg.C only.
+- ULTRAHIGH (>5,500 deg.C), unique plasma-flame performance while heating UHTC ceramics.
+- Ionized (electric conductive) gas flame, with PLASMA properties.
+- EASY to produce out of water.
+-----------------------------------------------------------------------------------------------------
+2. MHHO - ideal Fuel.
+-
+CAN be used as a CLEAN and CHEAP SINGLE FUEL for ICEs, Gas-Turbines, Plane and Rocket Engines and BLENDED (20-30%) with Pure 
+Hydrogen, orhydrocarbon gases.
+-. CAN be COMPRESSED over 200 bar and safely STORED in bottles for years
+- NO HYDROGEN or else LEAKAGE or Embrittlement observed at all.
+- CAN be LIQUEFIED at -178deg.C/1bar (close to the LNG temp) and stored in LNG bottles.
+- NON-FLAMMABLE - cannot be ignited by a spark at normal conditions - only under pressure and heat.
+- VERY LOW own FLAME temperature: -140 deg.C only.
+- ULTRAHIGH thermal performance (5,500+ deg/C), while heating UHTC ceramics.
+- Ionized (electric conductive) gas flame, with PLASMA properties.
+- EASY to produce out of water (NOT so easy as HHO).
+--------------------------------------------------------------------------------------------------
+3. PURE HYDROGEN - Universal Fuel, Chemical compound, Lift-Power, etc.
+- CAN be used as a CHEAP and CLEAN SINGLE FUEL for ICEs, HFCs, Gas-Turbines, Rocket Engines.
+- CAN be COMPRESSED over 200 bar and STORED in SPECIALLY ISOLATEDbottles for years.
+- SIGNIFICANT LEAKAGE and Embrittlement properties observed !
+- CAN be LIQUEFIED at -253deg.C/1bar - very low temp, very hard and costly to be achieved.
+- EXTREMELY FLAMMABLE.
+- HIGH own FLAME temperature : 2,100 deg.C.
+- Same 2,100 deg.C thermal performance while heating UHTC ceramics.
+- Non-Ionized (non-electric conductive) gas flame, with NO PLASMA properties.
+- Can be used as a fuel in HFCs for e-cars onboard power generation.
+- Can be used as a universal LIFTING POWER (being the lightest element) for Airships and Geostat Sat Platforms
+- Can be used as a feedstock for hydrocarbon fuels, polymers, etc. production (FT Cycle).
+- EASY to produce out of water.
+MHHO Is Ideal Fuel to ICE
+HHO  VS H2 VS MHHO
+
+========== [HHO1.0] PAGE 41/51 ==========
+
+MHHO Is Ideal Fuel to ICE
+HHO  VS H2 VS MHHO 
+Liquefied 
+temperature
+Energy 
+consuming
+H2
+-253°C
+40 MJ/kg 
+(11.1KWh)
+N2
+-196°C
+877KJ/Kg
+(0.24KWh)
+O2
+-183°C
+3.6-4.5MJ/Kg
+(1KWh)
+HHO
+-178°C
+0.5~1KWh*
+LNG
+-162°C
+510KJ/Kg
+(0.14KWh)
+COMPANY NAME:
+JAPAN TECHNO CO., LTD.
+Address:
+2-14-10 Kugahara ,Ota-
+Ku,Tokyo,146-0085,Japan
+tel.81-3-3754-1661
+fax.81-3-3754-7175
+Contact Person
+President Ryushin Omasa
+Video MHHO introduce
+
+========== [HHO1.0] PAGE 42/51 ==========
+
+H2
+3~5 min
+MHHO
+3~5 min
+the HHO liquefied temperature is -178°C, it is much higher than the hydrogen and similar to 
+the LNG. As we known, the entire production and storage of LNG is very mature and 
+popular already. We can fully use the existing mature infrastructure. Humans already have 
+the perfect fuel and the perfect storage. Both could be applied immediately in 
+the existing gas-converted engines.
+Get MHHO from water electrolysis
+Electricity Power Extension
+Liquid MHHO Storage
+Use LNG infrastructure
+3~5 min
+LNG
+MHHO Is Ideal Fuel to ICE
+MHHO ICE Car
+Low Cost, Mature, Durable, Emission free 
+Hydrogen Liquid
+Hydrogen Gas
+MHHO Liquid
+L-H2
+35MPa
+70MPa
+L-MHHO
+Hydrogen Density
+70.8kg/m3
+15kg/m3
+30kg/m3
+167kg/m3 (converted to Hydrogen content)
+1503kg/m3 (Liquid MHHO Density)
+A cubic meter of MHHO contains 2.4 times more hydrogen by 
+mass (167 kg), than a cubic meter of liquid hydrogen (70kg).
+
+========== [HHO1.0] PAGE 43/51 ==========
+
+MHHO Is Ideal Fuel to ICE
+Hydrogen Energy Industry New Chain
+（Safe, Low Cost, Mature, Durable, Emission Free）
+Get MHHO from water electrolysis
+Electricity Power Extension
+MHHO Engine
+Low Cost, Mature, Durable, Emission free 
+Liquid MHHO Storage
+Use LNG infrastructure
+Finding the right hydrogen fuel for the ICE is finding the right hydrogen industry chain for the vehicle.
+（找对适合内燃机的氢燃料才能正确打通汽车用氢产业）
+Hydrogen Energy Industry Old Chain
+（Expensive, Energy Consumption, No Mature, No Durable)
+
+========== [HHO1.0] PAGE 44/51 ==========
+
+Cox (g/MJ)
+89.0
+0
+0
+0
+NOx (g/MJ)
+30.6
+28.8
+0
+0
+Calorific Value (MJ/Kg)
+44.0
+141.9
+352*
+141.9 (H2)
+System Efficiency (%)
+20~40
+40~47
+50~80*
+50~80*
+Engine Life ( 10K Km)
+30
+40
+50
+50
+Size & Weight
+Big & Heavy 
+Big & Heavy 
+Small & Light 
+Big & Heavy 
+Air Quality Requirement
+Y
+Y
+N
+Much
+Work In Closed Room?
+N
+N
+Y
+Conditions
+Perfect in 2-strokes?
+Cost (10K RMB)
+2<
+>2
+2*
+20-30(2018)  15-20(2025)  10-15(2030)
+H2 ICE
+Gasoline ICE
+HHO ICE
+HFC
+H2-ICE Ver2.0 Sole HHO-ICE
+
+========== [HHO1.0] PAGE 45/51 ==========
+
+Emission Free ICE Car
+H H O
+Emission Free New EV Car
+H H O
+Emission Free Hybrid Car
+
+========== [HHO1.0] PAGE 46/51 ==========
+
+Low Emission Hybrid Car
+G a s o l i n e
+H H O
+Low Emission Four-Flex Car 
+M e t h a n o l
+G a s o l i n e
+L N G
+H H O
+L N G
+All-In Car
+M e t h a n o l
+G a s o l i n e
+M e t h a n o l
+
+========== [HHO1.0] PAGE 47/51 ==========
+
+If  we can design a new engine with the Free valve technology 
+as well as the direct injection.  We can make the engine run 
+both in 2/4-strokes mode, in that time, we have chance to just 
+use one Hydrogen Ready - hybrid Smart Engine to make a car 
+to meet different market.
+This single Hybrid Engine can work as below:
+…Pure HHO Engine Vehicle(2-Stroke, High Efficient Zero Emission)
+…HHO- Methanol Hybrid Engine Vehicle(Ultra Low Emission) <5L/100KM
+…HHO- Gasoline Hybrid Engine Vehicle(Ultra Low Emission) <5L/100KM
+H2- Methanol Hybrid Engine Vehicle(Ultra Low Emission) <5L/100KM
+…H2- Gasoline Hybrid Engine Vehicle(Ultra Low Emission)<5L/100KM
+……Pure H2 Engine (Vehicle(Green Emission)
+…Pure Methanol Engine Vehicle(Low Emission)
+…Pure Gasoline Engine Vehicle(Normal Emission)
+……
+Ford Tri-Flex 
+V10 (2006)
+H-H Engine
+(Hydrogen Ready Hybrid Smart Engine 2/4)
+H2-ICE Ver2.0 Four-Flex Car
+
+========== [HHO1.0] PAGE 48/51 ==========
+
+Zetec
+ST-Line
+ST-Line X
+Titanium
+Titanium X
+Engine
+1.6L
+1.6T
+1.8L
+1.8T
+2.0L
+Before
+Later
+Hydrogen Ready
+Hybrid Engine
+(A+B)
+A Function
+Hydrogen 
+(High Pressure)
+Hydrogen 
+Liquid
+HHO 
+(High Pressure)
+HHO
+(Liquid)
+B Function
+Gasoline
+E85
+M85
+M100
+In this scenario, customer select the vehicle that will switch from 
+simple engine displacement options to hybrid engine content options. 
+The customer decides which power distribution he likes, but regardless 
+of the route, the green and practical principles are taken into 
+consideration.
+High Pressure  VS Liquid tank
+H2-ICE Ver2.0 Four-Flex
+
+========== [HHO1.0] PAGE 49/51 ==========
+
+1，HHO Kit，节油30-40%，减排70-90%，某宝有卖，但未普及开，在“十二五”
+期第一批全国重点推广公路水路交通运输节能产品（技术）目录里面，OEM厂可
+以介入这一块，后装市场或者前装市场都可以。非汽车界可以在切割行业，焊
+接行业，节能减排行业，抗灾救险，医疗美容行业大展拳脚，这些行业现在正
+是这个技术主要推广使用范围，契合国家节能减排，绿色经济发展方向。
+HHO 技术商业化的四个技术层次
+Liquefied 
+temperature
+Energy 
+consuming
+HHO
+-178°C
+0.5~1KWh*
+LNG
+-162°C
+510KJ/Kg (0.14KWh)
+2，HHO Engine，基于HHO液化确实如天然气一般方便，高效，
+安全，同时纯HHO发动机效率达到50-80%开发成功。低成本零
+排放内燃机车PK掉燃料电池车PK掉化学电池电动车情形出现，
+同时运载火箭大尺度瘦身，发射成本极大降低成为可能。这
+个是近期非常有可能达到的状况。独角兽爆发之地。
+Emission Free New EV Car
+Emission Free ICE Car
+H H O
+3，HHO Engine，基于HHO发动机内爆负压现象出现，使提取
+大气压势能成功，HHO发动机效率80-100%,假水燃料发动机
+（假永动机）出现，汽车只加注水运行，燃料加注站可以脱
+网依靠气压势能生产并液化HHO。自由能开始真正出现在大众
+生活中。能源成本将极大降低。
+Emission Free New EV Car
+4，HHO Engine效率超100%,同时HHO电解制成过程成功提取零
+点能，使效率也超100%，假水燃料发动机（假永动机）大功率
+作业，脱网独立零排放汽车大功率发电让汽车成为主要能源站，
+承担分布式清洁能源重要一环。人类彻底摆脱石化经济束缚，
+经济发展成本与环境友好性得到质的飞跃。
+Emission Free New EV Car
+Emission Free ICE Car
+H H O
+
+========== [HHO1.0] PAGE 50/51 ==========
+
+A1：通过高速摄像机，观察极板间HHO的生成规律。
+A2：测量HHO的产气率与极板间隔，面积，与电脉冲参数的关系，实验不
+同脉冲电环境下的产气效率（纯度）。
+HHO 实验路径清单
+B1：HHO气体摩尔称重（测量HHO液化提纯后再汽化状态）
+B2：HHO气体标准大气压下的液化点（如果实验条件许可，测试加压液化）
+B3：测试HHO气体拉曼光谱吸收（对比氢气与氧气2：1成分的光谱吸收）
+B4：测试HHO2：1摩尔比下面的压燃（压爆）参数，与安全压力储存参数
+B5：测试HHO火焰传播速度，燃烧过程压力变化与温度变化情况
+C1：纯HHO供发动机运行的调校实验（两冲程/四冲程）
+C2：基于C1成功的情况下，跑全工况，记录相关转速，输出功率，扭矩，燃
+料消耗量，实际功率与排放温度和湿度的情况。
+C3: 研究内爆现象对发动机功率提升或者获取环境能路径探索。
+C4: 根据以上假设实验成功收集信息充分的情况下，推导出HHO内燃机关键参
+数。指导下一步纯HHO发动机研发方向。
+
+========== [HHO1.0] PAGE 51/51 ==========
+
+Go Further
+RESEARCH
+FRAME INSIGHTS
+CONCEPTS / PROTOTYPES   SOLUTIONS
+Compare with hydrogen, there are indications that HHO, 
+as a composite form of hydrogen energy, has obvious 
+cost advantages and a mature industrial foundation at 
+the manufacturing, transport and storage, as well as at 
+the automotive energy consumption. It is very likely that 
+HHO will become a flashpoint for new hydrogen energy 
+in the future.
+It is recommended that a small project should be set up 
+to build a HHO-ICE model to verify the entire technology.

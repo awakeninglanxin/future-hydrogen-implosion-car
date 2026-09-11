@@ -1,0 +1,25 @@
+# 编译与缓存
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# 临时输出
+*.tmp
+*.log
+~$*
+
+# 归档（本地保留，不入库）
+_archive/
