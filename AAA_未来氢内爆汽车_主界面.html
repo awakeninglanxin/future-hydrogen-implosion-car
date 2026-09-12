@@ -265,8 +265,8 @@ footer{margin-top:60px;padding:26px 0;border-top:1px solid var(--line);
   <div class="grid g3">
     <div class="blk">
       <h4>joe cell</h4>
-      <p>Joe Cell 考据主线 + 可行性论证报告（718 行）。含「三种氢之辨」「单质氢两种变体」「变体配对检验」「内爆变负压」「零柴油两条路线之辨」等 13 份导读。</p>
-      <div class="meta">14 份 md · 含 ★ 正式交付报告</div>
+      <p>Joe Cell 考据主线 + 可行性论证报告（718 行）。含「三种氢之辨」「单质氢两种变体」「变体配对检验」「内爆变负压」「零柴油两条路线之辨」「引擎洗净」等 15 份导读。</p>
+      <div class="meta">16 份 md（15 导读 + 报告）</div>
     </div>
     <div class="blk">
       <h4>Lyne 原子氢技术</h4>
@@ -480,9 +480,9 @@ footer{margin-top:60px;padding:26px 0;border-top:1px solid var(--line);
       </tr>
       <tr style="background:#f2fbf6">
         <td style="background:#eefaf3"><strong>★ 真正可用的</strong></td>
-        <td class="c-main" style="background:#eefaf3">掺氢燃烧、原子氢焊工艺、常规电解（p38 效率表）—— 全部在<strong>成熟物理范围内</strong></td>
+        <td class="c-main" style="background:#eefaf3">掺氢燃烧、原子氢焊工艺、常规电解（p38 效率表）—— 全部在<strong>成熟物理范围内</strong>（★ 掺氢是<b>另一条赛道</b>，见 §11.0）</td>
         <td class="c-claim" style="background:#eefaf3">——（这些不是「不同」，而是<strong>被圈内材料顺带带出来的真东西</strong>）</td>
-        <td style="background:#eefaf3"><span class="tag t-ok">✅ 本库落地路线</span><br><span style="font-size:13px;color:var(--ink3)">氢-柴油双燃料掺氢</span></td>
+        <td style="background:#eefaf3"><span class="tag t-ok">✅ 本库落地路线</span><br><span style="font-size:13px;color:var(--ink3)">路线 B 零柴油·纯氢（Joe Cell 主张的目标）／<br>路线 C 氢-柴油双燃料掺氢（另一条赛道）</span></td>
       </tr>
     </tbody>
   </table>
@@ -503,7 +503,7 @@ footer{margin-top:60px;padding:26px 0;border-top:1px solid var(--line);
 <!-- ============ §2 Joe Cell ============ -->
 <section id="s2">
   <h2><span class="n">02</span>Joe Cell：一个「不耗水的免费能源」主张的完整裁决</h2>
-  <p class="sec-sub">板块路径 <code>joe cell/</code> · 14 份 md（含 718 行正式交付报告）· 核心方法：把体积收缩的真实现象，和净能量账目分开算。</p>
+  <p class="sec-sub">板块路径 <code>joe cell/</code> · 16 份 md（15 导读 + 718 行正式交付报告）· 核心方法：把体积收缩的真实现象，和净能量账目分开算。</p>
 
   <h3>2.1 三项可行性裁决</h3>
   <table>
@@ -1491,7 +1491,7 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
         <td><strong>分子氢 H₂</strong></td>
         <td class="c-main">两个 H 成键</td>
         <td><span class="tag t-ok">✅</span></td>
-        <td><span class="tag t-ok">✅ 可落地</span>（掺氢柴油机用的就是这个）</td>
+        <td><span class="tag t-ok">✅ 可落地</span>（掺氢柴油机用的就是这个；★ 注意它是<b>掺氢路线 C</b>，与 Joe Cell 的<b>零柴油路线 B</b> 不是一回事，见 §11.0）</td>
       </tr>
       <tr>
         <td>2</td>
@@ -1935,13 +1935,18 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
       </tr>
       <tr>
         <td><b>积碳</b></td>
-        <td>固体碳粒会<b>储热</b>，形成局部高温点</td>
-        <td>同上，且更难消除（碳的导热差、易挂在缸壁）</td>
+        <td><b>导热仅 0.3 W/(m·K)</b>（约铸铁的 1/170）⇒ 起<b>隔热</b>作用，挡住缸壁散热</td>
+        <td>使<b>贴壁气体层</b>温度升高 ⇒ 该处氢更易自燃（★ 不是积碳「自己更热」，是它<b>挡住了散热</b>）</td>
+      </tr>
+      <tr>
+        <td><b>机油</b>（缸壁油膜／窜气）</td>
+        <td>自燃点<b>最低</b>（约 217 °C），且是<b>液体</b> ⇒ 蒸发裂解生成碳氢自由基</td>
+        <td><b>化学</b>点火源，且是<b>每循环都在补</b>的持续来源</td>
       </tr>
       <tr>
         <td><b>残留混合气的碳氢成分</b></td>
-        <td>氢的<b>最小点火能极低</b>（&lt;0.02 mJ，是汽油的 1/12），
-            宽的着火极限（4–75%）</td>
+        <td>氢的<b>最小点火能极低</b>（0.017 mJ，是汽油 0.24 mJ 的 <b>1/14</b>），
+            着火极限宽（<b>4–75%</b>，区间宽度约为汽油的 11.5 倍）</td>
         <td>任何热点都可能点燃<b>进气道里的氢混合气</b> ⇒ <b>回火（backfire）</b>，
             可能烧毁进气系统</td>
       </tr>
@@ -1949,11 +1954,55 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
   </table>
 
   <div class="note note-warn">
+    <b>★ 为什么判据是「自燃温度」而不是「脏不脏」</b><br>
+    压缩终了温度（进气 25 °C、γ=1.4）：CR 14 → <b>583.7 °C</b>、CR 18 → <b>674.3 °C</b>、CR 20 → <b>715.1 °C</b>。<br>
+    ⇒ <b>柴油机压缩到一半，温度就早已越过柴油的 257 °C 这条线</b>。
+    若缸内还有柴油／机油残留，它们会在这里自燃 —— 而氢本该等到更晚。<br>
+    ⇒ ★ <b>「必须洗净」的硬理由是「自燃闸门被降低了」，不是能量不够。</b>
+  </div>
+
+  <div class="note note-ok">
+    <b>★ 产业侧独立印证：主流专门为氢发动机重配了机油</b><br>
+    如果「残留／机油引发预点火」只是推断，产业界不会去申请专利。而实际上
+    <b>2024–2026 年</b>润滑油巨头为氢发动机申请了多项<b>降低预点火</b>的配方专利 ——
+    Infineum <b>WO 2025191545 A2</b>（2025-10-30）、<b>US 12662648 B2</b>（2026-06-23 授权）、
+    <b>US 20250197762 A1</b>（2025-06-19）：核心手段都是
+    <b>降低硫酸灰分（≤1.0–1.2 wt%）、降钙／锌／磷</b>——而灰分正是<b>积碳与沉积物的来源</b>。<br>
+    ★ 另一份专利说明书更把氢发动机四大难题直接列为：
+    <b>回火（backfire）／预点火致爆震／火花塞积垢／高含水致腐蚀</b> ——
+    与上表<b>逐条对应</b>。<br>
+    ⇒ 这也说明 JCB 说的「<b>特种机油</b>」不是营销词。
+  </div>
+
+  <div class="note note-info">
+    <b>★ 反向印证（同一物理、两个方向）</b><br>
+    主流不只是「怕残留」，它还<b>反过来用氢去洗引擎</b>：<br>
+    · <b>Engine Carbon Clean</b>（1stinrail，25 台车 × 4 个月）：油耗与 CO₂ <b>平均降 15%</b>，计划推广到约 140 台<br>
+    · <b>HydroMaverich Ecleaner</b>（意大利，车间式纯氢）：清除气门／喷油器／燃烧室／活塞／催化器／EGR／DPF 积碳<br>
+    · <b>Auto-Decarb</b>（台湾 GOC）：获 <b>ARAI 认证</b>，MSRTC <b>61 台公交</b>实测油耗改善 <b>1 km/L</b>、污染降 <b>60–68%</b><br>
+    化学基础（复算过）：<code>C(s) + 2H₂(g) → CH₄(g)</code>，ΔH° = <b>−74.87 kJ/mol</b>（放热，产物是气体，随排气带走）。<br>
+    ⇒ <b>「氢能除碳」与「残留会成热点」是同一套物理</b> —— 老师的要求与主流实证<b>方向一致</b>。
+  </div>
+
+  <div class="note note-bad">
+    <b>⚠️ 但必须守住边界（不妄语）</b><br>
+    ① <b>「引擎洗净」不是 Joe Cell 圈内文献的内容</b> —— 编者已做全库检索：
+    圈内原始资料（Joe 原话／Schiffer／Hilton／Seiler／resonantfractals）中，
+    「清洗」<b>仅 1 处命中且指的是电池筒</b>（短路后重新抛光清洗），<b>引擎 0 命中</b>。
+    ⇒ 这是<b>老师独立提出的要求</b>，不能表述为「Joe Cell 原文要求」。<br>
+    ② 这些<b>都不救</b> Joe Cell 的<b>免费能源 + 内爆负压</b>主张 ——
+    JCB 的氢来自 <b>700 bar 外部充装氢罐</b>，氢 HCCI 的 <b>1 kW 进气加热器是真电耗</b>。<br>
+    <b>机制层不成立；路线层（零柴油）另有主流解。</b>
+  </div>
+
+  <div class="note note-info">
     <b>结论：清洗不是「讲究」，是零柴油路线的<b>功能前提</b></b><br>
-    氢的点火能极低 + 着火范围极宽 ⇒ 缸内任何「比氢先着」的东西，
-    都会把<b>可控点火</b>变成<b>不可控点火</b>。<br>
+    氢的点火能极低 + 着火范围极宽 + 残留物自燃点全部低于氢 ⇒
+    缸内任何「比氢先着」的东西，都会把<b>可控点火</b>变成<b>不可控点火</b>。<br>
     ★ 这也解释了 JCB 为什么反复强调「<b>不是改装柴油机，而是回到第一原理重新设计</b>」——
-    它连<b>缸盖、活塞、机油</b>都换掉了，就是为了消除这些热点。
+    它连<b>缸盖、活塞、机油</b>都换掉了，就是为了消除这些热点。<br>
+    ★ 完整版（含三类目标按危险度排序、六条可验证判据 C1–C6）见
+    <code>joe cell/14_引擎洗净的工作定义与操作清单.md</code>。
   </div>
 
   <h3>11.1 为什么是它</h3>
@@ -2268,7 +2317,7 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
       </tr>
       <tr>
         <td>车载小电流产氢（1 A 级）</td>
-        <td class="c-main">产氢量比双燃料所需<strong>低几个量级</strong>（见 §10 图⑥⑦）</td>
+        <td class="c-main">产氢量比双燃料所需<strong>低几个量级</strong>（见 §10 图⑥⑦）<br>★ 此条只否掉<b>车载电解产能</b>，<b>不否定零柴油路线本身</b></td>
         <td><span class="tag t-bad">❌ 排除</span></td>
       </tr>
       <tr>
@@ -2332,7 +2381,10 @@ cd "D:\AAA我的文件\未来氢内爆汽车"
 python _复算19_内爆负压与混合比.py
 
 <span class="cm"># 零柴油氢发动机：自燃点/压缩温升/点火路径（§11.0 的底稿）</span>
-python _复算20_零柴油氢发动机.py</pre>
+python _复算20_零柴油氢发动机.py
+
+<span class="cm"># 「引擎内要洗干净」的热点物理：MIE/自燃闸门/热响应/氢脱碳（§11.0.3 的底稿）</span>
+python _复算21_引擎洗净的热点物理.py</pre>
     <p style="margin-bottom:0;font-size:14px;color:var(--ink2)">
       <strong>环境要求</strong>：Python 3.8+，<strong>零第三方依赖</strong>（除 PDF 提取需 <code>pymupdf</code>）。
     </p>
@@ -2351,6 +2403,7 @@ python _复算20_零柴油氢发动机.py</pre>
       <tr><td>追问 <strong>「内爆变负压」到底行不行</strong></td><td><code>joe cell/12_内爆变负压_混合比与能量账.md</code>（本页 §11.1 的完整版，六问）</td></tr>
       <tr><td>追问 <strong>「零柴油能不能做到」</strong></td><td><code>joe cell/13_零柴油氢发动机_两条路线之辨.md</code>（本页 §11.0 的完整版）</td></tr>
       <tr><td>看 <strong>Joe Cell 与掺氢到底什么关系</strong></td><td><code>joe cell/13</code> §五（★ 本轮的更正说明）</td></tr>
+      <tr><td>想知道 <strong>「引擎内洗干净」到底要洗什么</strong></td><td><code>joe cell/14_引擎洗净的工作定义与操作清单.md</code>（本页 §11.0.3 完整版：三类目标 + 六条判据 C1–C6）</td></tr>
       <tr><td><strong>想动手</strong></td><td><code>joe cell/</code> ★ 报告 §8 安全 + §9 验收；<code>HHO书本精读/06</code> A1–C4 施工稿</td></tr>
     </tbody>
   </table>
