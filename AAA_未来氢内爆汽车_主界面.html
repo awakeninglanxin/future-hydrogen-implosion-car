@@ -262,8 +262,8 @@ footer{margin-top:60px;padding:26px 0;border-top:1px solid var(--line);
   <div class="grid g3">
     <div class="blk">
       <h4>joe cell</h4>
-      <p>Joe Cell 考据主线 + 可行性论证报告（718 行）。含「三种氢之辨」「单质氢两种变体」等 11 份导读。</p>
-      <div class="meta">12 份 md · 含 ★ 正式交付报告</div>
+      <p>Joe Cell 考据主线 + 可行性论证报告（718 行）。含「三种氢之辨」「单质氢两种变体」「变体配对检验」「内爆变负压」等 12 份导读。</p>
+      <div class="meta">13 份 md · 含 ★ 正式交付报告</div>
     </div>
     <div class="blk">
       <h4>Lyne 原子氢技术</h4>
@@ -493,7 +493,7 @@ footer{margin-top:60px;padding:26px 0;border-top:1px solid var(--line);
 <!-- ============ §2 Joe Cell ============ -->
 <section id="s2">
   <h2><span class="n">02</span>Joe Cell：一个「不耗水的免费能源」主张的完整裁决</h2>
-  <p class="sec-sub">板块路径 <code>joe cell/</code> · 12 份 md（含 718 行正式交付报告）· 核心方法：把体积收缩的真实现象，和净能量账目分开算。</p>
+  <p class="sec-sub">板块路径 <code>joe cell/</code> · 13 份 md（含 718 行正式交付报告）· 核心方法：把体积收缩的真实现象，和净能量账目分开算。</p>
 
   <h3>2.1 三项可行性裁决</h3>
   <table>
@@ -1733,6 +1733,279 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
   </div>
 
   <h3>11.1 为什么是它</h3>
+
+  <div class="note note-warn">
+    <b>★ 2026-09-12 补章：先回答一个绕不开的追问 ——「内爆变负压」这条路线呢？</b><br>
+    老师追问：Joe Cell 装车的核心机制不是燃烧做功，而是<strong>「内爆变真空负压 → 大气压推内缸活塞向内做功」</strong>。
+    那布朗气与空气要按什么比例混合，才能<strong>先外爆后内爆</strong>？有没有比例能<strong>直接内爆</strong>？<br>
+    这一节把这条路线<strong>单独算清</strong>——因为它不是「不可能」，而是<strong>「有一个明确的、数值上的天花板」</strong>。
+    结论先给：<strong>负压真实存在，但上限是 −1 atm；且冷凝是秒级、冲程是毫秒级。</strong>
+  </div>
+
+  <h4>① 为什么「先外爆」躲不掉</h4>
+  <table>
+    <thead>
+      <tr>
+        <th style="width:22%">阶段</th>
+        <th class="c-claim" style="width:39%">圈内说法</th>
+        <th class="c-main" style="width:39%">主流实证 / 独立复算</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>阶段 1<br>外爆</b></td>
+        <td class="c-claim">纯布朗气「不爆不燃」，点火后<strong>平顺内爆</strong>，没有爆炸</td>
+        <td class="c-main">
+          <code>2H₂+O₂ → 2H₂O</code>：摩尔数 3→2，温度 298→~3080 K<br>
+          <code>P/P₀ = (2/3)×(3080/298) = <strong>6.89</strong></code> ⇒ 压力先冲到约 <strong>7 bar</strong><br>
+          ⇒ 🔵 <b>放热+升温就一定先升压</b>，「不先升压」在物理上不存在
+        </td>
+      </tr>
+      <tr>
+        <td><b>阶段 2<br>内爆</b></td>
+        <td class="c-claim">水蒸气冷凝，体积骤缩 <strong>1,860 倍</strong>，形成真空负压</td>
+        <td class="c-main">
+          ✅ <b>方向是对的</b>：<code>H₂O(g)→H₂O(l)</code> 气相摩尔数→0，收缩 ~1,860 倍<br>
+          ⇒ 圈内「1,859/1,860 倍」<strong>来自这一步，不是假的</strong>
+        </td>
+      </tr>
+      <tr style="background:#fffaf3">
+        <td><b>★ 关键</b></td>
+        <td class="c-claim">「不爆不燃」= 点火后直接内爆</td>
+        <td class="c-main">
+          主流里「不爆」的真实含义是 <b>无爆轰声 / 不形成激波</b>（燃烧速度慢），<br>
+          <strong>不是「压力不先升」</strong> ⇒ 圈内表述把「燃速慢」误读成「没有外爆」
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h4>② ★ 负压能有多深？—— 只取决于「空气占多少」</h4>
+  <div class="note note-info">
+    <b>可心算的核心公式（本页新增）</b><br>
+    密闭容器、恒容、点燃后冷却到 25 °C。设 <code>HHO = a mol</code>、<code>空气 = b mol</code>（0.21 O₂ + 0.79 N₂）：<br>
+    <code>耗 O₂ = a/3，剩 O₂ = 0.21b，剩 H₂ = 0，剩 N₂ = 0.79b</code><br>
+    ⇒ 不凝气体 <code>= 0.21b + 0.79b = b</code> <b>← 恰好等于空气的摩尔数</b><br>
+    ⇒ <code>P<sub>绝压</sub> ≈ (空气摩尔分数)×101.325 + 3.17 kPa</code>（3.17 kPa = 25 °C 水饱和蒸气压）<br>
+    ★ <b>一句话：空气唯一的作用，就是往容器里塞「永不冷凝的 N₂」。</b>每多 1% 空气，负压就浅 ≈ 1 kPa。
+  </div>
+  <table>
+    <thead>
+      <tr>
+        <th style="width:16%">空气分数</th>
+        <th style="width:16%">HHO 分数</th>
+        <th class="num" style="width:18%">P 绝压 kPa</th>
+        <th class="num" style="width:18%">P 表压 kPa</th>
+        <th class="num" style="width:16%">表压 atm</th>
+        <th style="width:16%">判定</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background:#f2fbf6">
+        <td><b>0%</b></td><td><b>100%</b></td>
+        <td class="num">3.17</td><td class="num"><b>−98.2</b></td><td class="num"><b>−0.969</b></td>
+        <td><span class="tag t-ok">★ 理论最深</span></td>
+      </tr>
+      <tr><td>10%</td><td>90%</td><td class="num">13.30</td><td class="num">−88.0</td><td class="num">−0.869</td><td></td></tr>
+      <tr><td>20%</td><td>80%</td><td class="num">23.43</td><td class="num">−77.9</td><td class="num">−0.769</td><td></td></tr>
+      <tr><td>30%</td><td>70%</td><td class="num">33.57</td><td class="num">−67.8</td><td class="num">−0.669</td><td></td></tr>
+      <tr><td>40%</td><td>60%</td><td class="num">43.70</td><td class="num">−57.6</td><td class="num">−0.569</td><td></td></tr>
+      <tr><td>50%</td><td>50%</td><td class="num">53.83</td><td class="num">−47.5</td><td class="num">−0.469</td><td></td></tr>
+      <tr><td>60%</td><td>40%</td><td class="num">63.96</td><td class="num">−37.4</td><td class="num">−0.369</td><td></td></tr>
+      <tr><td>70%</td><td>30%</td><td class="num">74.10</td><td class="num">−27.2</td><td class="num">−0.269</td><td></td></tr>
+      <tr><td>80%</td><td>20%</td><td class="num">84.23</td><td class="num">−17.1</td><td class="num">−0.169</td><td></td></tr>
+      <tr><td>90%</td><td>10%</td><td class="num">94.36</td><td class="num">−7.0</td><td class="num">−0.069</td><td></td></tr>
+      <tr><td>100%</td><td>0%</td><td class="num">104.49</td><td class="num">+3.2</td><td class="num">+0.031</td>
+        <td><span class="tag t-neu">无 HHO</span></td></tr>
+    </tbody>
+  </table>
+  <p>
+    <b>三条硬结论</b>：<br>
+    ① <b>负压最深 = 纯 HHO（空气 0%）⇒ −98.2 kPa = −0.969 atm</b>。
+    ★ <b>不论怎么配，都不可能比 −1 atm 更负</b> —— 这是<b>容器的物理上限</b>
+    （内外最大压差就是 1 atm，你不可能「吸」得比大气压更强）。<br>
+    ② 空气越多，负压越浅，且<b>线性</b>。<br>
+    ③ <b>想要深负压 ⇒ 必须纯 HHO、不掺空气</b> —— 这与本页主推的「掺氢入柴油机进气」
+    <b>方向正好相反</b>。<br>
+    <span class="cm">复算脚本：<code>_复算19_内爆负压与混合比.py</code></span>
+  </p>
+
+  <h4>③ ★ 本课题的真正张力：两个目标互斥</h4>
+  <table>
+    <thead>
+      <tr>
+        <th style="width:34%">让燃烧「变慢」的手段（趋近无声内爆）</th>
+        <th style="width:22%">对燃速</th>
+        <th class="c-main" style="width:44%">对负压的影响</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>① 偏离化学计量（富燃 / 贫燃）</td><td>↓ 下降</td><td class="c-main"><b>↓ 变浅</b>（残留未燃 H₂ 不凝）</td></tr>
+      <tr><td>② 稀释（掺 N₂ / 水蒸气 / 排气再循环）</td><td>↓ 下降</td><td class="c-main"><b>↓↓ 大幅变浅</b>（不凝气直接占位）</td></tr>
+      <tr><td>③ 低压、大长径比、加障碍物抑制 DDT</td><td>↓ 下降</td><td class="c-main">中性</td></tr>
+    </tbody>
+  </table>
+  <div class="note note-warn">
+    ⇒ <b>「内爆要平稳」与「负压要深」是互相冲突的两个要求。</b>
+    想两头都要，等于要求「既要有大量不凝惰性气体压住燃烧速度，又要求这些气体在冷凝时消失」
+    —— <b>自相矛盾</b>。任何声称「既极平稳、又极深负压」的方案，先查它的<b>不凝气去哪了</b>。
+  </div>
+
+  <h4>④ ★★ 决定性的一条：冷凝是「秒级」，冲程是「毫秒级」</h4>
+  <table>
+    <thead>
+      <tr>
+        <th style="width:22%">装药</th>
+        <th class="num" style="width:16%">峰值压力</th>
+        <th class="num" style="width:16%">达峰耗时</th>
+        <th class="num" style="width:16%">极限低压</th>
+        <th class="num" style="width:30%">达极限低压 <b>50%</b> 耗时</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td><b>1.3 g HHO</b></td><td class="num">17.2 psia</td><td class="num">0.29 s</td><td class="num">5.00 psia</td><td class="num"><b>3.45 s</b></td></tr>
+      <tr><td><b>2.2 g HHO</b></td><td class="num">45.3 psia</td><td class="num">0.095 s</td><td class="num">4.38 psia</td><td class="num"><b>2.65 s</b></td></tr>
+    </tbody>
+  </table>
+  <p class="cm">实测条件：40 L 燃烧室 + 22 L 水 + <b>18 L 空气</b>，22 °C，14.4 psia。
+    出处：Oxyhydrogen Pulse &amp; Rotary Detonation Combustion Pump 专利实测压力-时间曲线。</p>
+  <table>
+    <thead>
+      <tr><th style="width:50%">对比项</th><th class="num" style="width:50%">时间尺度</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>内爆泵负压建立（实测走一半）</td><td class="num"><b>2.65 – 3.45 s</b></td></tr>
+      <tr><td>发动机一个冲程（3000 rpm）</td><td class="num"><b>≈ 10 ms = 0.01 s</b></td></tr>
+      <tr style="background:#fff5f5"><td><b>★ 比值</b></td><td class="num"><b>≈ 265 – 345 倍</b></td></tr>
+    </tbody>
+  </table>
+  <div class="note note-bad">
+    ★ <b>在气缸里，水蒸气根本来不及冷凝。</b>负压还没形成，活塞已经进到下一个循环了。<br>
+    这正好解释了那个长期争论：<b>Joe Cell / HHO 内爆「在泵上做得到（秒级循环）、在发动机上做不到（毫秒级循环）」</b>。<br>
+    ⇒ 唯一例外是 <b>直接喷水</b>（雾化水吸热、快速蒸发→冷凝），这正是水喷射 / 水雾抑爆与部分内爆泵专利走的路。
+    ⇒ 对「氢内爆汽车」的启示：<b>若真要走负压做功，必须解决毫秒级冷凝 —— 而目前公开材料里没有任何人做到过。</b>
+  </div>
+
+  <h4>⑤ 能量账：大气压推活塞，最多能拿回多少？</h4>
+  <table>
+    <thead>
+      <tr><th style="width:44%">项</th><th class="num" style="width:24%">数值</th><th style="width:32%">说明</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>负压做功上界（1 L 排量、全冲程 −1 atm）</td><td class="num"><b>101.3 J</b></td>
+        <td><code>W = ΔP×V = 101,325 Pa × 0.001 m³</code></td></tr>
+      <tr><td>1 L 常温常压 HHO 的化学能（LHV）</td><td class="num"><b>6.589 kJ</b></td>
+        <td><code>0.02725 mol × 241.826 kJ/mol</code></td></tr>
+      <tr style="background:#fffaf3"><td><b>★ 大气压做功 / 化学能</b></td><td class="num"><b>1.54%</b></td>
+        <td>约 <b>1/65</b></td></tr>
+    </tbody>
+  </table>
+  <div class="note note-info">
+    <b>两条必须同时讲清（这就是「不妄语」的分轨写法）</b><br>
+    ✅ <b>大气压确实在推活塞</b> —— 这一句<b>没错</b>，Otto-Langen 1867 就是这么干的（见下）。<br>
+    ❌ 但它是<b>化学能的一个小尾巴（≈1.5%）</b>，<b>不是</b>「额外的免费能源」。<br>
+    ⚠️ 而且实测时间尺度（秒）比冲程（毫秒）<b>慢两个量级</b> ⇒ <b>连这 1.5% 也拿不到</b>。
+  </div>
+
+  <h4>⑥ 历史锚点：Otto-Langen 大气压发动机（1867）—— 真用过这个原理</h4>
+  <table>
+    <thead>
+      <tr><th style="width:22%">项</th><th style="width:78%">内容</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>原理</td><td>燃气先在缸内膨胀，随后<b>冷却成真空</b>，<b>大气压把活塞推回</b>做功</td></tr>
+      <tr><td>效率</td><td><b>11 – 14%</b>（同期 Lenoir 无压缩发动机仅 4 – 5%）</td></tr>
+      <tr><td>产量</td><td>约 <b>5,000 台</b>；1882 年停产（被 Otto 四冲程取代）；1867 巴黎世博会<b>金奖</b></td></tr>
+      <tr style="background:#fffaf3"><td><b>★ 关键差异</b></td>
+        <td>它烧的是<b>煤气/空气</b>，产物 <code>CO₂ + H₂O</code> —— <b>CO₂ 可溶于水、H₂O 会冷凝</b>，
+        两项都在「消失」⇒ 负压容易形成。<br>
+        而 <b>H₂/空气</b>燃烧后<b>剩大量 N₂ 不凝</b> ⇒ <b>负压天生更浅</b>（见 ② 公式）。</td></tr>
+    </tbody>
+  </table>
+  <p class="cm">⇒ 这是「<b>负压做功可行、但天花板很低</b>」的最硬历史证据。</p>
+
+  <h4>⑦ 单质氢能不能单独内爆？（含老师提的「变体1」）</h4>
+  <table>
+    <thead>
+      <tr>
+        <th style="width:24%">问</th>
+        <th class="c-claim" style="width:34%">圈内主张</th>
+        <th class="c-main" style="width:42%">主流实证 / 判定</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>原子氢内爆</b><br>（纯单质氢）</td>
+        <td class="c-claim">单质氢内爆是 Joe Cell 的动力来源</td>
+        <td class="c-main">
+          <code>2H· → H₂</code>：摩尔数 2→1，<b>体积减半</b> ⇒ 必然产生负压 ✅<br>
+          复合焓（ATcT v1.220）：<b>0 K = 432.068 kJ/mol</b>；<b>298 K = 435.996 kJ/mol</b><br>
+          ★ 与 H₂ 解离能<b>同一个数值</b> ⇒ 「先存后取」，<b>不是新能量</b><br>
+          ⇒ <b>无任何动力循环案例</b>；主流只用作<b>表面复合热源</b>（Langmuir 原子氢焊 3500–4000 °C）
+        </td>
+      </tr>
+      <tr>
+        <td><b>极微量单质氢<br>+ 布朗气</b></td>
+        <td class="c-claim">少量单质氢可催化/增强内爆</td>
+        <td class="c-main">
+          <b>未见公开定量实验</b>（检索无第三方数据）<br>
+          理论上只多一份原子氢复合热；「催化」需给出<b>基元步骤</b>才成立
+        </td>
+      </tr>
+      <tr style="background:#f7f9ff">
+        <td><b>★ 变体1<br>（9+/9−）<br>游离水中</b></td>
+        <td class="c-claim">变体1 的 Anu 电中性，游离在水中<b>很难与自身吸引结合成氢键</b>，<br>可能是 Joe Cell 的<b>动力源泉</b></td>
+        <td class="c-main">
+          <b>① 名词层</b> ⚠️：主流里<b>「氢键」是分子间作用</b>（H₂O···H₂O），<b>单个 H 原子之间不存在氢键</b> ⇒ 说法需改写<br>
+          <b>② 对象层</b> ✅ <b>有真实对应物</b>：水中溶解态 <code>H(aq)</code> 确为<b>疏水溶质</b>
+          （原话 <i>"a hydrophobic solute akin to molecular hydrogen"</i>），
+          <b>不参与水的氢键网络</b>，住在约 <b>0.5 nm 笼形空腔</b>里<br>
+          · 寿命：气相<b>毫秒级</b>／水中 <code>H(aq)</code> <b>半衰期约 5 分钟</b>（1966 <i>Electrochim. Acta</i> 实测）<br>
+          <b>③ 机制层</b> ⚠️：若持续产 H(aq)，确可被带出、复合放出 <b>432 kJ/mol</b>（真实能量）
+          —— <b>但源头仍是电解电</b><br>
+          <b>④ 判定</b> ❌：Joe Cell 声称「断开电池后仍持续 breeding」= 持续产原子氢
+          ⇒ <b>需要持续能量输入</b>，否则等于凭空产生
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="note note-info">
+    <b>★ 对「变体1」这条的处置（守判据⑦「判命题而非材料」）</b><br>
+    <b>方向可查、结论未定</b>：老师说的是<b>命题的一半</b> ——
+    「难与自身结合成氢键」这一半，在主流里<b>有真实对应物</b>（H(aq) 疏水、不参与氢键网络、寿命长达 5 分钟），
+    ★ <b>这个物理直觉在这一点上是成立的</b>；<br>
+    但另一半（「因而成为动力源」）需要<b>独立的能量收支证据</b> ⇒
+    <b>不是错，是证据不足。</b>
+    <span class="cm">详见 <code>joe cell/12_内爆变负压_混合比与能量账.md</code></span>
+  </div>
+
+  <h4>⑧ 那「唯一可落地路线」还是掺氢吗？—— 是，而且现在更清楚了</h4>
+  <div class="note note-ok">
+    <b>两条路线目标互斥，不能混为一谈：</b>
+    <table style="margin-top:10px">
+      <thead>
+        <tr><th style="width:20%">路线</th><th style="width:26%">要的气体</th><th style="width:26%">机制</th><th style="width:28%">本轮判定</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>内爆负压做功</b><br>（Joe Cell 主张）</td>
+          <td><b>纯 HHO，空气 0%</b></td>
+          <td>冷凝 → 负压 → 大气压推活塞</td>
+          <td><span class="tag t-bad">❌ 排除</span>（−1 atm 上限 + 秒级 vs 毫秒级）</td>
+        </tr>
+        <tr style="background:#f2fbf6">
+          <td><b>★ 氢-柴油双燃料掺氢</b></td>
+          <td>氢 + 大量空气</td>
+          <td>掺氢改善燃烧、降碳烟</td>
+          <td><span class="tag t-ok">✅ 唯一可落地</span></td>
+        </tr>
+      </tbody>
+    </table>
+    ★ <b>掺氢路线不依赖任何负压机制</b> —— 它靠的是成熟的燃烧物理，
+    所以不受上面这些天花板约束。<b>这恰恰是它唯一的、也是决定性的优点。</b>
+  </div>
+
+  <h3>11.1b 候选路线汇总</h3>
   <table>
     <thead>
       <tr>
@@ -1801,7 +2074,11 @@ python _复算18_四书关键数字.py
 
 <span class="cm"># Joe Cell 富吉 HDCC 量纲三解读</span>
 cd "joe cell"
-python _复算11_富吉HDCC量纲.py</pre>
+python _复算11_富吉HDCC量纲.py
+
+<span class="cm"># 内爆变负压：混合比表 + 能量账（§11.1 的底稿）</span>
+cd "D:\AAA我的文件\未来氢内爆汽车"
+python _复算19_内爆负压与混合比.py</pre>
     <p style="margin-bottom:0;font-size:14px;color:var(--ink2)">
       <strong>环境要求</strong>：Python 3.8+，<strong>零第三方依赖</strong>（除 PDF 提取需 <code>pymupdf</code>）。
     </p>
@@ -1817,6 +2094,7 @@ python _复算11_富吉HDCC量纲.py</pre>
       <tr><td>看 <strong>Meyer 怎么错的</strong></td><td><code>stanley meyer hho/11</code>（四条判据 + 两个对照组）</td></tr>
       <tr><td>看 <strong>原子氢焊 / 钨电极技术</strong></td><td><code>Lyne原子氢技术/02</code>（工艺）+ <code>03</code>（复算）</td></tr>
       <tr><td>看 <strong>Anu 结构的原文核对</strong></td><td><code>OccultChemistry精读/09</code>（本页 §07 的完整版，12 节）</td></tr>
+      <tr><td>追问 <strong>「内爆变负压」到底行不行</strong></td><td><code>joe cell/12_内爆变负压_混合比与能量账.md</code>（本页 §11.1 的完整版，六问）</td></tr>
       <tr><td><strong>想动手</strong></td><td><code>joe cell/</code> ★ 报告 §8 安全 + §9 验收；<code>HHO书本精读/06</code> A1–C4 施工稿</td></tr>
     </tbody>
   </table>
