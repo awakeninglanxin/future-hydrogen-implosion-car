@@ -28,3 +28,6 @@ _archive/
 Lyne原子氢技术/_原页核对/
 Lyne原子氢技术/_p125核对/*.png
 Lyne原子氢技术/_p125核对/*.jpeg
+
+# ima 抓取中间产物（原始转义 JSON，正文快照 txt 已另存）
+**/_ima笔记/_raw.json
