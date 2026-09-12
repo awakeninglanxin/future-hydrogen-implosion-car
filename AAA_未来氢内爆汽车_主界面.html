@@ -265,8 +265,8 @@ footer{margin-top:60px;padding:26px 0;border-top:1px solid var(--line);
   <div class="grid g3">
     <div class="blk">
       <h4>joe cell</h4>
-      <p>Joe Cell 考据主线 + 可行性论证报告（718 行）。含「三种氢之辨」「单质氢两种变体」「变体配对检验」「内爆变负压」「零柴油两条路线之辨」「引擎洗净」等 15 份导读。</p>
-      <div class="meta">16 份 md（15 导读 + 报告）</div>
+      <p>Joe Cell 考据主线 + 可行性论证报告（718 行）。含「三种氢之辨」「单质氢两种变体」「变体配对检验」「内爆变负压」「零柴油两条路线之辨」「引擎洗净」「JCB 448 ABH2 技术拆解」等 16 份导读。</p>
+      <div class="meta">17 份 md（16 导读 + 报告）</div>
     </div>
     <div class="blk">
       <h4>Lyne 原子氢技术</h4>
@@ -503,7 +503,7 @@ footer{margin-top:60px;padding:26px 0;border-top:1px solid var(--line);
 <!-- ============ §2 Joe Cell ============ -->
 <section id="s2">
   <h2><span class="n">02</span>Joe Cell：一个「不耗水的免费能源」主张的完整裁决</h2>
-  <p class="sec-sub">板块路径 <code>joe cell/</code> · 16 份 md（15 导读 + 718 行正式交付报告）· 核心方法：把体积收缩的真实现象，和净能量账目分开算。</p>
+  <p class="sec-sub">板块路径 <code>joe cell/</code> · 17 份 md（16 导读 + 718 行正式交付报告）· 核心方法：把体积收缩的真实现象，和净能量账目分开算。</p>
 
   <h3>2.1 三项可行性裁决</h3>
   <table>
@@ -1909,7 +1909,7 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
     · 氢 HCCI 更能说明问题：它<b>保留柴油机压缩点火的本体</b>，代价是必须加一个
       <b>1 kW 进气加热器</b> —— 这 1 kW 就是它的「启动成本」，是真金白银的电。<br>
     ★ 所以：<b>「零柴油」不是问题；「氢从哪来」才是问题。</b><br>
-    ★★ 而 JCB 用 <b>700 bar 车载氢罐</b> —— 氢是<b>外部充装</b>的，不是车上自己变的。
+    ★★ 而 JCB 用 <b>350 bar 车载氢罐</b>（加注 500 bar、进机 20 bar）—— 氢是<b>外部充装</b>的，不是车上自己变的。
     这一点与 Joe Cell 的「车上自产免费氢」<b>根本不同</b>。
   </div>
 
@@ -1991,8 +1991,30 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
     「清洗」<b>仅 1 处命中且指的是电池筒</b>（短路后重新抛光清洗），<b>引擎 0 命中</b>。
     ⇒ 这是<b>老师独立提出的要求</b>，不能表述为「Joe Cell 原文要求」。<br>
     ② 这些<b>都不救</b> Joe Cell 的<b>免费能源 + 内爆负压</b>主张 ——
-    JCB 的氢来自 <b>700 bar 外部充装氢罐</b>，氢 HCCI 的 <b>1 kW 进气加热器是真电耗</b>。<br>
+    JCB 的氢来自 <b>350 bar 外部充装氢罐</b>（加注用 500 bar 压差，进机降到 20 bar），氢 HCCI 的 <b>1 kW 进气加热器是真电耗</b>。<br>
     <b>机制层不成立；路线层（零柴油）另有主流解。</b>
+  </div>
+
+  <div class="note note-ok">
+    <b>★ 主流实证模板：JCB 448 ABH2 —— 一台「能买到」的零柴油氢机</b><br>
+    JCB（英国）花了 <b>&gt;£100M、150 名工程师、&gt;5 年</b>，把一台 4.8 L 柴油机
+    <b>从上往下重新造了一遍</b>才做到零柴油：<b>4 处改 + 4 处换</b> ——
+    <b>加火花塞</b>（4 缸各 1 支、独立点火线圈，源自赛车）／<b>改缸盖</b>／<b>改活塞</b>／
+    <b>重做进气</b>（涡流+滚流「swumble」）／<b>换涡轮</b>（VGT 极高转速）／
+    ★ <b>换机油</b>（工程师原话：<i>oil (must not react with steam)</i>）／<b>换控制系统</b>／
+    <b>改喷氢方式</b>（一代 <b>PFI 进气道喷射</b>）。<br>
+    下半部分（缸体／曲轴箱／曲轴／连杆）照搬柴油机 —— <b>分界线非常干净</b>。<br>
+    <b>性能</b>：55 kW、440 N·m @1150 r/min（与柴油机持平），
+    却做到 <b>CO₂ = 0、HC = 0、SOx = 0、不需任何后处理</b>。<br>
+    <b>★ 三级压力链</b>（本页此前写作「700 bar」，<b>已更正</b>）：
+    加注车／储罐 <b>500 bar</b> ⇒ 车载氢罐 <b>350 bar</b> ⇒ 进机前降到 <b>20 bar</b>。
+    加注靠<b>压差免泵</b>（复算：储罐容积须 ≥ 车罐的 <b>2.33 倍</b>，这就是储罐为什么是 500 而非 350）。<br>
+    ★ <b>28 ms 混合窗口</b>（JCB 原话：「在<b>仅仅 28 毫秒</b>内完成均质混合」，做了近
+    <b>160 次 CFD</b>）—— 复算可知它是<b>时间受控</b>的：转速越高、一转越短，
+    28 ms 对应转速上限约 <b>2143 r/min</b>；JCB 把峰值扭矩点定在 <b>1150 r/min</b> 只用掉一转的 <b>54%</b>。
+    ⇒ 这解释了它为什么是一台<b>低速大扭矩</b>机器，也说明了直喷是它的升级方向。<br>
+    ⇒ 完整拆解见 <code>joe cell/15_JCB448ABH2技术拆解.md</code>；
+    复算见 <code>_复算22_JCB448ABH2参数核对.py</code>（23 项，0 异常）。
   </div>
 
   <div class="note note-info">
@@ -2290,7 +2312,7 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
     氢 HCCI 用 CR18+预热 100 °C 或 CR21.2+1 kW 加热器也能零柴油运行。
     ⇒ <b>「零柴油」不是问题，「氢从哪来」才是问题。</b><br>
     <b>③ 但这不救 Joe Cell 的免费能源主张：</b>
-    JCB 靠 <b>700 bar 车载氢罐</b>（氢是外部充装的）；氢 HCCI 靠 <b>1 kW 进气加热器</b>（真电耗）。
+    JCB 靠 <b>350 bar 车载氢罐</b>（氢是外部充装的，加注 500 bar）；氢 HCCI 靠 <b>1 kW 进气加热器</b>（真电耗）。
     ⇒ <b>机制层（电解自持 + 内爆负压）不成立；路线层（零柴油）另有主流解。</b><br>
     <span class="cm">复算脚本：<code>_复算20_零柴油氢发动机.py</code></span>
   </div>
@@ -2384,7 +2406,8 @@ python _复算19_内爆负压与混合比.py
 python _复算20_零柴油氢发动机.py
 
 <span class="cm"># 「引擎内要洗干净」的热点物理：MIE/自燃闸门/热响应/氢脱碳（§11.0.3 的底稿）</span>
-python _复算21_引擎洗净的热点物理.py</pre>
+python _复算21_引擎洗净的热点物理.py
+python _复算22_JCB448ABH2参数核对.py</pre>
     <p style="margin-bottom:0;font-size:14px;color:var(--ink2)">
       <strong>环境要求</strong>：Python 3.8+，<strong>零第三方依赖</strong>（除 PDF 提取需 <code>pymupdf</code>）。
     </p>
@@ -2404,6 +2427,7 @@ python _复算21_引擎洗净的热点物理.py</pre>
       <tr><td>追问 <strong>「零柴油能不能做到」</strong></td><td><code>joe cell/13_零柴油氢发动机_两条路线之辨.md</code>（本页 §11.0 的完整版）</td></tr>
       <tr><td>看 <strong>Joe Cell 与掺氢到底什么关系</strong></td><td><code>joe cell/13</code> §五（★ 本轮的更正说明）</td></tr>
       <tr><td>想知道 <strong>「引擎内洗干净」到底要洗什么</strong></td><td><code>joe cell/14_引擎洗净的工作定义与操作清单.md</code>（本页 §11.0.3 完整版：三类目标 + 六条判据 C1–C6）</td></tr>
+      <tr><td>想看 <strong>一台「能买到的」零柴油氢机长什么样</strong></td><td><code>joe cell/15_JCB448ABH2技术拆解.md</code>（4 处改 4 处换 + 三级压力链 500/350/20 bar + 28 ms 混合窗口）</td></tr>
       <tr><td><strong>想动手</strong></td><td><code>joe cell/</code> ★ 报告 §8 安全 + §9 验收；<code>HHO书本精读/06</code> A1–C4 施工稿</td></tr>
     </tbody>
   </table>
