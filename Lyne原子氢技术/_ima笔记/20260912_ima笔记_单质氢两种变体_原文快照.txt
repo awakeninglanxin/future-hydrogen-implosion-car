@@ -1,0 +1,281 @@
+- generic
+  - generic [ref=e1] clickable [onclick]
+    - generic
+      - generic
+        - generic [ref=e3] clickable [cursor:pointer, onclick]
+          - StaticText "关于ima"
+        - generic [ref=e4] clickable [cursor:pointer, onclick]
+          - image
+          - StaticText "下载电脑版"
+      - generic
+        - StaticText "单质氢的两种变体（Variety 1 与 Variety 2..."
+        - generic
+          - StaticText "创建人：🙏明锜🤲"
+        - generic
+          - StaticText "更新时间：2026.09.11 23:41"
+        - generic
+        - generic
+          - generic
+            - generic [ref=e5] clickable [onclick]
+              - heading "单质氢的两种变体（Variety 1 与 Variety 2）" [level=1, ref=e6]
+              - generic
+                - StaticText "您对基本数据的把握是准确的——两种氢 MPA 的正负 Anu 数正是 "
+                - strong
+                  - StaticText "9正/9负"
+                - StaticText " 与 "
+                - strong
+                  - StaticText "10正/8负"
+                - StaticText "。下面按知识库资料详细介绍，最后再讨论您提出的“中子/质子”对应假设。"
+              - generic
+                - separator
+              - heading "一、发现背景" [level=2, ref=e7]
+              - table
+                - row
+                  - cell "时间" [ref=e16]
+                    - strong
+                      - StaticText "时间"
+                  - cell "事件" [ref=e17]
+                    - strong
+                      - StaticText "事件"
+                - row
+                  - cell "1895" [ref=e18]
+                    - StaticText "1895"
+                  - cell "首次观察氢原子：卵形物体，含 18 个 Anu，排成 6 组、每组 3 个（两个交错三角形）" [ref=e19]
+                    - StaticText "首次观察氢原子：卵形物体，含 18 个 Anu，排成 6 组、每组 3 个（两个交错三角形）"
+                - row
+                  - cell "1908" [ref=e20]
+                    - StaticText "1908"
+                  - cell "给出氢两半的示意图，但未记录每组三 Anu 中的正负类型，当时以为所有氢原子都相同" [ref=e21]
+                    - generic
+                      - StaticText "给出氢两半的示意图，但"
+                      - strong
+                        - StaticText "未记录"
+                      - StaticText "每组三 Anu 中的正负类型，当时以为所有氢原子都相同"
+                - row
+                  - cell "1932" [ref=e22]
+                    - strong
+                      - StaticText "1932"
+                  - cell "在检查水分子（H₂O）中的两个氢原子时，发现了第二种氢变体" [ref=e23]
+                    - generic
+                      - StaticText "在检查"
+                      - strong
+                        - StaticText "水分子（H₂O）中的两个氢原子"
+                      - StaticText "时，发现了第二种氢变体"
+              - blockquote
+                - generic
+                  - StaticText "关键结论（知识库原文）："
+                  - strong
+                    - StaticText "“在水分子 H₂O 中，一个氢原子属于第一种变体，另一个属于第二种变体。”"
+                  - StaticText " 即一分子水中两种氢各占其一。"
+              - generic
+                - separator
+              - heading "二、两种变体的结构对比" [level=2, ref=e8]
+              - generic
+                - StaticText "两种变体都由 "
+                - strong
+                  - StaticText "18 个 Anu 组成"
+                - StaticText "，排列为 6 个 H₃ 三重态（小球体），构成"
+                - strong
+                  - StaticText "两个交错的三角形"
+                - StaticText "（“氢三角”），包裹在卵形中。区别在于正负 Anu 的分布："
+              - table
+                - row
+                  - cell "项目" [ref=e24]
+                    - strong
+                      - StaticText "项目"
+                  - cell "变体 1（Variety 1）" [ref=e25]
+                    - strong
+                      - StaticText "变体 1（Variety 1）"
+                  - cell "变体 2（Variety 2）" [ref=e26]
+                    - strong
+                      - StaticText "变体 2（Variety 2）"
+                - row
+                  - cell "正 Anu 总数" [ref=e27]
+                    - StaticText "正 Anu 总数"
+                  - cell "9" [ref=e28]
+                    - StaticText "9"
+                  - cell "10" [ref=e29]
+                    - strong
+                      - StaticText "10"
+                - row
+                  - cell "负 Anu 总数" [ref=e30]
+                    - StaticText "负 Anu 总数"
+                  - cell "9" [ref=e31]
+                    - StaticText "9"
+                  - cell "8" [ref=e32]
+                    - strong
+                      - StaticText "8"
+                - row
+                  - cell "电性总体" [ref=e33]
+                    - StaticText "电性总体"
+                  - cell "正负平衡（中性倾向）" [ref=e34]
+                    - StaticText "正负平衡（中性倾向）"
+                  - cell "偏正（predominatingly positive）" [ref=e35]
+                    - strong
+                      - StaticText "偏正（predominatingly positive）"
+                - row
+                  - cell "正半三角（氢三角）" [ref=e36]
+                    - StaticText "正半三角（氢三角）"
+                  - cell "5 正 + 4 负" [ref=e37]
+                    - strong
+                      - StaticText "5 正 + 4 负"
+                  - cell "6 正 + 3 负（据 Phillips 记录）" [ref=e38]
+                    - generic
+                      - strong
+                        - StaticText "6 正 + 3 负"
+                      - StaticText "（据 Phillips 记录）"
+                - row
+                  - cell "负半三角（氢三角）" [ref=e39]
+                    - StaticText "负半三角（氢三角）"
+                  - cell "4 正 + 5 负" [ref=e40]
+                    - strong
+                      - StaticText "4 正 + 5 负"
+                  - cell "4 正 + 5 负" [ref=e41]
+                    - strong
+                      - StaticText "4 正 + 5 负"
+                - row
+                  - cell "公式" [ref=e42]
+                    - StaticText "公式"
+                  - cell "Hydrogen = (2H₃′ + H₃) + (3H₃)" [ref=e43]
+                    - StaticText "Hydrogen = (2H₃′ + H₃) + (3H₃)"
+                  - cell "同左，但 Anu 正负配比不同" [ref=e44]
+                    - StaticText "同左，但 Anu 正负配比不同"
+                - row
+                  - cell "重量数" [ref=e45]
+                    - StaticText "重量数"
+                  - cell "18/18 = 1.00" [ref=e46]
+                    - StaticText "18/18 = 1.00"
+                  - cell "—" [ref=e47]
+                    - StaticText "—"
+              - heading "罕见变体补充" [level=3, ref=e9]
+              - generic
+                - StaticText "在《神秘化学》"
+                - strong
+                  - StaticText "初版"
+                - StaticText "（图2）中，曾绘有一种排列：两个“线性三重态”（三个 Anu 排成直线，记号 H₃′）分列于两个大三角形中各一个。但 "
+                - strong
+                  - StaticText "Leadbeater 在 1932 年并未观察到这种排列，它似乎很罕见"
+                - StaticText "。常见的排列（图16）是：一个大三角形中三个小组全是三角形排列，另一个大三角形中两组为直线排列、一组为三角形排列。"
+              - generic
+                - separator
+              - heading "三、氘（Deuterium）的旁证" [level=2, ref=e10]
+              - generic
+                - StaticText "在水电解观察中，曾见到极少数"
+                - strong
+                  - StaticText "两个氢原子暂时结合"
+                - StaticText "的例子——两种变体彼此成直角排列（图18），总重量是普通氢的两倍，“这正是氘所需要的”。Phillips 后来指出，1932 年报道的 36-UPA 物体“Adyarium”很可能就是氘的 MPA（Urey 前一年刚发现氘）。"
+              - generic
+                - separator
+              - heading "四、关于您的“中子/质子”假设——需要商榷" [level=2, ref=e11]
+              - generic
+                - StaticText "您的猜测很有想象力，但按知识库中 "
+                - strong
+                  - StaticText "Stephen Phillips（1980，《夸克的超感官知觉》）的重新诠释"
+                - StaticText "，结论恰好不同："
+              - heading "1. 两种变体都被解读为“两个质子”，而非“中子+质子”" [level=3, ref=e12]
+              - StaticText "Phillips 的鉴定链是："
+              - list
+                - listitem [level=1]
+                  - generic
+                    - strong
+                      - StaticText "氢三角（Hydrogen Triangle）"
+                    - StaticText " = 质子（两个三角形 = 两个质子）"
+              - list
+                - listitem [level=1]
+                  - generic
+                    - strong
+                      - StaticText "氢三重态（H₃）"
+                    - StaticText " = 夸克（u 或 d）"
+              - list
+                - listitem [level=1]
+                  - generic
+                    - strong
+                      - StaticText "单个 Anu（UPA）"
+                    - StaticText " = 欧米茄粒子（omegon，亚夸克级磁单极子）"
+              - generic
+                - StaticText "MPA 实际上是微灵视检查"
+                - strong
+                  - StaticText "氢分子"
+                - StaticText "时，由"
+                - strong
+                  - StaticText "分子中的两个质子"
+                - StaticText "形成的系统——观测行为破坏了质子内希格斯场的涡旋，夸克解体为自由欧米茄后重新组合，两个质子的涡旋弦互锁，形成稳定的双质子结构（不是不稳定的自由双质子态）。"
+              - heading "2. 两种变体的区别被解释为“磁荷重排”，而非核子种类不同" [level=3, ref=e13]
+              - table
+                - row
+                  - cell "变体" [ref=e48]
+                    - strong
+                      - StaticText "变体"
+                  - cell "Phillips 的解释" [ref=e49]
+                    - strong
+                      - StaticText "Phillips 的解释"
+                - row
+                  - cell "变体 1（9+/9−）" [ref=e50]
+                    - StaticText "变体 1（9+/9−）"
+                  - cell "两个质子分别由 5(+)/4(−) 和 4(+)/5(−) 的三角构成——两个质子磁荷不同" [ref=e51]
+                    - generic
+                      - StaticText "两个质子分别由 5(+)/4(−) 和 4(+)/5(−) 的三角构成——两个质子磁荷"
+                      - strong
+                        - StaticText "不同"
+                - row
+                  - cell "变体 2（10+/8−）" [ref=e52]
+                    - StaticText "变体 2（10+/8−）"
+                  - cell "原本两个质子都含 5(+)/4(−)（图7.14“相同磁荷的质子形成氢品种2”），观测过程中一个磁荷 +1 的 P-omegon 被磁荷 −2 的 omegon 替换，故总配比变为 10+/8−" [ref=e53]
+                    - generic
+                      - StaticText "原本两个质子都含 5(+)/4(−)（图7.14“相同磁荷的质子形成氢品种2”），观测过程中"
+                      - strong
+                        - StaticText "一个磁荷 +1 的 P-omegon 被磁荷 −2 的 omegon 替换"
+                      - StaticText "，故总配比变为 10+/8−"
+              - heading "3. “中子”在Phillips图中的身份" [level=3, ref=e14]
+              - generic
+                - StaticText "按 Phillips 的图表（图3/图4），中子是 "
+                - strong
+                  - StaticText "u-u-d 夸克构成"
+                - StaticText "的独立结构，与氢 MPA 的两种三角形（质子构型）是分开讨论的。他还特别指出：图5右侧那个 4(+)/5(−) 的三角形虽与左侧 5(+)/4(−) 者不同，"
+                - strong
+                  - StaticText "但两者都对应质子"
+                - StaticText "——“从深处看，自然很少是简单的”。"
+              - generic
+                - separator
+              - heading "五、结论" [level=2, ref=e15]
+              - table
+                - row
+                  - cell "您的假设" [ref=e54]
+                    - strong
+                      - StaticText "您的假设"
+                  - cell "知识库记载" [ref=e55]
+                    - strong
+                      - StaticText "知识库记载"
+                - row
+                  - cell "9+/9− 变体 ≈ 被误认的中子" [ref=e56]
+                    - StaticText "9+/9− 变体 ≈ 被误认的中子"
+                  - cell "❌ Phillips 释为两个磁荷不同的质子（来自氢分子）" [ref=e57]
+                    - generic
+                      - StaticText "❌ Phillips 释为"
+                      - strong
+                        - StaticText "两个磁荷不同的质子"
+                      - StaticText "（来自氢分子）"
+                - row
+                  - cell "10+/8− 变体 ≈ 被误认的质子" [ref=e58]
+                    - StaticText "10+/8− 变体 ≈ 被误认的质子"
+                  - cell "⚠️ 部分接近：它确实被释为质子系统，但是两个质子（互锁涡旋弦束缚），且与变体1的区别在于磁荷重排，而非质子/中子之别" [ref=e59]
+                    - generic
+                      - StaticText "⚠️ 部分接近：它确实被释为质子系统，但是"
+                      - strong
+                        - StaticText "两个"
+                      - StaticText "质子（互锁涡旋弦束缚），且与变体1的区别在于"
+                      - strong
+                        - StaticText "磁荷重排"
+                      - StaticText "，而非质子/中子之别"
+              - generic
+                - StaticText "顺带一提：Besant 与 Leadbeater 本人根本没有“质子/中子”概念（中子1932年才被发现，他们的观察恰在这一年结束），他们的原始表述只是“氢的两种变体”——"
+                - strong
+                  - StaticText "“夸克化”解读全部是半个世纪后 Phillips 的工作"
+                - StaticText "。您如果想深挖这个“误认”问题，知识库中《ESP of Quarks》第7章对两种变体的形成机制有最详细的讨论。"
+            - StaticText "剩余内容请打开app查看"
+      - contentinfo
+        - generic [ref=e2] clickable [cursor:pointer, onclick]
+          - image
+          - StaticText "去 ima 查看全文"
+          - StaticText "边写边问，智能写作"
+  - image
