@@ -247,6 +247,7 @@ python _复算28_圆锥角与胡夫金字塔.py
 | 想知道 **「内爆/外爆」到底是什么** | ★ `joe cell/26_内爆与外爆_Schauberger与氢弹原理.md`（**内爆=负压坍塌／外爆=膨胀** ＋ Schauberger「先向心后离心」＋ **氢弹两阶段（辐射内爆→爆发）** ＋ ASTRO 佐证） |
 | 想读 **第三批视频材料（含超导出处）** | ★ `joe cell/27_第三批收录_talks全集与四大演讲_超导出处.md`（**talks 1-8 全集** ＋ Vernon Roth／ASTRO／Moshe Daniel 演讲 ＋ **「超导」第一手出处**） |
 | 想深挖 **Vernon Roth（Schauberger+Тесла 路线的核心演讲者）** | ★ `joe cell/28_VernonRoth专项深挖_内爆谱系档案.md`（人物档案 ＋ **2007《内爆、炼金与宇宙发动机》** ＋ **Type 3 室温超导** ＋ 炼金氢 B1–B9） |
+| 想读 **Joe 的 60 分钟答问 + Peter Stevens 频道档案** | ★ `joe cell/29_AIR系列收录_PeterStevens频道_Joe答问.md`（**waste spark = 内爆** ＋ **90° 尖峰** ＋ **「cold implosion」** ＋ Bill Williams 的 **1.5V 电池** ＋ ASTRO「**200 RPM 比 800 转还顺**」） |
 | **想动手** | `joe cell/` ★ 报告 §8 安全 + §9 验收；`HHO书本精读/06` A1–C4 施工稿 |
 
 ---
