@@ -1,0 +1,41 @@
+[16:14:13] ========================================================
+[16:14:13] 哨兵启动：最多 25 次检测，间隔 55 秒（覆盖约 22 分钟）
+[16:14:24] 第 1/25 次检测：代理未恢复
+[16:15:29] 第 2/25 次检测：代理未恢复
+[16:16:34] 第 3/25 次检测：代理未恢复
+[16:17:39] 第 4/25 次检测：代理未恢复
+[16:18:44] 第 5/25 次检测：代理未恢复
+[16:19:49] 第 6/25 次检测：代理未恢复
+[16:20:46] ★★★ 代理已恢复！开始下载 8 条磁现象系列字幕...
+[16:21:40] 下载输出（末 30 行）：
+[16:21:40]   ✓ 字幕文件已生成 (1 个):
+[16:21:40]     - A I R Peter Stevens with Joe about Magnetic 2011.en.srt (19,487 bytes)
+[16:21:40]   
+[16:21:40]   [8/8] https://www.youtube.com/watch?v=kUUwNpCxjCA
+[16:21:40]   [youtube] kUUwNpCxjCA: Downloading webpage
+[16:21:40]   [youtube] kUUwNpCxjCA: Downloading visionos player API JSON
+[16:21:40]   [youtube] kUUwNpCxjCA: Downloading m3u8 information
+[16:21:40]   [info] kUUwNpCxjCA: Downloading subtitles: en
+[16:21:40]   [youtube] Extracting URL: https://www.youtube.com/watch?v=kUUwNpCxjCA
+[16:21:40]   
+[16:21:40]   ============================================================
+[16:21:40]   标题: A I R Peter Stevens with Joe all about magnetics 25 Feb 2012
+[16:21:40]   字幕语言: en
+[16:21:40]   输出目录: .
+[16:21:40]   ============================================================
+[16:21:40]   [youtube] kUUwNpCxjCA: Downloading webpage
+[16:21:40]   [youtube] kUUwNpCxjCA: Downloading visionos player API JSON
+[16:21:40]   [youtube] kUUwNpCxjCA: Downloading m3u8 information
+[16:21:40]   [info] kUUwNpCxjCA: Downloading subtitles: en
+[16:21:40]   [info] kUUwNpCxjCA: Downloading 1 format(s): 134+251
+[16:21:40]   [info] Writing video subtitles to: A I R Peter Stevens with Joe all about magnetics 25 Feb 2012.en.srt
+[16:21:40]   [download] Destination: A I R Peter Stevens with Joe all about magnetics 25 Feb 2012.en.srt
+[16:21:40]   [download]    1.00KiB at  740.65KiB/s (00:00:00)[download]    3.00KiB at  181.16KiB/s (00:00:00)[download]    7.00KiB at  376.82KiB/s (00:00:01)[download]    8.55KiB at  339.39KiB/s (00:00:01)[download] 100% of    8.55KiB in 00:00:01 at 8.31KiB/s
+[16:21:40]   
+[16:21:40]   ✓ 字幕文件已生成 (2 个):
+[16:21:40]     - A I R Peter Stevens with Joe about Magnetic 2011.en.srt (19,487 bytes)
+[16:21:40]     - A I R Peter Stevens with Joe all about magnetics 25 Feb 2012.en.srt (8,760 bytes)
+[16:21:40]   
+[16:21:40]   批量完成: 8/8 成功
+[16:21:40]   
+[16:21:40] 哨兵任务结束
