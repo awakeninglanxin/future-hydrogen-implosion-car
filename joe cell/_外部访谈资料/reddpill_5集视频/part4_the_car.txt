@@ -1,0 +1,304 @@
+Here we are talking about talking but
+also researching water fuel process in
+uh a place in Australia which we will
+remain nameless just for now. And this
+is the car and this is the engine of
+course. Well, what we've got here today
+is what we saw the other day, a water
+fuel cell,
+as you can see, zooming
+in. And I figured a good picture on
+that. There's um mesh in there, a core,
+three three
+um meshes in there, a center electrode,
+negative or positive, doesn't matter.
+And then a floating unit that's not
+connected, it's insulated from
+everything else. And then an outer mesh
+filled with water, a teaspoon of costic
+in about 4 L. So this is about 1/4
+teaspoon to 2
+L. Um here we'll see the gauge is a
+vacuum gauge. The maximum the vacuum
+runs in that direction as it increases.
+The tube here runs flexibly all the way
+in and under the um cabby where
+the where the normal um breather off the
+manifold comes in. I'll just get a shot
+of that
+round coming in underneath there. If you
+can see that with that back
+light. Anyway,
+so what we're going to do is kick the
+engine over. Then we'll do a reading off
+the vacuum. Then we're going to read off
+this
+um volt meter. It comes on about 13
+volts and then then decays.
+Now this unit will work under as long as
+a vacuum is
+connected and produce
+gas without being electrically
+connected. Now we're going to
+electrically connect
+it and you see a lot more
+gas. 13 volts
+approximately. So now we'll connect the
+voltmeter up.
+You come and hold the ball around
+please.
+Peter fingers up. The fingers are
+Peter Peter
+fingers. Focus on the voltmeter. 8 75
+74 13.7.
+Now
+disconnecting. It's dropping down to I
+said
+1.3. That was quick.
+Now you got 1.2 vols. There's still
+bubbles being formed in the chamber
+there in the
+cell. 1.14 vol. Still gas coming
+out. There's no connection on the
+battery there.
+down to 1.01
+volts.
+Okay. All right. stabilizing about 170
+milliamps. About 10 minutes later after
+we charged it and it dropped down to
+below 1 volt now the 700 should drop
+down
+to 70. We'll check it again in a minute
+or
+two. Okay,
+it's the voltmeter is reading 700 m
+volts. Now
+this stage this unit's charged. It will
+apparently um pick up the the vapor very
+very quickly uh because we've charged
+it. It's now HOH
+um hydrogen oxygen and hydrogen easily
+separate. I'll just touch it so that you
+can see it coming away from the actual
+unit. See how that producing there. And
+now I just touch the uh the ignition.
+That's still connected. I'll now
+disconnect. Watch
+the produces exactly what you require at
+the time.
+The worst part about this is that you're
+now getting more water out these doors,
+which you could in fact recirculate and
+make the unit operate fully.
+Yeah, but it's no good. No, blow
+yourself up with that. What do you
+actually wire it up to then? Nothing.
+Cuz it's
+char about 5 minutes before
+that's producing its own gas. See the
+gas? Yeah. And when you hook it up to
+original battery, then your water fills
+full of
+See how that vapor immediately comes
+off.
+That's what my
+unit. You will get heaps more vapor when
+you have a stainless steel outside.
+Yeah. Understand? But just for the
+practical purpose of being able to see
+it. Yeah.
+That's now with it now connected.
+Oh, that's not good. See, actually that
+that verifies my idea on these
+extendable
+units because you can see that it's only
+using steel the gas what it is pulling
+off under its own. You see? And it's not
+using any of it. Yeah. See that? That
+means that when you have a flexible
+unit, the gas you produce with current
+expans a pressure
+gauge means that you you haven't got
+your vacuum lift on the water. Right.
+Yeah. Right. When you got a solid
+container, you can lift that amount of
+water clean out through the top because
+you take off your vacuum there. You got
+pressure because the lid is pressurized.
+Does that make sense? Yeah. Good. Cuz
+you can just take all
+that amount of places straight in under
+the
+unit where your venturi
+lead your motor goes directly under your
+throttle under your car.
+We we're putting the gas directly in
+where the exhaust gas uh or the bypass
+blow gas that comes from the top of the
+motor goes directly under your your
+throttle. It's um under the carburetor
+so that you've got maximum vacuum
+directly into the motor.
+Okay. the with um with the vacuum gas
+and everything else you you have to have
+gas to motor usage air and gas um intake
+of air and gas to the um exact fine
+critical point. It's a hair whisker
+flying. The same as the distributor.
+When you cut off your petrol and go to
+your gas on petrol, you can turn your
+distributor like that and it hardly does
+anything to your motor. Mhm. When you
+put the gas on, you move it,
+not even the width of a piece of foam
+and
+paper. And your motor will shake like
+anything or shape like anything either
+way. And you have to hit that exact
+point or else you won't get your
+efficiency. You won't get your motor to
+run. a distributor. The distributor has
+to come when you cut off your petrol. If
+you run petrol by itself, you are you
+set at your normal um whatever it is 8°
+or whatever. Um if you um if you hook up
+the petrol and gas, you would then
+instead of eight, you would come up to
+say about 15 12 to 15. When you cut out
+petrol all together, you would come from
+15 up to somewhere in about 25 to 30,
+maybe more. depends on the the vehicle.
+Whatever vehicle is all different by
+that, but you have to come straight
+around to that. You can start it at your
+30° advance
+um with your gas off your ignition and
+she will start like that first go. If
+you go back to one drop of petrol with
+the gas, she will go like the timing is
+too far advanced like normal. Right? So,
+if you go back to your petrol, she's too
+far advanced. If you're on the gas,
+she'll pearl over like she's just
+starting on normal petrol. So, it's that
+critical of alignment. And when you mix
+with your vacuum and everything, you
+have to get your right gas to your right
+air with the G with hydrogen oxygen back
+in. And if you don't get that, it's that
+critical that she won't go either.
+We're all in experimental stage, right?
+I'm not going into it, but I have had a
+Rover 3500 V8 with twin carbish zenith
+same as SU carbage running and that was
+where the
+soly I didn't understand why the vehicle
+seemed to start and run perfectly when
+nobody else seems to be able to hit it
+was a P76 V8. Now the whole motor on it
+is open. It has an open dipstick. It has
+an open oil cap. It has a open motor. It
+has a a petrol pump on the bottom which
+has two little breather holes in it and
+they are open which air goes to the sun.
+Now I have never had it running on a
+solid stainless hydrogen unit because
+two things happened. I've had it running
+on a polyine unit with plates in it
+which you have on tape and that unit
+expanded when you powered on it
+expanded. There was a pressure there
+when I first hooked it up hooked up to
+the motor. The motor polluted 10 times
+worse than on petrol. 10 times worse and
+it had a pressure. It was pressurizing
+the sump out, but it was dangerous
+hooking up to a polyine unit or an
+expandable unit or a contracting one of
+any sort, whether it's stainless and it
+can expand under under acceleration or
+anything. It's dangerous. It'll blow
+up. So, the the Rover V8 uh the the
+sorry, it run I went from Casino to
+Lismo and back again polluting in the
+motor itself all the way. But I don't
+know why you can blow yourself up
+because that unit was expanding under
+acceleration. The unit just expanded
+out. If that gas can get out anywhere,
+you're gone. The car, everything around
+gone. With a solid unit, it does the
+opposite.
+The solid unit has a vacuum to the sump.
+Gives you tremendous power. Gives you
+tremendous backing off and gives you
+smooth running economy and no danger. No
+pollution. No pollution in the motor or
+out the exhaust at all. None. We've had
+readings on that. We put it over a
+analyzer and it don't
+read. You put a polyine unit on and you
+get the opposite effect. You get a
+pressure in your sump which then blows
+fumes and smoke and soot and out.
+But it also pressurizes a unit. It also
+makes everything wrong. Wrong way to go.
+So they're the two things I've had that
+I've made a few units. I've made polyine
+ones. I've made um stainless steel ones.
+I've made stainless steel ones. What can
+extend under? And they're very very very
+dangerous. polytheine ones don't seem to
+be as dangerous, but no one in the
+world's going to get me to run it one
+again. So, the idea would be to have a
+stainless steel uh cylinder and put some
+neutral plates.
+You know what I mean? Neutral tubes.
+Yeah, we've explained that on the um the
+video before. Yeah, it's already
+explained. So, that's what you know what
+to look at when I say that. that then
+will give you what you need because if
+you don't do that then you have big
+units like what you have here now and so
+on. You're going to use a lot of
+amperage. Um you're going to flatten
+batteries. It's not going to do what you
+want. You're going to end up in trouble
+that way. I've already had those big
+ones running and 10 minutes you flatten
+the battery and drown the alternator.
+Every bit of That's if you don't have
+the neutral plates in it or if you
+That's if you don't. But if you do it
+come smaller units like you. But what
+about in the big units? Can you put can
+we put floaters in there and bring it
+down to five or seven amps or something?
+You in big you can. I don't care how big
+you make them. You can put as long as
+you got floaters in there. You bring the
+amperage down. You bring the ampage
+down. So the current seems to go from a
+positive and a negative. And instead of
+staying at that whatever it's going to
+use or pull or whatever, it then seems
+to break them down and bring them back
+the opposite way, but produces twice the
+gas. You've already seen that on video.
+It shows you put a neutral one in there,
+you use a lot of amperage. I mean, you
+put positive and negative, just single
+plates. You use a lot of
+amperage and you don't seem to get off
+the gas you want. So the idea will be if
+you are trying to run a vehicle and use
+a a positive and a negative in it just
+singly, you're going to have to go
+bigger units. But to do that, you're
+going the wrong way because then you
+need heaps of flame in the air, you need
+bigger batteries, you need more current
+to run it. So that isn't the way to go,
+right?

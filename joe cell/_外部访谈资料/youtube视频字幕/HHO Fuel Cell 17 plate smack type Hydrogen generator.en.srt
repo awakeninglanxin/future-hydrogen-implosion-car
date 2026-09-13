@@ -1,0 +1,200 @@
+1
+00:00:09,590 --> 00:00:15,809
+hello everyone this is Richard with
+
+2
+00:00:12,300 --> 00:00:18,930
+hydrogen technology today comm I'm going
+
+3
+00:00:15,809 --> 00:00:20,970
+to revisit this video series just to
+
+4
+00:00:18,930 --> 00:00:24,180
+talk a little bit about my cell and how
+
+5
+00:00:20,970 --> 00:00:25,710
+it operates with the configuration we've
+
+6
+00:00:24,180 --> 00:00:27,930
+spoke about in the past couple of videos
+
+7
+00:00:25,710 --> 00:00:30,119
+in my pickup truck and you know what
+
+8
+00:00:27,930 --> 00:00:32,640
+what formula I use for my electrolyte
+
+9
+00:00:30,119 --> 00:00:33,930
+and things of that nature a little bit
+
+10
+00:00:32,640 --> 00:00:36,809
+about what you're looking at here this
+
+11
+00:00:33,930 --> 00:00:39,000
+is just basically a container from
+
+12
+00:00:36,809 --> 00:00:40,980
+Walmart you know it's a sort of like a
+
+13
+00:00:39,000 --> 00:00:42,570
+mason jar but it's plastic and I can
+
+14
+00:00:40,980 --> 00:00:45,450
+drill through it you can see I've got my
+
+15
+00:00:42,570 --> 00:00:47,579
+my nipple Barb here this is 3/8 and I've
+
+16
+00:00:45,450 --> 00:00:48,899
+got a positive negative connection
+
+17
+00:00:47,579 --> 00:00:51,239
+coming out of there it's all sealed up
+
+18
+00:00:48,899 --> 00:00:52,590
+with I don't use any silicone sealer
+
+19
+00:00:51,239 --> 00:00:54,559
+those are just rubber washers
+
+20
+00:00:52,590 --> 00:00:58,230
+I've got about 16 ounces of water
+
+21
+00:00:54,559 --> 00:01:00,570
+there's mineral water or distilled water
+
+22
+00:00:58,230 --> 00:01:02,750
+and I've got just a little less than a
+
+23
+00:01:00,570 --> 00:01:05,670
+quarter teaspoon of sodium hydroxide
+
+24
+00:01:02,750 --> 00:01:08,430
+this stuff right here that's from Lowe's
+
+25
+00:01:05,670 --> 00:01:11,700
+but eight dollars a jar it'll last
+
+26
+00:01:08,430 --> 00:01:15,439
+pretty much forever we're gonna pull 12
+
+27
+00:01:11,700 --> 00:01:19,560
+volts this cell has been conditioned so
+
+28
+00:01:15,439 --> 00:01:22,680
+meaning it's been ran before many times
+
+29
+00:01:19,560 --> 00:01:24,180
+and it's ready to pretty much what you
+
+30
+00:01:22,680 --> 00:01:26,520
+see it draws what its going to draw
+
+31
+00:01:24,180 --> 00:01:27,840
+forever as far as amperage goes I'm
+
+32
+00:01:26,520 --> 00:01:32,460
+going to go ahead and turn the cell on
+
+33
+00:01:27,840 --> 00:01:37,140
+show you at a Ford f-150 a 2003 with the
+
+34
+00:01:32,460 --> 00:01:42,350
+Triton 5 4 liter engine what I do what I
+
+35
+00:01:37,140 --> 00:01:47,090
+use for hydrogen in my truck and and
+
+36
+00:01:42,350 --> 00:01:49,860
+here we go just going to turn it on and
+
+37
+00:01:47,090 --> 00:01:52,950
+we're on
+
+38
+00:01:49,860 --> 00:01:55,230
+you can pretty much bet that's I've
+
+39
+00:01:52,950 --> 00:01:56,660
+measured that before that's right around
+
+40
+00:01:55,230 --> 00:02:01,290
+two liters a minute
+
+41
+00:01:56,660 --> 00:02:05,330
+little less we're pulling just over 20
+
+42
+00:02:01,290 --> 00:02:08,390
+amps the water does warm up a little bit
+
+43
+00:02:05,330 --> 00:02:11,100
+little more than I'd like I need to
+
+44
+00:02:08,390 --> 00:02:15,000
+rebuild my pulse width modulator to drop
+
+45
+00:02:11,100 --> 00:02:16,350
+that down to around 15 amps because I'm
+
+46
+00:02:15,000 --> 00:02:18,209
+really throwing out a little more
+
+47
+00:02:16,350 --> 00:02:22,310
+hydrogen than my truck needs for an
+
+48
+00:02:18,209 --> 00:02:24,420
+assisted fuel cell but that's my setup
+
+49
+00:02:22,310 --> 00:02:28,220
+we'll go to the truck and I'll show you
+
+50
+00:02:24,420 --> 00:02:28,220
+how I've got it all wired in
+

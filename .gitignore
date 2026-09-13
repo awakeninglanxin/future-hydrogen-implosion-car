@@ -31,3 +31,9 @@ Lyne原子氢技术/_p125核对/*.jpeg
 
 # ima 抓取中间产物（原始转义 JSON，正文快照 txt 已另存）
 **/_ima笔记/_raw.json
+
+# YouTube 视频本体（体积大，不入库；字幕与文本入库）
+joe cell/_外部访谈资料/**/*.mp4
+joe cell/_外部访谈资料/**/*.webm
+joe cell/_外部访谈资料/**/*.m4a
+joe cell/_外部访谈资料/**/*.part

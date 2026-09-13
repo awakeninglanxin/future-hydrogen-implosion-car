@@ -1,0 +1,50 @@
+hello everyone this is Richard with
+hydrogen technology today comm I'm going
+to revisit this video series just to
+talk a little bit about my cell and how
+it operates with the configuration we've
+spoke about in the past couple of videos
+in my pickup truck and you know what
+what formula I use for my electrolyte
+and things of that nature a little bit
+about what you're looking at here this
+is just basically a container from
+Walmart you know it's a sort of like a
+mason jar but it's plastic and I can
+drill through it you can see I've got my
+my nipple Barb here this is 3/8 and I've
+got a positive negative connection
+coming out of there it's all sealed up
+with I don't use any silicone sealer
+those are just rubber washers
+I've got about 16 ounces of water
+there's mineral water or distilled water
+and I've got just a little less than a
+quarter teaspoon of sodium hydroxide
+this stuff right here that's from Lowe's
+but eight dollars a jar it'll last
+pretty much forever we're gonna pull 12
+volts this cell has been conditioned so
+meaning it's been ran before many times
+and it's ready to pretty much what you
+see it draws what its going to draw
+forever as far as amperage goes I'm
+going to go ahead and turn the cell on
+show you at a Ford f-150 a 2003 with the
+Triton 5 4 liter engine what I do what I
+use for hydrogen in my truck and and
+here we go just going to turn it on and
+we're on
+you can pretty much bet that's I've
+measured that before that's right around
+two liters a minute
+little less we're pulling just over 20
+amps the water does warm up a little bit
+little more than I'd like I need to
+rebuild my pulse width modulator to drop
+that down to around 15 amps because I'm
+really throwing out a little more
+hydrogen than my truck needs for an
+assisted fuel cell but that's my setup
+we'll go to the truck and I'll show you
+how I've got it all wired in

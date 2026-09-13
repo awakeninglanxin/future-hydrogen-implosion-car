@@ -1,0 +1,399 @@
+===== HHO Fuel Cell 17 plate smack type Hydrogen generator.en =====
+hello everyone this is Richard with
+hydrogen technology today comm I'm going
+to revisit this video series just to
+talk a little bit about my cell and how
+it operates with the configuration we've
+spoke about in the past couple of videos
+in my pickup truck and you know what
+what formula I use for my electrolyte
+and things of that nature a little bit
+about what you're looking at here this
+is just basically a container from
+Walmart you know it's a sort of like a
+mason jar but it's plastic and I can
+drill through it you can see I've got my
+my nipple Barb here this is 3/8 and I've
+got a positive negative connection
+coming out of there it's all sealed up
+with I don't use any silicone sealer
+those are just rubber washers
+I've got about 16 ounces of water
+there's mineral water or distilled water
+and I've got just a little less than a
+quarter teaspoon of sodium hydroxide
+this stuff right here that's from Lowe's
+but eight dollars a jar it'll last
+pretty much forever we're gonna pull 12
+volts this cell has been conditioned so
+meaning it's been ran before many times
+and it's ready to pretty much what you
+see it draws what its going to draw
+forever as far as amperage goes I'm
+going to go ahead and turn the cell on
+show you at a Ford f-150 a 2003 with the
+Triton 5 4 liter engine what I do what I
+use for hydrogen in my truck and and
+here we go just going to turn it on and
+we're on
+you can pretty much bet that's I've
+measured that before that's right around
+two liters a minute
+little less we're pulling just over 20
+amps the water does warm up a little bit
+little more than I'd like I need to
+rebuild my pulse width modulator to drop
+that down to around 15 amps because I'm
+really throwing out a little more
+hydrogen than my truck needs for an
+assisted fuel cell but that's my setup
+we'll go to the truck and I'll show you
+how I've got it all wired in
+
+===== Hydrogen Generator installed in 2003 Ford 150.en =====
+hello everyone
+this is richard with hydrogen technology
+today.com
+once again final view of the 2003
+f-150 with the triton 5-4 liter motor
+this is my hydrogen assist fuel cell
+installed
+uh you know what i've basically done
+here is dremeled out a little bit of the
+plastic
+that cell fits real snug in there it's a
+very nice fit
+it rests the bottom of it rests right on
+a ledge if you can see that ledge
+and it rides very nicely i've got my
+positive lead
+my negative lead the negative comes
+directly
+from the battery you can get a peek at
+that
+the positive comes directly from my dash
+mounted
+or it's sitting on my dash i should say
+on off switch and we'll follow that wire
+on over into that
+pardon the bad camera work open my door
+up here
+give you a peek at what happens when i
+flip the switch
+there's my module basically it it only
+comes on when the truck is running so
+that's the
+hydrogen on demand part of all this
+go ahead and turn my key you can get a
+look out my window while i do this
+okay key is on and
+notice the the unit is not on which
+means i'm not producing hydrogen i'll go
+ahead and flip that on
+now i'm making some hydrogen pulling
+around 20 amps
+and if i go ahead and kill the power
+this the cell shuts off as well that's a
+nice safety feature you'll want to you
+want to think about doing
+in your install uh something i'd
+recommend
+never install a hydrogen assisted fuel
+cell
+uh into any vehicle uh where it's
+directly wired to the battery that's
+just a really really bad idea
+and also always use at least a bubbler
+which is this guy right there
+prevents flashback basically if this
+carburetor this
+fuel injection system here backfires
+and it's got a lead of hydrogen
+coming from the line the hydrogen just
+like gasoline is going to
+go back into this hose more than likely
+blow up the bubbler
+come back to the fuel cell more than
+likely blow up the fuel cell and
+that won't make a very pretty picture
+for this ford emblem
+so uh that's my setup
+hope you guys got some use out of this
+this is richard with hydrogen technology
+today.com
+visit my website thanks guys bye
+
+===== Hydrogen production - Electrolyte test Tap water vs. Sodium Hydroxide test 2.en =====
+okay this is Richard with hydrogen
+technology today.com in the video just
+before this I showed you this cell uh 17
+plate design running on pure tap water
+it's pulling about 5
+amps uh producing around 5 to six um a
+minute not very much really um you know
+not really ideal um what I do want to do
+though
+is put in a little sodium hydroxide here
+which is the crystal drain opener from
+Lowe's um ideally when you do this you
+measure it out you mix it with a little
+water and uh we're going to do that now
+you got a basically a
+quarter a quarter of a teaspoon here and
+I'm only going to put in about half that
+not very much which really comes out to
+be around an eigh of a
+teaspoon
+so put that in our little sandless Sil
+Cup going to grab us a bottle of
+water uh you want to mix this up
+first you know get it get it good and
+diluted before you add it into your into
+your
+cell uh mix this up
+kind of watch the bubbles here this
+is about uh 60 oz
+of pure water out of a tap we're on a
+well out here and I do have a Culligan
+system so there's some there's some
+enrichment being done to the water but
+uh you know here's the cell 17 plates
+there's the uh amperage I'm just going
+to turn off my my charger here real
+quick and open this
+up uh
+just mix in this sodium
+hydroxide pre miixed you don't want to
+touch this
+stuff that's not a real good
+idea mix it stir
+it I'm trying to be a cameraman and a
+wacko scientist wnab be so here we
+go all right it's going to take the cell
+in and out just make sure that each
+individual plate gets get some liquid in
+between it so we get a good good
+test okay closing it back
+up there two back remember this is an
+eighth of a teaspoon of sodium
+hydroxide so here we go watch the
+cell quite a bit more
+hydrogen pull
+in about 10 amps now also take in
+consideration that this cell has not
+been what's called conditioned um here's
+the results of the bubbles quite a bit
+more coming out
+and as the water becomes more
+active uh and the sodium hydroxide gets
+a little more mixed into this tap water
+we'll pull just a few more amps and
+ultimately this particular
+setup uh will will produce around a
+liter a minute uh below 15 amps if I add
+a little more sodium hydroxide I pull
+more amperage the water heats up a
+little more and uh I produce more
+hydrogen
+there's good and bad things about that
+some Vehicles don't need that much
+hydrogen this particular setup will
+produce around a liter a minute um with
+just an eighth of a teaspoon of sodium
+hydroxide in tap water
+
+===== Hydrogen production - Tap water vs. Sodium Hydroxide test 1.en =====
+hello everyone this is Richard with
+hydrogen technology today calm you are
+looking at my latest sell the purpose of
+this video is just to show you guys what
+this cell does with just plain old tap
+water so real quick just about the cell
+there's 17 plates they are wired and
+spaced about 164 they're wired basically
+starting at the bottom here it's a
+positive neutral negative neutral
+positive so on and so forth there's a
+neutral between each negative there's a
+total of four negatives here let's go
+fill this full of tap water I'm going to
+try to do this without breaking the
+breaking need the action at all so you
+guys can see what I see walking through
+my house here there's the bathroom at
+the cell cool water
+just going to fit a little bit over the
+cell so turn this back off here for
+water walk back in here try to keep this
+shortfall you youtubers already there we
+go it's going to look a positive pick up
+the negative and here we go she's on
+the side shot seemed out with you better
+than let's blow it out a little bit I've
+actually measured that at five aunts
+that little bit you see there in this
+configuration equates to around 5 ounces
+a minute not very much so the next video
+I'm going to add a little bit of
+hydrogen oh excuse me a little bit of
+sodium hydroxides this is a lowes blend
+of it it's basically drain opener but
+what you need to look for is that right
+there one hundred percent lie and on the
+back you'll read you know somewhere in
+here sodium hydroxide one hundred
+percent sodium hydroxide okay oh there
+you go pure tap water about about 5
+ounces 67 ounces a minute
+continue on to the next video we'll add
+a little sodium hydroxide and see what
+we guessed
+
+===== Joe Cell Pulsing Water in the center.en =====
+okay it's my Jo
+cell uh positive outer ring negative
+inner ring neutrals in the
+middle a uh battery charger 12 volts I'm
+going to turn it on over here witnessing
+an interesting anomaly tonight thought I
+would show you guys
+go ahead and I'm going to turn it on 3 2
+1 you guys tell me what this thing's
+doing keep
+watching
+well it was doing it a second ago there
+it
+goes look at the
+middle never seen that
+before
+and it
+stopped I don't really know what that
+pulsing was
+about now we're back to foamy
+stuff
+
+===== Joe Cell powering an LED after it's powered down!!.en =====
+okay it's about 11 o'clock
+and there's another interesting
+phenomenon here
+the joe sell might turn it on
+over there this battery charger
+throws out about 12 volts 8 amps
+charges this joe cell and the battery
+charger is off right now but if you can
+see this
+this light is on let me try this i'm
+gonna
+turn it on
+and watch this light okay
+here goes the joe show
+i'm going to turn it off there we go
+turning it off over here once you watch
+the light
+it's off but the light
+is still on let's turn off my
+other fluorescent light here
+figure that one out joe shell is off
+battery chargers off light still
+on
+turn it on one more time
+here's the cell
+this is our light
+we're off
+the led is still on
+if i turn the battery charger on it does
+get brighter
+here we go again ready on
+notice the cell
+i'm just going to let it run for a few
+seconds and off
+interesting
+the joe cell chronicles
+
+===== THE HT7 Hydrogen seperator ⧸ generator seperation demo.en =====
+hello everyone welcome back this is
+Richard with hydrogen technology today
+with you again and the HT 7 hydrogen
+only fuel cell this is more of a
+separation demonstration several people
+have you know asked about the previous
+video and was it really hydrogen coming
+out one side was it really oxygen coming
+out the other this is a very clear
+demonstration right now this line right
+here is oxygen and this slide the black
+line is the hydrogen we are running only
+at around five amps let me pull this
+light down so you can see that a little
+better that's five amps of power I'm
+going to go ahead and crank it up to
+about 15 amps so you can get a better
+better look at the at the output at 15
+amps here we go
+now we're running around 15 amps you can
+see the hydrogen output is increased
+incredibly the oxygen out foot there
+again has increased go ahead and do the
+lighter demonstration as I did before
+this is the oxygen side coming out of
+the HT 7 what you're hearing is the
+oxygen feeding the flame that's it
+you're hearing the oxygen gasp into the
+open flame just like feeding a fireplace
+more air the the flame likes that air
+now we're going to go ahead and show you
+the hydrogen side very clear
+there you go the HT 7
+
+===== The HT7 Fuel Cell Hydrogen seperator,  seperation demo.en =====
+Greetings everyone. This is Richard with
+hydrogen technologytoday.com.
+We're here again with the HT7 fuel cell.
+This is a hydrogen only producing fuel
+cell. Separates the gases on output or
+actually during creation. Uh, just want
+to demonstrate for you the explosion of
+oxygen and the explosion of hydrogen.
+Got a blue line here labeled oxygen.
+This is where the oxygen's coming out.
+Hydrogen's coming out this line. Going
+against my better judgment. I'm going to
+use the old Bick lighter trick just to
+quickly demonstrate for you. Oxygen.
+As you can tell, and the oxygen is set
+on a
+uh bleeder valve here that only releases
+and you can tell there's really no
+explosion from the oxygen.
+Just a little
+Try this again. Leave it blade in the
+water here. Well, here we go.
+Hardly anything out of the oxygen side.
+Let's move to the hydrogen side. I'm
+going to do this quickly because I don't
+like the way this sounds.
+And there you go. Hydrogen oxygen
+separation.
+HT7 hydrogen fuel cell.
+
+===== The HT7 Hydrogen Only fuel cell Hydrogen Seperator.en =====
+greetings everyone this is richard with
+hydrogen technology today dot com
+uh just real quick video here to show
+you a
+working ht7 fuel cell hydrogen only
+i am separating the gases the uh
+fairly complex process i've arrived at
+after a year's worth of development
+just want to give you a good look at
+this um i've got a couple hoses labeled
+one that says oxygen the other says
+hydrogen of course the hydrogen comes
+out
+the top the oxygen comes out the side
+uh this particular ht7 has been running
+for a while in my truck
+and i just want to demonstrate for you
+now in the next video
+the fuel cell running and separating the
+gases

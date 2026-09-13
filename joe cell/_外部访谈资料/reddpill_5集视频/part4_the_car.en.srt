@@ -1,0 +1,1256 @@
+1
+00:00:00,000 --> 00:00:05,200
+Here we are talking about talking but
+
+2
+00:00:02,800 --> 00:00:08,160
+also researching water fuel process in
+
+3
+00:00:05,200 --> 00:00:09,840
+uh a place in Australia which we will
+
+4
+00:00:08,160 --> 00:00:11,639
+remain nameless just for now. And this
+
+5
+00:00:09,840 --> 00:00:14,160
+is the car and this is the engine of
+
+6
+00:00:11,639 --> 00:00:16,880
+course. Well, what we've got here today
+
+7
+00:00:14,160 --> 00:00:18,720
+is what we saw the other day, a water
+
+8
+00:00:16,880 --> 00:00:21,800
+fuel cell,
+
+9
+00:00:18,720 --> 00:00:24,080
+as you can see, zooming
+
+10
+00:00:21,800 --> 00:00:27,199
+in. And I figured a good picture on
+
+11
+00:00:24,080 --> 00:00:29,400
+that. There's um mesh in there, a core,
+
+12
+00:00:27,199 --> 00:00:32,480
+three three
+
+13
+00:00:29,400 --> 00:00:34,800
+um meshes in there, a center electrode,
+
+14
+00:00:32,480 --> 00:00:36,160
+negative or positive, doesn't matter.
+
+15
+00:00:34,800 --> 00:00:37,360
+And then a floating unit that's not
+
+16
+00:00:36,160 --> 00:00:39,120
+connected, it's insulated from
+
+17
+00:00:37,360 --> 00:00:41,040
+everything else. And then an outer mesh
+
+18
+00:00:39,120 --> 00:00:43,200
+filled with water, a teaspoon of costic
+
+19
+00:00:41,040 --> 00:00:44,760
+in about 4 L. So this is about 1/4
+
+20
+00:00:43,200 --> 00:00:48,559
+teaspoon to 2
+
+21
+00:00:44,760 --> 00:00:51,840
+L. Um here we'll see the gauge is a
+
+22
+00:00:48,559 --> 00:00:54,480
+vacuum gauge. The maximum the vacuum
+
+23
+00:00:51,840 --> 00:00:57,520
+runs in that direction as it increases.
+
+24
+00:00:54,480 --> 00:01:01,160
+The tube here runs flexibly all the way
+
+25
+00:00:57,520 --> 00:01:04,239
+in and under the um cabby where
+
+26
+00:01:01,160 --> 00:01:06,960
+the where the normal um breather off the
+
+27
+00:01:04,239 --> 00:01:08,280
+manifold comes in. I'll just get a shot
+
+28
+00:01:06,960 --> 00:01:11,920
+of that
+
+29
+00:01:08,280 --> 00:01:15,190
+round coming in underneath there. If you
+
+30
+00:01:11,920 --> 00:01:19,799
+can see that with that back
+
+31
+00:01:15,190 --> 00:01:22,600
+[Music]
+
+32
+00:01:19,799 --> 00:01:25,600
+light. Anyway,
+
+33
+00:01:22,600 --> 00:01:27,360
+so what we're going to do is kick the
+
+34
+00:01:25,600 --> 00:01:29,520
+engine over. Then we'll do a reading off
+
+35
+00:01:27,360 --> 00:01:30,520
+the vacuum. Then we're going to read off
+
+36
+00:01:29,520 --> 00:01:33,680
+this
+
+37
+00:01:30,520 --> 00:01:38,200
+um volt meter. It comes on about 13
+
+38
+00:01:33,680 --> 00:01:38,200
+volts and then then decays.
+
+39
+00:01:40,079 --> 00:01:44,119
+Now this unit will work under as long as
+
+40
+00:01:42,640 --> 00:01:47,759
+a vacuum is
+
+41
+00:01:44,119 --> 00:01:47,759
+connected and produce
+
+42
+00:01:48,680 --> 00:01:53,439
+gas without being electrically
+
+43
+00:01:51,799 --> 00:01:56,200
+connected. Now we're going to
+
+44
+00:01:53,439 --> 00:02:00,200
+electrically connect
+
+45
+00:01:56,200 --> 00:02:03,960
+it and you see a lot more
+
+46
+00:02:00,200 --> 00:02:06,320
+gas. 13 volts
+
+47
+00:02:03,960 --> 00:02:08,399
+approximately. So now we'll connect the
+
+48
+00:02:06,320 --> 00:02:10,000
+voltmeter up.
+
+49
+00:02:08,399 --> 00:02:11,239
+You come and hold the ball around
+
+50
+00:02:10,000 --> 00:02:15,000
+please.
+
+51
+00:02:11,239 --> 00:02:18,400
+Peter fingers up. The fingers are
+
+52
+00:02:15,000 --> 00:02:18,400
+Peter Peter
+
+53
+00:02:19,239 --> 00:02:27,200
+fingers. Focus on the voltmeter. 8 75
+
+54
+00:02:23,720 --> 00:02:28,760
+74 13.7.
+
+55
+00:02:27,200 --> 00:02:32,160
+Now
+
+56
+00:02:28,760 --> 00:02:33,879
+disconnecting. It's dropping down to I
+
+57
+00:02:32,160 --> 00:02:37,519
+said
+
+58
+00:02:33,879 --> 00:02:40,560
+1.3. That was quick.
+
+59
+00:02:37,519 --> 00:02:42,400
+Now you got 1.2 vols. There's still
+
+60
+00:02:40,560 --> 00:02:44,440
+bubbles being formed in the chamber
+
+61
+00:02:42,400 --> 00:02:50,959
+there in the
+
+62
+00:02:44,440 --> 00:02:50,959
+cell. 1.14 vol. Still gas coming
+
+63
+00:02:51,640 --> 00:02:57,160
+out. There's no connection on the
+
+64
+00:02:53,840 --> 00:02:57,160
+battery there.
+
+65
+00:03:13,280 --> 00:03:16,640
+down to 1.01
+
+66
+00:03:18,760 --> 00:03:24,430
+volts.
+
+67
+00:03:19,780 --> 00:03:24,430
+[Music]
+
+68
+00:03:26,750 --> 00:03:29,810
+[Music]
+
+69
+00:03:32,120 --> 00:03:38,319
+Okay. All right. stabilizing about 170
+
+70
+00:03:35,959 --> 00:03:40,720
+milliamps. About 10 minutes later after
+
+71
+00:03:38,319 --> 00:03:44,239
+we charged it and it dropped down to
+
+72
+00:03:40,720 --> 00:03:45,400
+below 1 volt now the 700 should drop
+
+73
+00:03:44,239 --> 00:03:48,560
+down
+
+74
+00:03:45,400 --> 00:03:50,799
+to 70. We'll check it again in a minute
+
+75
+00:03:48,560 --> 00:03:50,799
+or
+
+76
+00:03:51,640 --> 00:03:57,599
+two. Okay,
+
+77
+00:03:54,360 --> 00:04:00,319
+it's the voltmeter is reading 700 m
+
+78
+00:03:57,599 --> 00:04:02,799
+volts. Now
+
+79
+00:04:00,319 --> 00:04:05,840
+this stage this unit's charged. It will
+
+80
+00:04:02,799 --> 00:04:08,319
+apparently um pick up the the vapor very
+
+81
+00:04:05,840 --> 00:04:11,200
+very quickly uh because we've charged
+
+82
+00:04:08,319 --> 00:04:14,000
+it. It's now HOH
+
+83
+00:04:11,200 --> 00:04:15,680
+um hydrogen oxygen and hydrogen easily
+
+84
+00:04:14,000 --> 00:04:18,280
+separate. I'll just touch it so that you
+
+85
+00:04:15,680 --> 00:04:22,479
+can see it coming away from the actual
+
+86
+00:04:18,280 --> 00:04:28,280
+unit. See how that producing there. And
+
+87
+00:04:22,479 --> 00:04:28,280
+now I just touch the uh the ignition.
+
+88
+00:04:30,560 --> 00:04:36,240
+That's still connected. I'll now
+
+89
+00:04:32,919 --> 00:04:36,240
+disconnect. Watch
+
+90
+00:04:38,840 --> 00:04:45,080
+the produces exactly what you require at
+
+91
+00:04:41,919 --> 00:04:45,080
+the time.
+
+92
+00:04:47,120 --> 00:04:51,120
+The worst part about this is that you're
+
+93
+00:04:48,720 --> 00:04:54,800
+now getting more water out these doors,
+
+94
+00:04:51,120 --> 00:04:58,840
+which you could in fact recirculate and
+
+95
+00:04:54,800 --> 00:04:58,840
+make the unit operate fully.
+
+96
+00:05:01,330 --> 00:05:04,410
+[Music]
+
+97
+00:05:12,160 --> 00:05:15,840
+Yeah, but it's no good. No, blow
+
+98
+00:05:14,400 --> 00:05:19,280
+yourself up with that. What do you
+
+99
+00:05:15,840 --> 00:05:21,199
+actually wire it up to then? Nothing.
+
+100
+00:05:19,280 --> 00:05:23,680
+[Music]
+
+101
+00:05:21,199 --> 00:05:23,680
+Cuz it's
+
+102
+00:05:29,560 --> 00:05:34,360
+char about 5 minutes before
+
+103
+00:05:34,400 --> 00:05:39,360
+that's producing its own gas. See the
+
+104
+00:05:36,720 --> 00:05:40,960
+gas? Yeah. And when you hook it up to
+
+105
+00:05:39,360 --> 00:05:43,440
+original battery, then your water fills
+
+106
+00:05:40,960 --> 00:05:45,360
+full of
+
+107
+00:05:43,440 --> 00:05:48,360
+See how that vapor immediately comes
+
+108
+00:05:45,360 --> 00:05:48,360
+off.
+
+109
+00:05:48,830 --> 00:05:53,479
+[Music]
+
+110
+00:05:50,880 --> 00:05:57,199
+That's what my
+
+111
+00:05:53,479 --> 00:05:59,919
+unit. You will get heaps more vapor when
+
+112
+00:05:57,199 --> 00:06:02,960
+you have a stainless steel outside.
+
+113
+00:05:59,919 --> 00:06:04,479
+Yeah. Understand? But just for the
+
+114
+00:06:02,960 --> 00:06:07,600
+practical purpose of being able to see
+
+115
+00:06:04,479 --> 00:06:11,120
+it. Yeah.
+
+116
+00:06:07,600 --> 00:06:14,240
+That's now with it now connected.
+
+117
+00:06:11,120 --> 00:06:16,720
+Oh, that's not good. See, actually that
+
+118
+00:06:14,240 --> 00:06:17,880
+that verifies my idea on these
+
+119
+00:06:16,720 --> 00:06:21,280
+extendable
+
+120
+00:06:17,880 --> 00:06:23,680
+units because you can see that it's only
+
+121
+00:06:21,280 --> 00:06:26,160
+using steel the gas what it is pulling
+
+122
+00:06:23,680 --> 00:06:29,919
+off under its own. You see? And it's not
+
+123
+00:06:26,160 --> 00:06:32,720
+using any of it. Yeah. See that? That
+
+124
+00:06:29,919 --> 00:06:37,140
+means that when you have a flexible
+
+125
+00:06:32,720 --> 00:06:40,329
+unit, the gas you produce with current
+
+126
+00:06:37,140 --> 00:06:40,329
+[Music]
+
+127
+00:06:46,900 --> 00:06:50,010
+[Music]
+
+128
+00:06:51,000 --> 00:06:56,479
+expans a pressure
+
+129
+00:06:53,960 --> 00:07:00,000
+gauge means that you you haven't got
+
+130
+00:06:56,479 --> 00:07:01,759
+your vacuum lift on the water. Right.
+
+131
+00:07:00,000 --> 00:07:04,000
+Yeah. Right. When you got a solid
+
+132
+00:07:01,759 --> 00:07:06,880
+container, you can lift that amount of
+
+133
+00:07:04,000 --> 00:07:08,479
+water clean out through the top because
+
+134
+00:07:06,880 --> 00:07:12,639
+you take off your vacuum there. You got
+
+135
+00:07:08,479 --> 00:07:15,599
+pressure because the lid is pressurized.
+
+136
+00:07:12,639 --> 00:07:17,720
+Does that make sense? Yeah. Good. Cuz
+
+137
+00:07:15,599 --> 00:07:20,400
+you can just take all
+
+138
+00:07:17,720 --> 00:07:21,400
+that amount of places straight in under
+
+139
+00:07:20,400 --> 00:07:25,160
+the
+
+140
+00:07:21,400 --> 00:07:27,680
+unit where your venturi
+
+141
+00:07:25,160 --> 00:07:31,800
+lead your motor goes directly under your
+
+142
+00:07:27,680 --> 00:07:31,800
+throttle under your car.
+
+143
+00:07:33,040 --> 00:07:38,800
+[Music]
+
+144
+00:07:35,520 --> 00:07:42,000
+We we're putting the gas directly in
+
+145
+00:07:38,800 --> 00:07:43,759
+where the exhaust gas uh or the bypass
+
+146
+00:07:42,000 --> 00:07:46,080
+blow gas that comes from the top of the
+
+147
+00:07:43,759 --> 00:07:48,880
+motor goes directly under your your
+
+148
+00:07:46,080 --> 00:07:51,199
+throttle. It's um under the carburetor
+
+149
+00:07:48,880 --> 00:07:54,639
+so that you've got maximum vacuum
+
+150
+00:07:51,199 --> 00:07:58,879
+directly into the motor.
+
+151
+00:07:54,639 --> 00:08:01,280
+Okay. the with um with the vacuum gas
+
+152
+00:07:58,879 --> 00:08:06,319
+and everything else you you have to have
+
+153
+00:08:01,280 --> 00:08:09,759
+gas to motor usage air and gas um intake
+
+154
+00:08:06,319 --> 00:08:11,360
+of air and gas to the um exact fine
+
+155
+00:08:09,759 --> 00:08:13,360
+critical point. It's a hair whisker
+
+156
+00:08:11,360 --> 00:08:15,120
+flying. The same as the distributor.
+
+157
+00:08:13,360 --> 00:08:18,120
+When you cut off your petrol and go to
+
+158
+00:08:15,120 --> 00:08:21,440
+your gas on petrol, you can turn your
+
+159
+00:08:18,120 --> 00:08:23,680
+distributor like that and it hardly does
+
+160
+00:08:21,440 --> 00:08:27,919
+anything to your motor. Mhm. When you
+
+161
+00:08:23,680 --> 00:08:29,599
+put the gas on, you move it,
+
+162
+00:08:27,919 --> 00:08:30,360
+not even the width of a piece of foam
+
+163
+00:08:29,599 --> 00:08:33,279
+and
+
+164
+00:08:30,360 --> 00:08:35,120
+paper. And your motor will shake like
+
+165
+00:08:33,279 --> 00:08:36,880
+anything or shape like anything either
+
+166
+00:08:35,120 --> 00:08:38,159
+way. And you have to hit that exact
+
+167
+00:08:36,880 --> 00:08:39,440
+point or else you won't get your
+
+168
+00:08:38,159 --> 00:08:42,399
+efficiency. You won't get your motor to
+
+169
+00:08:39,440 --> 00:08:44,959
+run. a distributor. The distributor has
+
+170
+00:08:42,399 --> 00:08:48,080
+to come when you cut off your petrol. If
+
+171
+00:08:44,959 --> 00:08:51,760
+you run petrol by itself, you are you
+
+172
+00:08:48,080 --> 00:08:55,279
+set at your normal um whatever it is 8°
+
+173
+00:08:51,760 --> 00:08:57,040
+or whatever. Um if you um if you hook up
+
+174
+00:08:55,279 --> 00:08:58,560
+the petrol and gas, you would then
+
+175
+00:08:57,040 --> 00:09:02,320
+instead of eight, you would come up to
+
+176
+00:08:58,560 --> 00:09:04,480
+say about 15 12 to 15. When you cut out
+
+177
+00:09:02,320 --> 00:09:08,240
+petrol all together, you would come from
+
+178
+00:09:04,480 --> 00:09:11,200
+15 up to somewhere in about 25 to 30,
+
+179
+00:09:08,240 --> 00:09:12,800
+maybe more. depends on the the vehicle.
+
+180
+00:09:11,200 --> 00:09:14,399
+Whatever vehicle is all different by
+
+181
+00:09:12,800 --> 00:09:17,440
+that, but you have to come straight
+
+182
+00:09:14,399 --> 00:09:20,040
+around to that. You can start it at your
+
+183
+00:09:17,440 --> 00:09:23,120
+30° advance
+
+184
+00:09:20,040 --> 00:09:26,080
+um with your gas off your ignition and
+
+185
+00:09:23,120 --> 00:09:27,760
+she will start like that first go. If
+
+186
+00:09:26,080 --> 00:09:31,360
+you go back to one drop of petrol with
+
+187
+00:09:27,760 --> 00:09:33,600
+the gas, she will go like the timing is
+
+188
+00:09:31,360 --> 00:09:35,120
+too far advanced like normal. Right? So,
+
+189
+00:09:33,600 --> 00:09:36,720
+if you go back to your petrol, she's too
+
+190
+00:09:35,120 --> 00:09:38,080
+far advanced. If you're on the gas,
+
+191
+00:09:36,720 --> 00:09:40,880
+she'll pearl over like she's just
+
+192
+00:09:38,080 --> 00:09:43,279
+starting on normal petrol. So, it's that
+
+193
+00:09:40,880 --> 00:09:44,800
+critical of alignment. And when you mix
+
+194
+00:09:43,279 --> 00:09:47,040
+with your vacuum and everything, you
+
+195
+00:09:44,800 --> 00:09:50,880
+have to get your right gas to your right
+
+196
+00:09:47,040 --> 00:09:53,600
+air with the G with hydrogen oxygen back
+
+197
+00:09:50,880 --> 00:09:57,530
+in. And if you don't get that, it's that
+
+198
+00:09:53,600 --> 00:10:00,850
+critical that she won't go either.
+
+199
+00:09:57,530 --> 00:10:00,850
+[Music]
+
+200
+00:10:00,959 --> 00:10:08,080
+We're all in experimental stage, right?
+
+201
+00:10:04,080 --> 00:10:13,440
+I'm not going into it, but I have had a
+
+202
+00:10:08,080 --> 00:10:16,000
+Rover 3500 V8 with twin carbish zenith
+
+203
+00:10:13,440 --> 00:10:17,079
+same as SU carbage running and that was
+
+204
+00:10:16,000 --> 00:10:20,079
+where the
+
+205
+00:10:17,079 --> 00:10:22,079
+soly I didn't understand why the vehicle
+
+206
+00:10:20,079 --> 00:10:24,160
+seemed to start and run perfectly when
+
+207
+00:10:22,079 --> 00:10:28,839
+nobody else seems to be able to hit it
+
+208
+00:10:24,160 --> 00:10:32,720
+was a P76 V8. Now the whole motor on it
+
+209
+00:10:28,839 --> 00:10:36,640
+is open. It has an open dipstick. It has
+
+210
+00:10:32,720 --> 00:10:38,720
+an open oil cap. It has a open motor. It
+
+211
+00:10:36,640 --> 00:10:40,320
+has a a petrol pump on the bottom which
+
+212
+00:10:38,720 --> 00:10:44,000
+has two little breather holes in it and
+
+213
+00:10:40,320 --> 00:10:46,600
+they are open which air goes to the sun.
+
+214
+00:10:44,000 --> 00:10:51,120
+Now I have never had it running on a
+
+215
+00:10:46,600 --> 00:10:53,680
+solid stainless hydrogen unit because
+
+216
+00:10:51,120 --> 00:10:57,600
+two things happened. I've had it running
+
+217
+00:10:53,680 --> 00:11:00,760
+on a polyine unit with plates in it
+
+218
+00:10:57,600 --> 00:11:02,959
+which you have on tape and that unit
+
+219
+00:11:00,760 --> 00:11:05,040
+expanded when you powered on it
+
+220
+00:11:02,959 --> 00:11:06,800
+expanded. There was a pressure there
+
+221
+00:11:05,040 --> 00:11:09,920
+when I first hooked it up hooked up to
+
+222
+00:11:06,800 --> 00:11:13,920
+the motor. The motor polluted 10 times
+
+223
+00:11:09,920 --> 00:11:15,839
+worse than on petrol. 10 times worse and
+
+224
+00:11:13,920 --> 00:11:19,760
+it had a pressure. It was pressurizing
+
+225
+00:11:15,839 --> 00:11:21,839
+the sump out, but it was dangerous
+
+226
+00:11:19,760 --> 00:11:23,760
+hooking up to a polyine unit or an
+
+227
+00:11:21,839 --> 00:11:25,200
+expandable unit or a contracting one of
+
+228
+00:11:23,760 --> 00:11:29,320
+any sort, whether it's stainless and it
+
+229
+00:11:25,200 --> 00:11:32,120
+can expand under under acceleration or
+
+230
+00:11:29,320 --> 00:11:37,279
+anything. It's dangerous. It'll blow
+
+231
+00:11:32,120 --> 00:11:39,519
+up. So, the the Rover V8 uh the the
+
+232
+00:11:37,279 --> 00:11:42,320
+sorry, it run I went from Casino to
+
+233
+00:11:39,519 --> 00:11:44,880
+Lismo and back again polluting in the
+
+234
+00:11:42,320 --> 00:11:46,079
+motor itself all the way. But I don't
+
+235
+00:11:44,880 --> 00:11:49,240
+know why you can blow yourself up
+
+236
+00:11:46,079 --> 00:11:51,360
+because that unit was expanding under
+
+237
+00:11:49,240 --> 00:11:53,680
+acceleration. The unit just expanded
+
+238
+00:11:51,360 --> 00:11:56,120
+out. If that gas can get out anywhere,
+
+239
+00:11:53,680 --> 00:11:59,680
+you're gone. The car, everything around
+
+240
+00:11:56,120 --> 00:12:01,360
+gone. With a solid unit, it does the
+
+241
+00:11:59,680 --> 00:12:04,560
+opposite.
+
+242
+00:12:01,360 --> 00:12:07,800
+The solid unit has a vacuum to the sump.
+
+243
+00:12:04,560 --> 00:12:11,519
+Gives you tremendous power. Gives you
+
+244
+00:12:07,800 --> 00:12:14,320
+tremendous backing off and gives you
+
+245
+00:12:11,519 --> 00:12:17,200
+smooth running economy and no danger. No
+
+246
+00:12:14,320 --> 00:12:20,160
+pollution. No pollution in the motor or
+
+247
+00:12:17,200 --> 00:12:22,040
+out the exhaust at all. None. We've had
+
+248
+00:12:20,160 --> 00:12:24,200
+readings on that. We put it over a
+
+249
+00:12:22,040 --> 00:12:27,760
+analyzer and it don't
+
+250
+00:12:24,200 --> 00:12:29,440
+read. You put a polyine unit on and you
+
+251
+00:12:27,760 --> 00:12:31,600
+get the opposite effect. You get a
+
+252
+00:12:29,440 --> 00:12:34,000
+pressure in your sump which then blows
+
+253
+00:12:31,600 --> 00:12:36,720
+fumes and smoke and soot and out.
+
+254
+00:12:34,000 --> 00:12:39,680
+But it also pressurizes a unit. It also
+
+255
+00:12:36,720 --> 00:12:43,120
+makes everything wrong. Wrong way to go.
+
+256
+00:12:39,680 --> 00:12:46,320
+So they're the two things I've had that
+
+257
+00:12:43,120 --> 00:12:48,320
+I've made a few units. I've made polyine
+
+258
+00:12:46,320 --> 00:12:51,720
+ones. I've made um stainless steel ones.
+
+259
+00:12:48,320 --> 00:12:55,040
+I've made stainless steel ones. What can
+
+260
+00:12:51,720 --> 00:12:57,920
+extend under? And they're very very very
+
+261
+00:12:55,040 --> 00:12:59,920
+dangerous. polytheine ones don't seem to
+
+262
+00:12:57,920 --> 00:13:01,480
+be as dangerous, but no one in the
+
+263
+00:12:59,920 --> 00:13:04,079
+world's going to get me to run it one
+
+264
+00:13:01,480 --> 00:13:07,200
+again. So, the idea would be to have a
+
+265
+00:13:04,079 --> 00:13:09,360
+stainless steel uh cylinder and put some
+
+266
+00:13:07,200 --> 00:13:10,800
+neutral plates.
+
+267
+00:13:09,360 --> 00:13:13,279
+You know what I mean? Neutral tubes.
+
+268
+00:13:10,800 --> 00:13:15,120
+Yeah, we've explained that on the um the
+
+269
+00:13:13,279 --> 00:13:16,800
+video before. Yeah, it's already
+
+270
+00:13:15,120 --> 00:13:19,279
+explained. So, that's what you know what
+
+271
+00:13:16,800 --> 00:13:21,360
+to look at when I say that. that then
+
+272
+00:13:19,279 --> 00:13:24,000
+will give you what you need because if
+
+273
+00:13:21,360 --> 00:13:26,040
+you don't do that then you have big
+
+274
+00:13:24,000 --> 00:13:29,000
+units like what you have here now and so
+
+275
+00:13:26,040 --> 00:13:31,440
+on. You're going to use a lot of
+
+276
+00:13:29,000 --> 00:13:33,959
+amperage. Um you're going to flatten
+
+277
+00:13:31,440 --> 00:13:36,000
+batteries. It's not going to do what you
+
+278
+00:13:33,959 --> 00:13:38,000
+want. You're going to end up in trouble
+
+279
+00:13:36,000 --> 00:13:40,079
+that way. I've already had those big
+
+280
+00:13:38,000 --> 00:13:41,600
+ones running and 10 minutes you flatten
+
+281
+00:13:40,079 --> 00:13:42,959
+the battery and drown the alternator.
+
+282
+00:13:41,600 --> 00:13:44,399
+Every bit of That's if you don't have
+
+283
+00:13:42,959 --> 00:13:46,560
+the neutral plates in it or if you
+
+284
+00:13:44,399 --> 00:13:48,560
+That's if you don't. But if you do it
+
+285
+00:13:46,560 --> 00:13:50,639
+come smaller units like you. But what
+
+286
+00:13:48,560 --> 00:13:53,120
+about in the big units? Can you put can
+
+287
+00:13:50,639 --> 00:13:54,720
+we put floaters in there and bring it
+
+288
+00:13:53,120 --> 00:13:56,399
+down to five or seven amps or something?
+
+289
+00:13:54,720 --> 00:13:58,639
+You in big you can. I don't care how big
+
+290
+00:13:56,399 --> 00:14:00,000
+you make them. You can put as long as
+
+291
+00:13:58,639 --> 00:14:01,760
+you got floaters in there. You bring the
+
+292
+00:14:00,000 --> 00:14:05,920
+amperage down. You bring the ampage
+
+293
+00:14:01,760 --> 00:14:07,680
+down. So the current seems to go from a
+
+294
+00:14:05,920 --> 00:14:09,440
+positive and a negative. And instead of
+
+295
+00:14:07,680 --> 00:14:12,240
+staying at that whatever it's going to
+
+296
+00:14:09,440 --> 00:14:14,639
+use or pull or whatever, it then seems
+
+297
+00:14:12,240 --> 00:14:17,600
+to break them down and bring them back
+
+298
+00:14:14,639 --> 00:14:19,680
+the opposite way, but produces twice the
+
+299
+00:14:17,600 --> 00:14:22,320
+gas. You've already seen that on video.
+
+300
+00:14:19,680 --> 00:14:24,320
+It shows you put a neutral one in there,
+
+301
+00:14:22,320 --> 00:14:26,399
+you use a lot of amperage. I mean, you
+
+302
+00:14:24,320 --> 00:14:29,320
+put positive and negative, just single
+
+303
+00:14:26,399 --> 00:14:31,760
+plates. You use a lot of
+
+304
+00:14:29,320 --> 00:14:34,399
+amperage and you don't seem to get off
+
+305
+00:14:31,760 --> 00:14:36,079
+the gas you want. So the idea will be if
+
+306
+00:14:34,399 --> 00:14:40,279
+you are trying to run a vehicle and use
+
+307
+00:14:36,079 --> 00:14:42,079
+a a positive and a negative in it just
+
+308
+00:14:40,279 --> 00:14:43,760
+singly, you're going to have to go
+
+309
+00:14:42,079 --> 00:14:45,120
+bigger units. But to do that, you're
+
+310
+00:14:43,760 --> 00:14:47,040
+going the wrong way because then you
+
+311
+00:14:45,120 --> 00:14:49,040
+need heaps of flame in the air, you need
+
+312
+00:14:47,040 --> 00:14:51,600
+bigger batteries, you need more current
+
+313
+00:14:49,040 --> 00:14:54,240
+to run it. So that isn't the way to go,
+
+314
+00:14:51,600 --> 00:14:54,240
+right?
+

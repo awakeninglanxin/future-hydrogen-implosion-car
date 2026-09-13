@@ -1,0 +1,284 @@
+1
+00:00:09,679 --> 00:00:12,559
+hello everyone
+
+2
+00:00:10,639 --> 00:00:14,160
+this is richard with hydrogen technology
+
+3
+00:00:12,559 --> 00:00:17,199
+today.com
+
+4
+00:00:14,160 --> 00:00:21,520
+once again final view of the 2003
+
+5
+00:00:17,199 --> 00:00:23,600
+f-150 with the triton 5-4 liter motor
+
+6
+00:00:21,520 --> 00:00:24,880
+this is my hydrogen assist fuel cell
+
+7
+00:00:23,600 --> 00:00:26,720
+installed
+
+8
+00:00:24,880 --> 00:00:28,320
+uh you know what i've basically done
+
+9
+00:00:26,720 --> 00:00:29,599
+here is dremeled out a little bit of the
+
+10
+00:00:28,320 --> 00:00:32,559
+plastic
+
+11
+00:00:29,599 --> 00:00:34,000
+that cell fits real snug in there it's a
+
+12
+00:00:32,559 --> 00:00:36,320
+very nice fit
+
+13
+00:00:34,000 --> 00:00:40,000
+it rests the bottom of it rests right on
+
+14
+00:00:36,320 --> 00:00:42,320
+a ledge if you can see that ledge
+
+15
+00:00:40,000 --> 00:00:43,600
+and it rides very nicely i've got my
+
+16
+00:00:42,320 --> 00:00:46,239
+positive lead
+
+17
+00:00:43,600 --> 00:00:46,879
+my negative lead the negative comes
+
+18
+00:00:46,239 --> 00:00:49,360
+directly
+
+19
+00:00:46,879 --> 00:00:50,559
+from the battery you can get a peek at
+
+20
+00:00:49,360 --> 00:00:53,520
+that
+
+21
+00:00:50,559 --> 00:00:54,320
+the positive comes directly from my dash
+
+22
+00:00:53,520 --> 00:00:57,760
+mounted
+
+23
+00:00:54,320 --> 00:01:00,879
+or it's sitting on my dash i should say
+
+24
+00:00:57,760 --> 00:01:03,920
+on off switch and we'll follow that wire
+
+25
+00:01:00,879 --> 00:01:03,920
+on over into that
+
+26
+00:01:04,000 --> 00:01:09,920
+pardon the bad camera work open my door
+
+27
+00:01:07,600 --> 00:01:12,799
+up here
+
+28
+00:01:09,920 --> 00:01:15,600
+give you a peek at what happens when i
+
+29
+00:01:12,799 --> 00:01:15,600
+flip the switch
+
+30
+00:01:16,799 --> 00:01:21,439
+there's my module basically it it only
+
+31
+00:01:19,439 --> 00:01:22,479
+comes on when the truck is running so
+
+32
+00:01:21,439 --> 00:01:26,240
+that's the
+
+33
+00:01:22,479 --> 00:01:28,479
+hydrogen on demand part of all this
+
+34
+00:01:26,240 --> 00:01:30,880
+go ahead and turn my key you can get a
+
+35
+00:01:28,479 --> 00:01:35,360
+look out my window while i do this
+
+36
+00:01:30,880 --> 00:01:38,240
+okay key is on and
+
+37
+00:01:35,360 --> 00:01:40,240
+notice the the unit is not on which
+
+38
+00:01:38,240 --> 00:01:42,320
+means i'm not producing hydrogen i'll go
+
+39
+00:01:40,240 --> 00:01:44,799
+ahead and flip that on
+
+40
+00:01:42,320 --> 00:01:47,280
+now i'm making some hydrogen pulling
+
+41
+00:01:44,799 --> 00:01:52,960
+around 20 amps
+
+42
+00:01:47,280 --> 00:01:52,960
+and if i go ahead and kill the power
+
+43
+00:01:53,360 --> 00:01:57,520
+this the cell shuts off as well that's a
+
+44
+00:01:55,840 --> 00:01:58,880
+nice safety feature you'll want to you
+
+45
+00:01:57,520 --> 00:02:01,439
+want to think about doing
+
+46
+00:01:58,880 --> 00:02:03,360
+in your install uh something i'd
+
+47
+00:02:01,439 --> 00:02:06,840
+recommend
+
+48
+00:02:03,360 --> 00:02:08,479
+never install a hydrogen assisted fuel
+
+49
+00:02:06,840 --> 00:02:11,200
+cell
+
+50
+00:02:08,479 --> 00:02:12,800
+uh into any vehicle uh where it's
+
+51
+00:02:11,200 --> 00:02:14,720
+directly wired to the battery that's
+
+52
+00:02:12,800 --> 00:02:17,360
+just a really really bad idea
+
+53
+00:02:14,720 --> 00:02:19,520
+and also always use at least a bubbler
+
+54
+00:02:17,360 --> 00:02:22,080
+which is this guy right there
+
+55
+00:02:19,520 --> 00:02:23,440
+prevents flashback basically if this
+
+56
+00:02:22,080 --> 00:02:26,720
+carburetor this
+
+57
+00:02:23,440 --> 00:02:30,080
+fuel injection system here backfires
+
+58
+00:02:26,720 --> 00:02:32,319
+and it's got a lead of hydrogen
+
+59
+00:02:30,080 --> 00:02:34,000
+coming from the line the hydrogen just
+
+60
+00:02:32,319 --> 00:02:36,400
+like gasoline is going to
+
+61
+00:02:34,000 --> 00:02:37,760
+go back into this hose more than likely
+
+62
+00:02:36,400 --> 00:02:39,360
+blow up the bubbler
+
+63
+00:02:37,760 --> 00:02:41,280
+come back to the fuel cell more than
+
+64
+00:02:39,360 --> 00:02:42,959
+likely blow up the fuel cell and
+
+65
+00:02:41,280 --> 00:02:44,959
+that won't make a very pretty picture
+
+66
+00:02:42,959 --> 00:02:48,720
+for this ford emblem
+
+67
+00:02:44,959 --> 00:02:51,360
+so uh that's my setup
+
+68
+00:02:48,720 --> 00:02:53,760
+hope you guys got some use out of this
+
+69
+00:02:51,360 --> 00:02:55,440
+this is richard with hydrogen technology
+
+70
+00:02:53,760 --> 00:03:00,640
+today.com
+
+71
+00:02:55,440 --> 00:03:00,640
+visit my website thanks guys bye
+
