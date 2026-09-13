@@ -1,0 +1,369 @@
+Hello internet. It is the millennial
+zoomer, the original millennial zoomer.
+Probably the only millennial zoomer on
+YouTube. I mean there probably many
+millennials who are also zoomers in that
+weird in between uh year era. But uh
+last I'm here today. I wanted to show
+you guys something that I worked on a
+couple summers ago. I got bored.
+Sometimes when I get bored I just want
+to keep my design skills uh in check.
+And some of you might already recognize
+this just looking at it. It is my
+attempt at a replication of the uh
+typical uh repulsing craft that was uh
+inspired partially built by uh Victor
+Shawberger. I made a few slight
+improvements and honestly I think from
+an aerodynamic point of view I am not
+confident that this would take off. So
+it could it very well could but I think
+it's missing something in terms of the
+impeller. this part here just
+designwise. Um I didn't try and make any
+fluid dynamic simulations. Maybe I'll do
+that in the future, maybe I won't. Um
+the reason I decided to design this is
+because uh when I was doing work in
+solid state inertial propulsion systems,
+which are just basically impulsive or
+implosive dynamic systems, um this was a
+fluid-based implosive system, right? So
+instead of having something being spit
+out of a machine um it basically sucks
+itself through the vacuum something like
+the I think it's called the Garuda
+syninji it's a special it's a branch in
+uh India if you pour water into it it
+twirls up uh because of its geometry and
+like sucks the air up and that's the
+same kind of idea the operating
+principle for this impeller so instead
+of having a turbine which you know will
+compress air and then like spit it out
+really fast that that's one way you
+could have this as a a turbine And this
+really is a turbine at the end of the
+day. It's like a pancake shaped turbine.
+And the idea isn't to have a lot of air
+that's being pushed out. Um it's to have
+the air like swim across or have the uh
+turbine, if you will, swim across water.
+Um but anyway, uh I'm starting to get a
+little lost in my thoughts here. Lost in
+the thoughts. So let's take a look at
+this. And it will be probably be a short
+video. I say that and sometimes it takes
+a while. So let's go into this journey
+together. So, uh, at the end of this
+video, I'll provide a link. Anyone can
+go and download these parts and build it
+yourself. In fact, I actually ended up
+building it. I 3D printed the parts. I
+made it extremely 3D printable friendly
+because I want people to be able to
+replicate these things to improve upon
+the designs and to do science. That's
+what I want. That's the whole point of
+this. I'm all about doing science. And
+so, um, yeah. Uh, I think there are cool
+improvements that can be made here.
+Again, my attempt was just to replicate
+uh what I was able to find. Uh and
+there's a lot of images and things
+floating around. This is based off of
+the classic repulsene. If you've ever
+seen a picture of it on the internet,
+this is based off of that classic
+picture. Um the reposines that have been
+around and circulated in the internet,
+there are quite a few of them. Um and
+when I say quite a few, there really two
+there are purportedly two types in a
+book. Really, I think it's just one. and
+people have mixed and matched the parts.
+I'm not going to go into the whole
+history. That's not what this video is.
+I don't have time to explain it because
+there are a lot of different devices,
+different machines, different
+innovations that uh Shaburgger worked on
+uh that influenced other people and
+other kinds of engineering. And so this
+was just my attempt to really study this
+machine and understand the principles,
+the working principles. Like I spent
+time counting all of the individual
+ress, the gills you guys see here, which
+are I think it was 120. You'll see. Uh
+maybe I'll have like a PowerPoint slide
+on it which shows you uh I really took
+great lengths to look at that. And then
+I also took great lengths to look at the
+impulsive um well not the impulsive,
+excuse me, the impeller. That's
+basically what this is here at the top
+and it varies. Um I think it's also
+missing some stuff from the things that
+we do have um of the machine. This this
+component here is basically impeller.
+Anyway, let me stop rambling. Let's
+actually jump into this. Okay, so first
+off we have an axle. And the axle, uh,
+as you probably guessed, is supposed to
+connect to a motor, a motor which will
+spin the entire impeller assembly. So
+that way it can be like a suction and
+suck all the air and go through um the
+cowl casing. So this is the first one.
+It goes right under and so it's
+basically supposed to help with the
+coanda effect as the air is passing
+through. Um, it kind of creates a
+cushion on the under it, right? Like it
+curls up and it creates a night of a
+nice extra cushion. And there might even
+be an added benefit of something like a
+vortex. Uh like I don't want to sound
+weird here, but I'm not again this is
+not to go into how this would create a
+vortex in air, but through the co effect
+as the air is rushing in through here,
+this helps to shape the air and it does
+provide a kind of cushion. Uh there's a
+great YouTuber and if I find his name
+I'll put in the description where he's
+done test and experiments with trying to
+make vortex like uh cushions uh from the
+shape and geometry. So this is the other
+part also probably the one of the tricky
+I say tricky because I was really trying
+to get all these details here as to how
+it looks. For example, let's look at the
+analysis. So it's called plate D I
+believe in the design that I used. Um
+and it's actually a combination of a few
+things. So I fused this plate with
+another assembly. I didn't make them two
+separate parts. they can be, but there's
+really no point in doing that. Um, and I
+won't go into the reasons why, but I
+just want to show you something here.
+So, if you pay attention to the gills,
+the reals here, if my Fusion will let me
+zoom in good, you can see that I have a
+little tapered curve here. And it's not
+just a flat like strict like a flat um,
+what do you call it? Flat cut. It's a
+curved cut. And that's to allow the air
+to uh flow nicer as it's getting curved
+here. If you look at the design, there
+is a video by a guy. It was like
+something about like the last water
+wizard. I can't remember who it was, but
+it's a German man. And he was able to
+get this part manufactured by someone
+else. The top was flat, but in the
+original designs that I saw being tested
+by Hal Putoff and some of the other guys
+in the video, this had a nice um sloping
+curve. Uh a nice chamfer to it. I
+shouldn't say chamfer because I didn't
+really cher this but there was a angled
+gradient curve to it. So um that's
+exactly what I did in the design here.
+Maybe I should bring a clarification
+first. The previous design I called
+plate D. Technically it's plate D and C
+combined. At least that's how they were
+uh called. That's what they were called
+in the book I saw. So, what I did to
+make it easier for 3D printing, um, and
+I'll is I I combined plate C and D and
+the cowl base, which is the first thing
+we saw here together. So, the gills, the
+rails that you saw, I think that would
+be called plate D in my design. I have
+to check. And this would be called plate
+C. I chose these naming conventions
+based on the book I saw that was using
+well, multiple books, multiple books,
+multiple images. And I might post some
+of them at the end of this video. But uh
+this is the plate DC combo I call it
+with the lower cowl. I have two versions
+of this. So I'll provide uh this version
+has a little bit of a um like a
+millimeter or two uh height here. You
+see this like little slope here. In the
+other version there is no slope. It's
+just sitting flat on the cowl. So I'm
+speaking about this region right here.
+Guess we're almost at the end. This
+right here is what I call the plate B
+plus cowl top. So this by itself is a
+cowl. And I just superimposed that. I
+combined that with plate B, which is
+what you see here with the uh the
+grooves that will actually be sandwiched
+with a gap. I believe it was about a 3
+to 5 mm gap air space. And that can be
+changed. I'm sure that there's a
+critical spacing for it and there are
+ways it can be modified. Uh in this
+design we can see that air is supposed
+to be passing or being sucked in through
+here. Uh I instinctively
+don't like I don't this design is
+interesting to me. That's what I'd say.
+Uh the design is interesting. Again I
+was just copying. I also took time
+trying to I actually numbered I counted
+all of the uh holes that were here and
+the spacing that went into both of them
+and tried to get the angles as best as I
+could. Um, as you guys can see here, the
+thickness can vary. Uh, that should be
+something easy to uh fix inside of the
+editing software. You can change the
+thickness of this material. If you're
+using metal, then it's very good. If
+you're using plastic, you might want the
+thickness to be a bit more, but I mean,
+this just makes it easier. You can print
+as one piece. Oh, yeah. And also, this
+top right here is technically another
+part. It's an ancillary component like
+the axle. Um, you can have this removed.
+You can cut it out. Um, I just put it
+there because, you know, I if you're
+going to screw all of this together,
+it's probably easier to have like a
+central thing in the center here where
+you can just screw it. And then I also,
+you can see some little board holes.
+They didn't really quite go through.
+That's so if you use a screw, um, if you
+decide you want to drill all the way
+through, you can. If you don't want to
+drill all the way through, then you
+don't have to drill all the way through.
+Um, so yeah, hopefully that makes some
+sense. And moving on, the last component
+here, I call this the impeller ring
+because, as you can tell from the
+design, it is essentially an impeller.
+That's what it does. And it sits on top
+of everything else. And when this thing
+is rotated, it sucks in air. Uh, this is
+something else. I feel like if somebody
+who is uh specialist in
+uh aerodynamic systems here, I'm sure I
+could figure it out running some fluid
+simulations here. There's probably an
+optimal impeller design to use. There
+are different impellers. Um, I changed
+this design just a bit uh from the
+original, but it still has the same
+number of teeth that I saw, which were
+measured in the old black and white
+photo. Um, and it has the same slant uh
+degree slant. I It took a lot of time.
+It took a lot of effort to count all of
+these uh reals correctly. and then to
+really try and get the uh slant correct
+um looking at the documentary um with
+how put off inside of it the I can't
+even remember what that documentary is
+called but again I might post those
+videos at the end. So I actually have
+different versions of this. I have this
+one is only a single version where you
+see the um little I don't know what to
+call these the little dipped real
+things. I have a version where there are
+two of them so it sits on top but I
+think it's kind of redundant. So, this
+is kind of like a cap. Um, and when the
+air comes in, it basically, uh, deflects
+through a curved pattern here. Uh, if we
+were able to see through it. Let me see
+if I can get a see-through design. Okay,
+folks. So, I was able to get a
+see-through design. And you can see what
+I mean when I say the air like deflects.
+So, as the air goes in, you can see that
+it is being deflected in a curve right
+here. And then it's going to travel all
+the way down. So, let me put the
+analysis back if it'll let me do that.
+So, this is the cross-section. It will
+go it'll be curved and then it will come
+in down here and then it's supposed to
+be sucked up by the other component I
+just showed you guys. So, yeah. Okay. If
+you're still with me, then
+congratulations. You made it this far. I
+always say these are going to be short
+and they end up being long because it
+takes about a minute or two to shoot
+everything. But this is what everything
+looks like when it's combined right
+here. So, um we have all of the parts.
+Uh let's remove the analysis. Boom. What
+do we see here? It looks almost like a
+weird disc. It looks kind of cool. I I
+like this design. It looks really nice.
+Um, but now here lies my problem for
+basically being an effective impeller is
+this aperture right here. Uh, the only
+This is kind of funny, right? Um, when
+you have water being drained in a top
+that creates kind of like a vortex here.
+And so there's something that needs to
+happen up here that allows that to take
+place with air effectively when it's
+twirling. could be the case that there
+is a critical RPM where that happens.
+But uh I mean that that would just be
+throwing your hands in the air and
+saying that that happens. I don't see
+any condition for that to take place. I
+can tell you what I do know um can
+definitely take place if this is built
+is that this is supposed to function as
+an impeller. I'm sure there's a better
+impeller that can be used here. So the
+impeller ring I'm removing it now. Um so
+the impeller ring functions as an
+impeller and then here at the top when
+the air is sucked in it goes through
+these reels here and then it's also uh
+well the reels act almost like fish
+gills right and they travel along and
+then they basically the coand effect
+takes place here and provides an extra
+cushion for pushing it. The air is
+supposed to kind of like curl up and I'm
+just like blazing through all of this.
+I'm really not taking time to uh go
+through it technically because I just
+want to show you guys that this design
+is here and if anyone wants to go and
+make improvements and do better. Uh they
+are more than welcome to do that because
+that's what science is about, sharing
+and caring and doing better. Uh we need
+more scientists who care. So hopefully
+you guys enjoyed this video. If you
+like, subscribe and uh stay tuned for
+whatever I might show next. I'll put
+this on my GrabCad and my Thingiverse.
+Uh you guys should go and download my
+designs. I don't know why no one is
+downloading them. Download them and try
+to use them. Uh so that way we can do
+more research. Choice is grace, folks.
+And uh this is the Millennial Zoomer
+out.

@@ -1,0 +1,1488 @@
+1
+00:00:02,960 --> 00:00:08,240
+Hello internet. It is the millennial
+
+2
+00:00:05,600 --> 00:00:10,240
+zoomer, the original millennial zoomer.
+
+3
+00:00:08,240 --> 00:00:11,920
+Probably the only millennial zoomer on
+
+4
+00:00:10,240 --> 00:00:13,920
+YouTube. I mean there probably many
+
+5
+00:00:11,920 --> 00:00:17,279
+millennials who are also zoomers in that
+
+6
+00:00:13,920 --> 00:00:19,680
+weird in between uh year era. But uh
+
+7
+00:00:17,279 --> 00:00:21,920
+last I'm here today. I wanted to show
+
+8
+00:00:19,680 --> 00:00:23,279
+you guys something that I worked on a
+
+9
+00:00:21,920 --> 00:00:24,880
+couple summers ago. I got bored.
+
+10
+00:00:23,279 --> 00:00:27,840
+Sometimes when I get bored I just want
+
+11
+00:00:24,880 --> 00:00:29,519
+to keep my design skills uh in check.
+
+12
+00:00:27,840 --> 00:00:31,679
+And some of you might already recognize
+
+13
+00:00:29,519 --> 00:00:34,640
+this just looking at it. It is my
+
+14
+00:00:31,679 --> 00:00:38,960
+attempt at a replication of the uh
+
+15
+00:00:34,640 --> 00:00:41,600
+typical uh repulsing craft that was uh
+
+16
+00:00:38,960 --> 00:00:43,200
+inspired partially built by uh Victor
+
+17
+00:00:41,600 --> 00:00:45,600
+Shawberger. I made a few slight
+
+18
+00:00:43,200 --> 00:00:48,640
+improvements and honestly I think from
+
+19
+00:00:45,600 --> 00:00:51,760
+an aerodynamic point of view I am not
+
+20
+00:00:48,640 --> 00:00:53,520
+confident that this would take off. So
+
+21
+00:00:51,760 --> 00:00:55,520
+it could it very well could but I think
+
+22
+00:00:53,520 --> 00:00:57,199
+it's missing something in terms of the
+
+23
+00:00:55,520 --> 00:01:00,160
+impeller. this part here just
+
+24
+00:00:57,199 --> 00:01:02,719
+designwise. Um I didn't try and make any
+
+25
+00:01:00,160 --> 00:01:05,600
+fluid dynamic simulations. Maybe I'll do
+
+26
+00:01:02,719 --> 00:01:07,680
+that in the future, maybe I won't. Um
+
+27
+00:01:05,600 --> 00:01:10,240
+the reason I decided to design this is
+
+28
+00:01:07,680 --> 00:01:12,720
+because uh when I was doing work in
+
+29
+00:01:10,240 --> 00:01:15,200
+solid state inertial propulsion systems,
+
+30
+00:01:12,720 --> 00:01:19,119
+which are just basically impulsive or
+
+31
+00:01:15,200 --> 00:01:21,439
+implosive dynamic systems, um this was a
+
+32
+00:01:19,119 --> 00:01:23,119
+fluid-based implosive system, right? So
+
+33
+00:01:21,439 --> 00:01:26,000
+instead of having something being spit
+
+34
+00:01:23,119 --> 00:01:27,920
+out of a machine um it basically sucks
+
+35
+00:01:26,000 --> 00:01:29,520
+itself through the vacuum something like
+
+36
+00:01:27,920 --> 00:01:33,200
+the I think it's called the Garuda
+
+37
+00:01:29,520 --> 00:01:34,960
+syninji it's a special it's a branch in
+
+38
+00:01:33,200 --> 00:01:37,680
+uh India if you pour water into it it
+
+39
+00:01:34,960 --> 00:01:39,280
+twirls up uh because of its geometry and
+
+40
+00:01:37,680 --> 00:01:40,799
+like sucks the air up and that's the
+
+41
+00:01:39,280 --> 00:01:43,119
+same kind of idea the operating
+
+42
+00:01:40,799 --> 00:01:45,680
+principle for this impeller so instead
+
+43
+00:01:43,119 --> 00:01:48,000
+of having a turbine which you know will
+
+44
+00:01:45,680 --> 00:01:49,360
+compress air and then like spit it out
+
+45
+00:01:48,000 --> 00:01:51,680
+really fast that that's one way you
+
+46
+00:01:49,360 --> 00:01:53,360
+could have this as a a turbine And this
+
+47
+00:01:51,680 --> 00:01:55,759
+really is a turbine at the end of the
+
+48
+00:01:53,360 --> 00:01:57,360
+day. It's like a pancake shaped turbine.
+
+49
+00:01:55,759 --> 00:01:59,360
+And the idea isn't to have a lot of air
+
+50
+00:01:57,360 --> 00:02:03,040
+that's being pushed out. Um it's to have
+
+51
+00:01:59,360 --> 00:02:05,520
+the air like swim across or have the uh
+
+52
+00:02:03,040 --> 00:02:08,239
+turbine, if you will, swim across water.
+
+53
+00:02:05,520 --> 00:02:10,319
+Um but anyway, uh I'm starting to get a
+
+54
+00:02:08,239 --> 00:02:11,760
+little lost in my thoughts here. Lost in
+
+55
+00:02:10,319 --> 00:02:13,599
+the thoughts. So let's take a look at
+
+56
+00:02:11,760 --> 00:02:15,040
+this. And it will be probably be a short
+
+57
+00:02:13,599 --> 00:02:17,440
+video. I say that and sometimes it takes
+
+58
+00:02:15,040 --> 00:02:19,040
+a while. So let's go into this journey
+
+59
+00:02:17,440 --> 00:02:20,879
+together. So, uh, at the end of this
+
+60
+00:02:19,040 --> 00:02:22,879
+video, I'll provide a link. Anyone can
+
+61
+00:02:20,879 --> 00:02:24,720
+go and download these parts and build it
+
+62
+00:02:22,879 --> 00:02:26,959
+yourself. In fact, I actually ended up
+
+63
+00:02:24,720 --> 00:02:29,280
+building it. I 3D printed the parts. I
+
+64
+00:02:26,959 --> 00:02:30,640
+made it extremely 3D printable friendly
+
+65
+00:02:29,280 --> 00:02:32,400
+because I want people to be able to
+
+66
+00:02:30,640 --> 00:02:34,800
+replicate these things to improve upon
+
+67
+00:02:32,400 --> 00:02:36,000
+the designs and to do science. That's
+
+68
+00:02:34,800 --> 00:02:38,400
+what I want. That's the whole point of
+
+69
+00:02:36,000 --> 00:02:42,720
+this. I'm all about doing science. And
+
+70
+00:02:38,400 --> 00:02:44,239
+so, um, yeah. Uh, I think there are cool
+
+71
+00:02:42,720 --> 00:02:47,599
+improvements that can be made here.
+
+72
+00:02:44,239 --> 00:02:50,239
+Again, my attempt was just to replicate
+
+73
+00:02:47,599 --> 00:02:52,720
+uh what I was able to find. Uh and
+
+74
+00:02:50,239 --> 00:02:54,480
+there's a lot of images and things
+
+75
+00:02:52,720 --> 00:02:56,959
+floating around. This is based off of
+
+76
+00:02:54,480 --> 00:02:58,959
+the classic repulsene. If you've ever
+
+77
+00:02:56,959 --> 00:03:01,040
+seen a picture of it on the internet,
+
+78
+00:02:58,959 --> 00:03:03,200
+this is based off of that classic
+
+79
+00:03:01,040 --> 00:03:04,800
+picture. Um the reposines that have been
+
+80
+00:03:03,200 --> 00:03:06,959
+around and circulated in the internet,
+
+81
+00:03:04,800 --> 00:03:09,920
+there are quite a few of them. Um and
+
+82
+00:03:06,959 --> 00:03:12,080
+when I say quite a few, there really two
+
+83
+00:03:09,920 --> 00:03:13,840
+there are purportedly two types in a
+
+84
+00:03:12,080 --> 00:03:15,760
+book. Really, I think it's just one. and
+
+85
+00:03:13,840 --> 00:03:16,959
+people have mixed and matched the parts.
+
+86
+00:03:15,760 --> 00:03:18,879
+I'm not going to go into the whole
+
+87
+00:03:16,959 --> 00:03:20,720
+history. That's not what this video is.
+
+88
+00:03:18,879 --> 00:03:22,959
+I don't have time to explain it because
+
+89
+00:03:20,720 --> 00:03:23,920
+there are a lot of different devices,
+
+90
+00:03:22,959 --> 00:03:26,560
+different machines, different
+
+91
+00:03:23,920 --> 00:03:29,040
+innovations that uh Shaburgger worked on
+
+92
+00:03:26,560 --> 00:03:30,959
+uh that influenced other people and
+
+93
+00:03:29,040 --> 00:03:32,799
+other kinds of engineering. And so this
+
+94
+00:03:30,959 --> 00:03:34,560
+was just my attempt to really study this
+
+95
+00:03:32,799 --> 00:03:36,319
+machine and understand the principles,
+
+96
+00:03:34,560 --> 00:03:38,239
+the working principles. Like I spent
+
+97
+00:03:36,319 --> 00:03:40,799
+time counting all of the individual
+
+98
+00:03:38,239 --> 00:03:43,360
+ress, the gills you guys see here, which
+
+99
+00:03:40,799 --> 00:03:45,280
+are I think it was 120. You'll see. Uh
+
+100
+00:03:43,360 --> 00:03:47,760
+maybe I'll have like a PowerPoint slide
+
+101
+00:03:45,280 --> 00:03:49,120
+on it which shows you uh I really took
+
+102
+00:03:47,760 --> 00:03:51,040
+great lengths to look at that. And then
+
+103
+00:03:49,120 --> 00:03:53,920
+I also took great lengths to look at the
+
+104
+00:03:51,040 --> 00:03:55,280
+impulsive um well not the impulsive,
+
+105
+00:03:53,920 --> 00:03:57,120
+excuse me, the impeller. That's
+
+106
+00:03:55,280 --> 00:03:59,120
+basically what this is here at the top
+
+107
+00:03:57,120 --> 00:04:00,799
+and it varies. Um I think it's also
+
+108
+00:03:59,120 --> 00:04:03,840
+missing some stuff from the things that
+
+109
+00:04:00,799 --> 00:04:05,439
+we do have um of the machine. This this
+
+110
+00:04:03,840 --> 00:04:07,040
+component here is basically impeller.
+
+111
+00:04:05,439 --> 00:04:09,840
+Anyway, let me stop rambling. Let's
+
+112
+00:04:07,040 --> 00:04:12,400
+actually jump into this. Okay, so first
+
+113
+00:04:09,840 --> 00:04:14,000
+off we have an axle. And the axle, uh,
+
+114
+00:04:12,400 --> 00:04:16,320
+as you probably guessed, is supposed to
+
+115
+00:04:14,000 --> 00:04:18,959
+connect to a motor, a motor which will
+
+116
+00:04:16,320 --> 00:04:21,120
+spin the entire impeller assembly. So
+
+117
+00:04:18,959 --> 00:04:23,440
+that way it can be like a suction and
+
+118
+00:04:21,120 --> 00:04:25,120
+suck all the air and go through um the
+
+119
+00:04:23,440 --> 00:04:26,960
+cowl casing. So this is the first one.
+
+120
+00:04:25,120 --> 00:04:28,639
+It goes right under and so it's
+
+121
+00:04:26,960 --> 00:04:30,800
+basically supposed to help with the
+
+122
+00:04:28,639 --> 00:04:33,440
+coanda effect as the air is passing
+
+123
+00:04:30,800 --> 00:04:35,759
+through. Um, it kind of creates a
+
+124
+00:04:33,440 --> 00:04:37,520
+cushion on the under it, right? Like it
+
+125
+00:04:35,759 --> 00:04:39,520
+curls up and it creates a night of a
+
+126
+00:04:37,520 --> 00:04:42,080
+nice extra cushion. And there might even
+
+127
+00:04:39,520 --> 00:04:45,440
+be an added benefit of something like a
+
+128
+00:04:42,080 --> 00:04:47,759
+vortex. Uh like I don't want to sound
+
+129
+00:04:45,440 --> 00:04:50,639
+weird here, but I'm not again this is
+
+130
+00:04:47,759 --> 00:04:53,280
+not to go into how this would create a
+
+131
+00:04:50,639 --> 00:04:55,280
+vortex in air, but through the co effect
+
+132
+00:04:53,280 --> 00:04:57,520
+as the air is rushing in through here,
+
+133
+00:04:55,280 --> 00:04:59,520
+this helps to shape the air and it does
+
+134
+00:04:57,520 --> 00:05:01,120
+provide a kind of cushion. Uh there's a
+
+135
+00:04:59,520 --> 00:05:02,479
+great YouTuber and if I find his name
+
+136
+00:05:01,120 --> 00:05:04,479
+I'll put in the description where he's
+
+137
+00:05:02,479 --> 00:05:07,840
+done test and experiments with trying to
+
+138
+00:05:04,479 --> 00:05:09,680
+make vortex like uh cushions uh from the
+
+139
+00:05:07,840 --> 00:05:12,479
+shape and geometry. So this is the other
+
+140
+00:05:09,680 --> 00:05:14,080
+part also probably the one of the tricky
+
+141
+00:05:12,479 --> 00:05:16,080
+I say tricky because I was really trying
+
+142
+00:05:14,080 --> 00:05:17,840
+to get all these details here as to how
+
+143
+00:05:16,080 --> 00:05:19,840
+it looks. For example, let's look at the
+
+144
+00:05:17,840 --> 00:05:21,919
+analysis. So it's called plate D I
+
+145
+00:05:19,840 --> 00:05:23,600
+believe in the design that I used. Um
+
+146
+00:05:21,919 --> 00:05:25,199
+and it's actually a combination of a few
+
+147
+00:05:23,600 --> 00:05:27,120
+things. So I fused this plate with
+
+148
+00:05:25,199 --> 00:05:28,960
+another assembly. I didn't make them two
+
+149
+00:05:27,120 --> 00:05:31,759
+separate parts. they can be, but there's
+
+150
+00:05:28,960 --> 00:05:33,280
+really no point in doing that. Um, and I
+
+151
+00:05:31,759 --> 00:05:34,800
+won't go into the reasons why, but I
+
+152
+00:05:33,280 --> 00:05:37,120
+just want to show you something here.
+
+153
+00:05:34,800 --> 00:05:39,759
+So, if you pay attention to the gills,
+
+154
+00:05:37,120 --> 00:05:43,280
+the reals here, if my Fusion will let me
+
+155
+00:05:39,759 --> 00:05:46,000
+zoom in good, you can see that I have a
+
+156
+00:05:43,280 --> 00:05:50,000
+little tapered curve here. And it's not
+
+157
+00:05:46,000 --> 00:05:52,320
+just a flat like strict like a flat um,
+
+158
+00:05:50,000 --> 00:05:54,880
+what do you call it? Flat cut. It's a
+
+159
+00:05:52,320 --> 00:05:57,759
+curved cut. And that's to allow the air
+
+160
+00:05:54,880 --> 00:05:59,759
+to uh flow nicer as it's getting curved
+
+161
+00:05:57,759 --> 00:06:01,600
+here. If you look at the design, there
+
+162
+00:05:59,759 --> 00:06:03,120
+is a video by a guy. It was like
+
+163
+00:06:01,600 --> 00:06:04,720
+something about like the last water
+
+164
+00:06:03,120 --> 00:06:07,440
+wizard. I can't remember who it was, but
+
+165
+00:06:04,720 --> 00:06:10,080
+it's a German man. And he was able to
+
+166
+00:06:07,440 --> 00:06:12,639
+get this part manufactured by someone
+
+167
+00:06:10,080 --> 00:06:14,560
+else. The top was flat, but in the
+
+168
+00:06:12,639 --> 00:06:16,479
+original designs that I saw being tested
+
+169
+00:06:14,560 --> 00:06:19,680
+by Hal Putoff and some of the other guys
+
+170
+00:06:16,479 --> 00:06:22,560
+in the video, this had a nice um sloping
+
+171
+00:06:19,680 --> 00:06:23,840
+curve. Uh a nice chamfer to it. I
+
+172
+00:06:22,560 --> 00:06:26,240
+shouldn't say chamfer because I didn't
+
+173
+00:06:23,840 --> 00:06:28,720
+really cher this but there was a angled
+
+174
+00:06:26,240 --> 00:06:31,520
+gradient curve to it. So um that's
+
+175
+00:06:28,720 --> 00:06:33,039
+exactly what I did in the design here.
+
+176
+00:06:31,520 --> 00:06:34,880
+Maybe I should bring a clarification
+
+177
+00:06:33,039 --> 00:06:37,360
+first. The previous design I called
+
+178
+00:06:34,880 --> 00:06:39,680
+plate D. Technically it's plate D and C
+
+179
+00:06:37,360 --> 00:06:41,120
+combined. At least that's how they were
+
+180
+00:06:39,680 --> 00:06:43,199
+uh called. That's what they were called
+
+181
+00:06:41,120 --> 00:06:46,000
+in the book I saw. So, what I did to
+
+182
+00:06:43,199 --> 00:06:49,759
+make it easier for 3D printing, um, and
+
+183
+00:06:46,000 --> 00:06:51,600
+I'll is I I combined plate C and D and
+
+184
+00:06:49,759 --> 00:06:55,120
+the cowl base, which is the first thing
+
+185
+00:06:51,600 --> 00:06:57,120
+we saw here together. So, the gills, the
+
+186
+00:06:55,120 --> 00:06:59,280
+rails that you saw, I think that would
+
+187
+00:06:57,120 --> 00:07:00,880
+be called plate D in my design. I have
+
+188
+00:06:59,280 --> 00:07:03,199
+to check. And this would be called plate
+
+189
+00:07:00,880 --> 00:07:05,520
+C. I chose these naming conventions
+
+190
+00:07:03,199 --> 00:07:07,120
+based on the book I saw that was using
+
+191
+00:07:05,520 --> 00:07:08,800
+well, multiple books, multiple books,
+
+192
+00:07:07,120 --> 00:07:11,599
+multiple images. And I might post some
+
+193
+00:07:08,800 --> 00:07:14,960
+of them at the end of this video. But uh
+
+194
+00:07:11,599 --> 00:07:16,960
+this is the plate DC combo I call it
+
+195
+00:07:14,960 --> 00:07:19,440
+with the lower cowl. I have two versions
+
+196
+00:07:16,960 --> 00:07:24,400
+of this. So I'll provide uh this version
+
+197
+00:07:19,440 --> 00:07:28,639
+has a little bit of a um like a
+
+198
+00:07:24,400 --> 00:07:31,120
+millimeter or two uh height here. You
+
+199
+00:07:28,639 --> 00:07:32,639
+see this like little slope here. In the
+
+200
+00:07:31,120 --> 00:07:35,120
+other version there is no slope. It's
+
+201
+00:07:32,639 --> 00:07:37,039
+just sitting flat on the cowl. So I'm
+
+202
+00:07:35,120 --> 00:07:39,599
+speaking about this region right here.
+
+203
+00:07:37,039 --> 00:07:42,000
+Guess we're almost at the end. This
+
+204
+00:07:39,599 --> 00:07:44,960
+right here is what I call the plate B
+
+205
+00:07:42,000 --> 00:07:47,840
+plus cowl top. So this by itself is a
+
+206
+00:07:44,960 --> 00:07:50,639
+cowl. And I just superimposed that. I
+
+207
+00:07:47,840 --> 00:07:53,919
+combined that with plate B, which is
+
+208
+00:07:50,639 --> 00:07:57,280
+what you see here with the uh the
+
+209
+00:07:53,919 --> 00:07:59,199
+grooves that will actually be sandwiched
+
+210
+00:07:57,280 --> 00:08:01,599
+with a gap. I believe it was about a 3
+
+211
+00:07:59,199 --> 00:08:03,360
+to 5 mm gap air space. And that can be
+
+212
+00:08:01,599 --> 00:08:05,120
+changed. I'm sure that there's a
+
+213
+00:08:03,360 --> 00:08:07,360
+critical spacing for it and there are
+
+214
+00:08:05,120 --> 00:08:09,440
+ways it can be modified. Uh in this
+
+215
+00:08:07,360 --> 00:08:11,919
+design we can see that air is supposed
+
+216
+00:08:09,440 --> 00:08:16,160
+to be passing or being sucked in through
+
+217
+00:08:11,919 --> 00:08:19,520
+here. Uh I instinctively
+
+218
+00:08:16,160 --> 00:08:21,120
+don't like I don't this design is
+
+219
+00:08:19,520 --> 00:08:22,800
+interesting to me. That's what I'd say.
+
+220
+00:08:21,120 --> 00:08:24,720
+Uh the design is interesting. Again I
+
+221
+00:08:22,800 --> 00:08:27,120
+was just copying. I also took time
+
+222
+00:08:24,720 --> 00:08:30,080
+trying to I actually numbered I counted
+
+223
+00:08:27,120 --> 00:08:31,840
+all of the uh holes that were here and
+
+224
+00:08:30,080 --> 00:08:33,760
+the spacing that went into both of them
+
+225
+00:08:31,840 --> 00:08:36,640
+and tried to get the angles as best as I
+
+226
+00:08:33,760 --> 00:08:38,479
+could. Um, as you guys can see here, the
+
+227
+00:08:36,640 --> 00:08:41,440
+thickness can vary. Uh, that should be
+
+228
+00:08:38,479 --> 00:08:43,039
+something easy to uh fix inside of the
+
+229
+00:08:41,440 --> 00:08:44,399
+editing software. You can change the
+
+230
+00:08:43,039 --> 00:08:46,000
+thickness of this material. If you're
+
+231
+00:08:44,399 --> 00:08:47,279
+using metal, then it's very good. If
+
+232
+00:08:46,000 --> 00:08:49,279
+you're using plastic, you might want the
+
+233
+00:08:47,279 --> 00:08:50,640
+thickness to be a bit more, but I mean,
+
+234
+00:08:49,279 --> 00:08:52,320
+this just makes it easier. You can print
+
+235
+00:08:50,640 --> 00:08:54,640
+as one piece. Oh, yeah. And also, this
+
+236
+00:08:52,320 --> 00:08:56,320
+top right here is technically another
+
+237
+00:08:54,640 --> 00:08:59,680
+part. It's an ancillary component like
+
+238
+00:08:56,320 --> 00:09:01,760
+the axle. Um, you can have this removed.
+
+239
+00:08:59,680 --> 00:09:03,920
+You can cut it out. Um, I just put it
+
+240
+00:09:01,760 --> 00:09:05,440
+there because, you know, I if you're
+
+241
+00:09:03,920 --> 00:09:07,040
+going to screw all of this together,
+
+242
+00:09:05,440 --> 00:09:08,959
+it's probably easier to have like a
+
+243
+00:09:07,040 --> 00:09:10,399
+central thing in the center here where
+
+244
+00:09:08,959 --> 00:09:12,240
+you can just screw it. And then I also,
+
+245
+00:09:10,399 --> 00:09:14,320
+you can see some little board holes.
+
+246
+00:09:12,240 --> 00:09:17,120
+They didn't really quite go through.
+
+247
+00:09:14,320 --> 00:09:18,720
+That's so if you use a screw, um, if you
+
+248
+00:09:17,120 --> 00:09:20,640
+decide you want to drill all the way
+
+249
+00:09:18,720 --> 00:09:22,000
+through, you can. If you don't want to
+
+250
+00:09:20,640 --> 00:09:23,760
+drill all the way through, then you
+
+251
+00:09:22,000 --> 00:09:26,160
+don't have to drill all the way through.
+
+252
+00:09:23,760 --> 00:09:28,880
+Um, so yeah, hopefully that makes some
+
+253
+00:09:26,160 --> 00:09:30,560
+sense. And moving on, the last component
+
+254
+00:09:28,880 --> 00:09:31,920
+here, I call this the impeller ring
+
+255
+00:09:30,560 --> 00:09:34,080
+because, as you can tell from the
+
+256
+00:09:31,920 --> 00:09:35,920
+design, it is essentially an impeller.
+
+257
+00:09:34,080 --> 00:09:37,839
+That's what it does. And it sits on top
+
+258
+00:09:35,920 --> 00:09:40,560
+of everything else. And when this thing
+
+259
+00:09:37,839 --> 00:09:42,560
+is rotated, it sucks in air. Uh, this is
+
+260
+00:09:40,560 --> 00:09:46,080
+something else. I feel like if somebody
+
+261
+00:09:42,560 --> 00:09:48,399
+who is uh specialist in
+
+262
+00:09:46,080 --> 00:09:49,920
+uh aerodynamic systems here, I'm sure I
+
+263
+00:09:48,399 --> 00:09:51,920
+could figure it out running some fluid
+
+264
+00:09:49,920 --> 00:09:53,760
+simulations here. There's probably an
+
+265
+00:09:51,920 --> 00:09:56,560
+optimal impeller design to use. There
+
+266
+00:09:53,760 --> 00:09:58,720
+are different impellers. Um, I changed
+
+267
+00:09:56,560 --> 00:10:00,800
+this design just a bit uh from the
+
+268
+00:09:58,720 --> 00:10:02,560
+original, but it still has the same
+
+269
+00:10:00,800 --> 00:10:04,160
+number of teeth that I saw, which were
+
+270
+00:10:02,560 --> 00:10:08,320
+measured in the old black and white
+
+271
+00:10:04,160 --> 00:10:10,320
+photo. Um, and it has the same slant uh
+
+272
+00:10:08,320 --> 00:10:12,480
+degree slant. I It took a lot of time.
+
+273
+00:10:10,320 --> 00:10:14,640
+It took a lot of effort to count all of
+
+274
+00:10:12,480 --> 00:10:17,120
+these uh reals correctly. and then to
+
+275
+00:10:14,640 --> 00:10:19,519
+really try and get the uh slant correct
+
+276
+00:10:17,120 --> 00:10:21,519
+um looking at the documentary um with
+
+277
+00:10:19,519 --> 00:10:22,880
+how put off inside of it the I can't
+
+278
+00:10:21,519 --> 00:10:24,720
+even remember what that documentary is
+
+279
+00:10:22,880 --> 00:10:27,440
+called but again I might post those
+
+280
+00:10:24,720 --> 00:10:29,360
+videos at the end. So I actually have
+
+281
+00:10:27,440 --> 00:10:31,760
+different versions of this. I have this
+
+282
+00:10:29,360 --> 00:10:34,079
+one is only a single version where you
+
+283
+00:10:31,760 --> 00:10:37,040
+see the um little I don't know what to
+
+284
+00:10:34,079 --> 00:10:38,640
+call these the little dipped real
+
+285
+00:10:37,040 --> 00:10:40,399
+things. I have a version where there are
+
+286
+00:10:38,640 --> 00:10:42,480
+two of them so it sits on top but I
+
+287
+00:10:40,399 --> 00:10:45,440
+think it's kind of redundant. So, this
+
+288
+00:10:42,480 --> 00:10:49,519
+is kind of like a cap. Um, and when the
+
+289
+00:10:45,440 --> 00:10:52,000
+air comes in, it basically, uh, deflects
+
+290
+00:10:49,519 --> 00:10:53,279
+through a curved pattern here. Uh, if we
+
+291
+00:10:52,000 --> 00:10:56,079
+were able to see through it. Let me see
+
+292
+00:10:53,279 --> 00:10:57,519
+if I can get a see-through design. Okay,
+
+293
+00:10:56,079 --> 00:10:59,040
+folks. So, I was able to get a
+
+294
+00:10:57,519 --> 00:11:00,959
+see-through design. And you can see what
+
+295
+00:10:59,040 --> 00:11:03,040
+I mean when I say the air like deflects.
+
+296
+00:11:00,959 --> 00:11:05,680
+So, as the air goes in, you can see that
+
+297
+00:11:03,040 --> 00:11:07,440
+it is being deflected in a curve right
+
+298
+00:11:05,680 --> 00:11:09,279
+here. And then it's going to travel all
+
+299
+00:11:07,440 --> 00:11:11,600
+the way down. So, let me put the
+
+300
+00:11:09,279 --> 00:11:13,600
+analysis back if it'll let me do that.
+
+301
+00:11:11,600 --> 00:11:16,160
+So, this is the cross-section. It will
+
+302
+00:11:13,600 --> 00:11:17,760
+go it'll be curved and then it will come
+
+303
+00:11:16,160 --> 00:11:19,360
+in down here and then it's supposed to
+
+304
+00:11:17,760 --> 00:11:22,720
+be sucked up by the other component I
+
+305
+00:11:19,360 --> 00:11:23,680
+just showed you guys. So, yeah. Okay. If
+
+306
+00:11:22,720 --> 00:11:25,680
+you're still with me, then
+
+307
+00:11:23,680 --> 00:11:26,720
+congratulations. You made it this far. I
+
+308
+00:11:25,680 --> 00:11:28,320
+always say these are going to be short
+
+309
+00:11:26,720 --> 00:11:30,079
+and they end up being long because it
+
+310
+00:11:28,320 --> 00:11:31,360
+takes about a minute or two to shoot
+
+311
+00:11:30,079 --> 00:11:33,040
+everything. But this is what everything
+
+312
+00:11:31,360 --> 00:11:35,680
+looks like when it's combined right
+
+313
+00:11:33,040 --> 00:11:38,240
+here. So, um we have all of the parts.
+
+314
+00:11:35,680 --> 00:11:39,760
+Uh let's remove the analysis. Boom. What
+
+315
+00:11:38,240 --> 00:11:42,320
+do we see here? It looks almost like a
+
+316
+00:11:39,760 --> 00:11:44,560
+weird disc. It looks kind of cool. I I
+
+317
+00:11:42,320 --> 00:11:48,320
+like this design. It looks really nice.
+
+318
+00:11:44,560 --> 00:11:51,839
+Um, but now here lies my problem for
+
+319
+00:11:48,320 --> 00:11:55,120
+basically being an effective impeller is
+
+320
+00:11:51,839 --> 00:11:56,880
+this aperture right here. Uh, the only
+
+321
+00:11:55,120 --> 00:11:59,360
+This is kind of funny, right? Um, when
+
+322
+00:11:56,880 --> 00:12:01,680
+you have water being drained in a top
+
+323
+00:11:59,360 --> 00:12:03,279
+that creates kind of like a vortex here.
+
+324
+00:12:01,680 --> 00:12:06,560
+And so there's something that needs to
+
+325
+00:12:03,279 --> 00:12:08,639
+happen up here that allows that to take
+
+326
+00:12:06,560 --> 00:12:10,160
+place with air effectively when it's
+
+327
+00:12:08,639 --> 00:12:11,839
+twirling. could be the case that there
+
+328
+00:12:10,160 --> 00:12:13,920
+is a critical RPM where that happens.
+
+329
+00:12:11,839 --> 00:12:14,880
+But uh I mean that that would just be
+
+330
+00:12:13,920 --> 00:12:16,240
+throwing your hands in the air and
+
+331
+00:12:14,880 --> 00:12:18,959
+saying that that happens. I don't see
+
+332
+00:12:16,240 --> 00:12:21,200
+any condition for that to take place. I
+
+333
+00:12:18,959 --> 00:12:23,120
+can tell you what I do know um can
+
+334
+00:12:21,200 --> 00:12:25,040
+definitely take place if this is built
+
+335
+00:12:23,120 --> 00:12:26,639
+is that this is supposed to function as
+
+336
+00:12:25,040 --> 00:12:28,800
+an impeller. I'm sure there's a better
+
+337
+00:12:26,639 --> 00:12:31,200
+impeller that can be used here. So the
+
+338
+00:12:28,800 --> 00:12:32,639
+impeller ring I'm removing it now. Um so
+
+339
+00:12:31,200 --> 00:12:35,600
+the impeller ring functions as an
+
+340
+00:12:32,639 --> 00:12:37,360
+impeller and then here at the top when
+
+341
+00:12:35,600 --> 00:12:40,959
+the air is sucked in it goes through
+
+342
+00:12:37,360 --> 00:12:42,880
+these reels here and then it's also uh
+
+343
+00:12:40,959 --> 00:12:45,760
+well the reels act almost like fish
+
+344
+00:12:42,880 --> 00:12:47,839
+gills right and they travel along and
+
+345
+00:12:45,760 --> 00:12:50,240
+then they basically the coand effect
+
+346
+00:12:47,839 --> 00:12:52,560
+takes place here and provides an extra
+
+347
+00:12:50,240 --> 00:12:55,360
+cushion for pushing it. The air is
+
+348
+00:12:52,560 --> 00:12:57,120
+supposed to kind of like curl up and I'm
+
+349
+00:12:55,360 --> 00:12:59,680
+just like blazing through all of this.
+
+350
+00:12:57,120 --> 00:13:01,040
+I'm really not taking time to uh go
+
+351
+00:12:59,680 --> 00:13:02,399
+through it technically because I just
+
+352
+00:13:01,040 --> 00:13:04,560
+want to show you guys that this design
+
+353
+00:13:02,399 --> 00:13:06,800
+is here and if anyone wants to go and
+
+354
+00:13:04,560 --> 00:13:08,560
+make improvements and do better. Uh they
+
+355
+00:13:06,800 --> 00:13:10,399
+are more than welcome to do that because
+
+356
+00:13:08,560 --> 00:13:13,120
+that's what science is about, sharing
+
+357
+00:13:10,399 --> 00:13:15,120
+and caring and doing better. Uh we need
+
+358
+00:13:13,120 --> 00:13:16,720
+more scientists who care. So hopefully
+
+359
+00:13:15,120 --> 00:13:19,920
+you guys enjoyed this video. If you
+
+360
+00:13:16,720 --> 00:13:22,000
+like, subscribe and uh stay tuned for
+
+361
+00:13:19,920 --> 00:13:24,560
+whatever I might show next. I'll put
+
+362
+00:13:22,000 --> 00:13:26,240
+this on my GrabCad and my Thingiverse.
+
+363
+00:13:24,560 --> 00:13:27,760
+Uh you guys should go and download my
+
+364
+00:13:26,240 --> 00:13:29,519
+designs. I don't know why no one is
+
+365
+00:13:27,760 --> 00:13:31,279
+downloading them. Download them and try
+
+366
+00:13:29,519 --> 00:13:33,440
+to use them. Uh so that way we can do
+
+367
+00:13:31,279 --> 00:13:35,839
+more research. Choice is grace, folks.
+
+368
+00:13:33,440 --> 00:13:37,590
+And uh this is the Millennial Zoomer
+
+369
+00:13:35,839 --> 00:13:48,649
+out.
+
+370
+00:13:37,590 --> 00:13:48,649
+[Music]
+
+371
+00:13:49,110 --> 00:13:54,830
+[Applause]
+
+372
+00:13:51,290 --> 00:13:54,830
+[Music]
+
