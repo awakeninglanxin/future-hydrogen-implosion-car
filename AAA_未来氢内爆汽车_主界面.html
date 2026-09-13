@@ -207,7 +207,7 @@ footer{margin-top:60px;padding:26px 0;border-top:1px solid var(--line);
     「<strong>零柴油·纯氢</strong>」（圈内主张的目标，主流已实现但机制不同）
     与「<strong>氢-柴油双燃料掺氢</strong>」（另一条独立成立的赛道）。
     <span style="color:var(--unk)">★ 2026-09-12 更正：此前把两者混为「一条路线的两个版本」，现分轨（见 §11.0）。</span>
-    本页汇总全库 <strong>464 个文件 / 184.7 MB</strong> 的核心判定、对照表、独立复算与原始插图。
+    本页汇总全库 <strong>465 个文件 / 184.7 MB</strong> 的核心判定、对照表、独立复算与原始插图。
   </p>
   <p style="margin-top:14px">
     <a href="#s1" style="display:inline-block;background:var(--brand);color:#fff;padding:9px 20px;border-radius:8px;font-size:14.5px;font-weight:600">↓ 直接看十三项差异总表</a>
@@ -236,7 +236,7 @@ footer{margin-top:60px;padding:26px 0;border-top:1px solid var(--line);
 </table>
 
 <div class="stats">
-  <div class="stat"><div class="v">464</div><div class="k">项目文件</div></div>
+  <div class="stat"><div class="v">465</div><div class="k">项目文件</div></div>
   <div class="stat"><div class="v">184.7<span style="font-size:15px">MB</span></div><div class="k">资料总量</div></div>
   <div class="stat"><div class="v">7</div><div class="k">研究板块</div></div>
   <div class="stat"><div class="v">19</div><div class="k">方法论判据</div></div>
@@ -276,7 +276,7 @@ footer{margin-top:60px;padding:26px 0;border-top:1px solid var(--line);
     <div class="blk">
       <h4>stanley meyer hho</h4>
       <p>Meyer 体系精读。9 处独立复算证明漏记 12.5 kW 电费；两个对照组（专利 4.0–8.5 V vs Memo 20,000–90,000 V）。</p>
-      <div class="meta">13 份 md + 4 复算脚本</div>
+      <div class="meta">14 份 md + 4 复算脚本</div>
     </div>
     <div class="blk">
       <h4>HHO 书本精读</h4>
@@ -664,7 +664,7 @@ footer{margin-top:60px;padding:26px 0;border-top:1px solid var(--line);
 <!-- ============ §4 Stanley Meyer ============ -->
 <section id="s4">
   <h2><span class="n">04</span>Stanley Meyer：「水当燃料」漏掉的那一行</h2>
-  <p class="sec-sub">板块路径 <code>stanley meyer hho/</code> · 13 份 md + 4 个复算脚本 · 核心方法：判据③「不要看它算错了什么，要看它没算什么」。</p>
+  <p class="sec-sub">板块路径 <code>stanley meyer hho/</code> · 14 份 md + 4 个复算脚本 · 核心方法：判据③「不要看它算错了什么，要看它没算什么」。</p>
 
   <h3>4.1 判决：账全对，只差最后一行</h3>
   <div class="note note-bad">
@@ -723,8 +723,17 @@ footer{margin-top:60px;padding:26px 0;border-top:1px solid var(--line);
 合理区间:
     <span class="ok">1.5 – 4 V</span>
     <span class="cm">低于 1.229 V 不可能（可逆电压），高于 4 V 效率就太低了</span></pre>
-    <p style="margin-bottom:0">
-      ⇒ 任何声称「产气量是法拉第 N 倍」的材料，<strong>立刻换能量口径重算</strong>（判据①）。
+    <p>
+      ⇒ 任何声称「产气量是法拉第 N 倍」的材料，<strong>按「四层核销法」逐层过账</strong>（判据①，2026-09-13 升级）：
+      <strong>① 电荷账</strong>（产气→电荷，从哪来）· <strong>② 能量账</strong>（电+热+声+化学全记）·
+      <strong>③ 通道账</strong>（有无第二条产气通道）· <strong>④ 测量账</strong>（≥1 kHz 脉冲先查仪表带宽）。
+      <strong>四层清零，才谈新物理。</strong>
+    </p>
+    <p style="font-size:14px;color:var(--ink2);margin-bottom:0">
+      ★ <strong>波形修正</strong>：法拉第定律＝电荷守恒＋化学计量，<strong>不限直流</strong>（直流只是其实验起点）；
+      脉冲/谐振确实提升<strong>能量效率</strong>（2024–25 文献量级 <strong>+27% ~ +54%</strong>），但<strong>不能改写电荷计量</strong>。
+      另：<strong>42.8 kHz 是 Keely→Puharich 谱系的装置参数</strong>；Meyer 的谐振是 <strong>LC 电气谐振（1–10+ kHz）</strong>——
+      详见 <code>stanley meyer hho/13_谐振与法拉第上限_原理核查.md</code>。
     </p>
   </div>
 
@@ -1409,9 +1418,9 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
     <tbody>
       <tr>
         <td><strong>①</strong></td>
-        <td><strong>「超法拉第」≠「超能量」</strong></td>
+        <td><strong>「超法拉第」≠「超能量」</strong>（四层核销）</td>
         <td>绑定电解路线</td>
-        <td>见「产气量是法拉第 N 倍」→ <strong>立刻换能量口径重算</strong></td>
+        <td>见「产气量是法拉第 N 倍」→ <strong>电荷／能量／通道／测量 四层核销</strong>；脉冲/谐振真实增益 <strong>+20~54%</strong> 只在能量层</td>
       </tr>
       <tr>
         <td><strong>②</strong></td>
@@ -3006,6 +3015,10 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
     🔴 编者注：<b>「poly water」≠ 1960s 已被证伪的「polywater」</b>（同名不同物）。
     ★ 花絮：下载途中代理故障 ⇒ <b>哨兵脚本守候 6 分钟后自动完成 8/8</b>。
     详见 <code>joe cell/30_磁现象系列收录_PeterStevens磁学档案.md</code>。<br>
+    ✅ <b>同日第九批：谐振与法拉第上限 原理核查</b>（<code>stanley meyer hho/13_谐振与法拉第上限_原理核查.md</code>）：
+    ★ <b>610 Hz / 42.8 kHz 均为 Keely（1880s）→ Puharich（1971 专利设定值）谱系数字</b>，不是「水的物性」；
+    Meyer 的谐振实为 <b>LC 电气谐振（1–10+ kHz）</b>；★ <b>304/316 不锈钢磁致伸缩≈0</b>（μr≈1、无磁畴）；
+    ★ 声解效率 <b>10⁻⁶ 量级</b>（100 W → 0.24 mW 氢）；★ <b>判据①升级为「四层核销法」</b>（电荷/能量/通道/测量）。<br>
     ★ <b>图案</b>：<b>材料能支撑的是「怎么改」，不能支撑的是「能到什么程度」。</b>
   </div>
 
@@ -3115,7 +3128,7 @@ python _复算28_圆锥角与胡夫金字塔.py</pre>
   <footer>
     <p style="text-align:center;margin:0">
       <strong>未来氢内爆汽车 · 资料考据与可行性研究</strong><br>
-      464 个文件 · 184.7 MB · 7 个板块 · 判据 ①–⑲ · 2 条互斥路线（分轨）<br>
+      465 个文件 · 184.7 MB · 7 个板块 · 判据 ①–⑲ · 2 条互斥路线（分轨）<br>
       编者整理 · 更新至 2026-09-13 · 与 <code>future-ai-alignment</code> / <code>vital-agriculture-water</code> 同属一个研究谱系
     </p>
   </footer>
