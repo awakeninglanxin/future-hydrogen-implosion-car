@@ -1,0 +1,284 @@
+1
+00:00:00,720 --> 00:00:05,120
+A car that runs on water instead of
+
+2
+00:00:02,800 --> 00:00:06,960
+gasoline, can it be true? Well, inventor
+
+3
+00:00:05,120 --> 00:00:09,240
+Stanley Meyer made an announcement today
+
+4
+00:00:06,960 --> 00:00:10,960
+in Colorado Springs. He says he's come
+
+5
+00:00:09,240 --> 00:00:13,080
+up with a device that will hook up to
+
+6
+00:00:10,960 --> 00:00:15,920
+any engine and allow it to run on good
+
+7
+00:00:13,080 --> 00:00:17,960
+old H2O. News 13's Kurt Goff tonight on
+
+8
+00:00:15,920 --> 00:00:18,600
+the possible impact of the water fuel
+
+9
+00:00:17,960 --> 00:00:21,240
+cell.
+
+10
+00:00:18,600 --> 00:00:23,320
+Stanley Meyer says the answer to
+
+11
+00:00:21,240 --> 00:00:24,720
+dependence on foreign oil lies all
+
+12
+00:00:23,320 --> 00:00:28,680
+around us.
+
+13
+00:00:24,720 --> 00:00:31,600
+In seawater, tap water, and rain water.
+
+14
+00:00:28,680 --> 00:00:33,720
+Any kind of H2O, he says, can power just
+
+15
+00:00:31,600 --> 00:00:36,000
+about every type of engine.
+
+16
+00:00:33,720 --> 00:00:37,800
+How? With the water fuel cell. It fits
+
+17
+00:00:36,000 --> 00:00:39,520
+in the palm of his hand, but it could
+
+18
+00:00:37,800 --> 00:00:42,000
+revolutionize the world.
+
+19
+00:00:39,520 --> 00:00:43,520
+You're talking about a pollution-free,
+
+20
+00:00:42,000 --> 00:00:45,720
+totally new source of energy. The
+
+21
+00:00:43,520 --> 00:00:48,200
+voltage disassociation of water.
+
+22
+00:00:45,720 --> 00:00:50,280
+The fuel cell converts water into a gas,
+
+23
+00:00:48,200 --> 00:00:52,680
+hydrogen oxygen, which is released in
+
+24
+00:00:50,280 --> 00:00:54,160
+the form of thermo explosive energy.
+
+25
+00:00:52,680 --> 00:00:56,720
+So, the water fuel injector simply
+
+26
+00:00:54,160 --> 00:00:59,160
+replaces the spark plug. We hook it to a
+
+27
+00:00:56,720 --> 00:01:00,520
+hydrogen computer system which regulates
+
+28
+00:00:59,160 --> 00:01:02,640
+and meters the flow going into the
+
+29
+00:01:00,520 --> 00:01:04,239
+injector. It processes the water in such
+
+30
+00:01:02,640 --> 00:01:06,720
+a way to release its thermal explosive
+
+31
+00:01:04,239 --> 00:01:06,720
+energy.
+
+32
+00:01:07,320 --> 00:01:11,560
+The man who invented an engine that can
+
+33
+00:01:09,440 --> 00:01:14,360
+run on water says he's been offered a
+
+34
+00:01:11,560 --> 00:01:17,040
+billion dollars in cash by oil-producing
+
+35
+00:01:14,360 --> 00:01:19,320
+countries to sell his patent. So far, he
+
+36
+00:01:17,040 --> 00:01:21,440
+hasn't sold. Environmental specialist
+
+37
+00:01:19,320 --> 00:01:23,400
+Jan Porter talked to the inventor who
+
+38
+00:01:21,440 --> 00:01:25,800
+thinks that the US auto industry could
+
+39
+00:01:23,400 --> 00:01:27,120
+produce cars that run on water now if
+
+40
+00:01:25,800 --> 00:01:28,400
+they wanted to.
+
+41
+00:01:27,120 --> 00:01:29,760
+Our industrial base of the world is
+
+42
+00:01:28,400 --> 00:01:31,960
+based on the utilization of
+
+43
+00:01:29,760 --> 00:01:34,200
+Stanley Meyer has a car that runs on
+
+44
+00:01:31,960 --> 00:01:36,040
+water, and that's drawing crowds at this
+
+45
+00:01:34,200 --> 00:01:38,920
+year's extraordinary science conference
+
+46
+00:01:36,040 --> 00:01:40,760
+in Colorado Springs. Myers has developed
+
+47
+00:01:38,920 --> 00:01:43,120
+what is called the water fuel cell
+
+48
+00:01:40,760 --> 00:01:46,040
+injector. The injector breaks down the
+
+49
+00:01:43,120 --> 00:01:48,440
+water molecule into hydrogen and oxygen,
+
+50
+00:01:46,040 --> 00:01:50,880
+and the hydrogen is what powers the car.
+
+51
+00:01:48,440 --> 00:01:52,840
+Basically, all we do is replace uh
+
+52
+00:01:50,880 --> 00:01:54,240
+the spark plug and replace it with the
+
+53
+00:01:52,840 --> 00:01:56,320
+water fuel cell injectors you see right
+
+54
+00:01:54,240 --> 00:01:58,360
+here. We simply feed ordinary
+
+55
+00:01:56,320 --> 00:02:00,520
+non-processed water or processed water
+
+56
+00:01:58,360 --> 00:02:01,920
+in here and as the water goes into the
+
+57
+00:02:00,520 --> 00:02:03,920
+injector
+
+58
+00:02:01,920 --> 00:02:05,479
+uh it hits a very high pulse voltage
+
+59
+00:02:03,920 --> 00:02:07,200
+frequency which instantly converts it
+
+60
+00:02:05,479 --> 00:02:09,240
+into thermal explosive energy and as a
+
+61
+00:02:07,200 --> 00:02:10,440
+result we can run this car down the road
+
+62
+00:02:09,240 --> 00:02:12,240
+on water.
+
+63
+00:02:10,440 --> 00:02:14,520
+Meyer's invention was introduced in
+
+64
+00:02:12,240 --> 00:02:16,160
+Britain earlier this month and now the
+
+65
+00:02:14,520 --> 00:02:18,000
+Brits have followed him here.
+
+66
+00:02:16,160 --> 00:02:19,360
+that we recently took a scientific
+
+67
+00:02:18,000 --> 00:02:21,840
+delegation
+
+68
+00:02:19,360 --> 00:02:24,360
+to witness Stan's work, to really
+
+69
+00:02:21,840 --> 00:02:25,680
+evaluate it and came back saying
+
+70
+00:02:24,360 --> 00:02:29,000
+this is one of the most important
+
+71
+00:02:25,680 --> 00:02:29,000
+inventions of the century.
+

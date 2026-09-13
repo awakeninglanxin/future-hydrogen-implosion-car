@@ -68,7 +68,7 @@
 ├── OccultChemistry精读/            四书精读 + Anu 结构逐条核对（10 份 md + 原典）
 ├── Anu结构图归档/                   2 张原书 Anu 结构图
 │
-├── stanley meyer hho/              Meyer 体系精读（12 份 md + 4 复算脚本）
+├── stanley meyer hho/              Meyer 体系精读（13 份 md + 4 复算脚本）
 │   └── 11_汇总…md                   ★ 四条方法论判据 + 两个对照组
 │
 ├── HHO书本精读/                    两本业界讲义精读（7 份 md + 复算脚本）
