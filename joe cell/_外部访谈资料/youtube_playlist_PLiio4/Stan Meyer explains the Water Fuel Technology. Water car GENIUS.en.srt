@@ -1,0 +1,3656 @@
+1
+00:00:00,170 --> 00:00:03,600
+[Music]
+
+2
+00:00:00,560 --> 00:00:05,359
+nearby stand
+
+3
+00:00:03,600 --> 00:00:07,359
+and
+
+4
+00:00:05,359 --> 00:00:10,480
+have a net
+
+5
+00:00:07,359 --> 00:00:10,480
+water powered
+
+6
+00:00:18,480 --> 00:00:23,320
+I need to open my remote as well.
+
+7
+00:01:58,640 --> 00:02:01,640
+Oh,
+
+8
+00:02:11,360 --> 00:02:19,800
+just explaining how this thing goes.
+
+9
+00:02:15,040 --> 00:02:19,800
+Yeah. Can you zoom in back in here?
+
+10
+00:02:22,000 --> 00:02:26,959
+Are we on? Okay.
+
+11
+00:02:24,959 --> 00:02:30,879
+Okay. You know, this is the uh hydrogen
+
+12
+00:02:26,959 --> 00:02:32,800
+computer system which was designed
+
+13
+00:02:30,879 --> 00:02:34,800
+uh in order to be able to process the
+
+14
+00:02:32,800 --> 00:02:36,400
+fuel to produce the hydrogen gas from
+
+15
+00:02:34,800 --> 00:02:39,680
+water and do it economically and be able
+
+16
+00:02:36,400 --> 00:02:42,879
+to control its firing going to allow the
+
+17
+00:02:39,680 --> 00:02:47,519
+uh uh the Volkswagen engine to run off
+
+18
+00:02:42,879 --> 00:02:49,120
+of hydrogen. There's a lot u
+
+19
+00:02:47,519 --> 00:02:51,840
+uh engineering design that went into
+
+20
+00:02:49,120 --> 00:02:54,400
+this. Even though that this is our u our
+
+21
+00:02:51,840 --> 00:02:55,840
+systems engineering approach, uh the
+
+22
+00:02:54,400 --> 00:02:58,480
+hydrogen computer system you see here
+
+23
+00:02:55,840 --> 00:03:01,200
+will be miniaturaturized down to several
+
+24
+00:02:58,480 --> 00:03:03,599
+uh IC chips which will allow us to give
+
+25
+00:03:01,200 --> 00:03:05,599
+the economics uh to apply to a
+
+26
+00:03:03,599 --> 00:03:08,640
+conventional car.
+
+27
+00:03:05,599 --> 00:03:11,280
+Over here uh there's very unique design
+
+28
+00:03:08,640 --> 00:03:13,840
+features uh that had to be developed in
+
+29
+00:03:11,280 --> 00:03:15,920
+order to uh develop the water fuel cell
+
+30
+00:03:13,840 --> 00:03:19,120
+as a retrofit energy systems to
+
+31
+00:03:15,920 --> 00:03:21,280
+conventional cars. Um we had to go ahead
+
+32
+00:03:19,120 --> 00:03:23,440
+and devel uh develop the laser what we
+
+33
+00:03:21,280 --> 00:03:25,680
+call the laser distributor as you see
+
+34
+00:03:23,440 --> 00:03:28,560
+right here which is put between the
+
+35
+00:03:25,680 --> 00:03:32,319
+conventional uh rotor cap and that of
+
+36
+00:03:28,560 --> 00:03:35,040
+the rotor assembly. And primarily what
+
+37
+00:03:32,319 --> 00:03:37,760
+this does this sets up the electronic uh
+
+38
+00:03:35,040 --> 00:03:39,920
+signals that goes back and triggers the
+
+39
+00:03:37,760 --> 00:03:42,480
+computer system in order to allow uh the
+
+40
+00:03:39,920 --> 00:03:45,440
+car to run successfully on hydrogen. uh
+
+41
+00:03:42,480 --> 00:03:47,920
+in order to run this uh engine off of uh
+
+42
+00:03:45,440 --> 00:03:49,440
+water, we've also had to learn the
+
+43
+00:03:47,920 --> 00:03:51,920
+ability to adjust the burn rate of
+
+44
+00:03:49,440 --> 00:03:55,599
+hydrogen to coeico the fossil fuels. We
+
+45
+00:03:51,920 --> 00:03:57,120
+did this by simply now u pulling off a
+
+46
+00:03:55,599 --> 00:03:58,480
+portion of the exhaust gas that's coming
+
+47
+00:03:57,120 --> 00:04:00,080
+from the engine as you see through this
+
+48
+00:03:58,480 --> 00:04:01,840
+tube here that's going through this
+
+49
+00:04:00,080 --> 00:04:04,319
+electronic regulator that's hooked up to
+
+50
+00:04:01,840 --> 00:04:06,239
+the hydrogen computer. And basically
+
+51
+00:04:04,319 --> 00:04:09,200
+what's happening is that as the ambient
+
+52
+00:04:06,239 --> 00:04:10,959
+air is going into the engine and going
+
+53
+00:04:09,200 --> 00:04:13,680
+through the burning process, it produces
+
+54
+00:04:10,959 --> 00:04:15,920
+the non-combustible gases that retards
+
+55
+00:04:13,680 --> 00:04:17,680
+the speed by which the oxygen atom
+
+56
+00:04:15,920 --> 00:04:20,400
+unites the hydrogen bring on gas
+
+57
+00:04:17,680 --> 00:04:22,240
+ignition. So by simply using the ex the
+
+58
+00:04:20,400 --> 00:04:24,800
+non-combustible gases coming from the
+
+59
+00:04:22,240 --> 00:04:27,120
+exhaust of the engine we now modulate
+
+60
+00:04:24,800 --> 00:04:29,600
+and control the speed by which that
+
+61
+00:04:27,120 --> 00:04:31,199
+oxygen unites with the hydrogen and
+
+62
+00:04:29,600 --> 00:04:33,040
+therefore we are adjusting the burn rate
+
+63
+00:04:31,199 --> 00:04:36,479
+of hydrogen to coe with that of gasoline
+
+64
+00:04:33,040 --> 00:04:39,600
+or or fossil fuels or even diesel fuel
+
+65
+00:04:36,479 --> 00:04:41,440
+and that gave us the number one retrofit
+
+66
+00:04:39,600 --> 00:04:43,199
+capabilities or retrofitting the water
+
+67
+00:04:41,440 --> 00:04:45,840
+fuel cell technology to an existing
+
+68
+00:04:43,199 --> 00:04:47,680
+engine. And we do this electronically.
+
+69
+00:04:45,840 --> 00:04:50,080
+The unit that you see right here, we
+
+70
+00:04:47,680 --> 00:04:52,240
+call this a gas processor. And basically
+
+71
+00:04:50,080 --> 00:04:55,280
+what we're doing is we're ionizing the
+
+72
+00:04:52,240 --> 00:04:58,000
+ammun gases that is now going into the
+
+73
+00:04:55,280 --> 00:04:59,759
+process. And this allows us to trigger
+
+74
+00:04:58,000 --> 00:05:02,639
+and use the hydrogen fracturing
+
+75
+00:04:59,759 --> 00:05:04,880
+technology and tapping into a higher
+
+76
+00:05:02,639 --> 00:05:06,639
+energy yield coming from the hydrogen.
+
+77
+00:05:04,880 --> 00:05:09,680
+The unit you see right here, this is
+
+78
+00:05:06,639 --> 00:05:12,160
+referred to as a resonant cavity. Uh
+
+79
+00:05:09,680 --> 00:05:14,880
+water is now fed into the resonant
+
+80
+00:05:12,160 --> 00:05:17,680
+cavity through this water tank. And as
+
+81
+00:05:14,880 --> 00:05:20,560
+such, we now expose the water to a very
+
+82
+00:05:17,680 --> 00:05:22,080
+high intense pulse voltage field and
+
+83
+00:05:20,560 --> 00:05:24,400
+restrict the amps. And therefore, the
+
+84
+00:05:22,080 --> 00:05:26,320
+electrical polarization process now
+
+85
+00:05:24,400 --> 00:05:28,479
+allows us to release the hydrogen
+
+86
+00:05:26,320 --> 00:05:32,080
+economically from water. And by
+
+87
+00:05:28,479 --> 00:05:33,759
+attenuating the uh voltage field uh the
+
+88
+00:05:32,080 --> 00:05:35,199
+amplitude of the voltage field, we now
+
+89
+00:05:33,759 --> 00:05:36,720
+can control the rate of the production
+
+90
+00:05:35,199 --> 00:05:38,080
+of the hydrogen gas on demand. So this
+
+91
+00:05:36,720 --> 00:05:41,600
+is what's called referred to as a
+
+92
+00:05:38,080 --> 00:05:44,240
+constant demand generator. We also now
+
+93
+00:05:41,600 --> 00:05:46,240
+extend or allow the voltage amplitude to
+
+94
+00:05:44,240 --> 00:05:50,080
+increase even to a higher level and
+
+95
+00:05:46,240 --> 00:05:52,160
+allow the uh the water atoms to go into
+
+96
+00:05:50,080 --> 00:05:53,919
+an ionization state which gives us the
+
+97
+00:05:52,160 --> 00:05:56,720
+ability even to produce a higher energy
+
+98
+00:05:53,919 --> 00:05:59,759
+yield uh by producing more hydrogen gas
+
+99
+00:05:56,720 --> 00:06:02,720
+on demand. So the fuel now coming from
+
+100
+00:05:59,759 --> 00:06:04,160
+the water uh through the electrical
+
+101
+00:06:02,720 --> 00:06:06,080
+polarization process going into
+
+102
+00:06:04,160 --> 00:06:08,000
+resonance. Resonance meaning that we're
+
+103
+00:06:06,080 --> 00:06:10,479
+actually tuning into the dialectric
+
+104
+00:06:08,000 --> 00:06:12,479
+properties of water and allows us to
+
+105
+00:06:10,479 --> 00:06:14,080
+reduce amps down flow down to minimum
+
+106
+00:06:12,479 --> 00:06:16,319
+and allow voltage to take over that
+
+107
+00:06:14,080 --> 00:06:18,479
+disassociates the water molecule on
+
+108
+00:06:16,319 --> 00:06:21,440
+demand and those fuel gases are now
+
+109
+00:06:18,479 --> 00:06:23,919
+coming through this uh electronic
+
+110
+00:06:21,440 --> 00:06:27,120
+injector system as you see here. So
+
+111
+00:06:23,919 --> 00:06:30,319
+basically we're now feeding the ionized
+
+112
+00:06:27,120 --> 00:06:32,880
+air from the uh the gas processor. We're
+
+113
+00:06:30,319 --> 00:06:34,880
+now also taking the water fuel gases
+
+114
+00:06:32,880 --> 00:06:36,080
+that are now coming from ordinary water.
+
+115
+00:06:34,880 --> 00:06:38,240
+We are now mixing it with the
+
+116
+00:06:36,080 --> 00:06:41,120
+non-combustible gases, the ami air gases
+
+117
+00:06:38,240 --> 00:06:43,680
+and regulating those uh control of the
+
+118
+00:06:41,120 --> 00:06:46,720
+fluid mediums or four fluid mediums. And
+
+119
+00:06:43,680 --> 00:06:48,560
+as a result now we can uh tune in and
+
+120
+00:06:46,720 --> 00:06:50,160
+allow this engine to run off of natural
+
+121
+00:06:48,560 --> 00:06:52,400
+water.
+
+122
+00:06:50,160 --> 00:06:54,479
+this systems approach. Uh this
+
+123
+00:06:52,400 --> 00:06:57,120
+particular unit here is referred as the
+
+124
+00:06:54,479 --> 00:06:59,759
+VIC or the voltage uh intensified
+
+125
+00:06:57,120 --> 00:07:01,599
+circuit technology. Uh this is being
+
+126
+00:06:59,759 --> 00:07:04,800
+miniaturaturized down to a very small
+
+127
+00:07:01,599 --> 00:07:06,560
+lightweight system. Uh on this is
+
+128
+00:07:04,800 --> 00:07:08,639
+demonstrated in our systems engineering
+
+129
+00:07:06,560 --> 00:07:11,520
+approach on the technology that we can
+
+130
+00:07:08,639 --> 00:07:13,039
+apply it to other uh applications uh not
+
+131
+00:07:11,520 --> 00:07:15,199
+only in the transportation area but also
+
+132
+00:07:13,039 --> 00:07:17,599
+in industrial applications. So it was
+
+133
+00:07:15,199 --> 00:07:19,759
+paramount that we would uh demonstrate
+
+134
+00:07:17,599 --> 00:07:22,319
+and have the technology solved for
+
+135
+00:07:19,759 --> 00:07:23,919
+design engineering retrofitting to
+
+136
+00:07:22,319 --> 00:07:26,160
+existing energy consuming devices
+
+137
+00:07:23,919 --> 00:07:28,560
+whether whether it's being run internal
+
+138
+00:07:26,160 --> 00:07:31,199
+combustion engine or a diesel engine or
+
+139
+00:07:28,560 --> 00:07:33,759
+hook it to an industrial process. So all
+
+140
+00:07:31,199 --> 00:07:35,680
+of these um design interfacing
+
+141
+00:07:33,759 --> 00:07:37,680
+technology is now being solved. We are
+
+142
+00:07:35,680 --> 00:07:40,560
+in the latter stages of what we call the
+
+143
+00:07:37,680 --> 00:07:41,919
+pre-engineering system uh which will now
+
+144
+00:07:40,560 --> 00:07:44,400
+allow us to miniaturaturize the
+
+145
+00:07:41,919 --> 00:07:47,039
+technology once we're completed on the
+
+146
+00:07:44,400 --> 00:07:49,360
+design applications uh and take it into
+
+147
+00:07:47,039 --> 00:07:52,400
+mass production. Uh give you a classic
+
+148
+00:07:49,360 --> 00:07:55,039
+example of this. We've also developed uh
+
+149
+00:07:52,400 --> 00:07:57,680
+from this technology which we call the
+
+150
+00:07:55,039 --> 00:08:01,120
+water fuel cell injector.
+
+151
+00:07:57,680 --> 00:08:03,360
+And basically uh this injector now is a
+
+152
+00:08:01,120 --> 00:08:05,440
+miniaturaturized water fuel cell or
+
+153
+00:08:03,360 --> 00:08:08,400
+miniaturaturized resonant cavity. And
+
+154
+00:08:05,440 --> 00:08:11,039
+this technology now allows us to simply
+
+155
+00:08:08,400 --> 00:08:13,599
+replace we can bypass this part of the
+
+156
+00:08:11,039 --> 00:08:16,560
+systems approach and now simply replace
+
+157
+00:08:13,599 --> 00:08:19,440
+the spark plug with the water fuel cell
+
+158
+00:08:16,560 --> 00:08:22,160
+injector. And as a result now we can run
+
+159
+00:08:19,440 --> 00:08:24,879
+the water up to the injector which is
+
+160
+00:08:22,160 --> 00:08:27,520
+now being processed and being exposed to
+
+161
+00:08:24,879 --> 00:08:30,000
+a very high pulse voltage frequency. And
+
+162
+00:08:27,520 --> 00:08:32,719
+as a result as the water fuel is being
+
+163
+00:08:30,000 --> 00:08:34,479
+going into the system then the explosion
+
+164
+00:08:32,719 --> 00:08:37,120
+takes place inside the cylinder.
+
+165
+00:08:34,479 --> 00:08:39,919
+Therefore makes this extremely failsafe
+
+166
+00:08:37,120 --> 00:08:42,880
+operable system. Uh the cord as you see
+
+167
+00:08:39,919 --> 00:08:45,120
+here is strictly hooks up to a very high
+
+168
+00:08:42,880 --> 00:08:47,120
+intensity voltage pulse and we restrict
+
+169
+00:08:45,120 --> 00:08:49,760
+the amps to cause the electrical
+
+170
+00:08:47,120 --> 00:08:52,080
+polarization proh process which in turns
+
+171
+00:08:49,760 --> 00:08:54,240
+the voltage amplitude now takes it and
+
+172
+00:08:52,080 --> 00:08:55,600
+and goes into the ionization state to
+
+173
+00:08:54,240 --> 00:08:58,320
+perform the hydrogen fracturing
+
+174
+00:08:55,600 --> 00:09:00,480
+technology and then in turn the high
+
+175
+00:08:58,320 --> 00:09:02,560
+pulse voltage frequency now allows the
+
+176
+00:09:00,480 --> 00:09:04,880
+ignition of the gases. So therefore we
+
+177
+00:09:02,560 --> 00:09:06,320
+do this electronically and so this
+
+178
+00:09:04,880 --> 00:09:09,279
+technology has taken us down to the
+
+179
+00:09:06,320 --> 00:09:11,680
+water fuel cell tech water fuel injector
+
+180
+00:09:09,279 --> 00:09:14,680
+as you see here today which gives us a
+
+181
+00:09:11,680 --> 00:09:14,680
+very
+
+182
+00:09:15,839 --> 00:09:21,200
+economical way of simply converting and
+
+183
+00:09:18,160 --> 00:09:24,399
+running a conventional car ordinary on
+
+184
+00:09:21,200 --> 00:09:26,720
+on natural water. So basically what we
+
+185
+00:09:24,399 --> 00:09:29,279
+do is we feed ordinary natural water in
+
+186
+00:09:26,720 --> 00:09:31,600
+here nonprocessed natural water. We now
+
+187
+00:09:29,279 --> 00:09:34,320
+feed the amiient air gases being
+
+188
+00:09:31,600 --> 00:09:37,040
+ionized. It's being mixed with the water
+
+189
+00:09:34,320 --> 00:09:39,279
+and then we mix the non-combustible
+
+190
+00:09:37,040 --> 00:09:42,800
+gases going in the system that regulates
+
+191
+00:09:39,279 --> 00:09:44,320
+the control. So allows us now to release
+
+192
+00:09:42,800 --> 00:09:49,160
+the thermal explosive energy from
+
+193
+00:09:44,320 --> 00:09:49,160
+hydrogen and do it on a control means.
+
+194
+00:09:55,600 --> 00:10:00,160
+Further development on the on the
+
+195
+00:09:57,519 --> 00:10:03,160
+technology centered around also the
+
+196
+00:10:00,160 --> 00:10:03,160
+development
+
+197
+00:10:06,320 --> 00:10:10,880
+of what we call the laser accelerator
+
+198
+00:10:08,399 --> 00:10:13,519
+control and this would had to be
+
+199
+00:10:10,880 --> 00:10:16,640
+developed in order to translate from a
+
+200
+00:10:13,519 --> 00:10:18,880
+mechanical displacement to an electronic
+
+201
+00:10:16,640 --> 00:10:21,120
+uh displacement in order to allow the
+
+202
+00:10:18,880 --> 00:10:22,959
+hydrogen computer system to produce the
+
+203
+00:10:21,120 --> 00:10:25,279
+gas on demand based on acceleration
+
+204
+00:10:22,959 --> 00:10:27,600
+control. So what you're really seeing
+
+205
+00:10:25,279 --> 00:10:29,519
+with the water fuel cell as it is today
+
+206
+00:10:27,600 --> 00:10:32,399
+is that we have a full system
+
+207
+00:10:29,519 --> 00:10:34,959
+engineering approach allowing us now to
+
+208
+00:10:32,399 --> 00:10:36,800
+use water as a main fuel source to be
+
+209
+00:10:34,959 --> 00:10:39,760
+able to run a conventional engine and
+
+210
+00:10:36,800 --> 00:10:42,880
+run it on water and do it and equal or
+
+211
+00:10:39,760 --> 00:10:45,040
+supersede the performance uh of a a car
+
+212
+00:10:42,880 --> 00:10:47,920
+running on gasoline or diesel fuel. Many
+
+213
+00:10:45,040 --> 00:10:51,519
+people do not realize that when you run
+
+214
+00:10:47,920 --> 00:10:53,200
+a car or truck on either gasoline or
+
+215
+00:10:51,519 --> 00:10:55,519
+diesel fuel, you're actually running
+
+216
+00:10:53,200 --> 00:10:57,839
+them on hydrogen. And all we're doing is
+
+217
+00:10:55,519 --> 00:10:59,600
+using the hydrogen from water. And under
+
+218
+00:10:57,839 --> 00:11:02,720
+the National Bureau of Standards figures
+
+219
+00:10:59,600 --> 00:11:04,959
+shows that when you use water, the
+
+220
+00:11:02,720 --> 00:11:06,720
+energy release is roughly two and a half
+
+221
+00:11:04,959 --> 00:11:08,720
+times more powerful than that of
+
+222
+00:11:06,720 --> 00:11:11,519
+gasoline. So water is a very powerful
+
+223
+00:11:08,720 --> 00:11:13,200
+fuel. And all you needed to do was solve
+
+224
+00:11:11,519 --> 00:11:15,519
+the answers of number one producing the
+
+225
+00:11:13,200 --> 00:11:17,680
+hydrogen economically, controlling it on
+
+226
+00:11:15,519 --> 00:11:19,600
+demand, being able to adjust the burn
+
+227
+00:11:17,680 --> 00:11:22,240
+rate of hydrogen and gas to coequal the
+
+228
+00:11:19,600 --> 00:11:23,839
+fossil fuels and the third one was to be
+
+229
+00:11:22,240 --> 00:11:25,680
+able to transport it without spark
+
+230
+00:11:23,839 --> 00:11:28,000
+ignition. And we've solved all of these
+
+231
+00:11:25,680 --> 00:11:30,560
+problems on the design engineering. And
+
+232
+00:11:28,000 --> 00:11:32,560
+of course, the water fuel injector, as
+
+233
+00:11:30,560 --> 00:11:36,000
+I've shown you, now gives us the
+
+234
+00:11:32,560 --> 00:11:37,839
+abilities to uh transport the water
+
+235
+00:11:36,000 --> 00:11:39,839
+directly to the fuel injector, which is
+
+236
+00:11:37,839 --> 00:11:41,680
+now going into the voltage zones, which
+
+237
+00:11:39,839 --> 00:11:43,279
+now is performing the the electrical
+
+238
+00:11:41,680 --> 00:11:44,560
+polarization process that goes and
+
+239
+00:11:43,279 --> 00:11:46,800
+triggers the hydrogen fracturing
+
+240
+00:11:44,560 --> 00:11:48,800
+technology, but it's doing it inside the
+
+241
+00:11:46,800 --> 00:11:53,839
+engine. So we all know that natural
+
+242
+00:11:48,800 --> 00:11:55,920
+water um is very stable and therefore it
+
+243
+00:11:53,839 --> 00:11:59,720
+becomes a very fail safe operable system
+
+244
+00:11:55,920 --> 00:11:59,720
+as we pointed out earlier.
+
+245
+00:12:01,600 --> 00:12:09,360
+Yeah, we talked about that. Yeah. Yeah.
+
+246
+00:12:06,480 --> 00:12:11,200
+So in a system engineering approach uh
+
+247
+00:12:09,360 --> 00:12:13,200
+in mass production, it looks like we can
+
+248
+00:12:11,200 --> 00:12:14,560
+translate and reduce the systems
+
+249
+00:12:13,200 --> 00:12:17,600
+approach down to a unit that cost
+
+250
+00:12:14,560 --> 00:12:19,680
+roughly $1,500 per vehicle.
+
+251
+00:12:17,600 --> 00:12:23,519
+uh for trucks it will be slightly larger
+
+252
+00:12:19,680 --> 00:12:25,440
+than that uh below $5,000 it looks like
+
+253
+00:12:23,519 --> 00:12:28,560
+uh we'll be able to reach the economics
+
+254
+00:12:25,440 --> 00:12:31,200
+to it and using ordinary natural water.
+
+255
+00:12:28,560 --> 00:12:32,959
+You add nothing to the water. You don't
+
+256
+00:12:31,200 --> 00:12:34,959
+process the water in any way. Now here's
+
+257
+00:12:32,959 --> 00:12:37,360
+another uh feature to the system that
+
+258
+00:12:34,959 --> 00:12:38,800
+everybody asks me about is what happens
+
+259
+00:12:37,360 --> 00:12:40,720
+uh to the water in the winter time. Does
+
+260
+00:12:38,800 --> 00:12:43,040
+it freeze up? Well, part of our
+
+261
+00:12:40,720 --> 00:12:44,959
+technology was in the areas of
+
+262
+00:12:43,040 --> 00:12:47,600
+development what we call a steam
+
+263
+00:12:44,959 --> 00:12:50,000
+resonator. Now since the unlike atoms
+
+264
+00:12:47,600 --> 00:12:51,839
+take on opposite electrical charges, we
+
+265
+00:12:50,000 --> 00:12:54,160
+simply use another part of our
+
+266
+00:12:51,839 --> 00:12:55,920
+technology to restrict the amps voltage
+
+267
+00:12:54,160 --> 00:12:57,600
+to take over and therefore we agitate
+
+268
+00:12:55,920 --> 00:12:59,920
+the water molecules which in turn
+
+269
+00:12:57,600 --> 00:13:01,680
+generates kinetic energy which in turns
+
+270
+00:12:59,920 --> 00:13:04,160
+heats the water. Now this is phenomenal
+
+271
+00:13:01,680 --> 00:13:05,760
+in the fact we consume very little
+
+272
+00:13:04,160 --> 00:13:09,200
+electrical energy in order to heat the
+
+273
+00:13:05,760 --> 00:13:10,720
+water. So uh there are very far ranging
+
+274
+00:13:09,200 --> 00:13:13,040
+advantages and features to the
+
+275
+00:13:10,720 --> 00:13:16,000
+technology ranging even in the areas
+
+276
+00:13:13,040 --> 00:13:19,279
+that we now have a way of using voltage
+
+277
+00:13:16,000 --> 00:13:21,279
+and by switching off uh amplow and
+
+278
+00:13:19,279 --> 00:13:23,920
+dealing with um the environmental
+
+279
+00:13:21,279 --> 00:13:25,839
+control areas. We're developing uh the
+
+280
+00:13:23,920 --> 00:13:28,480
+technology in areas of deselination of
+
+281
+00:13:25,839 --> 00:13:30,880
+salt water. Whenever you have a free and
+
+282
+00:13:28,480 --> 00:13:32,800
+abundant energy source like water uh
+
+283
+00:13:30,880 --> 00:13:34,880
+it's only limited to the imagination to
+
+284
+00:13:32,800 --> 00:13:36,800
+put it to work. This technology is very
+
+285
+00:13:34,880 --> 00:13:39,920
+applicable to deselination of the
+
+286
+00:13:36,800 --> 00:13:41,839
+saltwater handling of toxic waste
+
+287
+00:13:39,920 --> 00:13:43,760
+chemicals by high pulse voltage
+
+288
+00:13:41,839 --> 00:13:46,079
+frequency and restrict the amps. We now
+
+289
+00:13:43,760 --> 00:13:48,480
+can separate the molecular structure of
+
+290
+00:13:46,079 --> 00:13:50,639
+toxic chemicals and render them useless
+
+291
+00:13:48,480 --> 00:13:53,600
+and safe. It also takes us to the
+
+292
+00:13:50,639 --> 00:13:56,000
+technology uh of combining unlike atoms
+
+293
+00:13:53,600 --> 00:13:57,600
+that here therefore was not uh possible
+
+294
+00:13:56,000 --> 00:13:59,519
+under the natural state of coalent
+
+295
+00:13:57,600 --> 00:14:01,519
+linkup. Uh this led us to the
+
+296
+00:13:59,519 --> 00:14:03,920
+development of the EPG electrical
+
+297
+00:14:01,519 --> 00:14:07,120
+generator technology uh where we're able
+
+298
+00:14:03,920 --> 00:14:09,040
+to magnif uh manufacturer magnetize gas
+
+299
+00:14:07,120 --> 00:14:10,560
+that exists at room temperature and
+
+300
+00:14:09,040 --> 00:14:12,560
+enhance the electromagnetic field
+
+301
+00:14:10,560 --> 00:14:15,279
+without increasing mass. So our
+
+302
+00:14:12,560 --> 00:14:17,279
+technology from since the time of the
+
+303
+00:14:15,279 --> 00:14:19,519
+era of embargo has been very farreaching
+
+304
+00:14:17,279 --> 00:14:21,760
+to give us a comprehensive energy source
+
+305
+00:14:19,519 --> 00:14:23,680
+that we literally can use anywhere into
+
+306
+00:14:21,760 --> 00:14:25,040
+the economies and move in a bilateral
+
+307
+00:14:23,680 --> 00:14:27,760
+movement throughout the economies of the
+
+308
+00:14:25,040 --> 00:14:29,839
+world uh to bring an energy source in
+
+309
+00:14:27,760 --> 00:14:32,480
+and as I pointed out earlier uh the
+
+310
+00:14:29,839 --> 00:14:35,040
+pending energy crisis that's being will
+
+311
+00:14:32,480 --> 00:14:36,959
+confront us very quickly uh we literally
+
+312
+00:14:35,040 --> 00:14:38,320
+have the ability now of engineering
+
+313
+00:14:36,959 --> 00:14:40,320
+systems engineering it to mass
+
+314
+00:14:38,320 --> 00:14:42,639
+production very very quickly and
+
+315
+00:14:40,320 --> 00:14:44,560
+hopefully be able to stem him off uh
+
+316
+00:14:42,639 --> 00:14:46,399
+this imminent energy crisis that's that
+
+317
+00:14:44,560 --> 00:14:49,360
+is now occurring. A lot of people are
+
+318
+00:14:46,399 --> 00:14:51,040
+not aware of that Kuwait produces or
+
+319
+00:14:49,360 --> 00:14:53,279
+manufactures the majority of aviation
+
+320
+00:14:51,040 --> 00:14:55,199
+fuel for the world and it's anticipated
+
+321
+00:14:53,279 --> 00:14:57,920
+uh as pointed out earlier that it's
+
+322
+00:14:55,199 --> 00:15:00,639
+possible as much as 20% drop in aviation
+
+323
+00:14:57,920 --> 00:15:02,959
+fuel uh may occur within 6 to 8 months.
+
+324
+00:15:00,639 --> 00:15:05,519
+If that happens then the domino domino's
+
+325
+00:15:02,959 --> 00:15:08,000
+effect will occur and we'll start to
+
+326
+00:15:05,519 --> 00:15:10,000
+trigger an an energy system uh an energy
+
+327
+00:15:08,000 --> 00:15:11,600
+shortage throughout the world. The same
+
+328
+00:15:10,000 --> 00:15:13,199
+conditions that happen in the United
+
+329
+00:15:11,600 --> 00:15:15,120
+States is also occurring in the air
+
+330
+00:15:13,199 --> 00:15:17,839
+fields where the natural pressure in the
+
+331
+00:15:15,120 --> 00:15:19,519
+existing uh oil fields are dropping. Uh
+
+332
+00:15:17,839 --> 00:15:21,600
+the only difference between the US and
+
+333
+00:15:19,519 --> 00:15:23,040
+the airfields, their their pressure is
+
+334
+00:15:21,600 --> 00:15:25,040
+dropping three times faster than
+
+335
+00:15:23,040 --> 00:15:26,880
+occurred in the United States. You just
+
+336
+00:15:25,040 --> 00:15:28,160
+can't keep pulling the oil out of the
+
+337
+00:15:26,880 --> 00:15:30,320
+ground and expect it's going to be there
+
+338
+00:15:28,160 --> 00:15:32,720
+forever. The hourglass effect is
+
+339
+00:15:30,320 --> 00:15:35,120
+occurring at a more uh faster rate now
+
+340
+00:15:32,720 --> 00:15:38,320
+on nuclear power plants. China's open
+
+341
+00:15:35,120 --> 00:15:39,920
+the doors to western technology. 25% of
+
+342
+00:15:38,320 --> 00:15:42,000
+the population of the world wants the
+
+343
+00:15:39,920 --> 00:15:44,160
+same goods and services that you and I
+
+344
+00:15:42,000 --> 00:15:46,800
+have been enjoying and that uh the
+
+345
+00:15:44,160 --> 00:15:48,720
+industrial base cannot cannot be
+
+346
+00:15:46,800 --> 00:15:50,800
+maintained or expand without the supply
+
+347
+00:15:48,720 --> 00:15:53,040
+and utilization of energy of which we
+
+348
+00:15:50,800 --> 00:15:55,680
+have very little fossil fuel left. So
+
+349
+00:15:53,040 --> 00:15:57,759
+it's imperative that that we developed a
+
+350
+00:15:55,680 --> 00:16:00,160
+technology that we can move very quickly
+
+351
+00:15:57,759 --> 00:16:01,600
+and of course water was the answer to it
+
+352
+00:16:00,160 --> 00:16:03,839
+uh because water is a very free and
+
+353
+00:16:01,600 --> 00:16:05,839
+abundant energy source and so this
+
+354
+00:16:03,839 --> 00:16:08,800
+technology has led us to the abilities
+
+355
+00:16:05,839 --> 00:16:10,160
+of harnessing and using the water uh in
+
+356
+00:16:08,800 --> 00:16:13,199
+this particular way which we call the
+
+357
+00:16:10,160 --> 00:16:14,639
+water fuel cell technology.
+
+358
+00:16:13,199 --> 00:16:17,519
+Could you give an indication of the
+
+359
+00:16:14,639 --> 00:16:20,160
+amount of energy stored in a gallon of
+
+360
+00:16:17,519 --> 00:16:23,199
+water compared to a barrel of oil for
+
+361
+00:16:20,160 --> 00:16:24,880
+instance? Yes. uh as I pointed out
+
+362
+00:16:23,199 --> 00:16:27,360
+earlier when you separate the hydrogen
+
+363
+00:16:24,880 --> 00:16:29,920
+oxygen gases and go into the gas
+
+364
+00:16:27,360 --> 00:16:32,000
+ignition process uh its energy uh
+
+365
+00:16:29,920 --> 00:16:34,240
+releases roughly 2 and a half times that
+
+366
+00:16:32,000 --> 00:16:35,519
+of gasoline. Now note the reference is
+
+367
+00:16:34,240 --> 00:16:37,279
+not two and a half times that of
+
+368
+00:16:35,519 --> 00:16:39,199
+fingernail poly, it's two and a half
+
+369
+00:16:37,279 --> 00:16:42,000
+times that of gasoline. But in the
+
+370
+00:16:39,199 --> 00:16:43,519
+hydrogen fracturing technology, we have
+
+371
+00:16:42,000 --> 00:16:45,440
+uh developed a technology as the Lord
+
+372
+00:16:43,519 --> 00:16:47,600
+has shown me that by igniting the
+
+373
+00:16:45,440 --> 00:16:50,240
+hydrogen oxygen gases and setting up a
+
+374
+00:16:47,600 --> 00:16:52,959
+condition by which the uh water molecule
+
+375
+00:16:50,240 --> 00:16:56,000
+is prevented to form then we now can tap
+
+376
+00:16:52,959 --> 00:16:58,079
+into a very higher energy yield. And as
+
+377
+00:16:56,000 --> 00:16:59,920
+a result of this uh the hydrogen
+
+378
+00:16:58,079 --> 00:17:03,440
+fraction technology shows that we can
+
+379
+00:16:59,920 --> 00:17:05,360
+release energy up to beyond 2.5 million
+
+380
+00:17:03,440 --> 00:17:07,360
+barrels of oil per gallon of water and
+
+381
+00:17:05,360 --> 00:17:09,520
+do it safely.
+
+382
+00:17:07,360 --> 00:17:12,160
+And as I had shown you earlier, we are
+
+383
+00:17:09,520 --> 00:17:14,640
+now preparing this technology uh to be
+
+384
+00:17:12,160 --> 00:17:16,640
+retrofitted directly to a jet commander
+
+385
+00:17:14,640 --> 00:17:18,880
+uh which we plan not only to fly around
+
+386
+00:17:16,640 --> 00:17:20,959
+the world non-stop around the equator
+
+387
+00:17:18,880 --> 00:17:22,880
+but turn 90° and go from the north and
+
+388
+00:17:20,959 --> 00:17:25,039
+south pole. So it's a tremendous amount
+
+389
+00:17:22,880 --> 00:17:27,439
+of energy source and what we've done is
+
+390
+00:17:25,039 --> 00:17:28,880
+found a a triggering process to allow us
+
+391
+00:17:27,439 --> 00:17:31,679
+to release this tremendous amount of
+
+392
+00:17:28,880 --> 00:17:34,960
+energy and do it safely. So it gives us
+
+393
+00:17:31,679 --> 00:17:36,559
+the ability to not only uh sustain and
+
+394
+00:17:34,960 --> 00:17:40,000
+maintain the economies of the world but
+
+395
+00:17:36,559 --> 00:17:41,760
+also give us the abilities to uh handle
+
+396
+00:17:40,000 --> 00:17:44,400
+the environmental pollution problems at
+
+397
+00:17:41,760 --> 00:17:45,840
+the same time. We can't keep putting CO2
+
+398
+00:17:44,400 --> 00:17:47,200
+in the air and expect that the energy
+
+399
+00:17:45,840 --> 00:17:50,080
+level is going to be there even for our
+
+400
+00:17:47,200 --> 00:17:51,840
+plants. And uh we all talk about the
+
+401
+00:17:50,080 --> 00:17:53,840
+greenhouse effect but very few people
+
+402
+00:17:51,840 --> 00:17:55,919
+come up with a viable answer to it and
+
+403
+00:17:53,840 --> 00:17:58,960
+the water fuel cell technology gives us
+
+404
+00:17:55,919 --> 00:18:01,200
+the ability. You get us
+
+405
+00:17:58,960 --> 00:18:03,600
+can you can you explain the your driving
+
+406
+00:18:01,200 --> 00:18:06,480
+force behind spending all this money and
+
+407
+00:18:03,600 --> 00:18:08,000
+energy developing something like this
+
+408
+00:18:06,480 --> 00:18:10,000
+has cost you about 10 years of your
+
+409
+00:18:08,000 --> 00:18:13,440
+life. Can you explain why you're doing
+
+410
+00:18:10,000 --> 00:18:15,760
+all this and what really drives you to
+
+411
+00:18:13,440 --> 00:18:18,160
+keep Well, I uh I did an analysis during
+
+412
+00:18:15,760 --> 00:18:20,000
+the Arab embargo uh as to what actually
+
+413
+00:18:18,160 --> 00:18:21,360
+occurred. I didn't pay any attention to
+
+414
+00:18:20,000 --> 00:18:23,840
+the political leaders as to why we had
+
+415
+00:18:21,360 --> 00:18:25,520
+an energy problem and I realized that
+
+416
+00:18:23,840 --> 00:18:27,120
+without a new free and abundant energy
+
+417
+00:18:25,520 --> 00:18:29,919
+source to come into the world economy
+
+418
+00:18:27,120 --> 00:18:33,280
+very quickly then the world economy uh
+
+419
+00:18:29,919 --> 00:18:34,960
+could collapse. So uh as a scientist uh
+
+420
+00:18:33,280 --> 00:18:36,320
+I have a very diversified background
+
+421
+00:18:34,960 --> 00:18:37,919
+from research development, product
+
+422
+00:18:36,320 --> 00:18:40,880
+development, engineering and corporate
+
+423
+00:18:37,919 --> 00:18:42,799
+entrepreneuring. And when I realized uh
+
+424
+00:18:40,880 --> 00:18:45,120
+the problem that was confronting us, I
+
+425
+00:18:42,799 --> 00:18:46,960
+went into my office laboratory and as a
+
+426
+00:18:45,120 --> 00:18:48,799
+scientist I had always believed that
+
+427
+00:18:46,960 --> 00:18:50,400
+there was an existence of God. It was
+
+428
+00:18:48,799 --> 00:18:52,400
+mathematically impossible that we had
+
+429
+00:18:50,400 --> 00:18:53,919
+derived ourselves in swamcast. If you
+
+430
+00:18:52,400 --> 00:18:55,039
+got to have a lot of faith, you have to
+
+431
+00:18:53,919 --> 00:18:57,280
+you have to have a lot of faith to
+
+432
+00:18:55,039 --> 00:18:59,039
+believe in evolution. And so I went in
+
+433
+00:18:57,280 --> 00:19:00,240
+my office laboratory and I said, "God, I
+
+434
+00:18:59,039 --> 00:19:01,600
+love my country. It's the greatest
+
+435
+00:19:00,240 --> 00:19:03,280
+country in the world. If you'll help me
+
+436
+00:19:01,600 --> 00:19:05,600
+put a power supply in the country, I'll
+
+437
+00:19:03,280 --> 00:19:08,320
+do anything that uh you want me to do.
+
+438
+00:19:05,600 --> 00:19:10,400
+And subsequently, I was like Paul on on
+
+439
+00:19:08,320 --> 00:19:12,480
+the road to Damascus. I didn't know the
+
+440
+00:19:10,400 --> 00:19:14,400
+Lord, but once he revealed himself to
+
+441
+00:19:12,480 --> 00:19:15,600
+me, uh subsequently, I was filled with
+
+442
+00:19:14,400 --> 00:19:16,880
+the Holy Spirit. And I've been
+
+443
+00:19:15,600 --> 00:19:18,799
+exercising the power and authority of
+
+444
+00:19:16,880 --> 00:19:21,440
+the word of God uh bringing this
+
+445
+00:19:18,799 --> 00:19:24,480
+technology in. And many people ask me
+
+446
+00:19:21,440 --> 00:19:26,480
+about uh do I fear my life? I have
+
+447
+00:19:24,480 --> 00:19:27,840
+learned the power of angels and I've
+
+448
+00:19:26,480 --> 00:19:30,480
+been protected in trying to bring this
+
+449
+00:19:27,840 --> 00:19:32,320
+technology in. The ultimate objective is
+
+450
+00:19:30,480 --> 00:19:35,200
+not only to stabilize the economies of
+
+451
+00:19:32,320 --> 00:19:37,520
+the world but uh if we realize any funds
+
+452
+00:19:35,200 --> 00:19:40,080
+from the technology
+
+453
+00:19:37,520 --> 00:19:42,160
+uh it will go into world evangelization.
+
+454
+00:19:40,080 --> 00:19:44,240
+You see as a scientist once truth is
+
+455
+00:19:42,160 --> 00:19:45,840
+shown to me truth is truth and of course
+
+456
+00:19:44,240 --> 00:19:47,200
+I got what I wanted a ticket to go to
+
+457
+00:19:45,840 --> 00:19:50,720
+heaven. I got filled with the Holy
+
+458
+00:19:47,200 --> 00:19:53,039
+Spirit and so as a scientist uh truth is
+
+459
+00:19:50,720 --> 00:19:54,960
+truth and I have a responsibility just
+
+460
+00:19:53,039 --> 00:19:56,720
+as I have a responsibility to the water
+
+461
+00:19:54,960 --> 00:19:58,559
+fuel cell technology to try to bring it
+
+462
+00:19:56,720 --> 00:20:00,240
+out into the world. I also have the
+
+463
+00:19:58,559 --> 00:20:02,799
+responsibilities to relate the truth of
+
+464
+00:20:00,240 --> 00:20:04,400
+the word of God uh not only to the guy
+
+465
+00:20:02,799 --> 00:20:06,559
+uh to the next door neighbor or the guy
+
+466
+00:20:04,400 --> 00:20:08,480
+down the block but also relate that
+
+467
+00:20:06,559 --> 00:20:10,480
+truth of that knowledge to uh every
+
+468
+00:20:08,480 --> 00:20:12,240
+person in the world if I possibly can do
+
+469
+00:20:10,480 --> 00:20:14,880
+it. So the ultimate objective of the
+
+470
+00:20:12,240 --> 00:20:16,880
+water fuel cell technology really is to
+
+471
+00:20:14,880 --> 00:20:19,039
+help set the financial base of capable
+
+472
+00:20:16,880 --> 00:20:20,640
+of evangelizing the world. Now, this is
+
+473
+00:20:19,039 --> 00:20:22,559
+there's a difference between spiritual
+
+474
+00:20:20,640 --> 00:20:24,559
+knowledge and worldly knowledge. And you
+
+475
+00:20:22,559 --> 00:20:26,640
+can't go to the world system and ask
+
+476
+00:20:24,559 --> 00:20:28,799
+them to help evangelize the world and
+
+477
+00:20:26,640 --> 00:20:30,960
+spread the gospel. Uh but you can go to
+
+478
+00:20:28,799 --> 00:20:32,720
+a world system and give them a cheap uh
+
+479
+00:20:30,960 --> 00:20:34,320
+power supply that's so economically
+
+480
+00:20:32,720 --> 00:20:36,000
+they'll save them economically and then
+
+481
+00:20:34,320 --> 00:20:38,559
+those funds will go into the world
+
+482
+00:20:36,000 --> 00:20:40,480
+evangelization. So, uh the water fuel
+
+483
+00:20:38,559 --> 00:20:42,400
+cell technology really the ultimate
+
+484
+00:20:40,480 --> 00:20:45,039
+objective is to accomplish the task of
+
+485
+00:20:42,400 --> 00:20:47,039
+evangelizing the world uh by giving the
+
+486
+00:20:45,039 --> 00:20:49,440
+financial abilities to do so. And that's
+
+487
+00:20:47,039 --> 00:20:51,440
+my prime that's my ultimate and prime
+
+488
+00:20:49,440 --> 00:20:55,400
+objective. The water fuel cell will give
+
+489
+00:20:51,440 --> 00:20:55,400
+us the abilities to do this.
+
+490
+00:21:03,440 --> 00:21:08,960
+Well, if you notice on my logo, you'll
+
+491
+00:21:05,360 --> 00:21:11,120
+see Job 38:22 and 23. And this is where
+
+492
+00:21:08,960 --> 00:21:13,280
+the Lord is talking to Job. And he asks
+
+493
+00:21:11,120 --> 00:21:15,039
+Job this question. He says, "Have you
+
+494
+00:21:13,280 --> 00:21:16,720
+considered the treasures of snow? Or
+
+495
+00:21:15,039 --> 00:21:18,480
+have you considered the traces of hell
+
+496
+00:21:16,720 --> 00:21:20,799
+which I have reserved against the time
+
+497
+00:21:18,480 --> 00:21:22,240
+of trouble against battle and war? Now
+
+498
+00:21:20,799 --> 00:21:24,320
+the interpretation of the scriptures are
+
+499
+00:21:22,240 --> 00:21:26,559
+as follows. Is not snow the most
+
+500
+00:21:24,320 --> 00:21:28,559
+beautiful part about water? That no one
+
+501
+00:21:26,559 --> 00:21:31,440
+snowflake looks exactly the same as that
+
+502
+00:21:28,559 --> 00:21:33,440
+of another. The treasures of snow is the
+
+503
+00:21:31,440 --> 00:21:36,080
+characteristic and knowledge of water.
+
+504
+00:21:33,440 --> 00:21:38,559
+The Lord knew that in fact that we would
+
+505
+00:21:36,080 --> 00:21:40,159
+have and reach a very critical point in
+
+506
+00:21:38,559 --> 00:21:42,320
+our history that since we went on
+
+507
+00:21:40,159 --> 00:21:45,200
+dependency of fossil fuels that that
+
+508
+00:21:42,320 --> 00:21:47,679
+poss the flow of fossil fuels uh may be
+
+509
+00:21:45,200 --> 00:21:49,200
+disrupted and as a result the Lord
+
+510
+00:21:47,679 --> 00:21:51,039
+specified that this knowledge of water
+
+511
+00:21:49,200 --> 00:21:53,039
+would come out of time of great trouble
+
+512
+00:21:51,039 --> 00:21:55,679
+but he also specified that the knowledge
+
+513
+00:21:53,039 --> 00:21:58,720
+would come out prior to two events.
+
+514
+00:21:55,679 --> 00:22:00,880
+Okay. Now that we've uh now that you've
+
+515
+00:21:58,720 --> 00:22:02,799
+heard how the thing functions, you
+
+516
+00:22:00,880 --> 00:22:04,480
+explained your background why you are
+
+517
+00:22:02,799 --> 00:22:07,039
+working on this thing. Uh what do you
+
+518
+00:22:04,480 --> 00:22:09,200
+think of possible applications and where
+
+519
+00:22:07,039 --> 00:22:11,440
+do you think this this device can be
+
+520
+00:22:09,200 --> 00:22:12,799
+applied in what scale and what's the
+
+521
+00:22:11,440 --> 00:22:15,200
+amount of energy we can get out of it?
+
+522
+00:22:12,799 --> 00:22:19,039
+Like you talked before about converting
+
+523
+00:22:15,200 --> 00:22:20,400
+cars uh commercial airplanes. Uh is
+
+524
+00:22:19,039 --> 00:22:23,120
+there any other application you think
+
+525
+00:22:20,400 --> 00:22:26,240
+of? Oh yes. Not only uh is this
+
+526
+00:22:23,120 --> 00:22:28,799
+technology applicable for all modes of
+
+527
+00:22:26,240 --> 00:22:31,200
+transportation uh but it also has
+
+528
+00:22:28,799 --> 00:22:33,280
+application in industrial processes uh
+
+529
+00:22:31,200 --> 00:22:34,640
+during the air embargo I was called in a
+
+530
+00:22:33,280 --> 00:22:36,720
+meeting in Columbus Ohio with the
+
+531
+00:22:34,640 --> 00:22:38,320
+industrial leaders and Columbus gas
+
+532
+00:22:36,720 --> 00:22:41,039
+system informed us that our gas was
+
+533
+00:22:38,320 --> 00:22:42,400
+being cut off 100%. uh what actually
+
+534
+00:22:41,039 --> 00:22:43,840
+were telling us that we were going out
+
+535
+00:22:42,400 --> 00:22:45,280
+of business and I saw some of the most
+
+536
+00:22:43,840 --> 00:22:46,799
+richest and most powerful industrial
+
+537
+00:22:45,280 --> 00:22:47,520
+leaders of the state popping pills and I
+
+538
+00:22:46,799 --> 00:22:49,840
+thought they were going to have heart
+
+539
+00:22:47,520 --> 00:22:51,760
+attacks because basically without energy
+
+540
+00:22:49,840 --> 00:22:53,200
+you can't make a product if you can't
+
+541
+00:22:51,760 --> 00:22:55,039
+make a product you can't make profit if
+
+542
+00:22:53,200 --> 00:22:56,960
+you can't make profits you cannot pay
+
+543
+00:22:55,039 --> 00:22:58,880
+your bills so result the bigger you are
+
+544
+00:22:56,960 --> 00:23:00,880
+the harder you fall the faster that uh
+
+545
+00:22:58,880 --> 00:23:03,360
+you would go in economic uh uh
+
+546
+00:23:00,880 --> 00:23:06,240
+bankruptcy so it's imperative that this
+
+547
+00:23:03,360 --> 00:23:08,880
+technology not only be uh developed for
+
+548
+00:23:06,240 --> 00:23:11,440
+the uh transportation areas but also to
+
+549
+00:23:08,880 --> 00:23:13,520
+apply to industrial applications uh to
+
+550
+00:23:11,440 --> 00:23:15,360
+be able to give energy uh the technology
+
+551
+00:23:13,520 --> 00:23:17,200
+and hydrogen fracturing technology that
+
+552
+00:23:15,360 --> 00:23:19,120
+gave us the abilities to go in and to
+
+553
+00:23:17,200 --> 00:23:21,760
+protect the military integrity of the
+
+554
+00:23:19,120 --> 00:23:24,240
+western world. So this technology is
+
+555
+00:23:21,760 --> 00:23:27,039
+applicable not only in those areas but
+
+556
+00:23:24,240 --> 00:23:29,200
+uh for example during the Arab embargo
+
+557
+00:23:27,039 --> 00:23:32,080
+uh our Navy task force did not have the
+
+558
+00:23:29,200 --> 00:23:34,080
+fuel and so as we have the abilities now
+
+559
+00:23:32,080 --> 00:23:36,480
+to go on the maritime applications
+
+560
+00:23:34,080 --> 00:23:38,159
+literally run the ships off of water uh
+
+561
+00:23:36,480 --> 00:23:40,240
+as a main fuel source and at the same
+
+562
+00:23:38,159 --> 00:23:42,400
+time using the application is cleaning
+
+563
+00:23:40,240 --> 00:23:44,480
+up our environment and preventing from
+
+564
+00:23:42,400 --> 00:23:46,720
+the CO2 and the contaminants uh that go
+
+565
+00:23:44,480 --> 00:23:48,960
+in the air. So we can move this
+
+566
+00:23:46,720 --> 00:23:51,440
+technology bilateral in every aspect of
+
+567
+00:23:48,960 --> 00:23:54,159
+the economy and do it very very quickly.
+
+568
+00:23:51,440 --> 00:23:56,159
+And so that led us leads us now into the
+
+569
+00:23:54,159 --> 00:23:59,120
+fact that we have been developing this
+
+570
+00:23:56,159 --> 00:24:01,840
+technology uh for mass production. And
+
+571
+00:23:59,120 --> 00:24:03,840
+so once uh we finalize debugging of the
+
+572
+00:24:01,840 --> 00:24:05,760
+pre-engineering unit, then we're going
+
+573
+00:24:03,840 --> 00:24:08,640
+to translate it into a very
+
+574
+00:24:05,760 --> 00:24:11,200
+cost-effective uh system uh by taking
+
+575
+00:24:08,640 --> 00:24:13,840
+the technology into microchip technology
+
+576
+00:24:11,200 --> 00:24:16,480
+and plastic mold injection technology
+
+577
+00:24:13,840 --> 00:24:18,240
+allows us now to move this type of
+
+578
+00:24:16,480 --> 00:24:21,679
+technology very quickly. Matter of fact,
+
+579
+00:24:18,240 --> 00:24:25,440
+one master mold uh set uh can produce
+
+580
+00:24:21,679 --> 00:24:27,279
+over 11,000 units every 24 hours. that
+
+581
+00:24:25,440 --> 00:24:29,520
+gives us abilities now to move in a
+
+582
+00:24:27,279 --> 00:24:30,960
+bilateral movement but to get the energy
+
+583
+00:24:29,520 --> 00:24:34,320
+source throughout the entire world
+
+584
+00:24:30,960 --> 00:24:36,880
+quickly. uh if u if the oil is shut off
+
+585
+00:24:34,320 --> 00:24:39,440
+uh to us either by war or by some other
+
+586
+00:24:36,880 --> 00:24:41,919
+methods um a lot of people do not
+
+587
+00:24:39,440 --> 00:24:44,080
+realize Saddan has the viral germ
+
+588
+00:24:41,919 --> 00:24:47,039
+through genetic restructuring that if he
+
+589
+00:24:44,080 --> 00:24:49,600
+uses it one it lives off the bacteria of
+
+590
+00:24:47,039 --> 00:24:52,000
+air and water and even of oil and if he
+
+591
+00:24:49,600 --> 00:24:54,559
+uses this uh it's possibly that the oil
+
+592
+00:24:52,000 --> 00:24:56,400
+could be contaminated very quickly and
+
+593
+00:24:54,559 --> 00:24:58,000
+if that is so then every country in the
+
+594
+00:24:56,400 --> 00:25:00,000
+world would be faced of shutting off the
+
+595
+00:24:58,000 --> 00:25:02,640
+flow of oil to each of their countries
+
+596
+00:25:00,000 --> 00:25:07,039
+now without the supply of fossil fuels
+
+597
+00:25:02,640 --> 00:25:09,279
+within 180 to 240 days thereafter about
+
+598
+00:25:07,039 --> 00:25:11,840
+1.5 billion people will be facing
+
+599
+00:25:09,279 --> 00:25:13,679
+starvation very very quickly uh because
+
+600
+00:25:11,840 --> 00:25:15,200
+we need that flow of energy in order to
+
+601
+00:25:13,679 --> 00:25:17,840
+maintain the industrial bases of the
+
+602
+00:25:15,200 --> 00:25:20,159
+world. So we've designed the technology
+
+603
+00:25:17,840 --> 00:25:22,159
+to be very flexible to use every segment
+
+604
+00:25:20,159 --> 00:25:24,320
+of the economy and do it very quickly.
+
+605
+00:25:22,159 --> 00:25:26,559
+So we're all in the same boat and what
+
+606
+00:25:24,320 --> 00:25:28,400
+we're doing is illustrating that yes the
+
+607
+00:25:26,559 --> 00:25:30,240
+technology is viable here. here. We do
+
+608
+00:25:28,400 --> 00:25:32,400
+have a viable technology that we now can
+
+609
+00:25:30,240 --> 00:25:35,039
+use water as a fuel source because water
+
+610
+00:25:32,400 --> 00:25:37,360
+is a very free and abundant uh fuel
+
+611
+00:25:35,039 --> 00:25:38,880
+source, but it's going to take you and I
+
+612
+00:25:37,360 --> 00:25:40,799
+and the guy down the street and the
+
+613
+00:25:38,880 --> 00:25:43,200
+people in each country to bring this
+
+614
+00:25:40,799 --> 00:25:45,679
+technology uh into the marketplace to
+
+615
+00:25:43,200 --> 00:25:48,320
+stabilize our countries. And so as a
+
+616
+00:25:45,679 --> 00:25:50,480
+result, we are uh developed it uh under
+
+617
+00:25:48,320 --> 00:25:52,320
+the KISS method, keep it simple, stupid
+
+618
+00:25:50,480 --> 00:25:53,919
+to comply with the law of economics that
+
+619
+00:25:52,320 --> 00:25:56,159
+the guy who could the cheapest way is
+
+620
+00:25:53,919 --> 00:25:58,159
+going to win out. So by decentralizing
+
+621
+00:25:56,159 --> 00:26:00,480
+the mass production of the system and
+
+622
+00:25:58,159 --> 00:26:02,640
+and and the fabrication of the system
+
+623
+00:26:00,480 --> 00:26:04,720
+and decentralize the installation of the
+
+624
+00:26:02,640 --> 00:26:06,799
+system then we should be able to move in
+
+625
+00:26:04,720 --> 00:26:08,480
+a bilateral movement throughout uh all
+
+626
+00:26:06,799 --> 00:26:10,240
+the countries of the world to get this
+
+627
+00:26:08,480 --> 00:26:13,200
+type of technology into their countries
+
+628
+00:26:10,240 --> 00:26:15,919
+to stabilize their their economic base.
+
+629
+00:26:13,200 --> 00:26:18,240
+uh if the oil is cut off by these means
+
+630
+00:26:15,919 --> 00:26:21,679
+or it simply is being cut off by a lack
+
+631
+00:26:18,240 --> 00:26:23,600
+of supply of oil that's now showing uh
+
+632
+00:26:21,679 --> 00:26:25,039
+is the same natural pressure that
+
+633
+00:26:23,600 --> 00:26:26,960
+dropped in the airfields as I pointed
+
+634
+00:26:25,039 --> 00:26:29,120
+out a little earlier is also occurring
+
+635
+00:26:26,960 --> 00:26:31,600
+in the North Sea the North Sea uh
+
+636
+00:26:29,120 --> 00:26:34,320
+pressure has dropped by one/3 so we all
+
+637
+00:26:31,600 --> 00:26:35,360
+need the energy and so therefore I feel
+
+638
+00:26:34,320 --> 00:26:36,799
+it's going to take the people of the
+
+639
+00:26:35,360 --> 00:26:38,480
+world to come together and the leaders
+
+640
+00:26:36,799 --> 00:26:40,640
+of the of the each country to come
+
+641
+00:26:38,480 --> 00:26:42,080
+together in one accord in order to allow
+
+642
+00:26:40,640 --> 00:26:43,520
+this type of technology to go on to
+
+643
+00:26:42,080 --> 00:26:46,080
+stabilize their econom eomic basis in
+
+644
+00:26:43,520 --> 00:26:48,640
+each each respective country. Do you
+
+645
+00:26:46,080 --> 00:26:51,360
+have any time scale for mass production
+
+646
+00:26:48,640 --> 00:26:52,880
+set up yet? And second, do you have any
+
+647
+00:26:51,360 --> 00:26:55,279
+organization or you planning an
+
+648
+00:26:52,880 --> 00:26:57,120
+organization international or Yes, we
+
+649
+00:26:55,279 --> 00:26:58,480
+are. I'm negotiating with many uh
+
+650
+00:26:57,120 --> 00:27:01,200
+leaders of different countries of the
+
+651
+00:26:58,480 --> 00:27:04,000
+world. Uh but the ultimate objective is
+
+652
+00:27:01,200 --> 00:27:06,080
+to mobilize mobilize the masses of the
+
+653
+00:27:04,000 --> 00:27:08,240
+people uh in order to bring it in. this
+
+654
+00:27:06,080 --> 00:27:11,440
+is the only way that that that can come
+
+655
+00:27:08,240 --> 00:27:13,840
+in and uh so as we finalize our
+
+656
+00:27:11,440 --> 00:27:15,760
+debugging of the system uh and take it
+
+657
+00:27:13,840 --> 00:27:17,600
+into mass production areas, we can do
+
+658
+00:27:15,760 --> 00:27:20,799
+this by simply turning the technology
+
+659
+00:27:17,600 --> 00:27:23,440
+over to many many uh fabricators and
+
+660
+00:27:20,799 --> 00:27:25,520
+people who have certain skills uh in the
+
+661
+00:27:23,440 --> 00:27:27,200
+machining areas or mass production areas
+
+662
+00:27:25,520 --> 00:27:29,919
+that would allow this type of technology
+
+663
+00:27:27,200 --> 00:27:31,520
+to be produced very quickly.
+
+664
+00:27:29,919 --> 00:27:33,279
+Thanks very much for this interview. Oh,
+
+665
+00:27:31,520 --> 00:27:37,000
+my pleasure. We appreciate it very much.
+
+666
+00:27:33,279 --> 00:27:37,000
+Thank you. You're welcome.
+
+667
+00:27:37,760 --> 00:27:43,799
+I see your red light. Focus. How to
+
+668
+00:27:40,400 --> 00:27:43,799
+focus it on.
+
+669
+00:27:44,400 --> 00:27:49,679
+Okay. Stanley, can you give us some idea
+
+670
+00:27:46,240 --> 00:27:52,400
+about the size of a conversion kit for a
+
+671
+00:27:49,679 --> 00:27:54,320
+car for instance? Uh we see this all
+
+672
+00:27:52,400 --> 00:27:57,440
+this electronics sitting there, but I
+
+673
+00:27:54,320 --> 00:28:00,399
+guess this is not going to be part of a
+
+674
+00:27:57,440 --> 00:28:01,520
+future upgrade kit for a car, is it? No.
+
+675
+00:28:00,399 --> 00:28:04,399
+Basically what this was a
+
+676
+00:28:01,520 --> 00:28:07,919
+pre-engineering unit in order to satisfy
+
+677
+00:28:04,399 --> 00:28:11,440
+the US code of operability on section 35
+
+678
+00:28:07,919 --> 00:28:14,080
+section 101 and it was uh developed uh
+
+679
+00:28:11,440 --> 00:28:15,679
+as pre-engineering to uh show the
+
+680
+00:28:14,080 --> 00:28:17,200
+operability of all the different
+
+681
+00:28:15,679 --> 00:28:19,440
+operational parameters of water fuel
+
+682
+00:28:17,200 --> 00:28:21,279
+cell but in actuality the entire
+
+683
+00:28:19,440 --> 00:28:22,880
+technologies you see here is really
+
+684
+00:28:21,279 --> 00:28:25,200
+reduced down to the water fuel cell
+
+685
+00:28:22,880 --> 00:28:27,440
+injectors you see right here. This this
+
+686
+00:28:25,200 --> 00:28:28,799
+is the only thing that's needed for
+
+687
+00:28:27,440 --> 00:28:30,559
+upgrading a car or is there anything
+
+688
+00:28:28,799 --> 00:28:32,720
+else involved? No. uh the water fuel
+
+689
+00:28:30,559 --> 00:28:34,480
+cell injector which replaces the the
+
+690
+00:28:32,720 --> 00:28:36,320
+conventional spark plug in and an
+
+691
+00:28:34,480 --> 00:28:39,039
+internal combustion engine. This is
+
+692
+00:28:36,320 --> 00:28:41,200
+hooked up to a water tank. Basically, if
+
+693
+00:28:39,039 --> 00:28:43,200
+you have a plastic fuel tank in your
+
+694
+00:28:41,200 --> 00:28:45,520
+car, you simply drain out the the
+
+695
+00:28:43,200 --> 00:28:49,520
+gasoline, flush it out, fill it up with
+
+696
+00:28:45,520 --> 00:28:52,320
+fresh water. Then then uh uh the water
+
+697
+00:28:49,520 --> 00:28:55,520
+fuel cell injector now allows the water
+
+698
+00:28:52,320 --> 00:28:57,840
+to be uh transferred. uh the system
+
+699
+00:28:55,520 --> 00:28:59,360
+approach allows the water to be to go in
+
+700
+00:28:57,840 --> 00:29:00,799
+to the injector which is now being
+
+701
+00:28:59,360 --> 00:29:02,880
+processed to release the thermal
+
+702
+00:29:00,799 --> 00:29:04,640
+exposure energy from hydrogen. The
+
+703
+00:29:02,880 --> 00:29:06,480
+second part is hooked up to it is what
+
+704
+00:29:04,640 --> 00:29:08,720
+we've referred to here again as the gas
+
+705
+00:29:06,480 --> 00:29:10,640
+processor that's ionizing the gas to
+
+706
+00:29:08,720 --> 00:29:12,320
+allow it to come in. So basically in
+
+707
+00:29:10,640 --> 00:29:14,080
+retrofit all we're doing is simply
+
+708
+00:29:12,320 --> 00:29:16,720
+tapping off the exhaust gases from the
+
+709
+00:29:14,080 --> 00:29:19,360
+conventional engine. We're now using the
+
+710
+00:29:16,720 --> 00:29:21,440
+gas processor to utilize the ambient air
+
+711
+00:29:19,360 --> 00:29:23,520
+to ionize the gases which is now mixing
+
+712
+00:29:21,440 --> 00:29:25,200
+with the water which now converts it to
+
+713
+00:29:23,520 --> 00:29:27,600
+water fuel. We're allowing the water
+
+714
+00:29:25,200 --> 00:29:30,399
+fuel to go into the into the injector
+
+715
+00:29:27,600 --> 00:29:32,559
+that's now uh plugged into our uh
+
+716
+00:29:30,399 --> 00:29:34,080
+replaces your spark plug and allows the
+
+717
+00:29:32,559 --> 00:29:35,760
+engine now to run off the thermal
+
+718
+00:29:34,080 --> 00:29:38,080
+explosion engine from hydrogen. So
+
+719
+00:29:35,760 --> 00:29:40,480
+basically all we're doing is taking the
+
+720
+00:29:38,080 --> 00:29:42,880
+gas uh gasoline out of the tank, fill it
+
+721
+00:29:40,480 --> 00:29:44,320
+up with water. We now uh replace the
+
+722
+00:29:42,880 --> 00:29:46,399
+spark plug with the water fuel cell
+
+723
+00:29:44,320 --> 00:29:49,200
+injector. And we now hook a small little
+
+724
+00:29:46,399 --> 00:29:51,520
+miniaturized computer which controls and
+
+725
+00:29:49,200 --> 00:29:54,159
+meter mixes the gases going in the
+
+726
+00:29:51,520 --> 00:29:56,480
+engine to allow uh the engine to uh
+
+727
+00:29:54,159 --> 00:29:59,440
+accelerate and de accelerate. So the
+
+728
+00:29:56,480 --> 00:30:02,480
+installation is a quite a very small
+
+729
+00:29:59,440 --> 00:30:05,039
+lightweight uh compact electronic uh
+
+730
+00:30:02,480 --> 00:30:07,200
+control system. Okay. Now the
+
+731
+00:30:05,039 --> 00:30:08,559
+distributor is that going to be the
+
+732
+00:30:07,200 --> 00:30:10,559
+same? Can you use the same distributor
+
+733
+00:30:08,559 --> 00:30:12,000
+or do you have a modified version or is
+
+734
+00:30:10,559 --> 00:30:14,640
+there anything additional to it? Can you
+
+735
+00:30:12,000 --> 00:30:17,200
+explain? We do. We uh we do modify the
+
+736
+00:30:14,640 --> 00:30:19,039
+uh distributor as it's shown over here.
+
+737
+00:30:17,200 --> 00:30:21,520
+Uh we simply take off the conventional
+
+738
+00:30:19,039 --> 00:30:23,840
+gas tank uh gas rotor cap out of
+
+739
+00:30:21,520 --> 00:30:26,960
+conventional engine and we put the laser
+
+740
+00:30:23,840 --> 00:30:29,600
+distributor uh in between the the uh
+
+741
+00:30:26,960 --> 00:30:32,720
+distributor assembly and the cap. And
+
+742
+00:30:29,600 --> 00:30:35,360
+this now sends the signals to the uh
+
+743
+00:30:32,720 --> 00:30:38,640
+computer system which will really be uh
+
+744
+00:30:35,360 --> 00:30:40,320
+composite of several IC ch IC or
+
+745
+00:30:38,640 --> 00:30:42,240
+integrated circuit chips that
+
+746
+00:30:40,320 --> 00:30:44,399
+miniaturaturizes the the hydrogen
+
+747
+00:30:42,240 --> 00:30:46,960
+computer system.
+
+748
+00:30:44,399 --> 00:30:48,640
+This whole hydrogen stuff isn't
+
+749
+00:30:46,960 --> 00:30:50,159
+extremely explosive in the car. Is there
+
+750
+00:30:48,640 --> 00:30:52,080
+any danger involved? What's the safety
+
+751
+00:30:50,159 --> 00:30:53,919
+aspect of it all? No, we have actually
+
+752
+00:30:52,080 --> 00:30:56,000
+solved the problem. Uh there's no
+
+753
+00:30:53,919 --> 00:30:58,320
+storage of hydrogen whatsoever. The
+
+754
+00:30:56,000 --> 00:30:59,919
+water goes into the injector which now
+
+755
+00:30:58,320 --> 00:31:02,159
+allows it to go into a high pulse
+
+756
+00:30:59,919 --> 00:31:04,480
+voltage zone which performs electrical
+
+757
+00:31:02,159 --> 00:31:06,080
+polarization process. So the water is
+
+758
+00:31:04,480 --> 00:31:08,159
+only converted into thermal explosive
+
+759
+00:31:06,080 --> 00:31:09,600
+energy as it enters the injector. So the
+
+760
+00:31:08,159 --> 00:31:11,679
+thermal explosive energy is now
+
+761
+00:31:09,600 --> 00:31:14,559
+occurring inside the engine. So the
+
+762
+00:31:11,679 --> 00:31:16,480
+electronic system is designed to
+
+763
+00:31:14,559 --> 00:31:18,720
+regulate and control the explosion of
+
+764
+00:31:16,480 --> 00:31:20,399
+the energy which now coequals that of
+
+765
+00:31:18,720 --> 00:31:23,279
+gasoline. So it's a tremendously
+
+766
+00:31:20,399 --> 00:31:25,679
+failsafe operable system. Okay. So it's
+
+767
+00:31:23,279 --> 00:31:28,320
+safe. It's a small system. Yes. Uh what
+
+768
+00:31:25,679 --> 00:31:30,399
+about maintenance of the car engine
+
+769
+00:31:28,320 --> 00:31:33,279
+itself? Uh do I need more maintenance?
+
+770
+00:31:30,399 --> 00:31:34,559
+Is it different? Um is there anything do
+
+771
+00:31:33,279 --> 00:31:36,960
+I have to modify anything on the
+
+772
+00:31:34,559 --> 00:31:39,760
+maintenance schedule? No, just keep the
+
+773
+00:31:36,960 --> 00:31:41,440
+same maintenance as you you have it. Uh
+
+774
+00:31:39,760 --> 00:31:43,679
+since you're releasing thermal explosive
+
+775
+00:31:41,440 --> 00:31:45,600
+energy into the engine and you're
+
+776
+00:31:43,679 --> 00:31:47,120
+co-equaling the the burn rate of
+
+777
+00:31:45,600 --> 00:31:50,720
+gasoline, then there's very little
+
+778
+00:31:47,120 --> 00:31:53,360
+maintenance. Uh if there is uh any
+
+779
+00:31:50,720 --> 00:31:55,519
+maintenance at all. Uh we developed the
+
+780
+00:31:53,360 --> 00:31:57,919
+uh technology years ago that we could
+
+781
+00:31:55,519 --> 00:32:00,000
+really impregnate the cylinder walls uh
+
+782
+00:31:57,919 --> 00:32:02,559
+of the engine with teflon and we can
+
+783
+00:32:00,000 --> 00:32:04,960
+even uh impregnate treat the bearings
+
+784
+00:32:02,559 --> 00:32:07,360
+and literally run an engine off of uh
+
+785
+00:32:04,960 --> 00:32:09,279
+off of the teflon and eliminate the oil.
+
+786
+00:32:07,360 --> 00:32:10,880
+Uh if that occurs then you can use a
+
+787
+00:32:09,279 --> 00:32:13,120
+product something like slick 50 in the
+
+788
+00:32:10,880 --> 00:32:15,200
+engine uh if you would need it. But the
+
+789
+00:32:13,120 --> 00:32:16,960
+wear factor since it's a very clean
+
+790
+00:32:15,200 --> 00:32:19,919
+burning fuel. Hydrogen is a very clean
+
+791
+00:32:16,960 --> 00:32:22,880
+burning fuel. Then uh the engine uh oil
+
+792
+00:32:19,919 --> 00:32:24,399
+is not contaminated under the uh the old
+
+793
+00:32:22,880 --> 00:32:26,559
+method of running on gasoline or diesel
+
+794
+00:32:24,399 --> 00:32:29,120
+fuel. So it's extremely clean burning
+
+795
+00:32:26,559 --> 00:32:31,440
+fuel.
+
+796
+00:32:29,120 --> 00:32:33,679
+Are we on?
+
+797
+00:32:31,440 --> 00:32:35,760
+Yeah. The red temper.
+
+798
+00:32:33,679 --> 00:32:38,559
+Questionly, what what about the valves
+
+799
+00:32:35,760 --> 00:32:39,919
+in the engine? The pistons don't the
+
+800
+00:32:38,559 --> 00:32:42,240
+pistons burn out because there's no
+
+801
+00:32:39,919 --> 00:32:45,279
+lubrication of the of the lead or any
+
+802
+00:32:42,240 --> 00:32:46,720
+any other additives to the usual gas?
+
+803
+00:32:45,279 --> 00:32:50,080
+Now, the valves, you know, have been
+
+804
+00:32:46,720 --> 00:32:52,960
+designed very recently to operate off of
+
+805
+00:32:50,080 --> 00:32:54,880
+non-leted gasoline. And since we use the
+
+806
+00:32:52,960 --> 00:32:58,240
+exhaust gases to cycle back in to
+
+807
+00:32:54,880 --> 00:33:00,559
+modulate the burn rate of hydrogen gas,
+
+808
+00:32:58,240 --> 00:33:02,559
+as we now control the burn rate to
+
+809
+00:33:00,559 --> 00:33:06,000
+coequal gasoline, then the engine
+
+810
+00:33:02,559 --> 00:33:07,679
+temperature and operations are are
+
+811
+00:33:06,000 --> 00:33:09,279
+duplicating the same thing on gasoline
+
+812
+00:33:07,679 --> 00:33:11,600
+or diesel fuel. So, you don't change the
+
+813
+00:33:09,279 --> 00:33:13,519
+engine in any way. And this allows us
+
+814
+00:33:11,600 --> 00:33:16,960
+now to retrofit the water fuel cell
+
+815
+00:33:13,519 --> 00:33:18,799
+technology to any uh uh existing engine.
+
+816
+00:33:16,960 --> 00:33:20,880
+And that's very important because it now
+
+817
+00:33:18,799 --> 00:33:22,960
+gives us ability uh that we can
+
+818
+00:33:20,880 --> 00:33:25,200
+stabilize transportation as we talked
+
+819
+00:33:22,960 --> 00:33:28,000
+about before if the energy is cut off.
+
+820
+00:33:25,200 --> 00:33:29,840
+Okay. So now the accelerator can still
+
+821
+00:33:28,000 --> 00:33:31,200
+keep the same mechanical accelerator or
+
+822
+00:33:29,840 --> 00:33:34,320
+do you have a new device for that as
+
+823
+00:33:31,200 --> 00:33:37,320
+well? Yes, we developed over here come
+
+824
+00:33:34,320 --> 00:33:37,320
+along.
+
+825
+00:33:41,519 --> 00:33:46,240
+We've developed the uh what we call a
+
+826
+00:33:43,279 --> 00:33:49,360
+laser accelerator as you see right here
+
+827
+00:33:46,240 --> 00:33:52,880
+that um simply is attached to the
+
+828
+00:33:49,360 --> 00:33:55,120
+accelerator pedal and it trans uh as you
+
+829
+00:33:52,880 --> 00:33:59,919
+press the pedal down the gas pedal down
+
+830
+00:33:55,120 --> 00:34:02,559
+it displaces the um
+
+831
+00:33:59,919 --> 00:34:05,519
+mechanical displacement into electrical
+
+832
+00:34:02,559 --> 00:34:08,159
+impulses which now is fed into the micro
+
+833
+00:34:05,519 --> 00:34:09,760
+miniaturized computer electronics. So
+
+834
+00:34:08,159 --> 00:34:12,079
+this gives us the abilities now to
+
+835
+00:34:09,760 --> 00:34:14,960
+control the acceleration. This type of
+
+836
+00:34:12,079 --> 00:34:17,679
+technology uh has given us the abilities
+
+837
+00:34:14,960 --> 00:34:19,119
+to equal or supersede the performance of
+
+838
+00:34:17,679 --> 00:34:21,520
+acceleration de acceleration on
+
+839
+00:34:19,119 --> 00:34:24,480
+conventional uh cars that's running on
+
+840
+00:34:21,520 --> 00:34:26,399
+gasoline or diesel fuel. So the the
+
+841
+00:34:24,480 --> 00:34:28,960
+hydrogen uh being two and a half times
+
+842
+00:34:26,399 --> 00:34:30,399
+more powerful than gasoline gives us a
+
+843
+00:34:28,960 --> 00:34:33,040
+tremendous amount of performance over
+
+844
+00:34:30,399 --> 00:34:36,720
+the prior state-of-the-art. It runs very
+
+845
+00:34:33,040 --> 00:34:39,200
+smoothly and uh uh it it has a very
+
+846
+00:34:36,720 --> 00:34:41,119
+unusual sensation. Generally when you're
+
+847
+00:34:39,200 --> 00:34:43,200
+running a a car on gasoline you have
+
+848
+00:34:41,119 --> 00:34:44,639
+this kind of a pause but when you're
+
+849
+00:34:43,200 --> 00:34:46,320
+running on hydrogen the way we're doing
+
+850
+00:34:44,639 --> 00:34:50,240
+it it's a tre it's a constant
+
+851
+00:34:46,320 --> 00:34:53,119
+acceleration. So it's a it's a extremely
+
+852
+00:34:50,240 --> 00:34:55,280
+very fast responding uh fuel source
+
+853
+00:34:53,119 --> 00:34:56,960
+that's coming from water hydro. So
+
+854
+00:34:55,280 --> 00:34:58,880
+you're claiming that performance is
+
+855
+00:34:56,960 --> 00:35:00,480
+equal or better as a normal gasoline
+
+856
+00:34:58,880 --> 00:35:03,200
+car. Oh yes definitely. It'll even start
+
+857
+00:35:00,480 --> 00:35:05,599
+up quicker. Uh in the in the winter
+
+858
+00:35:03,200 --> 00:35:07,520
+time, you're dealing with a liquid
+
+859
+00:35:05,599 --> 00:35:09,920
+gasoline or liquid diesel fuel and you
+
+860
+00:35:07,520 --> 00:35:11,680
+have problems in starting. Uh in cold
+
+861
+00:35:09,920 --> 00:35:17,119
+weather, you don't freeze uh you don't
+
+862
+00:35:11,680 --> 00:35:20,000
+freeze uh gas uh gas atoms and uh so by
+
+863
+00:35:17,119 --> 00:35:21,839
+converting the water into instant energy
+
+864
+00:35:20,000 --> 00:35:24,160
+uh gives us ability to start the engine
+
+865
+00:35:21,839 --> 00:35:25,920
+very very quickly.
+
+866
+00:35:24,160 --> 00:35:28,079
+When you start an engine in the morning,
+
+867
+00:35:25,920 --> 00:35:30,640
+for instance, uh how long does it take
+
+868
+00:35:28,079 --> 00:35:33,200
+before you can drive away? Oh, it's it's
+
+869
+00:35:30,640 --> 00:35:35,280
+in an instantaneous startup uh
+
+870
+00:35:33,200 --> 00:35:38,160
+immediately when pulse voltage frequency
+
+871
+00:35:35,280 --> 00:35:40,320
+hits the the water uh it converts it to
+
+872
+00:35:38,160 --> 00:35:42,240
+the gas which now produces a thermal
+
+873
+00:35:40,320 --> 00:35:45,200
+explosive energy. So, it's an instant
+
+874
+00:35:42,240 --> 00:35:47,280
+it's an instant type of start. The
+
+875
+00:35:45,200 --> 00:35:49,680
+electronic uh circuit interfacing gives
+
+876
+00:35:47,280 --> 00:35:51,040
+us the abilities to control and meter
+
+877
+00:35:49,680 --> 00:35:53,520
+the amount of water that's going in on
+
+878
+00:35:51,040 --> 00:35:55,280
+the start condition as as opposed on a
+
+879
+00:35:53,520 --> 00:35:57,440
+run condition. So the computer
+
+880
+00:35:55,280 --> 00:35:59,599
+automatically adjustes between the start
+
+881
+00:35:57,440 --> 00:36:01,839
+condition and the uh and the run
+
+882
+00:35:59,599 --> 00:36:04,320
+condition. So electronically we have the
+
+883
+00:36:01,839 --> 00:36:06,640
+abilities to adjust for these parameters
+
+884
+00:36:04,320 --> 00:36:09,200
+and uh the same as a conventional car we
+
+885
+00:36:06,640 --> 00:36:12,320
+also have the abilities to adjust for
+
+886
+00:36:09,200 --> 00:36:13,760
+different ambient air conditions uh
+
+887
+00:36:12,320 --> 00:36:15,359
+going from sea level up into the
+
+888
+00:36:13,760 --> 00:36:17,599
+mountain ranges. So automatically the
+
+889
+00:36:15,359 --> 00:36:19,760
+electronic circuitry design gives us the
+
+890
+00:36:17,599 --> 00:36:21,920
+abilities to adjust these parameters to
+
+891
+00:36:19,760 --> 00:36:23,920
+give us a very smooth operational uh
+
+892
+00:36:21,920 --> 00:36:26,960
+performance.
+
+893
+00:36:23,920 --> 00:36:29,119
+But uh what about air pressure? I mean
+
+894
+00:36:26,960 --> 00:36:32,800
+when you go up high in in the mountain
+
+895
+00:36:29,119 --> 00:36:34,480
+you don't use uh ambient air so it has
+
+896
+00:36:32,800 --> 00:36:40,760
+no improvements on the performance of
+
+897
+00:36:34,480 --> 00:36:40,760
+the car. No. Uh if you come over here um
+
+898
+00:36:42,480 --> 00:36:48,000
+here we have a a part uh a device is a
+
+899
+00:36:45,280 --> 00:36:49,760
+metal bellows which now allows uh to
+
+900
+00:36:48,000 --> 00:36:52,800
+control the amount of ambient air going
+
+901
+00:36:49,760 --> 00:36:55,119
+into the engine of the car. And this
+
+902
+00:36:52,800 --> 00:36:56,800
+automatically allows us to regulate uh
+
+903
+00:36:55,119 --> 00:36:58,800
+the ambient air pressures going from sea
+
+904
+00:36:56,800 --> 00:37:01,839
+level up into the mountain areas. So
+
+905
+00:36:58,800 --> 00:37:04,560
+electronically these uh uh solenoids you
+
+906
+00:37:01,839 --> 00:37:06,960
+see here are have sensors that
+
+907
+00:37:04,560 --> 00:37:08,240
+automatically uh senses the amount of
+
+908
+00:37:06,960 --> 00:37:10,000
+ammun pressures and they're
+
+909
+00:37:08,240 --> 00:37:11,520
+automatically electronically adjusted to
+
+910
+00:37:10,000 --> 00:37:14,000
+compensated for difference of air
+
+911
+00:37:11,520 --> 00:37:16,640
+pressure. So this allows us now to give
+
+912
+00:37:14,000 --> 00:37:18,560
+us tremendous good performance uh going
+
+913
+00:37:16,640 --> 00:37:22,079
+from sea level right on up into the into
+
+914
+00:37:18,560 --> 00:37:22,079
+the high mountain regions.
+

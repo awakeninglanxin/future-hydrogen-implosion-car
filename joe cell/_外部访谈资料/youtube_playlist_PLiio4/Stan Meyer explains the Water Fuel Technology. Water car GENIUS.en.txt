@@ -1,0 +1,913 @@
+nearby stand
+and
+have a net
+water powered
+I need to open my remote as well.
+Oh,
+just explaining how this thing goes.
+Yeah. Can you zoom in back in here?
+Are we on? Okay.
+Okay. You know, this is the uh hydrogen
+computer system which was designed
+uh in order to be able to process the
+fuel to produce the hydrogen gas from
+water and do it economically and be able
+to control its firing going to allow the
+uh uh the Volkswagen engine to run off
+of hydrogen. There's a lot u
+uh engineering design that went into
+this. Even though that this is our u our
+systems engineering approach, uh the
+hydrogen computer system you see here
+will be miniaturaturized down to several
+uh IC chips which will allow us to give
+the economics uh to apply to a
+conventional car.
+Over here uh there's very unique design
+features uh that had to be developed in
+order to uh develop the water fuel cell
+as a retrofit energy systems to
+conventional cars. Um we had to go ahead
+and devel uh develop the laser what we
+call the laser distributor as you see
+right here which is put between the
+conventional uh rotor cap and that of
+the rotor assembly. And primarily what
+this does this sets up the electronic uh
+signals that goes back and triggers the
+computer system in order to allow uh the
+car to run successfully on hydrogen. uh
+in order to run this uh engine off of uh
+water, we've also had to learn the
+ability to adjust the burn rate of
+hydrogen to coeico the fossil fuels. We
+did this by simply now u pulling off a
+portion of the exhaust gas that's coming
+from the engine as you see through this
+tube here that's going through this
+electronic regulator that's hooked up to
+the hydrogen computer. And basically
+what's happening is that as the ambient
+air is going into the engine and going
+through the burning process, it produces
+the non-combustible gases that retards
+the speed by which the oxygen atom
+unites the hydrogen bring on gas
+ignition. So by simply using the ex the
+non-combustible gases coming from the
+exhaust of the engine we now modulate
+and control the speed by which that
+oxygen unites with the hydrogen and
+therefore we are adjusting the burn rate
+of hydrogen to coe with that of gasoline
+or or fossil fuels or even diesel fuel
+and that gave us the number one retrofit
+capabilities or retrofitting the water
+fuel cell technology to an existing
+engine. And we do this electronically.
+The unit that you see right here, we
+call this a gas processor. And basically
+what we're doing is we're ionizing the
+ammun gases that is now going into the
+process. And this allows us to trigger
+and use the hydrogen fracturing
+technology and tapping into a higher
+energy yield coming from the hydrogen.
+The unit you see right here, this is
+referred to as a resonant cavity. Uh
+water is now fed into the resonant
+cavity through this water tank. And as
+such, we now expose the water to a very
+high intense pulse voltage field and
+restrict the amps. And therefore, the
+electrical polarization process now
+allows us to release the hydrogen
+economically from water. And by
+attenuating the uh voltage field uh the
+amplitude of the voltage field, we now
+can control the rate of the production
+of the hydrogen gas on demand. So this
+is what's called referred to as a
+constant demand generator. We also now
+extend or allow the voltage amplitude to
+increase even to a higher level and
+allow the uh the water atoms to go into
+an ionization state which gives us the
+ability even to produce a higher energy
+yield uh by producing more hydrogen gas
+on demand. So the fuel now coming from
+the water uh through the electrical
+polarization process going into
+resonance. Resonance meaning that we're
+actually tuning into the dialectric
+properties of water and allows us to
+reduce amps down flow down to minimum
+and allow voltage to take over that
+disassociates the water molecule on
+demand and those fuel gases are now
+coming through this uh electronic
+injector system as you see here. So
+basically we're now feeding the ionized
+air from the uh the gas processor. We're
+now also taking the water fuel gases
+that are now coming from ordinary water.
+We are now mixing it with the
+non-combustible gases, the ami air gases
+and regulating those uh control of the
+fluid mediums or four fluid mediums. And
+as a result now we can uh tune in and
+allow this engine to run off of natural
+water.
+this systems approach. Uh this
+particular unit here is referred as the
+VIC or the voltage uh intensified
+circuit technology. Uh this is being
+miniaturaturized down to a very small
+lightweight system. Uh on this is
+demonstrated in our systems engineering
+approach on the technology that we can
+apply it to other uh applications uh not
+only in the transportation area but also
+in industrial applications. So it was
+paramount that we would uh demonstrate
+and have the technology solved for
+design engineering retrofitting to
+existing energy consuming devices
+whether whether it's being run internal
+combustion engine or a diesel engine or
+hook it to an industrial process. So all
+of these um design interfacing
+technology is now being solved. We are
+in the latter stages of what we call the
+pre-engineering system uh which will now
+allow us to miniaturaturize the
+technology once we're completed on the
+design applications uh and take it into
+mass production. Uh give you a classic
+example of this. We've also developed uh
+from this technology which we call the
+water fuel cell injector.
+And basically uh this injector now is a
+miniaturaturized water fuel cell or
+miniaturaturized resonant cavity. And
+this technology now allows us to simply
+replace we can bypass this part of the
+systems approach and now simply replace
+the spark plug with the water fuel cell
+injector. And as a result now we can run
+the water up to the injector which is
+now being processed and being exposed to
+a very high pulse voltage frequency. And
+as a result as the water fuel is being
+going into the system then the explosion
+takes place inside the cylinder.
+Therefore makes this extremely failsafe
+operable system. Uh the cord as you see
+here is strictly hooks up to a very high
+intensity voltage pulse and we restrict
+the amps to cause the electrical
+polarization proh process which in turns
+the voltage amplitude now takes it and
+and goes into the ionization state to
+perform the hydrogen fracturing
+technology and then in turn the high
+pulse voltage frequency now allows the
+ignition of the gases. So therefore we
+do this electronically and so this
+technology has taken us down to the
+water fuel cell tech water fuel injector
+as you see here today which gives us a
+very
+economical way of simply converting and
+running a conventional car ordinary on
+on natural water. So basically what we
+do is we feed ordinary natural water in
+here nonprocessed natural water. We now
+feed the amiient air gases being
+ionized. It's being mixed with the water
+and then we mix the non-combustible
+gases going in the system that regulates
+the control. So allows us now to release
+the thermal explosive energy from
+hydrogen and do it on a control means.
+Further development on the on the
+technology centered around also the
+development
+of what we call the laser accelerator
+control and this would had to be
+developed in order to translate from a
+mechanical displacement to an electronic
+uh displacement in order to allow the
+hydrogen computer system to produce the
+gas on demand based on acceleration
+control. So what you're really seeing
+with the water fuel cell as it is today
+is that we have a full system
+engineering approach allowing us now to
+use water as a main fuel source to be
+able to run a conventional engine and
+run it on water and do it and equal or
+supersede the performance uh of a a car
+running on gasoline or diesel fuel. Many
+people do not realize that when you run
+a car or truck on either gasoline or
+diesel fuel, you're actually running
+them on hydrogen. And all we're doing is
+using the hydrogen from water. And under
+the National Bureau of Standards figures
+shows that when you use water, the
+energy release is roughly two and a half
+times more powerful than that of
+gasoline. So water is a very powerful
+fuel. And all you needed to do was solve
+the answers of number one producing the
+hydrogen economically, controlling it on
+demand, being able to adjust the burn
+rate of hydrogen and gas to coequal the
+fossil fuels and the third one was to be
+able to transport it without spark
+ignition. And we've solved all of these
+problems on the design engineering. And
+of course, the water fuel injector, as
+I've shown you, now gives us the
+abilities to uh transport the water
+directly to the fuel injector, which is
+now going into the voltage zones, which
+now is performing the the electrical
+polarization process that goes and
+triggers the hydrogen fracturing
+technology, but it's doing it inside the
+engine. So we all know that natural
+water um is very stable and therefore it
+becomes a very fail safe operable system
+as we pointed out earlier.
+Yeah, we talked about that. Yeah. Yeah.
+So in a system engineering approach uh
+in mass production, it looks like we can
+translate and reduce the systems
+approach down to a unit that cost
+roughly $1,500 per vehicle.
+uh for trucks it will be slightly larger
+than that uh below $5,000 it looks like
+uh we'll be able to reach the economics
+to it and using ordinary natural water.
+You add nothing to the water. You don't
+process the water in any way. Now here's
+another uh feature to the system that
+everybody asks me about is what happens
+uh to the water in the winter time. Does
+it freeze up? Well, part of our
+technology was in the areas of
+development what we call a steam
+resonator. Now since the unlike atoms
+take on opposite electrical charges, we
+simply use another part of our
+technology to restrict the amps voltage
+to take over and therefore we agitate
+the water molecules which in turn
+generates kinetic energy which in turns
+heats the water. Now this is phenomenal
+in the fact we consume very little
+electrical energy in order to heat the
+water. So uh there are very far ranging
+advantages and features to the
+technology ranging even in the areas
+that we now have a way of using voltage
+and by switching off uh amplow and
+dealing with um the environmental
+control areas. We're developing uh the
+technology in areas of deselination of
+salt water. Whenever you have a free and
+abundant energy source like water uh
+it's only limited to the imagination to
+put it to work. This technology is very
+applicable to deselination of the
+saltwater handling of toxic waste
+chemicals by high pulse voltage
+frequency and restrict the amps. We now
+can separate the molecular structure of
+toxic chemicals and render them useless
+and safe. It also takes us to the
+technology uh of combining unlike atoms
+that here therefore was not uh possible
+under the natural state of coalent
+linkup. Uh this led us to the
+development of the EPG electrical
+generator technology uh where we're able
+to magnif uh manufacturer magnetize gas
+that exists at room temperature and
+enhance the electromagnetic field
+without increasing mass. So our
+technology from since the time of the
+era of embargo has been very farreaching
+to give us a comprehensive energy source
+that we literally can use anywhere into
+the economies and move in a bilateral
+movement throughout the economies of the
+world uh to bring an energy source in
+and as I pointed out earlier uh the
+pending energy crisis that's being will
+confront us very quickly uh we literally
+have the ability now of engineering
+systems engineering it to mass
+production very very quickly and
+hopefully be able to stem him off uh
+this imminent energy crisis that's that
+is now occurring. A lot of people are
+not aware of that Kuwait produces or
+manufactures the majority of aviation
+fuel for the world and it's anticipated
+uh as pointed out earlier that it's
+possible as much as 20% drop in aviation
+fuel uh may occur within 6 to 8 months.
+If that happens then the domino domino's
+effect will occur and we'll start to
+trigger an an energy system uh an energy
+shortage throughout the world. The same
+conditions that happen in the United
+States is also occurring in the air
+fields where the natural pressure in the
+existing uh oil fields are dropping. Uh
+the only difference between the US and
+the airfields, their their pressure is
+dropping three times faster than
+occurred in the United States. You just
+can't keep pulling the oil out of the
+ground and expect it's going to be there
+forever. The hourglass effect is
+occurring at a more uh faster rate now
+on nuclear power plants. China's open
+the doors to western technology. 25% of
+the population of the world wants the
+same goods and services that you and I
+have been enjoying and that uh the
+industrial base cannot cannot be
+maintained or expand without the supply
+and utilization of energy of which we
+have very little fossil fuel left. So
+it's imperative that that we developed a
+technology that we can move very quickly
+and of course water was the answer to it
+uh because water is a very free and
+abundant energy source and so this
+technology has led us to the abilities
+of harnessing and using the water uh in
+this particular way which we call the
+water fuel cell technology.
+Could you give an indication of the
+amount of energy stored in a gallon of
+water compared to a barrel of oil for
+instance? Yes. uh as I pointed out
+earlier when you separate the hydrogen
+oxygen gases and go into the gas
+ignition process uh its energy uh
+releases roughly 2 and a half times that
+of gasoline. Now note the reference is
+not two and a half times that of
+fingernail poly, it's two and a half
+times that of gasoline. But in the
+hydrogen fracturing technology, we have
+uh developed a technology as the Lord
+has shown me that by igniting the
+hydrogen oxygen gases and setting up a
+condition by which the uh water molecule
+is prevented to form then we now can tap
+into a very higher energy yield. And as
+a result of this uh the hydrogen
+fraction technology shows that we can
+release energy up to beyond 2.5 million
+barrels of oil per gallon of water and
+do it safely.
+And as I had shown you earlier, we are
+now preparing this technology uh to be
+retrofitted directly to a jet commander
+uh which we plan not only to fly around
+the world non-stop around the equator
+but turn 90° and go from the north and
+south pole. So it's a tremendous amount
+of energy source and what we've done is
+found a a triggering process to allow us
+to release this tremendous amount of
+energy and do it safely. So it gives us
+the ability to not only uh sustain and
+maintain the economies of the world but
+also give us the abilities to uh handle
+the environmental pollution problems at
+the same time. We can't keep putting CO2
+in the air and expect that the energy
+level is going to be there even for our
+plants. And uh we all talk about the
+greenhouse effect but very few people
+come up with a viable answer to it and
+the water fuel cell technology gives us
+the ability. You get us
+can you can you explain the your driving
+force behind spending all this money and
+energy developing something like this
+has cost you about 10 years of your
+life. Can you explain why you're doing
+all this and what really drives you to
+keep Well, I uh I did an analysis during
+the Arab embargo uh as to what actually
+occurred. I didn't pay any attention to
+the political leaders as to why we had
+an energy problem and I realized that
+without a new free and abundant energy
+source to come into the world economy
+very quickly then the world economy uh
+could collapse. So uh as a scientist uh
+I have a very diversified background
+from research development, product
+development, engineering and corporate
+entrepreneuring. And when I realized uh
+the problem that was confronting us, I
+went into my office laboratory and as a
+scientist I had always believed that
+there was an existence of God. It was
+mathematically impossible that we had
+derived ourselves in swamcast. If you
+got to have a lot of faith, you have to
+you have to have a lot of faith to
+believe in evolution. And so I went in
+my office laboratory and I said, "God, I
+love my country. It's the greatest
+country in the world. If you'll help me
+put a power supply in the country, I'll
+do anything that uh you want me to do.
+And subsequently, I was like Paul on on
+the road to Damascus. I didn't know the
+Lord, but once he revealed himself to
+me, uh subsequently, I was filled with
+the Holy Spirit. And I've been
+exercising the power and authority of
+the word of God uh bringing this
+technology in. And many people ask me
+about uh do I fear my life? I have
+learned the power of angels and I've
+been protected in trying to bring this
+technology in. The ultimate objective is
+not only to stabilize the economies of
+the world but uh if we realize any funds
+from the technology
+uh it will go into world evangelization.
+You see as a scientist once truth is
+shown to me truth is truth and of course
+I got what I wanted a ticket to go to
+heaven. I got filled with the Holy
+Spirit and so as a scientist uh truth is
+truth and I have a responsibility just
+as I have a responsibility to the water
+fuel cell technology to try to bring it
+out into the world. I also have the
+responsibilities to relate the truth of
+the word of God uh not only to the guy
+uh to the next door neighbor or the guy
+down the block but also relate that
+truth of that knowledge to uh every
+person in the world if I possibly can do
+it. So the ultimate objective of the
+water fuel cell technology really is to
+help set the financial base of capable
+of evangelizing the world. Now, this is
+there's a difference between spiritual
+knowledge and worldly knowledge. And you
+can't go to the world system and ask
+them to help evangelize the world and
+spread the gospel. Uh but you can go to
+a world system and give them a cheap uh
+power supply that's so economically
+they'll save them economically and then
+those funds will go into the world
+evangelization. So, uh the water fuel
+cell technology really the ultimate
+objective is to accomplish the task of
+evangelizing the world uh by giving the
+financial abilities to do so. And that's
+my prime that's my ultimate and prime
+objective. The water fuel cell will give
+us the abilities to do this.
+Well, if you notice on my logo, you'll
+see Job 38:22 and 23. And this is where
+the Lord is talking to Job. And he asks
+Job this question. He says, "Have you
+considered the treasures of snow? Or
+have you considered the traces of hell
+which I have reserved against the time
+of trouble against battle and war? Now
+the interpretation of the scriptures are
+as follows. Is not snow the most
+beautiful part about water? That no one
+snowflake looks exactly the same as that
+of another. The treasures of snow is the
+characteristic and knowledge of water.
+The Lord knew that in fact that we would
+have and reach a very critical point in
+our history that since we went on
+dependency of fossil fuels that that
+poss the flow of fossil fuels uh may be
+disrupted and as a result the Lord
+specified that this knowledge of water
+would come out of time of great trouble
+but he also specified that the knowledge
+would come out prior to two events.
+Okay. Now that we've uh now that you've
+heard how the thing functions, you
+explained your background why you are
+working on this thing. Uh what do you
+think of possible applications and where
+do you think this this device can be
+applied in what scale and what's the
+amount of energy we can get out of it?
+Like you talked before about converting
+cars uh commercial airplanes. Uh is
+there any other application you think
+of? Oh yes. Not only uh is this
+technology applicable for all modes of
+transportation uh but it also has
+application in industrial processes uh
+during the air embargo I was called in a
+meeting in Columbus Ohio with the
+industrial leaders and Columbus gas
+system informed us that our gas was
+being cut off 100%. uh what actually
+were telling us that we were going out
+of business and I saw some of the most
+richest and most powerful industrial
+leaders of the state popping pills and I
+thought they were going to have heart
+attacks because basically without energy
+you can't make a product if you can't
+make a product you can't make profit if
+you can't make profits you cannot pay
+your bills so result the bigger you are
+the harder you fall the faster that uh
+you would go in economic uh uh
+bankruptcy so it's imperative that this
+technology not only be uh developed for
+the uh transportation areas but also to
+apply to industrial applications uh to
+be able to give energy uh the technology
+and hydrogen fracturing technology that
+gave us the abilities to go in and to
+protect the military integrity of the
+western world. So this technology is
+applicable not only in those areas but
+uh for example during the Arab embargo
+uh our Navy task force did not have the
+fuel and so as we have the abilities now
+to go on the maritime applications
+literally run the ships off of water uh
+as a main fuel source and at the same
+time using the application is cleaning
+up our environment and preventing from
+the CO2 and the contaminants uh that go
+in the air. So we can move this
+technology bilateral in every aspect of
+the economy and do it very very quickly.
+And so that led us leads us now into the
+fact that we have been developing this
+technology uh for mass production. And
+so once uh we finalize debugging of the
+pre-engineering unit, then we're going
+to translate it into a very
+cost-effective uh system uh by taking
+the technology into microchip technology
+and plastic mold injection technology
+allows us now to move this type of
+technology very quickly. Matter of fact,
+one master mold uh set uh can produce
+over 11,000 units every 24 hours. that
+gives us abilities now to move in a
+bilateral movement but to get the energy
+source throughout the entire world
+quickly. uh if u if the oil is shut off
+uh to us either by war or by some other
+methods um a lot of people do not
+realize Saddan has the viral germ
+through genetic restructuring that if he
+uses it one it lives off the bacteria of
+air and water and even of oil and if he
+uses this uh it's possibly that the oil
+could be contaminated very quickly and
+if that is so then every country in the
+world would be faced of shutting off the
+flow of oil to each of their countries
+now without the supply of fossil fuels
+within 180 to 240 days thereafter about
+1.5 billion people will be facing
+starvation very very quickly uh because
+we need that flow of energy in order to
+maintain the industrial bases of the
+world. So we've designed the technology
+to be very flexible to use every segment
+of the economy and do it very quickly.
+So we're all in the same boat and what
+we're doing is illustrating that yes the
+technology is viable here. here. We do
+have a viable technology that we now can
+use water as a fuel source because water
+is a very free and abundant uh fuel
+source, but it's going to take you and I
+and the guy down the street and the
+people in each country to bring this
+technology uh into the marketplace to
+stabilize our countries. And so as a
+result, we are uh developed it uh under
+the KISS method, keep it simple, stupid
+to comply with the law of economics that
+the guy who could the cheapest way is
+going to win out. So by decentralizing
+the mass production of the system and
+and and the fabrication of the system
+and decentralize the installation of the
+system then we should be able to move in
+a bilateral movement throughout uh all
+the countries of the world to get this
+type of technology into their countries
+to stabilize their their economic base.
+uh if the oil is cut off by these means
+or it simply is being cut off by a lack
+of supply of oil that's now showing uh
+is the same natural pressure that
+dropped in the airfields as I pointed
+out a little earlier is also occurring
+in the North Sea the North Sea uh
+pressure has dropped by one/3 so we all
+need the energy and so therefore I feel
+it's going to take the people of the
+world to come together and the leaders
+of the of the each country to come
+together in one accord in order to allow
+this type of technology to go on to
+stabilize their econom eomic basis in
+each each respective country. Do you
+have any time scale for mass production
+set up yet? And second, do you have any
+organization or you planning an
+organization international or Yes, we
+are. I'm negotiating with many uh
+leaders of different countries of the
+world. Uh but the ultimate objective is
+to mobilize mobilize the masses of the
+people uh in order to bring it in. this
+is the only way that that that can come
+in and uh so as we finalize our
+debugging of the system uh and take it
+into mass production areas, we can do
+this by simply turning the technology
+over to many many uh fabricators and
+people who have certain skills uh in the
+machining areas or mass production areas
+that would allow this type of technology
+to be produced very quickly.
+Thanks very much for this interview. Oh,
+my pleasure. We appreciate it very much.
+Thank you. You're welcome.
+I see your red light. Focus. How to
+focus it on.
+Okay. Stanley, can you give us some idea
+about the size of a conversion kit for a
+car for instance? Uh we see this all
+this electronics sitting there, but I
+guess this is not going to be part of a
+future upgrade kit for a car, is it? No.
+Basically what this was a
+pre-engineering unit in order to satisfy
+the US code of operability on section 35
+section 101 and it was uh developed uh
+as pre-engineering to uh show the
+operability of all the different
+operational parameters of water fuel
+cell but in actuality the entire
+technologies you see here is really
+reduced down to the water fuel cell
+injectors you see right here. This this
+is the only thing that's needed for
+upgrading a car or is there anything
+else involved? No. uh the water fuel
+cell injector which replaces the the
+conventional spark plug in and an
+internal combustion engine. This is
+hooked up to a water tank. Basically, if
+you have a plastic fuel tank in your
+car, you simply drain out the the
+gasoline, flush it out, fill it up with
+fresh water. Then then uh uh the water
+fuel cell injector now allows the water
+to be uh transferred. uh the system
+approach allows the water to be to go in
+to the injector which is now being
+processed to release the thermal
+exposure energy from hydrogen. The
+second part is hooked up to it is what
+we've referred to here again as the gas
+processor that's ionizing the gas to
+allow it to come in. So basically in
+retrofit all we're doing is simply
+tapping off the exhaust gases from the
+conventional engine. We're now using the
+gas processor to utilize the ambient air
+to ionize the gases which is now mixing
+with the water which now converts it to
+water fuel. We're allowing the water
+fuel to go into the into the injector
+that's now uh plugged into our uh
+replaces your spark plug and allows the
+engine now to run off the thermal
+explosion engine from hydrogen. So
+basically all we're doing is taking the
+gas uh gasoline out of the tank, fill it
+up with water. We now uh replace the
+spark plug with the water fuel cell
+injector. And we now hook a small little
+miniaturized computer which controls and
+meter mixes the gases going in the
+engine to allow uh the engine to uh
+accelerate and de accelerate. So the
+installation is a quite a very small
+lightweight uh compact electronic uh
+control system. Okay. Now the
+distributor is that going to be the
+same? Can you use the same distributor
+or do you have a modified version or is
+there anything additional to it? Can you
+explain? We do. We uh we do modify the
+uh distributor as it's shown over here.
+Uh we simply take off the conventional
+gas tank uh gas rotor cap out of
+conventional engine and we put the laser
+distributor uh in between the the uh
+distributor assembly and the cap. And
+this now sends the signals to the uh
+computer system which will really be uh
+composite of several IC ch IC or
+integrated circuit chips that
+miniaturaturizes the the hydrogen
+computer system.
+This whole hydrogen stuff isn't
+extremely explosive in the car. Is there
+any danger involved? What's the safety
+aspect of it all? No, we have actually
+solved the problem. Uh there's no
+storage of hydrogen whatsoever. The
+water goes into the injector which now
+allows it to go into a high pulse
+voltage zone which performs electrical
+polarization process. So the water is
+only converted into thermal explosive
+energy as it enters the injector. So the
+thermal explosive energy is now
+occurring inside the engine. So the
+electronic system is designed to
+regulate and control the explosion of
+the energy which now coequals that of
+gasoline. So it's a tremendously
+failsafe operable system. Okay. So it's
+safe. It's a small system. Yes. Uh what
+about maintenance of the car engine
+itself? Uh do I need more maintenance?
+Is it different? Um is there anything do
+I have to modify anything on the
+maintenance schedule? No, just keep the
+same maintenance as you you have it. Uh
+since you're releasing thermal explosive
+energy into the engine and you're
+co-equaling the the burn rate of
+gasoline, then there's very little
+maintenance. Uh if there is uh any
+maintenance at all. Uh we developed the
+uh technology years ago that we could
+really impregnate the cylinder walls uh
+of the engine with teflon and we can
+even uh impregnate treat the bearings
+and literally run an engine off of uh
+off of the teflon and eliminate the oil.
+Uh if that occurs then you can use a
+product something like slick 50 in the
+engine uh if you would need it. But the
+wear factor since it's a very clean
+burning fuel. Hydrogen is a very clean
+burning fuel. Then uh the engine uh oil
+is not contaminated under the uh the old
+method of running on gasoline or diesel
+fuel. So it's extremely clean burning
+fuel.
+Are we on?
+Yeah. The red temper.
+Questionly, what what about the valves
+in the engine? The pistons don't the
+pistons burn out because there's no
+lubrication of the of the lead or any
+any other additives to the usual gas?
+Now, the valves, you know, have been
+designed very recently to operate off of
+non-leted gasoline. And since we use the
+exhaust gases to cycle back in to
+modulate the burn rate of hydrogen gas,
+as we now control the burn rate to
+coequal gasoline, then the engine
+temperature and operations are are
+duplicating the same thing on gasoline
+or diesel fuel. So, you don't change the
+engine in any way. And this allows us
+now to retrofit the water fuel cell
+technology to any uh uh existing engine.
+And that's very important because it now
+gives us ability uh that we can
+stabilize transportation as we talked
+about before if the energy is cut off.
+Okay. So now the accelerator can still
+keep the same mechanical accelerator or
+do you have a new device for that as
+well? Yes, we developed over here come
+along.
+We've developed the uh what we call a
+laser accelerator as you see right here
+that um simply is attached to the
+accelerator pedal and it trans uh as you
+press the pedal down the gas pedal down
+it displaces the um
+mechanical displacement into electrical
+impulses which now is fed into the micro
+miniaturized computer electronics. So
+this gives us the abilities now to
+control the acceleration. This type of
+technology uh has given us the abilities
+to equal or supersede the performance of
+acceleration de acceleration on
+conventional uh cars that's running on
+gasoline or diesel fuel. So the the
+hydrogen uh being two and a half times
+more powerful than gasoline gives us a
+tremendous amount of performance over
+the prior state-of-the-art. It runs very
+smoothly and uh uh it it has a very
+unusual sensation. Generally when you're
+running a a car on gasoline you have
+this kind of a pause but when you're
+running on hydrogen the way we're doing
+it it's a tre it's a constant
+acceleration. So it's a it's a extremely
+very fast responding uh fuel source
+that's coming from water hydro. So
+you're claiming that performance is
+equal or better as a normal gasoline
+car. Oh yes definitely. It'll even start
+up quicker. Uh in the in the winter
+time, you're dealing with a liquid
+gasoline or liquid diesel fuel and you
+have problems in starting. Uh in cold
+weather, you don't freeze uh you don't
+freeze uh gas uh gas atoms and uh so by
+converting the water into instant energy
+uh gives us ability to start the engine
+very very quickly.
+When you start an engine in the morning,
+for instance, uh how long does it take
+before you can drive away? Oh, it's it's
+in an instantaneous startup uh
+immediately when pulse voltage frequency
+hits the the water uh it converts it to
+the gas which now produces a thermal
+explosive energy. So, it's an instant
+it's an instant type of start. The
+electronic uh circuit interfacing gives
+us the abilities to control and meter
+the amount of water that's going in on
+the start condition as as opposed on a
+run condition. So the computer
+automatically adjustes between the start
+condition and the uh and the run
+condition. So electronically we have the
+abilities to adjust for these parameters
+and uh the same as a conventional car we
+also have the abilities to adjust for
+different ambient air conditions uh
+going from sea level up into the
+mountain ranges. So automatically the
+electronic circuitry design gives us the
+abilities to adjust these parameters to
+give us a very smooth operational uh
+performance.
+But uh what about air pressure? I mean
+when you go up high in in the mountain
+you don't use uh ambient air so it has
+no improvements on the performance of
+the car. No. Uh if you come over here um
+here we have a a part uh a device is a
+metal bellows which now allows uh to
+control the amount of ambient air going
+into the engine of the car. And this
+automatically allows us to regulate uh
+the ambient air pressures going from sea
+level up into the mountain areas. So
+electronically these uh uh solenoids you
+see here are have sensors that
+automatically uh senses the amount of
+ammun pressures and they're
+automatically electronically adjusted to
+compensated for difference of air
+pressure. So this allows us now to give
+us tremendous good performance uh going
+from sea level right on up into the into
+the high mountain regions.

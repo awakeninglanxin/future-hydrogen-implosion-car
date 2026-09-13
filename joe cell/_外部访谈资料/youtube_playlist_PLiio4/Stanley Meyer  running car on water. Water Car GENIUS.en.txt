@@ -1,0 +1,613 @@
+I'm just going to adjust
+this. gives you a good example of what
+the range of the accelerator control is.
+We're adjusting this signal for about
+100% down to about the 10% range. And
+this shows what the range of
+the accelerator is. You'll notice how
+nice and even and smooth it is. And now
+it gives us a signal that converts the
+mechanical
+pedal, the driving pedal, gas pedal to
+the U injector. And this signal right
+here represents the on time of the
+injector. You'll notice that I that the
+on time can increase and decrease and
+it's a very sharp, very nice pulse that
+controls the injectors. Now, this is the
+Okay, this is the injector block right
+here. You'll see the injectors are
+sitting here and here. And this is what
+the injector looks like. It sits right
+in here. And basically this the uh gas
+was will be coming into the device from
+this side. Comes into here through the
+injector down into the porting or the
+input of the engine itself. If you'll
+notice, if you listen to the sound, you
+can hear the injector speed
+up, that's equivalent to running the car
+about 60 m an hour right
+now. And we have plenty of dynamic range
+because we can adjust the ranges of that
+injector. These injectors are really
+going strong.
+right here. If you put your finger on
+the end of it, you can feel the
+injectors. They turn just
+running very very fast right
+now is the accelerator control. And what
+this does is converts the
+mechanical movement of the gas pedal to
+an electrical signal which is brought
+into the system here which controls the
+injection. So basically as you would
+turn this device
+uh which would be controlling the
+signals uh you'll notice
+that it would also be controlling the
+injectors has the same function.
+So this device right here is the um
+conversion between the gas pedal to an
+electrical signal which controls the
+inject time of the
+injectors. All right. What I wanted to
+show you here was uh this is kind of a
+pre-engineering model that allows us to
+develop the electronics and the controls
+for the car and then eventually all of
+this will be uh shrunken down into a
+very small package using LSI
+technology. Essentially what we're
+seeing on the packages here is we have a
+power supply unit here which actually
+regulates the battery voltage uh to a
+consistent level. This particular two
+modules here you see is is associated
+with the distributor. You'll notice you
+can see the lights as they go around.
+Basically that is the distributor
+firing. This particular unit is set up
+for a fourcylinder car but can also
+operate a six-cylinder car. You'll
+notice that we have two select switches
+here. These switches right here allows
+us to switch between gasoline for an
+operating mode and then switch over to
+the water as an operating mode. This is
+so that we can test the differences
+between the two. These four modules
+right here basically are the injectors.
+They in control the injector itself.
+Right here uh we have both uh manual
+controls. All the switches in a down
+position is for manual control and all
+the switches in the up position is for
+automatic control. This particular
+module right here is the accelerator
+module. This module controls all of the
+injectors
+uh
+simultaneously. This particular module
+right here is a gated module that
+controls the gated pulses and frequency
+to the wider cells themselves. We can uh
+actually turn all the cells off and on
+by this switch or go to a manual control
+where we can adjust the uh energy that
+the cell is using and its output by this
+control. This is the master generator.
+Everything in the circuitry basically is
+using digital technology. Uh we do
+convert it to analog where we have to uh
+for the accelerator control. Over here
+we have a uh an alarm module. This uh
+module will uh give us an over speed
+trip if the pack goes too high. If we
+have high pressure, low oil or high
+temperature. And in some cases we put a
+jar switch on there so that it like the
+ND500 that is a requirement. This module
+here is our tachometer module. Basically
+what happens here is if we increase our
+speed to a level this run light will go
+out. You'll notice that you can see the
+lights flashing much much
+faster and we can get to a
+point. Let me back it off here. I'll
+slow it back down. Switch a range.
+All right. Now,
+we're starting to increase our
+attack. All right, let me take the
+inhibit off. We'll put it back into the
+trip mode and you'll actually see it
+shut
+down. And there's where the engine would
+have gone into an oversp speed condition
+and we shut the electronics off.
+Therefore allowing the safe operation
+car. We have an alarm light on. We're
+sitting at a high tack. We had an over
+speed trip. If I bring the system back
+down allow back
+in. We have all of these alarms set up
+to protect the
+unit. Jo is taking the cell driver
+circuit as you see right here. And we're
+going now to interface this with the
+voltage intensifier circuit. And
+basically what will happen is that a
+unipore pulse train is now entered into
+the voltage intensifier circuit. And as
+this happens, this switching diode will
+now allow the uh this coil to be
+energized which is now hooked to the
+capacitor which is a resonant cavity and
+it forms a resonant charging choke. And
+basically what takes place is that this
+charging choke here will be energized
+and it's a magnetic field. now will
+restrict the amp flow, allow voltage to
+take over and as a result we'll be able
+to produce a tremendous amount of energy
+uh hydrogen gas from water on demand.
+One of the pieces that we're
+retrofitting to the car is that I have
+my hand on right now is what we call a
+light gate or it's a device that fits
+right on top of the distributor.
+Essentially what happens is we remove
+the distributor cap and we put this
+device in between and essentially what
+it does is it takes the rotation of the
+engine converts it to electrical signal
+so that we can control the
+injectors. This is a part of the light
+guide that fits onto the system and we
+actually set it on the shaft. Rotate it
+till we get the right calibration and
+then put the the distributor cap and its
+rotor back onto the system and we're all
+set. This is a retrofit for
+converting. Okay. Now, as you mentioned
+earlier, we'll take the the light guides
+to sit here. All right. And then boy,
+that went on pretty good, didn't it? And
+that shield will go top. And of course,
+we'll insert the rudder cap.
+And now we'll just go ahead and insert
+the distrib.
+Okay. Now that'll be pretty good.
+Where's your lock down
+at now? Now what we're going to do now
+is that this is going to be replaced
+with this airgate as you see right here.
+Okay. So that's going to regulate. I
+better turn it upright. And that'll
+regulate our air going in. Does this
+come off like this? Yeah, it'll take
+off. Yeah, I want to do that. Now, this
+will be, see the air gate now will be
+hooked to the acceler accelerator, the
+laser accelerators we have here, you
+know, that's hooking to your computer
+system. All right. You're going to take
+this rod, you can hook it right up here,
+right? Yeah. And that'll be that'll be
+for acceleration control. Now, this is
+going to be our feedback, our exhaust
+feedback control, which sits right in
+here. And that'll regulate now the
+exhaust gases going back into the
+injectors which in
+turn here's our injectors. Okay. And so
+our our exhaust gases are going to go
+back into the injector and that'll
+regulate the burn rate of the hydrogen
+going into the engine. So we'll adjust
+the hydrogen burn rate to coequal the
+gasoline uh as we've demonstrated. Okay.
+Piece right here then. Yeah. This is
+where the regulator is going to be
+exhaust regulators. Now, this uh this
+injector replaces this manifold as you
+see right here. Okay? And so, it'll seat
+down in there and then uh you'll have
+the ambient air going to a gas uh uh the
+hydrogen gas guns, which now will go
+into the injector systems themselves.
+Okay. All right. What I'm going to do is
+adjust the uh we've got the injectors
+operating right here and this is the
+inject time that we're seeing on the
+oscilloscope. And I can adjust the rate.
+Ah, good. That means uh now we know, you
+know, now the engine is specifically
+being set to cause the transmission to
+run around 3,000 RPM. That's good. You
+know, regardless of the uh gear that
+we're going to be in. Okay, that's
+now that's like the car running about
+100 miles an hour. You'll notice here
+that this pulse here is the
+inject. This is the first injector and
+that's the second injector. So, what
+you're seeing here and the sound that
+you're hearing is is actually the
+injectors operating at that speed. Now,
+if you go about 3,000 RPM, I expect it
+to be something like that. Okay. So, the
+laser distributor now is just going to
+be triggering this That's right. They're
+going to be triggering this so that uh
+those injectors are going to be firing
+right on the right on dead center. Yeah.
+Let me hook up the distributor and then
+just hook this up right here and we'll
+get the same response from the pulse
+with right here that we have. And see, I
+can adjust the pulse with
+uh by either going in a manual mode or
+in automatic mode. And in this case, I
+can go uh you notice how I can adjust
+the
+injector. See how pulse is going smaller
+and larger. I'll bring over here. You
+can see it better. It's going smaller
+and larger. That's controlling the
+injector as the gas went into. You know,
+I really like those pulsa speakers.
+They're very, very clean. They're very
+sharp. That means our our computerized
+computer is going to be very, very good
+in our Oh, yeah. The signals are really
+good. Uh they're nice and clean. And uh
+I don't there's no problem. You see, as
+long as it switches up to high and low,
+a very sharp rise time and fall time,
+you're not dissipating any energy. Uh,
+basically, uh, all the electronics
+either turns on and turns off. So,
+power-wise, this is the most efficient
+because it is digital. It's not sending
+an analog to
+light. Let's hook up the distributor and
+just rotate the engine because I want to
+see what it looks like with the same P.
+Just testing to see if all the injectors
+are firing. And they are in. They are
+firing. The I'm actually turning it
+manually. Watch it fire. Okay. And you
+can see right here, this one has an
+injector. That has an injector. That has
+Now, I'm going to turn it the way the
+car normally
+runs.
+Okay. So, we got injector here,
+here, here, here, and here. Okay.
+They're just come in the field of view
+right here. There. Saw it. Mhm. That'll
+come in one more
+time. Getting ready to Now, boy, those
+optics, that optics on the laser
+distributor is really beautiful, isn't
+it? Oh, yeah.
+there. Heat. Heat.
+Heat. Heat.
+What I wanted to show you was we have
+the injectors here which is connected to
+the electronics. The new module that we
+have right here is the cell driver
+itself and this is the high voltage
+intensifier circuit that is being
+interfaced to the water cell itself. And
+essentially what we're doing here is
+that we are controlling the energy going
+into the cell. You will notice here that
+the pulses
+um are changing the number of pulses
+that the cell um is using to determine
+its power. If you'll notice that the
+there's a pulse train that is fed into
+the cell and that is directly related to
+energy. And as I decrease the
+accelerator, I can decrease the number
+of pulses that the system sees up here.
+This particular signal is the signal
+that's fed into the injectors. If you
+listen to the
+injectors, you will hear and see that
+this pulse width gets larger and larger.
+And what this pulse is, you notice as
+I'm decreasing it, would decrease the
+injector time. The clicking that you
+hear is a physical injector turning on
+and off. If you want to listen to all
+the
+injectors that was the all four of the
+injectors firing at a synchronous rate.
+Now one of the features about the new
+power cell is that driver for the cell
+which we call a uh the driver and then
+the intensifier circuit is that we can
+control the energy that goes directly
+into the cell and we can pick out a
+point. Then we have an amplitude
+control. That would be where the signal
+adjusts in the amplitude. And then we
+can control the pulse train that's being
+fed to the cell. So we can precisely
+control the energy into the cell based
+upon the needs of the running of the
+car. In other words, you'll notice that
+the injector
+pulse, note here that the injector pulse
+is increasing in size. And we can
+determine the number of pulses that the
+system will be using for the cell as
+well as lower the amplitude of the pulse
+which now says we can precisely provide
+enough energy to the cell to give us
+enough gas to run the automobile. So
+it's very efficient uh in the respect
+that we're putting in very little energy
+into the cell to produce the enough gas
+to operate
+down.
+Um, in the case of a a manual setup, we
+can also adjust the system manually so
+that we can determine
+the
+frequency that's fed into the
+cell. Here you see that the the
+injectors are running. This would be
+about
+110 115 miles an hour. And that's just
+one injector. If we turn on the rest of
+them
+um I don't think I want to be in a car
+when it's running that fast. It's a
+little bit too fast in my book. All
+right. But the case in point that we
+want to make out is that the signal
+that's going into the cell, this here,
+we can control its energy. We can
+control the amplitude of the signal
+going into the cell as well as change
+the uh control the number of pulses or
+the pulse strength uh into the cell. We
+have
+You'll notice here that I've changed to
+show you here that we are setting in a
+burst of energy into the cell where
+we're having a pulse train. They're
+gated on for uh several pulses and then
+off. The off time represents the time
+that the cell would be off. This would
+represent the energy. And as we do our
+adjustments to the system, you can
+actually see that the pulses are the
+pulse train is actually decreasing,
+which would represent an energy decrease
+in the cell at this particular point.
+You'll notice that we can adjust it so
+that we have one pulse going into the
+cell for a given period of time. So as
+we increase our demands on the cell as
+needed, we can adjust this pulse train
+to give us the energy into the
+cell. This would be example all all the
+way out to uh just about full that would
+be full
+100%. This would start to reduce back to
+10%. Now the interesting thing about the
+pulse trains are again if I adjust the
+amplitude of the system you'll notice
+that the amplitude also decreases. So I
+can control the frequency of the pulse
+and the amplitude of the pulse train
+going into the water cell here. Again,
+this pulse over here represents the
+injectors firing at their rate. In this
+case, the car would be running in an eye
+condition. So this is what it would
+sound like if it
+was. This is what it would sound like if
+we were
+running about 60 miles an hour.
+You can see here again that this would
+be like 60 mph. This would be your pulse
+train. And you can see that I can
+control the
+amplitude of the energy going into the
+cell by the pulse train. You can see as
+I adjust this, you can see the pulse
+strings that are fed into the cell. So
+essentially what we've done is we've
+taken electronics now gone from the
+accelerator itself into the accelerator
+card that now comes over to the voltage
+intensifier.
+Yeah, it'll start flickering up for
+Just a little bit more.
+Damn
+there.
+Three and a
+half. Three and a half.
+Now I can get really ramp up.
+Thank
+you. How's that?
+All
+right. Put all
+this
+connection
+really lock it down.
+Now, what about for your
+control? Control is one of the things
+Now this we're working up pretty good.
+Okay. So now what we're going to do is
+go for the VIP. We'll put it here.
+VIP
+Yeah. because it'll balance it out when
+you pull the exhaust out of here.
+Yeah. Okay. All right. Now, if uh I can
+go ahead and adjust this. See, when we
+loosen this up. Yeah. I'll pull it back
+for there. Okay.
+Okay. All right. Let me let me help you
+on this.
+Is this loose now?
+Oh, it's not.
+Think we can get one of those things to
+put on there so we can adjust it right
+underneath. I think that's the way. So
+we don't have too much
+room here.
+It has to be a very short one. Yeah.
+Yes. When we
+Yeah.
+Okay. Tell you
+what right there.
+Yeah. Turn around and smile
+at. Okay. Now, so this is
+kill you want to kill the whole system.
+Put this right here. All right. So the
+rest of it
+and this one
+we need to emergency shut off. This is
+going to go to the
+gas like today is a VIC unit. This is
+the VIC cabinet itself. And you'll
+notice that the way this is designed is
+that we have the channels that plug in
+and we have up to 11 channels that plug
+into the VIC unit. Now the power and the
+control signals are controlled by this
+panel over here on the right. We have an
+onoff switch and this is the jack that
+controls the gating signal from the GMS
+unit that goes into each of these
+channels itself. And then this connector
+itself goes off to the water fuel cell.
+The main power from the batteries uh is
+connected here at this location. The
+unit that you see here in front of me is
+one of the cards that we're just now
+currently testing. We're just about
+ready to complete our testing on this
+card. Uh what we're doing right now is
+turning the card on and we've been
+testing uh each part of the circuitry to
+make sure that it performs to our uh our
+requirements. One of the things that uh
+we are doing during the testing of the
+cards is we have a a system in here. If
+you can hear the frequency and look at
+the oscilloscope, you will see that we
+have a scanning frequency. What happens
+is we are scanning the water fuel cell
+so that we can find the resonant point
+at which the system will lock onto. Now
+under normal operation with the cell
+being attached to the VIC unit, we would
+do the scanning. You'll notice that this
+level is going down, then back up, down,
+and back up. You'll notice that the
+frequency is getting higher and lower,
+and then goes back up high again. And
+that's actually we're scanning the water
+cell. And when we hit the right point,
+it will lock on and maintain that level.
+Now, what you see on the cards here is
+that we have a blinking light, which is
+the oscillator on. That tells us that
+we're actually controlling the frequency
+is being produced. We have a cell on
+light that would indicate that the cell
+is actually on and performing its
+function. Then we also have a lock light
+so that when it does capture that reser
+frequency, the light will be on
+indicating that we're locked on the
+water cell. We're in resin and we're
+producing the gas. You'll notice the
+switches here across the top. We have
+the capabilities of turning the unit
+completely on or completely off or turn
+each individual cell on and off. And
+typically on the automobile, we're
+forecasting that we're going to use
+maybe this component right here. We're
+going to solder this component into the
+circuit right here. Now, when we're
+finished with the car, take the car,
+plug it into the heat sink like this.
+when that is plugged in like that. Okay.
+Then uh that will be able to test this
+card out. So let's go ahead and solder
+this component right into that resistor.
+All right.
+Yeah. Yeah. And now this component that
+you just soldered, okay, in here will
+set up the frequency for this heat sink.
+Now we're all set with this card. We can
+now plug this card into the VIC
+unit. You clean up the wiring in this
+thing. You know, use your tool and you
+can move these wires in the right spot.
+Okay. Okay. Old you take the unit that
+uh VIC card that we had right here that
+we were testing. Put all those cards in
+there and then you put the heat sinks
+from the back. And then what you do is
+put the unit in like
+this. All right.
+in. And all you have to do is take the
+cap, put the cap on like that, put these
+three screws in. We got
+it. See that? Like
+that. Put it like right here. Like
+this. You know, it comes off like this.
+You can put it over like that. This
+exposes the channels and this makes it
+look really nice. Now these switches are
+the ones we turn power on. So I can turn
+this cell on there. I turn these four
+cells on. The rest of these cells are
+off. All the other switches will give me
+the this is itself. I think it looks
+like a nice unit. It's mounted very
+rigidely and strong and it uh turn this
+power on here. Okay. Now you do your
+reset. Reset it here. And now the water
+fuel cell is running and oscillating.
+Okay. you go in a manual mode or on a
+manual mode. Now, this cable, the EIC is
+connected here, see it comes right up to
+this point right here. So, when this
+unit's on and you wire to generate the
+the gas from the water when you turn
+this unit on, okay, each one of these,
+whatever's turned on, will start to scan
+and lock in at its residency. And each
+one of those things will produce the
+gas. This light when it says cell on
+means that cell is producing energy. Now
+the pressure will build up a little bit
+and we'll start putting the gas right
+into the motor itself. Removing the uh
+removing the uh soldering causing this
+unit to turn off. And basically how the
+uh the water tank is going to work in
+conjunction with the resident cavity is
+the water now is going out into the
+resident cavity. Then the gases was now
+acting as a water pump which causes the
+water to go out of the resin cavity now
+into this filtering tray which separates
+the contaminants and then allows the
+water to go back into the resin cavity
+uh during g take your uh cursor down to
+the diagram that you wanted to work
+with. Okay, open it up. All right, then
+you that'll display your
