@@ -1663,6 +1663,16 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
     </figure>
   </div>
 
+  <div class="note note-ok">
+    <b>★ 新增（2026-09-13）：Joe Cell 结构图 3 张（矢量 SVG · 已内联进 §11.6）</b><br>
+    按老师最新口径绘制，<b>已内联在 §11.6</b>（滚上去即可见）；同时以独立文件存放在
+    <code>joe cell/图/</code>，可单独打开或打印：<br>
+    · <code>JoeCell_俯视图_五层同心管.svg</code> —— 五层同心圆 ＋ 每道环隙 3 个绝缘间隔物（★ 相邻错开 60°，双色标注）<br>
+    · <code>JoeCell_正视图_剖面含底部穿板.svg</code> —— 剖面总览（水面 = 中性管上沿 ／ 露出 1 cm ／ 三爪 → 螺杆穿板 ／ 内外垫片）<br>
+    · <code>JoeCell_顶部气路图.svg</code> —— 锥顶开口 → 316L 短管 → 卡箍① → 橡胶管 → 卡箍② → 引擎进气口<br>
+    <span class="cm">★ 三张均为矢量图（放大不失真），配色取自本页 CSS 变量。</span>
+  </div>
+
   <h3>10.3 ★ 第三层：Lyne 原著 p.125 鉴定（因果链的关键一图）</h3>
   <figure>
     <img src="joe cell/图/Langmuir1924原子氢专利US1947267A_来自Lyne著p125.png" alt="Langmuir 1924 原子氢专利 US1947267A，来自 Lyne 著 p125">
@@ -2429,6 +2439,71 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
     完整版（含 12 条待确认项）见 <code>joe cell/21_JoeCell结构_老师口述与库内尺寸表对照.md</code>。
   </div>
 
+  <div class="card" style="padding:16px;margin:16px 0">
+<svg style="width:100%;max-width:620px;height:auto;display:block;margin:0 auto" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 700" font-family="'Microsoft YaHei','PingFang SC',sans-serif">
+  <text x="310" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#141a22">Joe Cell 正视图 · 剖面（含顶部圆锥与底部穿板）</text>
+  <text x="310" y="47" text-anchor="middle" font-size="11.5" fill="#7d8798">水面 = 中性管上沿 ｜ 负极管露出水面 1 cm ｜ 各管下沿齐平、距罐底 1&#8243; ｜ 间距均匀 0.5&#8243;</text>
+
+  <!-- 顶部圆锥 -->
+  <path d="M 142,190 L 310,110 L 478,190" fill="#fdf5e4" stroke="#0d4f7c" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="296" y="72" width="28" height="40" fill="#ffffff" stroke="#0d4f7c" stroke-width="3.5"/>
+  <text x="368" y="86" font-size="11.5" fill="#0d4f7c">← 锥顶开口 + 焊接 316L 短管</text>
+  <text x="368" y="103" font-size="10.5" fill="#7d8798">（详见下方气路图）</text>
+  <text x="152" y="180" font-size="11" fill="#a06a00">坡度角 45°–60°</text>
+  <text x="152" y="196" font-size="10" fill="#7d8798">（目标：胡夫 51.85°）</text>
+
+  <!-- 罐体 = 正极管 6" -->
+  <rect x="134" y="190" width="352" height="430" rx="3" fill="#ffffff" stroke="#0d4f7c" stroke-width="7"/>
+  <!-- 水 -->
+  <rect x="141" y="250" width="338" height="370" fill="#eef6fb"/>
+  <line x1="141" y1="250" x2="479" y2="250" stroke="#1a7fb5" stroke-width="2" stroke-dasharray="7 4"/>
+  <text x="184" y="243" font-size="10.5" fill="#1a7fb5">水面</text>
+
+  <!-- 中性管3 5" -->
+  <line x1="170" y1="250" x2="170" y2="565" stroke="#566276" stroke-width="4.5"/>
+  <line x1="450" y1="250" x2="450" y2="565" stroke="#566276" stroke-width="4.5"/>
+  <!-- 中性管2 4" -->
+  <line x1="198" y1="250" x2="198" y2="565" stroke="#566276" stroke-width="4.5"/>
+  <line x1="422" y1="250" x2="422" y2="565" stroke="#566276" stroke-width="4.5"/>
+  <!-- 中性管1 3" -->
+  <line x1="226" y1="250" x2="226" y2="565" stroke="#566276" stroke-width="4.5"/>
+  <line x1="394" y1="250" x2="394" y2="565" stroke="#566276" stroke-width="4.5"/>
+  <!-- 负极管 2"（露出水面） -->
+  <line x1="254" y1="238" x2="254" y2="565" stroke="#b21f2d" stroke-width="5.5"/>
+  <line x1="366" y1="238" x2="366" y2="565" stroke="#b21f2d" stroke-width="5.5"/>
+
+  <!-- 底部三爪 + 螺杆 -->
+  <path d="M 256,565 L 306,600 M 364,565 L 314,600" stroke="#b21f2d" stroke-width="3"/>
+  <line x1="310" y1="565" x2="310" y2="664" stroke="#b21f2d" stroke-width="6"/>
+  <!-- 罐底 -->
+  <rect x="134" y="612" width="352" height="9" fill="#0d4f7c"/>
+  <!-- 内垫片 / 内螺母（罐内） -->
+  <rect x="292" y="596" width="36" height="5" rx="1.5" fill="#0e7a4a"/>
+  <rect x="296" y="586" width="28" height="10" rx="2" fill="#566276"/>
+  <!-- 外垫片 / 外螺母（罐外） -->
+  <rect x="292" y="625" width="36" height="5" rx="1.5" fill="#0e7a4a"/>
+  <rect x="296" y="634" width="28" height="10" rx="2" fill="#566276"/>
+
+  <!-- 左侧标注 -->
+  <line x1="100" y1="244" x2="248" y2="244" stroke="#b21f2d" stroke-width="1"/>
+  <text x="96" y="240" text-anchor="end" font-size="10.5" fill="#b21f2d">露出水面 1 cm</text>
+  <line x1="96" y1="565" x2="248" y2="565" stroke="#566276" stroke-width="1"/>
+  <text x="92" y="561" text-anchor="end" font-size="10.5" fill="#566276">各管下沿齐平</text>
+  <text x="92" y="576" text-anchor="end" font-size="10.5" fill="#566276">距罐底 1&#8243;</text>
+  <line x1="252" y1="612" x2="252" y2="565" stroke="#7d8798" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <!-- 右侧标注 -->
+  <text x="492" y="258" font-size="11" fill="#0d4f7c">正极管 6&#8243;（= 外体）</text>
+  <text x="492" y="330" font-size="11" fill="#566276">中性管 5&#8243; / 4&#8243; / 3&#8243;</text>
+  <text x="492" y="420" font-size="11" fill="#b21f2d">负极管 2&#8243;</text>
+  <line x1="486" y1="200" x2="486" y2="196" stroke="none"/>
+
+  <!-- 底部说明 -->
+  <text x="310" y="676" text-anchor="middle" font-size="11" fill="#7d8798">底部：负极管三爪 → 螺杆穿罐底 ｜ 内外双层绝缘垫片（绿）+ 内外螺母对压 ⇒ 绝缘 + 密封（穿板接头）</text>
+  <text x="310" y="694" text-anchor="middle" font-size="11" fill="#b21f2d">🔴 生死判据：装好后测「螺杆 ↔ 罐壳」应为无穷大（干态 + 灌水后各测一次）</text>
+</svg>
+  </div>
+
   <h4>11.6.1 五层同心管（俯视 = 同心圆，间距均匀）</h4>
   <table>
     <thead>
@@ -2460,6 +2535,62 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
       </tr>
     </tbody>
   </table>
+
+  <div class="card" style="padding:16px;margin:16px 0">
+<svg style="width:100%;max-width:540px;height:auto;display:block;margin:0 auto" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 620" font-family="'Microsoft YaHei','PingFang SC',sans-serif">
+  <text x="270" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#141a22">Joe Cell 俯视图 · 五层同心管</text>
+  <text x="270" y="47" text-anchor="middle" font-size="11.5" fill="#7d8798">老师版 2&#8243; / 3&#8243; / 4&#8243; / 5&#8243; / 6&#8243; ｜ 相邻半径差恒 0.5&#8243; ｜ 每道环隙 3 个绝缘间隔物，相邻错开 60°</text>
+
+  <circle cx="270" cy="330" r="186" fill="#eef6fb"/>
+
+  <circle cx="270" cy="330" r="186" fill="none" stroke="#0d4f7c" stroke-width="7"/>
+  <circle cx="270" cy="330" r="155" fill="none" stroke="#566276" stroke-width="4.5"/>
+  <circle cx="270" cy="330" r="124" fill="none" stroke="#566276" stroke-width="4.5"/>
+  <circle cx="270" cy="330" r="93" fill="none" stroke="#566276" stroke-width="4.5"/>
+  <circle cx="270" cy="330" r="62" fill="none" stroke="#b21f2d" stroke-width="7"/>
+
+  <g fill="#a06a00" stroke="#7a4f00" stroke-width="1">
+    <rect x="263" y="235" width="14" height="35" rx="2" transform="rotate(0 270 330)"/>
+    <rect x="263" y="235" width="14" height="35" rx="2" transform="rotate(120 270 330)"/>
+    <rect x="263" y="235" width="14" height="35" rx="2" transform="rotate(240 270 330)"/>
+    <rect x="263" y="173" width="14" height="35" rx="2" transform="rotate(0 270 330)"/>
+    <rect x="263" y="173" width="14" height="35" rx="2" transform="rotate(120 270 330)"/>
+    <rect x="263" y="173" width="14" height="35" rx="2" transform="rotate(240 270 330)"/>
+  </g>
+  <g fill="#0e7a4a" stroke="#0a5c38" stroke-width="1">
+    <rect x="263" y="204" width="14" height="35" rx="2" transform="rotate(60 270 330)"/>
+    <rect x="263" y="204" width="14" height="35" rx="2" transform="rotate(180 270 330)"/>
+    <rect x="263" y="204" width="14" height="35" rx="2" transform="rotate(300 270 330)"/>
+    <rect x="263" y="142" width="14" height="35" rx="2" transform="rotate(60 270 330)"/>
+    <rect x="263" y="142" width="14" height="35" rx="2" transform="rotate(180 270 330)"/>
+    <rect x="263" y="142" width="14" height="35" rx="2" transform="rotate(300 270 330)"/>
+  </g>
+
+  <circle cx="270" cy="330" r="4.5" fill="#b21f2d"/>
+  <text x="270" y="322" text-anchor="middle" font-size="12" font-weight="700" fill="#b21f2d">负</text>
+  <text x="270" y="338" text-anchor="middle" font-size="11" fill="#b21f2d">2&#8243;</text>
+
+  <line x1="380" y1="210" x2="452" y2="176" stroke="#566276" stroke-width="1.2"/>
+  <text x="456" y="172" font-size="11.5" fill="#566276">中性管 &#215;3（3&#8243; / 4&#8243; / 5&#8243;）</text>
+  <text x="456" y="188" font-size="10.5" fill="#7d8798">不接线 · 处理后测电压分布</text>
+
+  <line x1="456" y1="330" x2="486" y2="330" stroke="#0d4f7c" stroke-width="1.2"/>
+  <text x="490" y="326" font-size="11.5" font-weight="700" fill="#0d4f7c">正极管 6&#8243;</text>
+  <text x="490" y="342" font-size="10.5" fill="#7d8798">= 最外层</text>
+
+  <line x1="360" y1="470" x2="452" y2="500" stroke="#1a7fb5" stroke-width="1.2"/>
+  <text x="456" y="496" font-size="11.5" fill="#1a7fb5">间距均匀 0.50&#8243;</text>
+  <text x="456" y="512" font-size="10.5" fill="#7d8798">（12.7 mm，含最外档）</text>
+
+  <g transform="translate(76, 556)">
+    <rect x="0" y="0" width="14" height="14" rx="2" fill="#a06a00"/>
+    <text x="20" y="12" font-size="11" fill="#46536a">间隔物 · 环隙 ① ③（0° / 120° / 240°）</text>
+    <rect x="252" y="0" width="14" height="14" rx="2" fill="#0e7a4a"/>
+    <text x="272" y="12" font-size="11" fill="#46536a">间隔物 · 环隙 ② ④（60° / 180° / 300°）</text>
+  </g>
+  <text x="270" y="596" text-anchor="middle" font-size="11" fill="#7d8798">★ 相邻环隙错开 60° ⇒ 共 12 个 / 高度层；材质 teflon（PTFE）/ 尼龙 / 天然橡胶</text>
+</svg>
+  </div>
 
   <div class="grid g3">
     <div class="blk"><h4>间距均匀 0.50″</h4><p>相邻半径差<strong>恒为 12.7 mm</strong>（含最外层那档）。</p></div>
@@ -2504,6 +2635,54 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
      ▼
 引擎自然进气口的管子</pre>
 
+  <div class="card" style="padding:16px;margin:16px 0">
+<svg style="width:100%;max-width:660px;height:auto;display:block;margin:0 auto" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 250" font-family="'Microsoft YaHei','PingFang SC',sans-serif">
+  <text x="330" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#141a22">顶部气路 · 锥顶开口 → 引擎自然进气口</text>
+  <text x="330" y="47" text-anchor="middle" font-size="11.5" fill="#7d8798">★ 两个卡箍都保证气密 —— 这是「发动机自吸负压能吸得动」的前提</text>
+
+  <!-- 圆锥顶部（剖面示意） -->
+  <path d="M 34,152 L 74,104 L 114,152 Z" fill="#fdf5e4" stroke="#0d4f7c" stroke-width="4.5" stroke-linejoin="round"/>
+  <text x="74" y="176" text-anchor="middle" font-size="10.5" fill="#7d8798">圆锥顶部</text>
+  <text x="74" y="192" text-anchor="middle" font-size="10.5" fill="#7d8798">（开口）</text>
+
+  <!-- 316L 短管 -->
+  <rect x="74" y="98" width="96" height="26" fill="#eef6fb" stroke="#0d4f7c" stroke-width="3.5"/>
+  <text x="122" y="90" text-anchor="middle" font-size="11" fill="#0d4f7c">316L 短管</text>
+  <text x="122" y="142" text-anchor="middle" font-size="10.5" fill="#b21f2d">★ 焊在外体上 ⇒ 带 +12 V</text>
+  <text x="78" y="80" font-size="10" fill="#a06a00">焊接</text>
+
+  <!-- 卡箍① -->
+  <rect x="170" y="92" width="15" height="38" rx="3" fill="#a06a00"/>
+  <text x="177" y="82" text-anchor="middle" font-size="10.5" fill="#a06a00">卡箍 ①</text>
+
+  <!-- 橡胶管 -->
+  <rect x="185" y="98" width="152" height="26" fill="#e9f7f0" stroke="#0e7a4a" stroke-width="3.5"/>
+  <path d="M 200,98 L 200,124 M 220,98 L 220,124 M 240,98 L 240,124 M 260,98 L 260,124 M 280,98 L 280,124 M 300,98 L 300,124 M 320,98 L 320,124" stroke="#0e7a4a" stroke-width="1" opacity="0.45"/>
+  <text x="261" y="90" text-anchor="middle" font-size="11" fill="#0e7a4a">橡胶管</text>
+  <text x="261" y="142" text-anchor="middle" font-size="10.5" fill="#0e7a4a">★ 唯一的电气隔离段（同时是气路）</text>
+
+  <!-- 卡箍② -->
+  <rect x="337" y="92" width="15" height="38" rx="3" fill="#a06a00"/>
+  <text x="344" y="82" text-anchor="middle" font-size="10.5" fill="#a06a00">卡箍 ②</text>
+
+  <!-- 进气口管 -->
+  <rect x="352" y="98" width="118" height="26" fill="#eef6fb" stroke="#0d4f7c" stroke-width="3.5"/>
+  <text x="411" y="90" text-anchor="middle" font-size="11" fill="#0d4f7c">引擎自然进气口管</text>
+
+  <!-- 引擎 -->
+  <rect x="482" y="72" width="76" height="78" rx="7" fill="#f5f6f8" stroke="#566276" stroke-width="3"/>
+  <text x="520" y="106" text-anchor="middle" font-size="12.5" fill="#566276">引擎</text>
+  <text x="520" y="124" text-anchor="middle" font-size="10" fill="#7d8798">（柴油机）</text>
+
+  <!-- 气流 -->
+  <path d="M 130,175 L 470,175" stroke="#1a7fb5" stroke-width="2" stroke-dasharray="7 5"/>
+  <path d="M 470,175 l -12,-6 v 12 z" fill="#1a7fb5"/>
+  <text x="300" y="196" text-anchor="middle" font-size="10.5" fill="#1a7fb5">气流：发动机自吸负压（泵气效应 ~46 L/s）把 cell 里的气吸进引擎</text>
+
+  <text x="330" y="228" text-anchor="middle" font-size="11" fill="#7d8798">★ 「3/4&#8243; 间隙」是「导电管方案」的绝缘替代 —— 用橡胶管就不需要间隙；用导电管才必须留（+ 绝缘管件套连）</text>
+</svg>
+  </div>
+
   <div class="note note-ok">
     <b>★★ 关键自洽：「卡箍气密」与「发动机自吸负压」是同一件事的两半</b><br>
     老师更早讲过：「发动机转起来<b>自己吸成负压</b>，单质氢被吸入引擎」（泵气效应，复算 <b>46.0 L/s</b>）。<br>
@@ -2521,8 +2700,9 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
     ★ 顺带解释库内那条「3/4″ 间隙」：<b>那是「导电管方案」的绝缘替代</b> ——
     老师原话：「<b>假设传输管若不用橡胶管、用导电管，则需要留 3/4″ 间隙，绝缘管件套连</b>」
     ⇒ ★ <b>用橡胶管就不需要间隙；用导电管才必须留。</b>（旧判「非密封」只是<b>后果</b>，不是<b>意图</b>。）
-    <br>★ <b>同日补注（阶段归属）</b>：老师另澄清「<b>白泡 / 非密封</b> 属于<b>前期加电处理</b>阶段的现象，
-    <b>装车后不需要接电</b>」⇒ ⚠️「非密封」的阶段归属需重新理解（两种理解并列，待确认）
+    <br>✅ <b>同日补注（阶段归属 · 已确认）</b>：老师澄清「<b>白泡 / 非密封</b> 属于<b>前期加电处理</b>阶段
+    （处理水与罐体），<b>装车后不需要接电</b>」；并确认「<b>前期处理时罐体确实不需完全密封</b>」
+    ⇒ ★ <b>「非密封」＝ 前期处理阶段</b>（让气体逸出），与本节「装车运行要卡箍气密」<b>不冲突</b>（两个时段）。
     —— 详见 §11.7.1 补注 ／ <code>18 §五·补三</code>。
   </div>
 
@@ -2624,6 +2804,10 @@ math.factorial(8) // CUBE_ROT_GROUP  <span class="cm"># <span class="ok">1,680</
     ⇒ ★★★ <b>关键对应</b>：<code>03</code> 的 <b>Stage 3 判据</b>原文正是
     「<b>通电 30 秒内</b>，全表面涌出大量<b>纯白气泡</b>」
     ⇒ <b>白泡 ＝「处理成功」的标志，不是「运行中」的产物。</b><br>
+    <b>✅ 老师已答两问（同日）</b>：<br>
+    ① ★ <b>1.5 V ＝「正负管材料本身产生的自然电位差」</b> ⇒ <b>不是外接电池，是 cell 自持电位</b> ——
+    与「不接电」不冲突；且与库内判据一致（「<b>断电静置 24 h 测两极，活细胞约 1 V</b>」）。<br>
+    ② ★ <b>「非密封」＝ 前期处理时罐体确实不需完全密封</b>（要让气体逸出）⇒ 与运行阶段的「卡箍气密」不冲突（<b>两个时段，要求相反</b>）。<br>
     🔵 <b>脉冲电分轨</b>：✅ 脉冲电解／脉冲电处理是<b>主流真实技术</b>（确实改变表面形貌／氧化膜／气泡脱附）；
     ⭐ 「与晶格、水分子<b>谐振</b>」是 Meyer 体系说法（无主流机制支撑，但<b>可用 EIS 扫频检验</b>）。<br>
     <span class="cm">详见 <code>joe cell/18 §五·补三</code>（两阶段总表 ＋ EIS 检验方案）· <code>03</code> 编者注</span>

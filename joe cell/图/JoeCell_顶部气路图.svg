@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 250" font-family="'Microsoft YaHei','PingFang SC',sans-serif">
+  <text x="330" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#141a22">顶部气路 · 锥顶开口 → 引擎自然进气口</text>
+  <text x="330" y="47" text-anchor="middle" font-size="11.5" fill="#7d8798">★ 两个卡箍都保证气密 —— 这是「发动机自吸负压能吸得动」的前提</text>
+
+  <!-- 圆锥顶部（剖面示意） -->
+  <path d="M 34,152 L 74,104 L 114,152 Z" fill="#fdf5e4" stroke="#0d4f7c" stroke-width="4.5" stroke-linejoin="round"/>
+  <text x="74" y="176" text-anchor="middle" font-size="10.5" fill="#7d8798">圆锥顶部</text>
+  <text x="74" y="192" text-anchor="middle" font-size="10.5" fill="#7d8798">（开口）</text>
+
+  <!-- 316L 短管 -->
+  <rect x="74" y="98" width="96" height="26" fill="#eef6fb" stroke="#0d4f7c" stroke-width="3.5"/>
+  <text x="122" y="90" text-anchor="middle" font-size="11" fill="#0d4f7c">316L 短管</text>
+  <text x="122" y="142" text-anchor="middle" font-size="10.5" fill="#b21f2d">★ 焊在外体上 ⇒ 带 +12 V</text>
+  <text x="78" y="80" font-size="10" fill="#a06a00">焊接</text>
+
+  <!-- 卡箍① -->
+  <rect x="170" y="92" width="15" height="38" rx="3" fill="#a06a00"/>
+  <text x="177" y="82" text-anchor="middle" font-size="10.5" fill="#a06a00">卡箍 ①</text>
+
+  <!-- 橡胶管 -->
+  <rect x="185" y="98" width="152" height="26" fill="#e9f7f0" stroke="#0e7a4a" stroke-width="3.5"/>
+  <path d="M 200,98 L 200,124 M 220,98 L 220,124 M 240,98 L 240,124 M 260,98 L 260,124 M 280,98 L 280,124 M 300,98 L 300,124 M 320,98 L 320,124" stroke="#0e7a4a" stroke-width="1" opacity="0.45"/>
+  <text x="261" y="90" text-anchor="middle" font-size="11" fill="#0e7a4a">橡胶管</text>
+  <text x="261" y="142" text-anchor="middle" font-size="10.5" fill="#0e7a4a">★ 唯一的电气隔离段（同时是气路）</text>
+
+  <!-- 卡箍② -->
+  <rect x="337" y="92" width="15" height="38" rx="3" fill="#a06a00"/>
+  <text x="344" y="82" text-anchor="middle" font-size="10.5" fill="#a06a00">卡箍 ②</text>
+
+  <!-- 进气口管 -->
+  <rect x="352" y="98" width="118" height="26" fill="#eef6fb" stroke="#0d4f7c" stroke-width="3.5"/>
+  <text x="411" y="90" text-anchor="middle" font-size="11" fill="#0d4f7c">引擎自然进气口管</text>
+
+  <!-- 引擎 -->
+  <rect x="482" y="72" width="76" height="78" rx="7" fill="#f5f6f8" stroke="#566276" stroke-width="3"/>
+  <text x="520" y="106" text-anchor="middle" font-size="12.5" fill="#566276">引擎</text>
+  <text x="520" y="124" text-anchor="middle" font-size="10" fill="#7d8798">（柴油机）</text>
+
+  <!-- 气流 -->
+  <path d="M 130,175 L 470,175" stroke="#1a7fb5" stroke-width="2" stroke-dasharray="7 5"/>
+  <path d="M 470,175 l -12,-6 v 12 z" fill="#1a7fb5"/>
+  <text x="300" y="196" text-anchor="middle" font-size="10.5" fill="#1a7fb5">气流：发动机自吸负压（泵气效应 ~46 L/s）把 cell 里的气吸进引擎</text>
+
+  <text x="330" y="228" text-anchor="middle" font-size="11" fill="#7d8798">★ 「3/4&#8243; 间隙」是「导电管方案」的绝缘替代 —— 用橡胶管就不需要间隙；用导电管才必须留（+ 绝缘管件套连）</text>
+</svg>
