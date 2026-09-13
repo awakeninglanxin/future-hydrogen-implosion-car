@@ -1,0 +1,100 @@
+1
+00:00:01,199 --> 00:00:06,720
+okay i've shown this effect in the past
+
+2
+00:00:04,000 --> 00:00:09,280
+but i'm going to do this again
+
+3
+00:00:06,720 --> 00:00:11,679
+because it's been a while go ahead and
+
+4
+00:00:09,280 --> 00:00:17,600
+turn on this guy
+
+5
+00:00:11,679 --> 00:00:22,960
+mood audio there we go
+
+6
+00:00:17,600 --> 00:00:26,320
+okay now we come over here
+
+7
+00:00:22,960 --> 00:00:27,439
+and we go like this put red in the
+
+8
+00:00:26,320 --> 00:00:31,840
+middle
+
+9
+00:00:27,439 --> 00:00:31,840
+black on the outside
+
+10
+00:00:32,000 --> 00:00:40,640
+connection switch it
+
+11
+00:00:35,360 --> 00:00:44,399
+red to the outside black to the middle
+
+12
+00:00:40,640 --> 00:00:47,840
+nothing next plate
+
+13
+00:00:44,399 --> 00:00:52,320
+nothing next plate nothing outer plate
+
+14
+00:00:47,840 --> 00:00:52,320
+it's connected okay switch
+
+15
+00:00:53,280 --> 00:00:58,879
+black to the outside electrode
+
+16
+00:00:56,399 --> 00:01:01,359
+that plate's connected that plate's
+
+17
+00:00:58,879 --> 00:01:01,359
+connected
+
+18
+00:01:02,960 --> 00:01:07,920
+and that plate's connected reset
+
+19
+00:01:09,360 --> 00:01:13,360
+okay but if i go to the electrode and i
+
+20
+00:01:11,680 --> 00:01:16,560
+go to the water
+
+21
+00:01:13,360 --> 00:01:19,680
+or i go to one of the insulators
+
+22
+00:01:16,560 --> 00:01:22,880
+nothing so
+
+23
+00:01:19,680 --> 00:01:26,960
+the gel cell is acting like
+
+24
+00:01:22,880 --> 00:01:29,040
+a diode
+
+25
+00:01:26,960 --> 00:01:29,040
+you
+

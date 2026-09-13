@@ -1,0 +1,1954 @@
+set up the gear. We hope it works well.
+I hope I can display that my knowledge
+on the fuel cell is better than my
+knowledge of setting up projectors. So,
+without any further ado, I've produced a
+little movie. It's about 20 minutes
+long. It has a lot of cutaways and shows
+other vision that it would take me far
+longer to to display to you. So, best
+thing is let's play the movie and come
+back to it afterwards.
+Hi Steve, this is Steve James [music]
+the author of the book Water Fuel Cell
+Secrets Revealed. Steve you're here
+today to minister into something
+secret.
+Um
+what you can do
+uh take
+very basic concept yourself
+develop
+formulas and theories
+and make the process repeatable
+opposed to having an idea or a concept
+that really had no basis. people were
+just unable to to communicate with
+others just what they achieved other
+than than referring to BS.
+Um the fuel cell what is uh
+what is it? Well, it's placed in a
+number of stainless steel cylinders and
+tubes
+inside [clears throat] the other uh
+water field
+and a process of extracting energy from
+the water.
+So, what's the history of?
+Well,
+initially it was was discovered
+They came across [music] this trying to
+walk system
+and change the shape of his we
+for seem to work quite well. So Joe was
+not able to bring it to um to any great
+degree relative great degree. Uh I
+really don't know a lot about
+the interest in other fields and fields.
+I've seen videos where he expressed
+um that he didn't really know what the
+energy was or how it worked, but it did
+work. And that's what got me originally
+interested. It was a phenomena that not
+only Joe and others had been
+had results with people who made engines
+run.
+So what have you done to um that perhaps
+others haven't done in the past with
+towards the development of the pure
+self?
+What I tried to do from from the
+beginning
+was to create formulas um methods of
+measuring and methods of communicating.
+So instead of um selling other people,
+it all works on BS which has never been
+the case. We're only involved with with
+these people charging sales and
+primarily
+was all about what was on top of the
+water.
+I wasn't really happy with trying to
+work with BS and it's pretty hard to say
+somebody myself working.
+What I did was
+look a little closer at the electronic
+aspects of the cell. What was happening
+when I charged it? What happened after I
+charged? Uh did did the voltage that
+that the cell go across it? Did that
+diminish instantly? Did it take time?
+And what I found was there was a direct
+relationship between the decay voltage
+across the sample and the state of
+charge.
+Uh we were able to I was able to uh
+build a a computer interface, write a
+program,
+charge the cell and then monitor it the
+state of charge on the cell over. It
+turned out to be many many months and
+then established that there was not any
+relationship between the state of charge
+uh of the cell and the voltage that was
+across it. But it was a relationship
+that met the requirements of formula. I
+was able to uh
+create a formula that would say okay do
+these measurements of these high levels
+and
+you can tell exactly how much charge is
+in the cell or isn't in the cell. You
+can also tell whether the cell is
+leaking, whether we've got uh problems
+where it's not holding a charge. uh and
+none of these uh things were available
+previously.
+>> So what are the elements that are needed
+to have a working fuel cell?
+Uh or three criteria. The first is the
+water. The water's got to be the right
+water. Now when I say right water, I
+developed a method of processing that
+water or any to usable. Uh the second is
+the construction of the cell needs to be
+constructed within certain criteria, the
+right certain metals and the right
+thickness.
+Uh and then the water is put in the cell
+and the cell is energized by applying a
+series of voltages until we uh cause the
+deteriorate
+into the steel.
+Okay. about the water. What's water
+table? There's something special about
+the water.
+Well, it's not that it's special water.
+We just need water at the right right
+part of the process. And although I
+explain that a lot in the book, um
+ideal water has often been called fresh
+or juvenile water. Well, that's water
+that's virtually just rain out of the
+top of the stream somewhere. Problem
+with that is it's almost impossible to
+find. And even if you do find the right
+location, the water you get there is
+very different the day after a
+thunderstorm to the day in the middle of
+a drought. So, what I tried to do was
+look at exactly what made water the
+right water. First, we needed to have as
+little contaminants as possible. And
+we're not talking manmade contaminants.
+We're talking uh
+carbon type contaminants. We need the
+water to have a reasonably conductivity.
+Pure water doesn't conduct and therefore
+doesn't put in electrolysis. So that's
+not not going to work. Um
+we need the pH of the water to be
+relatively neutral, slightly acidic. If
+anything, certainly not as alkaline as
+it can be way downstream.
+What I did was to develop a process
+involving ionization where we separate
+the water from its normal 10 to 13
+molecules into six molecule classes
+and in that process we're able to
+extract what we don't want from the
+water being long chain carbons and
+the process doesn't really affect the
+conductivity of the water or change the
+pH. So what it means is that almost any
+natural water By that I mean
+nonprocessed water can now be used be
+rain water, stream, creek, river water,
+uh anywhere like that can now be
+processed to the point where it's using
+a cell.
+Interesting. Um, so the cell itself,
+what's now? What's about the cell
+itself? How is it made? What's it made
+of? Well, many things have been tried.
+The best is stainless steel. There's no
+doubt about that. A good cell will be
+made in 360, which is a low carb, high
+ground stance. The primary reason for
+that is that it doesn't deteriorate too
+much with the electrolysis which is a
+primal part of of conditioning the cell.
+Uh we don't have problems with corrosion
+and rust. Um
+the main thing with a successful cell is
+having reasonably heavy metal. Doesn't
+matter the cathode or the neutrals and
+silver within the cell. The cell casing
+itself either needs to be of a
+substantial metal or have a fairly good
+good top solid top solid top ring
+assembly where the energy is taken
+1.6 for 2 mil is fine. It's reasonably
+important that the status is not
+magnetic. we really just will not get
+the results if it's if it's highly
+magnetized
+which is the reason going for 316
+stainless. The other thing is that
+I found that the seams or welding and
+cell construction is is a big negative.
+It really does affect the operation of
+the cell.
+Currently I use seamless stainless and I
+find that is is by far better and a
+pressure assemble cell where quite
+literally the tops and bottoms are
+pressed in
+um in a fashion that we don't
+and we have no no welding which affects
+the working structure of the metal and
+therefore affects the energy that flows
+through it. So in having the cell and
+the water and obviously getting them
+together,
+how do you actually get the cell to
+work?
+That's that's a three-state stage
+process. The first thing is to have
+yourself acceptable properly and clean
+um to put in the charged water where the
+water is has been processed and
+electrically charged.
+We first pull the water into the soil.
+will then go through a stage of
+energizing which is applying a voltage
+for a given time and duration at a given
+intervals according to the uh the
+formula is the charge charge power
+formula. Um and we we charge the cell
+until its half life which is another one
+of the formulas until it halfife stops
+extending other words we have a fixed
+half life at that point tip out the
+water it's always got contaminants in it
+mainly contaminants from the surface of
+the stainless
+putting fresh water uh and and it's time
+to start using the energy from the cell
+in the running
+And is that all we need to do?
+Seal thing that the water contain in the
+glass forever or does it evaporate away
+or uh the cell can't be sealed would
+probably
+it simply cannot electrolysis we create
+gases hydrogen and oxygen the primary
+gases. Um not a lot of gas certainly not
+enough to run the engine in any fashion
+even the smallest engine could run. So
+the people that think that we've got a
+hydrogen generator not happen near
+enough. If we had no means of that gas
+getting out there that would be enough
+to create pressure and eventually
+explode. So we do have to have a a vent
+and that vent must be fed through a ho
+or hydrogen flashback
+so that the gases that are produced can
+be vented from the cell um safely. And
+in my case, I always run the out of the
+flashback
+engines in that manifold and feed into
+the vacuum and dispose of it quite
+nicely and get to shoot in the engine.
+Having said that, I've done a number of
+tests where I've disconnected that
+vacuum or closed it off the engine end
+[clears throat] satisfied that it's it's
+having no measurable effect on the
+engine. We're not using any energies
+associated with the gas.
+Then so here we have a a fuel cell which
+is producing um dutarium which actually
+gets the motor to work. How does that
+get to the motor? How does it work
+within the motor?
+>> Okay. Well my theory is that the at the
+point of electrolysis we've got gases
+coming off of what effectively the two
+electrodes the cathode being the center
+of the cell. The anode is the other
+case.
+At the point where the gas is coming off
+of the out case which is positive, we've
+got oxygen gas being produced and
+against the stainless steel warm off the
+the case. We have effectively hydrogen
+enriched water. I believe that the
+positive voltage applied to
+permit the electrolysis
+attracts the hydrogen. When I say
+hydrogen, we're possibly talking
+detracted
+to the molecular structure, the
+crystallized structure of the steel
+itself
+and migrates through the structure um
+toward the source of voltage. Now coming
+off the top of the cell we have a
+connection device to the engine. Um
+for the most part in the past that has
+has typically been a tube uh 1 in round
+a fairly heavy tubing
+uh where people were thinking it was a
+gas that was actually going through the
+tube.
+Although that tube was not vented into
+the engine. It was going to a blind
+connection on the engine. meaning that
+at the point where the tube met the
+engine was no hole going through. We
+were simply presenting this gas to a
+blind plug. Um I then thought one more
+and more is it actually gas at that
+point. Is it traveling through the the
+hole through the metal? Another test
+that I did that led me to the to the
+conclusion that it actually migrates
+through the steel itself.
+And one from the tube was to use a head
+alter
+19 cable to connect the cell to the
+engine. Now we go out of the the engine
+as explaining in detail in the book. But
+what we do is we use a voltage which is
+connected at the engine cable and that
+attracts this energy along the cable
+right up to the the point of the engine
+where it travels over a small gap into
+the block itself or the cylinder head.
+Mhm. Uh and then over time do the entire
+engine
+with the hydrogen deter
+referium
+because I really don't have a method for
+telling you exactly what it is. It
+simply fits with uh what I believe to be
+the operation of the engine.
+>> Then once this is within the engine
+within the metal itself, how does it
+then work the combust?
+Okay. Well,
+what I believe happens is different to
+any of the other theories being
+presented. It's just what I think.
+is that we end up with our combustion
+chamber effectively being totally doped
+with hydrogen deterior.
+So that all surfaces
+effectively wet with these uh these
+elements.
+When we then combust or or start to
+compress atmosphere, which is almost
+sucking into the engine, just air uh at
+about two 2 and 1 half atmospheres
+within spark where ignition timing is no
+longer a few degrees before top dead
+center. It's around 70° uh and and only
+85. So the pistons just over halfway up
+the stroke the spark happens that would
+seem to create that inflation.
+Now there are suggestions and I've read
+information that suggests that if we don
+in hydrogen enriched environment which
+is what we really have with air in this
+enriched combustion chamber we get a
+thermic reaction which is the implosion.
+Now that implosion was certainly
+explained for the effect of compression
+being removed. the fact that the engine
+can turn out so slowly and so easily.
+Uh that implosion would draw the piston
+up and possibly also make the valve
+leak. In the normal for engine valves
+are intended to seal under compressions,
+not under vacuums.
+So it also sucks in more atmosphere that
+was intended to go into the chamber.
+And the other interesting point with an
+endothermic reaction is that endothermic
+reactions consume the heat of the
+inflation. Now we also explain why so
+many people have reported these engines
+running cold.
+I personally had um a read of 70° C on
+the exhaust of my generator.
+Um 70 is not that cold. You can put your
+hand on it if you want to. Yes. When you
+say generating your home petrol driven
+motor generator test you got a small
+I haven't
+given
+me producing apply that to normal for
+what people were going for
+out and so on. So the generator seems to
+be on four bands perfect way of testing.
+Uh back to to the operation of the
+engine, it would seem that if we've got
+an end reaction happening in implosion
+that's pulling more atmosphere than uh
+would normally be the case. When the
+piston approaches the top, there's a
+release of energy from that implosion.
+And I really don't know through what
+process, but that explosion definitely
+takes place. So we have the implosion at
+the bottom of the or halfway up the
+stroke somewhere around top dead center
+without see there's definite explosion
+that is visible watching the engine run
+the firewise
+if we were running pula
+although it's fair to say there's a
+great reduction in the noise of the
+engine is a lot quieter greater rate on
+cell than it would be on petrol. Um that
+could be explained by the fact that the
+explosion component is a shorter shorter
+duration than a normal petrol explosion.
+Most of the noise that we hear from a
+four- stroke engine's exhaust is in fact
+the exhaust valve opening. There's still
+pressure there and that comes out
+through the valve exhaust and so on. In
+this case, it's quite a reduction in
+that noise. Um, so that's basically how
+it works.
+>> And is this engine running with petrol
+as well or just purely on air or mixture
+of both still? Well, I have never
+managed to start the generator without
+petrol. I have to be [clears throat]
+absolutely honest about that. Some
+people have claimed that they can start
+and operate engines from cells alone. I
+haven't. It has always taken petrol.
+Having said that, it's a full start and
+there's a limit to how many times you
+can pull that shred and try to get it
+going. So, I'm quite happy with the idea
+of putting a little bit of petrol in a
+in a much smaller than normal tank.
+Um, and getting getting the engine
+running down there exactly how long it
+run for with petrol turned off. uh and
+there is there is little doubt for much
+much longer than that is possible not
+only from myself of course but but many
+friends neighbors and other people have
+seen that um
+that's not really what I'm looking to
+promote. It's it's only fair to say that
+it's a very new science. It certainly
+isn't perfected. Anyone building a cell
+uh and going down this this avenue would
+be foolish to believe they're going to
+build the cell, start the generator, run
+for forever. We're not there yet.
+>> We're getting closer with some of the
+formulas and methods of communicating.
+We're now in a position to to further
+the science by exchanging what
+information we're learning
+as we go. And uh so you've you've been
+able to develop a a working model and
+demonstrate that it works. Where you
+moving to from there?
+I I think at this stage it's a case of
+of refining what I have established. Um
+the formulas seem seem to be consistent
+and working.
+There are certainly atmospheric effects
+of um I haven't haven't yet proven
+conclusively
+but I find the best uncanny that I can
+never get the thing to run. It's not
+outside it's inside
+but uh there certainly effects of
+humidity of the engine. So one of my
+directions is to look at the condition
+or condition of atmosphere as it goes
+in.
+Um
+as far as the cells construction itself,
+we are exploring with
+the idea of lining different metals so
+that we can obtain great mass energy to
+go through um while still having the
+stainless steel containers. Uh of course
+it's always the normal thing. it's
+expensive for research. Um, another
+component that I would like to to
+research is the concept of incorporating
+a cell within a motor instead of being a
+separate device that's brought to the
+motor. the idea of actually
+incorporating the generation of the
+hydrogen materials within the water
+cooling confinements of the engine. And
+again, something
+[clears throat]
+here was just me, you know.
+Now I'm hoping you all got some
+questions for me there. Yes. Uh I
+presume when you run out of petrol the
+engine still running. Have you done an
+exhaust gas analysis run the results?
+>> No.
+>> The other question is how do you start
+the engine on petrol 70°?
+>> Do you get no firing or no?
+>> You just don't get compression the
+implosion.
+>> No. No. when you when you started your
+first petrol.
+>> Yes.
+>> How do you start with 70°?
+>> You still with petrol once the energy
+from the center reass
+if I didn't fully that spot that
+didn't fire until top dead center. If I
+had it on
+30°
+so 70°
+start
+85 or 90
+>> 85 90°
+how do you start the engine on petrol?
+>> You never you can never just have the
+engine on petrol and I say start we put
+petrol in the materium is always
+present. So from the very beginning we
+get an endothermic reaction out of
+enclosure. There's no perceivable
+compression when you pull the string the
+plates in.
+You have no perceivable compression in
+pulling the string. It's simply
+you get the inertia turning over the
+crack the mass you get to the point
+where the engine fires as the string
+gets pushed out. There is you've
+experienced this Bob. Bob's been there
+many times when we started this. Uh
+there is no compression and therefore
+normally any any internal combustion
+engine trying to idle at low revs with
+20 or 30° the thing will just fire. The
+piston will get stalled or go backwards.
+It won't run. With one of these you can
+go from uh top dead center back to 90°
+before top halfway up stroke and the
+engine just turns over. There's
+definitely an implosion component that
+happens before the explosion
+present. Even with it present. Yes.
+Yeah. But I can't get it where I pull
+the string and starts without petrol. I
+need petrol there initially to get the
+revs up. And it only needs to be enough
+petrol for the thing to rev and then it
+can run out of petrol. But the problem
+is you can't pull it fast enough to get
+it to self run. One of those engines
+where you've got those start
+release on it. So that you're not full
+compression. Yeah. So as soon as it
+fires
+compression
+building compression at all otherwise
+you wouldn't be able to start that
+doesn't have any sort of depression. It
+hasn't no we have a book which is what
+I'm promoting tonight that has pictures
+of that very engine the cylinder head.
+You can see the valves and it's quite
+easy to look at it. It's an oldfashioned
+you know four stroke engine. It's quite
+a few years old. Um it's not designed to
+run with a sort of an advanced timing
+that it has. It shouldn't be possible.
+It simply shouldn't be right. And the
+only way it does is because of the ender
+reaction, an implosion that happens.
+>> No, I was going to.
+>> Not tonight.
+>> We were hoping tonight, but these things
+take time.
+What what's the relationship between
+your voltage and your amp?
+You finding that running small voltage
+or high ampage. What are we talking in
+the cell?
+>> In the cell itself.
+>> Um that particular cell with with the
+wood I'm using about 250 300 milliamps
+12 volt.
+>> Is there any in the cell?
+>> No, not not a power. It's only three W
+or something.
+>> [clears throat]
+>> What happens if you actually press the
+the air press?
+>> You you don't really need to um
+with with a cell and this is where a lot
+of people that have that have built
+water fuel cells or chose cells where a
+lot of things have gone wrong is they've
+been chasing bubbles and we don't need
+bubbles and and therefore the amount of
+electrolysis we need is a fraction of
+what people thought we needed. We start
+off by putting charged water into the
+cell. So it's fully charged before we
+put it in there. From then on, every
+voltage that we apply to the cell is a
+conditioning voltage to get the dutium
+from the water into the steel.
+>> So about some of the cells where they're
+using
+>> well they're not working. They're
+looking for
+whatever.
+No, Joseph certainly isn't looking for
+that. And I mentioned in the in the
+video that the gas that comes off of one
+of these things is so so minuscule
+position will display the um the the uh
+screen
+uh on the computer that shows the
+condition of the cell. You've got a
+fairly elaborate um piece of software
+and hardware.
+>> Yes, but I can't bring I guess I didn't
+bring my computer systems.
+>> Okay, fair enough.
+>> Uh there was a quick glimpse of it.
+>> I started off like everybody else did
+with with Joel. I saw something on the
+internet. I water and and I start off
+the hard way and I went through and I
+got up in the middle of night and
+charged water for 3 minutes went back to
+sleep for two more hours and like a lot
+of you that have played with Joe says
+it's better takes a lot of time. I then
+thought there's going to be an easier
+way. So I bu interface [clears throat]
+um I then wrote some software that could
+do variations on charging and what I
+realized was there is a relationship
+between the residual voltage in the cell
+and the conditional or the charge of the
+cell. So I came up with what I call a
+full life and a half life formula. Now
+what that that means is that we can
+charge any cell with any water for 1
+minute just straight 12 V and then we
+can measure that voltage 1 minute later
+and that's called our full life voltage.
+We can wait another 4 minutes and
+measure what that voltage has dropped
+off to and that is our halflife voltage.
+Now every time we charge the cell and we
+do that in accordance with another very
+simple formula. Every time we charge the
+cell, it takes longer for that halflife
+voltage to drop off. So, initially,
+because of how the formula worked, it's
+5 minutes, but it's not long before it's
+25 minutes, and then it's an hour. So,
+we're charging it the same amount of
+charge each time, but the duration
+between the charge gets longer and
+longer, and that's to do with the the
+surface charge, the material in the
+surface of the steel being absorbed into
+the crystallite structure.
+So, it it's quite an interesting
+formula. What it does, it takes all the
+guess work out and all of you people
+that have have charged looking for
+bubbles. The simple formula will get
+those wonderful bubbles within a day or
+so very easily repeatedly.
+Do
+>> you find that um
+effectiveness of the cell increased with
+the engine?
+>> Sorry, with the load applied to the
+>> No, I can't say I've really tested that.
+Um
+>> could you repeat the questions on
+>> Okay. The gentleman asked whether um
+there was an increase in effectiveness
+of the wood fuel cell on the engine when
+a load was applied to the engine. Um
+it's it's not something that I tested to
+date. I always run the generator. I say
+always that's not true. Most of the time
+I run the generator the load. Uh you saw
+in the video a little 250 W hogen lamp
+on the generator. Uh the reason for that
+is that even the fuel with the car in
+one of these things will make it run for
+several minutes without a lot of idle.
+You don't use a whole lot of juice.
+Well, I I'll tell you why I asked that
+question because when I experimented
+with the job set, I had um I was
+expecting the um the car basically to
+run and id like most people do and um I
+was able to to increase the on
+the idle time on just one float chamber
+of content to uh about 6 and 1/2
+minutes, but normally it's about 1 and
+1/2 minutes, which I thought there very
+good but I was never left up when I was
+trying to run the engine. Uh then under
+load I wasn't able to turn turn the fuel
+off until one day when I was going about
+100 km an hour and I had written the
+load on the engine and just because I
+had a fuel just turn it off. Yep. And it
+would then keep running enough I drove
+for about 10 15 km and then as soon as
+the load dropped below a certain level
+that it I had to turn the fuel on again
+because there was it would only work
+above a certain load not below. So I was
+able to actually drive with a fuel up
+inclines and not up the freeway and all
+that. Not actually driving under under
+low conditions. And that was for a year
+[clears throat]
+advance on the distributor itself. What
+sort of timing you
+>> I don't I I don't know other than I know
+that I had to actually um the machine
+the foot got the distributor away
+because the the um slot wasn't long
+enough was it was way way past
+>> but but that was um after quite a while
+initially there's no way you can get
+running after the sale was on there for
+[clears throat] quite quite a few weeks.
+So you had advanced timing. Did you have
+any problems with it or
+>> No trouble with the flight?
+>> No, I did not. But that was no
+condition, but it would only really work
+under
+a certain when they when I was doing
+about 65 km an hour constant turn the
+fuel off in the bath but not below which
+is which is counter to what you would
+expect. That's why I'm asking the
+question. There there definitely seems
+to be a change in in the air
+requirements of the engine. Uh a short
+part of the video there I didn't think
+to make it obvious.
+>> It it may not be more air. It might be
+less air. When you look at the load
+situation and in fact the car is open um
+on the generator here part of the filing
+that you saw it running there was a
+thumb
+almost nowhere over the car that was Bob
+Cox's thumb blocking off the air intake
+[clears throat] to the car. Now normal
+generator refs blow on it and the
+carburetor virtually blocked off choke
+butterfly closed
+box thumb which is bigger than mine. his
+thumb was able to fit the whole hole.
+Virtually no air going into this engine.
+It shouldn't have even been able to run
+at those reps and yet it did and it
+would not run with normal gun. Another
+strange thing happens to me all the time
+is petrol won't flow into it. Doesn't
+matter what I do, I cannot get the
+petrol to go into the carburetor. It's
+like it's blocked, but it isn't. Uh and
+that seems to be when there's too much
+energy there. It just repels the petrol
+flow.
+So, but we're getting there.
+Okay. Another question. Um, you've got
+250 W
+and I've seen it myself. You say you
+have about 6 minutes worth of
+[clears throat] in
+the maximum time the machine has run
+powering that once you start to shut the
+fuel off. People have heard that
+I'll say an hour because many people
+have seen the hour. It's longer, but an
+hour is is and to me for something like
+this to run for an hour without a fuel
+tank connected, it's pretty complicated.
+Yes.
+>> Have you thought of any way how do you
+might concentrate the so-called dutyium
+before in the water before you actually
+start electrolizing at all or anything
+like that?
+>> Uh I don't know there's a need to when
+you um charge water repeatedly keep
+charging it becomes heavy water enriched
+water. Um
+and and that really seems to be enough.
+But when we put it into the cell, the
+actual electrolysis that's happening in
+the cell is also charging that water and
+creating more deterior. So how do we get
+deterior? Well, we know that all natural
+water has it. [clears throat] It's it's
+just there.
+We know that when we charge water
+through electrolysis, we create more
+deterior. Now the only difference
+between hydrogen deterior is an electron
+neutron. Uh we do know that in
+electrolysis we're separating hydrogen
+effectively oxygen. Oxygen's got uh
+seven or eight neutrons. Someone tell me
+>> eight. Thank you. I get these numbers.
+I'm electronics guy. Some of this stuff
+is just beyond me. But you have to learn
+it if you try to be sure. Um so we we've
+got all the components to make material
+and I think science is quite happy with
+the fact that we do by charging water.
+Another thing is an idea of how much
+deterium do we need for it to actually
+go through metal. I'm talking did you
+have a blind connection on your engine
+or did you go to that
+>> blind blind connection to just
+aluminum
+uh block with about 1/2 in double it and
+that's where
+>> okay so the energy is going through the
+metal itself how much do we need 1/8 of
+a g of detium is the equivalent of 1200
+L of petrol
+so it gives you some idea of the bang
+that you get in detium Now on my engine
+there [clears throat]
+microphone but it's a blind connection.
+So okay I do feed back into the cell and
+this is the typically the cell that was
+on the roof.
+Come back to the microphone. I feed a
+vacuum through this very very small
+diameter tube. Occasionally I block this
+thing off and also the test to make sure
+that we're not running or having
+anything to do with the gas that's
+coming out of here. Very little but it's
+there. Um,
+no more tubes. This is solid cable.
+Okay. So, we're [clears throat] actually
+connecting to the engine via 19 aluminum
+cable and that energy is going through
+there. Uh, Ian Pagan, some of you would
+know who new put one of these exact
+cells on on his car a couple of days
+ago. There's a video on on YouTube now.
+Um, he did tests on on this little
+Corolla which hadn't had a sale on in
+the past. uh he ran it many many times
+and and he got 90
+90 something seconds repeatedly uh by
+switching off the fuel. The first thing
+he did before he put a cell on there was
+put a fuel cup so soft started ran it
+turned off the fuel time it repeated and
+repeated and repeated and got exactly
+the same time. Then he put a cell on
+there in his case the the cable is way
+wrong. Um, hooked it up. Couple of
+energizing charges,
+then turned the fuel off. We got 4
+minutes and 5 seconds.
+>> Just like, but it's from 90 something to
+4 minutes and five.
+>> From 90 seconds to 6 and 12.
+>> 6 and Well, you did better than Ian.
+Ian's been in the game for 10 years.
+Never had those sort of results. So, he
+was pretty uh [clears throat] pretty
+happy. It was a long phone call. So, it
+it happens. And we're slowly getting
+we're getting there. What I've managed
+to to do and what the book is about is
+to try and remove the reliability on
+visual effects. Remove the fact that
+we're looking at bubbles and put
+consistency in charge where we have a
+charge power formula. The gentleman
+asked how many amps and how many volbs.
+Every cell should should be charging
+about half a watt per square in of
+cathode.
+So with a simple power formula, it
+doesn't matter how many amps or bolts as
+long as you end up with about a half a W
+per square in cathode. Any more than
+that, you just extra cathode you need
+it. Any less than that, you still get
+there. It just takes a lot lot longer.
+So
+between the power formula for how much
+do we charge and all charging is based
+on the idea of half a watt per square in
+per minute.
+So if your current is a quarter of a
+watt, you charge it for 2 minutes. But
+if it's 1 W, you charge it for half a
+minute. So a very simple formula saying
+what is the right charging current. Now
+where people like Alec Schiff used to
+say charge a man.
+Now is great, but if you've got a 6 in
+by one cathode, you've got 18 square in.
+If it's 10 in by 2 in round,
+you got 30 square in
+somewhere around there. So, um, what
+I've tried to do is bring down some some
+constants so that I can charge this and
+I can tell any of you exactly what my
+charge power is and what my halfife is,
+the time it takes for this cell to
+deteriorate to that halfife voltage. And
+you can repeat that exactly and you can
+share your findings with others and say,
+"My engine's running and I hit this hard
+drive." As far as bubbles, read the
+book. You you don't want them. Um, BS
+put this down here.
+That's about the latest in in cell
+design. Um, it's seamless. Well,
+actually that one isn't, but the ones
+we're making now are two more seamless.
+And the finish is almost like chrome.
+They're just mirror finish. That stop
+edging. Um, and really stops building up
+in the cell. They just go for so much
+longer. Um,
+now as far as
+how many of you have done Joseph?
+Okay, that was a few. You've all gone
+through looking for these wonderful
+stage one and stage two, stage 3s. Could
+I interrupt for a minute? the owner of
+X153
+XPC375.
+Could you
+please
+meditation group was on the next floor?
+You're packing them in.
+[clears throat]
+And um when I did my halfife test and I
+do my computer volume and I got all
+these results I got them whether I had
+bubbles or any bubbles. So they looked
+into what make bubbles and they do the
+research on where does the rain come
+from? How does it happen? How does it
+fall? What happens to it? Turns out that
+all plants or almost all plants that
+have leaves have an immune system.
+That's the reason that fungus and mold
+doesn't grow on a leaf. Grows on the
+ground not on a leaf. They secrete what
+what they call a sapion, which is a
+natural form of surfactant. It's another
+word for soap.
+So all of this rain that we get at the
+top of the mountain stream that's come
+off the rainforest that's come over the
+paddics has picked up all of this
+natural soap. And it just happens at
+that stage to have not too many
+pollutants and to meet a lot of our
+other requirements.
+But
+we got this cycle and when we start
+using that water in these cells, we get
+these bubbles that seem to look great
+and they work. Uh they do absolutely
+nothing for the production of the energy
+or vibration of the cell. So
+power [clears throat]
+you call a deteriorating battery
+but it doesn't deterior
+Sorry.
+Oh, when we're talking, we're not we're
+talking pure voltage.
+Uh the the residual voltage, you put a
+charge on itself, we'll stick 12 volts
+on it for a minute and we wait a little
+period of time and we measure that
+voltage. Now the case of this cell it
+varies from cell to cell but it's pretty
+consistent with a particular cell and a
+given water.
+So that cell with the water that I
+process that I use
+um the halfife voltage is about 1.2 vol
+which means when I charged it I'm not
+going to charge it again until the
+cell's voltage has dropped off to 1.2
+volts.
+Uh and this is a very simple formula
+that that's in the book where you do two
+initial readings. You get the full life
+voltage, you get the half life. The full
+life is the one minute after a charge.
+And this is initial charge when we first
+put it together. When you connect back
+into one of these cells, the voltage on
+it will go up to the full life voltage.
+It's kind of uncanny to watch, but all
+of a sudden you've got this thing going
+up in voltage, not down. Um, and now the
+very very crazy thing is current can
+come out of them and not into them when
+you're charging them back in. If you've
+actually got engine running, the
+generator's running off this and the
+computer connects to charge. I often get
+the current coming out, not going in.
+So just another
+surface area of the cells is what's
+creating hydrogen. Um friend here has
+got uh the latest design that we sell in
+square plates. So you get more surface
+area if you put square plates in uh
+rather than the round plates. Another
+question I've got is um a more exotic
+metal. Wouldn't that uh encourage the
+hydrogen to be produced? In other words,
+if the plates and there were plated with
+say nickel, the nickel is going to
+encourage more hydrogen production. And
+the other thing that that's amazing,
+you're charging the water. Is it
+possible that you're restoring the
+memory back in that water?
+>> That I don't know. I really haven't
+looked into the memory storage part of
+it. I watched the videos. I've seen the
+crystals growing, etc. I haven't
+researched it. Um, as far as the square
+plates or flat plates, the reason that
+we have the shape we do with with a
+water fuel cell is
+cell. We've got cylindricical cylinders
+one inside the other. Each of those
+effectively becomes a battery. Okay, we
+get where it's fully charged about 800 m
+volts across each of the gaps. Um, and
+half life is about 400 m volts at each
+gap. That battery that's inside the cell
+tends to stop the
+that battery that's in the cell tries to
+stop the material from returning back
+into the water. So what the neutrals
+actually do uh act as as a barrier to
+keep the charge within the cell.
+So if we go to square plates, we really
+don't have the same setup and we can't
+keep it as charge. Having said that, you
+can put an external control voltage on
+it and keep it charged without neutrals.
+You can build one of these and make it
+work without neutrals. It's just harder.
+So you can have as as many neutral
+positions in a square
+separated from each other.
+>> If they're flat parallel plates, the
+problem is that we're accumulating
+detium on one plate on one end only and
+we need a mechanism to attract that off
+of the metal and out of the environment
+without going back to the cathode. The
+construction of this is just ideal for
+doing that. And when you're in a flat
+plate environment, you really can't stop
+that. And it's much harder to stop the
+cathode effective cathode in plate from
+leaking through all the others. Unless
+you try to convert it by voice or
+something into a Joe cell, but it's not
+going to work as easily. Uh with such a
+simple format, there isn't one.
+What was the other part of your three?
+Yeah, the nickel
+never looked at nickel looked at nickel
+a very exotic sort of material and it
+does encourage in certain um conditions
+gas production.
+>> The nice thing with stainless is that
+when we get to these mirror finishes we
+don't get itching. It's fairly dense
+metal. Uh people have had a lot of
+success with aluminium especially
+aluminium tops. Um, anyone here made an
+aluminium cell or an aluminium top cone?
+Nothing. You have. You have. Okay. Both
+have any Well, you've had success. Did
+you have any success with yours? No.
+Okay.
+>> The key was the aluminium.
+>> Yeah.
+>> The advantage of aluminium uh is that
+being a soft metal that deteriorates it
+and migrates through it very easily.
+as the angle and and I've heard a lot of
+people talk about pyramid tops, cone
+tops, 45°. I've bought them, I've made
+them, I've tried every one of them, and
+I haven't measured any difference to a
+flat top. And I'm not saying there isn't
+a difference, but personally, there
+there's been no operational difference
+for me personally over a straight flat
+top. And the flat tops about a tenth of
+the price to make as of even something
+like one of those tops, which is 8 mil
+thick.
+uh a lot easier to make. Um
+the direction that I'm starting to go
+now and Bob and I were talking about
+about this couple of days ago was
+laminations where the water surface is
+in contact with a half a mill of
+stainless that's there to uh for the
+electrolysis to stop corrosion itching
+all the things aluminium has but
+literally aluminium [clears throat]
+bonded to the stainless so that we've
+got the um lower density the structure
+for the dutium to migrate through.
+It's just a case of getting the numbers
+right, getting getting the thickness
+right, getting it working. And you got
+to try these.
+>> What was interesting was the aluminum
+tops which I made cuz they were solid
+machine
+tops. Um [clears throat] that after
+after a while the cell was operating for
+a while the the actual alum that was
+subjected to the inside of the cell
+forms a almost black sort of pentite
+coating on it.
+>> Okay,
+>> which is very hard and is nonconductive.
+there was not
+and and that was also when the cell was
+at it full effect and when it was once
+[clears throat]
+you've got copper in it where you
+separate the copper from the aluminium
+uh you find a lot of green
+wouldn't be green and and this was
+totally non nonconductive
+was not green.
+No matter it was like
+excuse me with the car that
+uh yes it was. Yeah. Yeah. Actually I
+grab my center
+>> and then
+there neutrals.
+>> Yes I had neutral.
+about
+what I what I would invite people with
+you to do that have worked on Joe within
+one sec um share with me if you could
+what successes you've had and what
+variations I spent some years in my shed
+knowing nobody that worked with these I
+read little bits on the internet came
+across Bob absolutely by some tools one
+time um and and got to know him and
+therefore meet some of you and others in
+in the
+But I have very little hands on with
+other people's views and therefore
+things like the aluminium tops or
+graphite centers. They're things I
+haven't explored because there's a limit
+to what I can do in a [music] day. Um
+but I'd like that feedback. I don't need
+to reinvent. If you tried something that
+didn't work, it saved me a lot of time.
+If you tried something that had positive
+results, help me in that direction.
+Now,
+sorry. What color is this showing on
+any
+brown or maybe black?
+>> Cuz I because I run it out of fuel.
+I turn the fuel off. Literally put my
+hand over the end of the car, pull it a
+few times. So the first time I turn the
+ignition on, she's saying we should
+flood. It's not funny.
+>> The only thing I was asking for is that
+you know me and the motors have been
+running perfect just conventional rings.
+>> Sorry,
+>> they running perfect still rings or saw
+everyone runs conventional rings.
+>> That's just I don't know about the
+piston
+rings. What I'm asking is if on that
+implosion that you're saying is maybe
+that maybe it's pulling a fraction of
+oil vapor up that it's actually
+partially using that as
+>> I have little doubt. Well, I don't know
+about about fuel because the oil level
+certainly does not go down. So my same
+>> if it's that my gladly buy all petrol
+GTX,000
+the combination was you saying that
+starting from
+>> yeah it could well be with an
+endothermic reaction where we got this
+inflation and I think that's really why
+they had no compression with general
+said that it should be kicking back just
+occasionally
+with Ken Occasionally I'll pull it and
+and this is like one in the hundth ball
+and it kicks back and what you know
+about it's enormous. It's huge. Uh most
+of the time there's just no compression.
+So that implosion that starts must
+logically take oil past the rings. We
+must be consuming some oil. But I've
+never had to replace oil in it at all.
+Well, I I just recall that when Bruce is
+Bruce there or you were there when I
+gave myself to you and you might recall
+what I tell the story what happened to
+your car was was the oil.
+>> Yeah. When um was sold early
+when I used it on the car, the actual uh
+exhaust went really oily. It was that
+bad that uh when I pulled up a traffic
+lights, you could you couldn't
+[clears throat] see what was behind you.
+It was as though similar to if you break
+a ring, crack a ring or something. It
+was that much.
+>> The explosion was sucking oil up past
+the rings and and
+>> burn.
+The interesting thing was that um Joe
+had said previously that if you have any
+problems, get a lead, go from the
+positive of your battery and just arc it
+onto the block and it will get rid of
+the charge. And I did that and instantly
+the oil smoke stopped. But it came back
+over a period of a couple of weeks. It
+came back again. I arked it and went
+away again. In the end, I took the cell
+off and it still did it. And it was only
+after I drained the water out of the
+radiator and the block and put fresh
+water back in that the oil oil smoke
+problem didn't reoccur.
+Okay.
+>> Well, first of all, thank you for
+telling me that 6 months ago because you
+saved my
+tool
+came over one evening 25 or 6 months
+ago. Uh, I had a cell on on the van, not
+for a long time. Um, we done a couple of
+trips and I took the cell off the van
+and a couple of the effects didn't go
+away. It used to go into city finally at
+um, how many RPM? 200. Yeah. Just just
+way slight lower than it should have
+been to the point the ignition light
+come on. So the light side
+was already going [clears throat]
+and it it did this where it felt like it
+for a long time. I couldn't stop it. I
+just could not stop this thing from
+dropping off into absolutely smooth. So
+smooth. Smoother than normal 800 RPM.
+Just down [clears throat] it goes. And
+Bob's got his head up there and he's got
+his ear on the exhaust pipe, but it's
+running as smooth as would be. And I
+think Bruce, you were the one that told
+me to zap the crank. And I did want to
+zap the crank as normally. Thanks for a
+normal vehicle, Bruce.
+>> Anyone else? Uh uh 3116 by the way has
+between 3 and 6% copper.
+>> Yes.
+>> Okay.
+>> So could we be using that?
+What we're doing is is well do we need
+do we need to use anything else? We we
+believe deterior is our energy. It
+certainly has
+enough energy. An eighth of a grand for
+1200 L of petrol. That's pretty powerful
+stuff. Um I've got another video here
+which if you wish to see it's 10 minutes
+long. It was a presentation by Barry
+Hook. Uh it looks at the Joe settle and
+perhaps back in the early days uh he
+spent time with Joe and had access to
+Joe cell talks about what he found. He
+concluded that it may be deteriorating.
+That's how I originally got to thinking
+about it. Then when I learned about
+endothermics and so on, it fits. Uh but
+he also talks about the the power of
+deterium. A thousand times more energy
+in deteriorum than uranium which is
+powerful stuff you know
+it's about a million times more than
+petrol some crazy crazy formulation
+energy but you don't take those numbers
+just the proportions.
+Yeah but I'm just trying to make some
+sense of physics and chemistry. Yes,
+there is an enormous amount of energy
+healing, but that only when uh fuses
+performing
+and we're talking about a a reaction
+that normally takes place
+and and huge experiments of fusion have
+been very difficult
+and to step back to try and make some
+sense Because the only way I can see
+deterior being formed is that you get
+atomic hydrogen that is not molecular
+but atomic hydrogen for initially
+normally in the presence of other
+then electron
+um which is somehow
+uh join with another spare hydrogen
+presumably another atomic
+The net result of that should be a net
+positive charge on the cell. Have you
+noticed that? The other question is I'm
+trying to figure out is the only way I
+can see this run unless we're going for
+reaction
+anything.
+Um so that's
+the case. uh my thing that's got nucleus
+perhaps it's actually
+nitrogen and oxygen
+that's more like yes so that's why I
+asked the question about exhaust gas so
+>> I never have I don't have
+uh there is I didn't bring in the Barry
+tapes he talks about
+guys name
+experiments on HH gener ation
+environment
+where where they were able to and they
+measured 350% increases in helium in the
+exhaust while we're in the car.
+So there's there generation which
+supports all the rest of it as far as
+creating the detium. I think it's
+accepted knowledge. The Germans did it
+in World War II. You just keep charging
+water, you get material.
+>> That that was a convention electroly
+and so it seems to be more comes out.
+Then you burn that water
+from the process. The amount of material
+in this mattress is extremely small.
+>> That's there, but we don't think we can
+make detium
+to occur as an electron and a neutron.
+>> Well, have to combine those and then
+latch them on.
+>> Yeah. So, right on the wall of our cell,
+we separated hydrogen and oxygen.
+Oxygen's got the neutrons. You got heaps
+of electrons.
+>> Well, that would be an unstable oxygen.
+>> Not necessarily.
+I don't know if that's a state or not.
+>> I don't know either.
+>> You're a bit of my knowledge here. I'm a
+humble cell builder.
+>> My guess is coming from the electron.
+>> Okay.
+>> That was from
+don't know. I really don't. I mean, if
+there's specific questions of that type,
+I'm happy to Google them and try and
+help. You work through them. But to be
+truthful, it's not chemistry is not my
+field. I didn't know what deterior never
+heard of it. It's something where you
+hear, you look, you Google, you live on
+the internet and you research. How do we
+lose compression? Endothermic reactions
+give you compression. What can cause
+that? Then we work back to somebody
+else's suggestion. Did you nitrogen? So,
+you get it from both ends. And the other
+thing is an object one of uh
+my books. This is
+the book. Um
+don't mention this in the book and
+didn't go on until we were just talking.
+This is process and the water in a fish
+tank. It's an ionization mole charging
+process I came up with that gets the
+water just right every time. One side of
+the tank is always about 10% higher in
+the water level than the other. But
+there's a hole between the two parts. So
+one side's about 10% heavier than the
+other and deterior%
+heavier
+supports that we're making it. And the
+figure it's not a mention of it in
+there, but I've seen it a thousand
+times. So
+sort of unexplained
+scientifically
+happening is just that water.
+It's come back from from there was a an
+article in the in the local paper which
+the hospital is now using um electrolyed
+water as clean agent. Now there's many
+other other cleaning products and they
+find that that is the best cleaning
+of thing that they can use that just
+basically removes everything which is
+fishing part of ioniz membrane with
+electrode either side of the membrane
+can't be that boring
+with an ionizer on either side of the
+membrane. What we do is we uh basically
+break down water molecule from 13
+modules six. Now we end up with a
+proportion of those molecules that are
+alkaline and the others acidic. Uh in
+Japan all hospitals they drink the
+alkaline water
+you can buy machines for it but it's
+standard that they drink the alkaline
+for health purpose. You go to a Japanese
+hospital
+water it's alkaline ionized water and
+they clean all the hospital stuff up
+with positive water. So
+>> yeah,
+>> when you're running on the engine,
+did you record any of the
+um I don't have a thermal
+gauge? I guess I had a friend that
+exhaust.
+>> No, you do get it on the on well the
+highest point of combustion engine.
+That's where the flame's coming out. In
+the case of air, there's so much air
+being blown over the head. Things aren't
+real combustion surface temperature
+anymore.
+Uh, normally you touch an exhaust just
+for a second and you got to burn. She's
+up at 730 something. Tell us what's
+exhaust 730 something on petrol.
+>> It's hot. It's not
+that depend on. Did you measure the
+outlet tools or
+would be about 200?
+Well, 70.
+I was quite surprised actually when I
+saw 70. I thought is that all how the 70
+is quite warm when you put your handle
+up for birds. It's still way less than
+it should be now. How do we not have the
+heat? Endothermic reactions absorb heat
+taking the heat of the reaction. Uh
+personally 70 is the only factual number
+I have, the best I've seen. Um, I've
+I've read what I believe is credible
+information from people talking about
+frost and exhaust.
+Uh, engines running so cold that they
+frost.
+Now, if I can get down to 70 where I
+shouldn't be, I can't somebody saying
+that right down the other end. And if
+we've got full reaction, it's consuming
+heat. It can also consume ambient heat.
+We can get down below.
+So can't dismiss it.
+>> Yes.
+>> A couple questions just on the cell
+itself. I top the cap is actually
+isolated from the other
+>> the top of the cell.
+>> Yeah.
+>> No.
+>> In that actual instance, it's got a
+rubber band in there which I don't
+normally have in there. Okay. I'm
+showing this whole assembly because of
+the clamp that goes around the outside
+part.
+Um,
+this is the easiest seal.
+That's the top.
+And that's got a seal. But from an
+energy point of view, we've got this
+relative stainless cast touching all
+surfaces. So we've got induction in the
+same way our goss
+neutral tubes in there.
+>> Yes.
+>> Is there any particular reason why you
+only got two and not three or only one?
+>> I don't think there's a need to have
+more than two.
+um all we're doing with neutrals.
+Barry Gilton's work found that he
+couldn't see a reason why we have
+neutrals. As I explained earlier, the
+neutrals are the about 400 mill
+on each of those neutrals. What that
+potential is doing is keeping that
+material in the metal on the outside. If
+there's nothing else to stop it, if
+there's no potential, it's just going to
+come back to the cathode and back into a
+natural balance. So electrons [music]
+are also trying.
+So
+they just go and keep the balance. Now
+having said that, I put it a step
+further this week. Um you're all
+familiar with the fact that you have a
+gap at the uh engine end of your host
+pipe or cable or pipe or whatever you
+connect. If you have a gap on the
+engine,
+we don't have a gap here. We can connect
+this cable.
+absolutely directly hard connected to
+the block. Now, we used [music] to have
+a gap because 12 volts went on here and
+the blocks are ground.
+But what I found this week is connect
+that solid and put a negative voltage on
+the cathode separate supply positive to
+the block, negative to the cathode. So,
+we're running this on a floating supply.
+We no longer need that gap. And boy,
+does the energy get out quick. It makes
+a huge difference to the way things
+work. So just one little simple step
+that's not even books
+are a month old saying hey [music]
+there's more but
+no exactly the same instead of having
+cell going to the car chassis and up
+here we have a separate supply where we
+put positive gear which happens to be
+connected to the engine and now the
+cathode which is needed
+doesn't go to the chassis go
+12 actually
+I think 6 to 12 in and 6 24 hours. So if
+you want a little bit more, but I
+believe it's a switch flight. Don't
+quote that. You have to get the I just
+logged on for for what do
+you have to switch?
+This is the man.
+Anyone else? Yes.
+>> Over the period of Joe cells, there's
+been a lot of talk about insulators. Can
+you just tell us what you found be to be
+the best with insulators? Uh first, we
+don't have external insulators.
+Okay. You don't have insulator layers
+between this outside neutral and the
+circle. That's a big must. make the cath
+strong enough to take everything without
+having
+um
+is is I think probably the best having
+said that I promoted teflon made teflon
+sold teflon sometimes um there's really
+not a lot between teflon you know
+electrical insulated quite a bit um
+insulators by the way people think of
+insulator breaking down electronically
+it doesn't if you look closely where
+it's edging and how it's edging. I think
+it's the deterior
+back to the center to balance things
+back up and there's no cell potential
+there in the the water the electrolyte
+is simply not where the electro
+is and that's why they edge where they
+shouldn't edge. So teflon's great. It
+does hold it nicely. Really bonds. If
+you put them together, it's impossible
+to get them apart. You just shouldn't
+get it right now. So,
+is that it?
+What about when you first met you
+talking about your band?
+What particular
+I don't like talking about my I don't
+provide these sales for my accounts. I
+have to be very honest. You won't see
+anything in the book that says put it in
+your car. Um I don't think the
+technology is reliable enough yet. And
+if it's going to pack up and kids on the
+ground, it's right for us to own
+experimental vehicles, but occasionally
+someone else uses the vehicles. Um
+humidity is a major thing with the cell.
+If it's raining, a running cell will
+stop. I often can't start that if it's
+raining. And and I think humidity is
+something I'm now looking how to make
+this this test outcome this problem. I
+got to sell it. It's in the book
+and I drove over to Meadows which I had
+several times. Now my old van is is an
+84 camper.
+It's a 2 L high convert to a camper.
+Things are pretty pretty weak. Um about
+40ks is the best way to go up Chambers
+Hill Road. Second gear absolutely fl
+it was instant.
+There was a need to say wow let's go. It
+was fun. Um we then drove up to zoo. um
+never intend to sell on board had fuel
+thinking about the cell my folks on
+board son
+so I go to the zoo when we came to the
+zoo I'm running out of gas so I flipped
+the switch and didn't realize that and
+suddenly it ran scient
+about 100 km later and on the way back I
+comment anything fuel this thing's
+flying up down heels
+now on that realization I went from
+skeptic to I'm amazed this really does
+happen there's something in this cell
+came out but on the bench for lots of
+experiments and my friend me was going
+on he open the generator take my
+generator he said the experiment 3 years
+and about a th000 p,000 p starts later I
+still generator with one day electric.
+But uh the reason I've still got that
+generator is I know absolutely
+everything that it does. The timing on
+it is a is a machined slide
+that's top center but actually it's
+about
+so
+exactly what the timing is. I know
+everything. When something changes
+because of an experiment being done from
+tube to cable, I know exactly what the
+changes are because it's run hundreds
+and hundreds of times consistently. I
+got over
+here.
+[clears throat]
+I I think that drying the air drying air
+is not a big a big process. Drying huge
+volumes of air can be a little harder.
+But as I mentioned earlier with with
+Bob's thumb over the car couple of
+millimeters of hole very very much
+running the lights four years ago. So
+maybe these engines really just don't
+need the
+that they're getting might be running on
+the super rich things and it's only been
+a week week and a half since we did that
+started up.
+We we couldn't get petrol. God came
+over. We said, "Let's start the
+generator." Couldn't get petrol to go.
+No blockages. Just nothing I could do to
+get petrol to flow into that car. And
+that's happened before. Build up of
+energy. Whatever won't go in. So I said
+to Bob, "Let's put our thumb over the
+car, block it off, to run nice and
+reach." Uh we really never did run
+bridge. We could only get the engine to
+run with car being blocked off. Just
+big thumb. That's what the photo was on
+on the video
+and it ran. So yeah, part of this
+development is we need to condition
+my sharpest.
+It's going to cost me a fortune replace.
+Yeah. Can I do a high flame?
+Well, Bob over here said, "Let's have a
+coffee while the sales
+we we were just doing lots of crazy
+tests. It's all right about what we
+find, but occasionally you look up to
+you and you say, "What will that do?"
+But you don't keep reviewing every
+aspect of it. You're not truly
+researching. You just go in one
+direction. So when I connected the power
+up to this with that
+was a big home top 5 in round.
+Uh we left for a long while wasn't even
+on charge at the time. Yeah.
+few minutes.
+Uh well, we don't charge for minutes. We
+charge in a lot shorter duration.
+Uh and we started
+I did and the cell was there and I
+simply saw a color change, heard
+nothing, felt nothing, looked at Bob and
+then looked back and realized the top
+was missing off the cell. Looked up and
+and that top that cone top, they're
+pretty thin. They weigh nothing. It only
+broke the uh asbestous, it fractured a
+wooden beam that goes through the tree
+and it push through.
+So that actually traveled 5 ft that cell
+with the fiber. Yeah. Just
+the cause was really nothing to do with
+the cell. Well, except it had a good bit
+of hydrogen in there, but it was the
+engine, the short.
+There was a backfire. Oh yes, that's
+right. That's what
+I say.
+The backfire did cause it. That's why
+now every
+H flash they're full of glass beads that
+made the HH flash won't stop the gas.
+Okay. Hydrogen doesn't burn any quick as
+well as the oxygen depends on what you
+get. So HA flashback absolute must. We
+got a cell that accumulated the hydrogen
+and on my slide here one of my slide
+wires just wore through on the slide
+when it came off the top.
+We had a point I called the string and I
+think it worked out that it sparked
+every couple of degrees and one of them
+would have been at a point where
+straight back up the tube bang I try to
+forget that but I'm really uncomfortable
+with [clears throat] working with some
+of these cells now if they don't flash
+the rest I just don't I won't start the
+engine very lucky I wasn't killed the
+force that it took to do that was just
+enorous
+so anyway
+Not not personally. I spoke to Western
+Australia um some time back that
+claimed to have a a diesel station in
+his power plant uh which his son made a
+sale with a car ignition coil housing.
+So it's as well from the general pretty
+small uh and he played it bank for quite
+a period of time. Um firstly they
+thought of it as as using extremely
+little diesel because the diesel
+consumption went down to nothing for
+months but then they realized they were
+actually out of diesel that kept
+running. But I I don't personally I mean
+I spoke to you seem quite credible but I
+can never experience person.
+So anyone else
+about there
+and I'm afraid you can't because the
+cells in bits and I discussed this with
+Bob beforehand. We didn't think people
+start.
+so close that I was kind of wor
+over
+the uh generator isn't connected up
+because I'm an electrician. I've got a
+few other people to do a few things, but
+that's the only things that have to be
+done. Then it can run on gas. Then
+Steven can experiment with a water
+cooled engine. This is going to be down
+your place for quite a while, I think.
+You're welcome to use
+that's a six uh 6 KVA um generator and a
+1200cc
+uh that's a 12 just laying at home or
+I'll use that one. It's taken a few
+months to put it together. I thought
+we'll run on gas and get rid of the car
+later on and just have the butterfly
+because as Joe point I pointed out to
+Joe I said you don't really need a
+butter but he said I never thought about
+that and it's such a simple thing. Why
+do we need a car? We don't need a
+butterfly. You only let air in. So
+that's going to get deleted. And the
+aluminium fell. Where is the couple of
+gentlemen there? They give me some
+aluminium in aluminium the other day.
+I'll make a block up.
+That's all we're going to hopefully.
+There's other things. These gentlemen up
+here, they've got a lot of aluminium
+spool. What we're hoping to do is to
+enase a cell with aluminium sport to see
+if it holds more detenting
+yourself and presenting your
+>> [applause]
+>> Yes. Price of the book. The price of the
+book is $49.95. Not that come up there
+said 99.9 or so. We all thought it was
+99, but it was 9,999.
+These are $49.95.
+Sorry.
+>> Gage is right. If anybody
+>> right, we'll bring it up. Look, there's
+a box of a box of books here and I'm
+looking after the sales of it. So, come
+and see me after if you want one or down
+the line. I've got some business cards.
+pretty poor quality one because uh they
+forgot to get printed by the boss. So,
+right. Well, thanks very much, Stephen.
+And um any other questions? Anybody
+really want to present something
+important? Yes.
+>> Bob, as a teaser for the people here
+that are new to it, why don't you
+mention what sort of car Joe was driving
+originally back in the '90s?
+>> I didn't ask him,
+>> didn't you?
+>> No.
+>> Wasn't it a Ford Escort?
+>> That was one of them. Also, the Rover
+V8. That was one of the first ones. Why
+don't you mention some of the strange
+effects you noticed in the car?
+>> Well, which one do you want?
+>> The inertial dampening one.
+>> Which one?
+>> The inertial dampening effect. When he
+had a tuned car running, didn't
+experience G-forces when you were around
+corners.
+>> Oh, no, no, no. That's not his car,
+>> wasn't it?
+>> No, no, no. That's a Scottish gentleman.
+He told me where he lived, but that's an
+interesting story again. It's supposed
+to go around corners without tip over
+and also get off the ground. Joe had
+been in it, but he wasn't interested.
+But I won't go into all that part.
+That's another story. And that that may
+come later because I think we're playing
+with this sort of stuff. You're going to
+come across that stuff because that's
+what that guy did. He come across that
+stuff.
+But Joe, that was not Joe's car. He was
+not interested. But actually Joe being
+for a drive, put his hands under the
+wheels. I'd like to know how did they
+steer it, how did they stop it, and
+things like that. that he said it was
+dead smooth over a real rough bit of
+corrugated bit. I've actually seen that
+bit of I've seen the rams which
+they put the tractor on the back of the
+the ute with before it went off the
+ground. So some straight things here.
+Joe's a fantastic bloke really. He's
+very open. He doesn't know what it is
+but he knows how to handle it which was
+be. And I was lucky enough to spend 2
+and 1/2 days with another gentleman
+here. You spent one week with him and
+been in touch with him for a long time.
+You've got a video later on I hope to
+show not tonight of the dragster that
+Joe had soal treated or put a cell on.
+And uh Joe showed me different dragster
+[music] field too. Very eye opening.
+It's not his vehicle though.
+But Joe did apparently 14 different
+vehicles including a diesel. The diesel
+as Steven said must have an ignition.
+And you must have still have that spark.
+Joe is a very strange he strange person.
+He's played with a lot of things and
+come across a lot of abnormalities.
+Victor's about abnormalities. He knows a
+lot of strange things out there. Well,
+Joe did all this up with himself too.
+There's a lot of abnies and I was
+permitted to take 3 days of talking with
+Joe and then my uh some friends actually
+transpose it to computer. My wife made
+some books and a few of you fellas have
+read these books. Well, you you
+eventually got accepted from another one
+of our members sort of thing in the
+roundabout way. Eventually, you gave it
+back to Joe. He would know all about
+that. Anyway, now has anybody else got
+something to present now? You've got
+some
+>> Yeah,
+there's
+interested in that video.
+>> How much?
+>> There we go. There's a fire. This one
+auction case.
+>> Oh, sorry.
+You're going to start the auction. So,
+has anybody got any stuff? Uh, yes.

@@ -1,0 +1,145 @@
+## Simply rewired power supply, from excellent forums energeticforum.com  http://www.energeticforum.com/renewable-energy/1211-radiant-energy-actual-results-2.html#post11046
+
+By Jetijs, 10-20-2007 (talking about Bedini systems):
+
+Kevin, in fact this was my first blown transistor over the three month period that I have been testing varioys SSG. I have built two SSG setups, one with a bike wheel and another with all parts made custom. Also I have built Ricks fan mod so that a big computer fan runs on a SSG circuit, charging batteries. In all this time I did not blow any transistor, till now
+
+Also I considered why the transistors blew. I figured out that this might have happen because of my variac, because when I experimented with joecells a year ago, the tube conditioning process involved using a simply rewired power supply like this:
+
+I could do this without a problem with other power supplies but never with my variac, there was always a spark. One electronic guy told me that the variac is wired a bit different and can’t be used like this. Therefor I probably acted harshly by saying that you can not add a ground/diode cable if you are powering your SSG with a powesupply, in fact you can, but do not use a variac like I did
+
+# See also this video by srawofni, (http://www.youtube.com/user/srawofni): Water Fuel Cell – Neutral Plates Explained,where you can see the Bubles still in place after power disconnected, a working JoeCell ! http://www.youtube.com/watch?v=3k0gCv2qY_A
+
+(to link the article above use: #JOEPOW)
+
+ ## ROBERTS, Glenn M. and NAM, Chau Kin – AUstralian Patent 2005,100,722 ; 01 Aug 2005. The Kinnam Water Power Cell (from anonymous pdf file)
+
+# Abstract: A water power cell is herein disclosed.
+
+There have been many fuel additives/boosters/supplements invented up till now, but the KINNAM ‘water power’ cell treats or charges water in a unique way so that the particular combination of gases given off convey a special type of energy to the internal combustion engines to which they are attached.
+
+Water is here used as a fuel supplement for existing fuels in this design. Electric current is applied as a catalyst, resulting is an increased performance of the engine.
+
+# Description:
+
+For communication and clarity, the power cell developped by Chau Kin Nam (Kinnam) in Hong Kong, based on earlier designs but substantially adapted by him, should firstly be defined by what it is not:
+
+It is not a hydrolysis cell for simply disassociating water into hydrogen and oxygen. No high voltages or currents are used – just 12 volts more or less is applied to the cell. Water is not used as a fuel substitute either, but as a supplement or booster. Thus not much water is used up from the cell, which can not be called a hydrogen cell either.
+
+However, the cell can produce a bit of hydrogen gas, which becomes a bearer of the relevant energy. It is difficult to relate the kind of energy produced in this cell to conventional science, as the latter does not really acknowledge that this energy exists. On the other hand, those of oriental culture may more easily be able to appreciate its intangible or ‘aetheric’ nature. There is sufficient documentary evidence that this energy does exist in nature.
+
+Chinese culture can of course already relate the aether to the other 4 natural elements: water, earth, fire and air. This is not as mystical as it may seem when it comes to this modern-day application. The most popular term here is ‘organic’.
+
+The Kinnam water cell is constructed in pairs of 2 cells described as ‘weak’ and ‘strong’. Each is made up of usually 6 stainless steel (food grade) cylinders, surrounding other cylinders of the same material.
+
+The main difference between the two of each pair is that the weak cell has concentric pipe (cylinder) surrounding the central one only, whereas the strong one has each of the 6 pipes surrounded by an additional one, whilst the central pipe stands alone.
+
+Also, the weak cell is usually made of stainless steel mesh, whilst the stronger one is constructed of solid stainless steel. Each of the pair however is contained within a pvc or similar plastic housing.
+
+Both cells’ cylinders are connected to a common electrical source (in parallel) both housings can also be connected via smaller storage buffer tank at their base, used to shunt/shuffle or regulate charged water between the two sides, as well as being joined at their top exit points via outlet tubes, as per the attached drawings.
+
+It is noted here that either the weak or the strong or both the cells may be used at once.
+
+The weaker of the pair is made of MESH cylinders, all separated by a spacing of at least their own diameter, set around in a circle surrounding a larger central cylinder of the same material, also likewise separated from them containing a concentric pipe like the outer 6, however each of the 6 outer cylinders has a large cylinder also surrounding them.
+
+In summary, these 6 separate cylinders and the innermost one are all electrically connected to one common source of polarity, whilst the pipes inside and outside adjoining these 6 are connected to the opposite electrical polarity.
+
+The strong one of the pair is somewhat the converse in design, that is: each of the outer 6 pipes are surrounded by a larger pipe, these being all joined physically and electrically to one polarity, whilst these larger ones have a smaller pipe at their common centre and a larger pipe surrounding them, all in opposite electrical polarity with the first-mentionned outer six.
+
+The weaker one is firstly supplied or fed from a separate water tank above it.
+
+The outlet from the Kinnam Cell is connected via a plastic or copper tube either to an opening in the air intake, OR connected to a blind fitting or blank plug on the carburetor housing. The latter means that there is no opening through this fitting into the interior of the carburetor or the interior of the intake manifold.
+
+Here there is NO physical opening needed between the output of the Energy Cell and the interior of the engine.
+
+It is concluded that the gas is passing THROUGH the metal of the engine housing, as in the pores of a skin, to reach the interior of the engine, since hydrogen is the lightest element of all.
+
+# Claims:
+
+The tests done use this water energy to supplement mechanical power in automotive engines, and have finally shown that the power can increase about 10%, while the waste exhaust gases reduce more than 50%, and fuel consumption drops by 40%. (about 60% of normal fuel usage)
+
+In these applications, we do not need to change the motor’s mechanism, but simply attach the outlet of the Kinnam Cell to it by the hose or pipe so that the engine adapts itself to completely absorb the input energy after some time (usually days to weeks).
+
+Water energy (endothermic/negentropic) and general thermal (exothermic) energy are different, the device operates while the temperature is quite low, therefore the mechanical life lasts longer and water energy itself also does not have many waste gases.
+
+(to link the article above use: #JOEKINN)
+
+ ## An Analysis of the “Joe Cell” from a Biodynamics Perspective, by Guy McCarthy, 1998  http://www.twelvestar.com/Sourceworks/Joe%20Cell.html
+
+Note: The “Joe Cell” (described in NEXUS magazine, Aug-Sep’98, pp. 43-46) is an electrical device attached to the carburetor of an ordinary automobile engine which allegedly enables it to run for extended periods with the fuel line disconnected.
+
+Biodynamics is a science of natural forces and agriculture inspired by the Austrian philosopher Rudolf Steiner. It pre-dates “Organics” as the original alternative to chemical/industrial agriculture. Biodynamics has achieved limited recognition in the United States and Canada, but is widely practiced in Europe, New Zealand, and Australia.  http://www.twelvestar.com/Earthlight/issue06/Biodynamics.html 
+
+# Water as a Storage Medium:
+
+The Joe Cell uses water as a storage medium, which, when charged above a certain threshold, collects additional energy as needed by the engine. The initial charge is not depleted as the engine runs, but will dissipate under certain conditions. This matches a key attribute of the biodynamic ether, which attracts more ether to itself once the local concentration reaches a certain threshold. Without adequate boundaries (or storage conditions) the etheric charge build-up will dissipate.
+
+# “Implosion” as a Motive Reaction:
+
+The motive reaction in the engine seems to be *implosion*, since the ignition timing must be advanced so far into the compression stroke. (Note that 80 degrees is nearly 2/3 of a typical compression cycle, which totals about 135 degrees in a 4 stroke engine.) Implosion may be considered equivalent to “a sudden condensation of the ether” which is also thought to be the motive reaction that creates lightning and thunder in the atmosphere. According to Biodynamic researchers, condensation is a state change from a more rarefied ether into a less ratified one, releasing energy in the process.
+
+Biodynamics deals with four states of ether which are equivalent to the four elements intuited by ancient philosophers:
+
+Warmth Ether corresponds to the Fire element
+
+Light Ether corresponds to the Air element
+
+Tone Ether (or “Chemical Ether”) corresponds to the Water element
+
+Life Ether corresponds to the Earth element
+
+In the physical world, substance tends to flow from a high potential to a low potential. This is what the concept of “entropy” and the Second Law of Thermodynamics are based on. But in the etheric world of living energies, the inverse is true. Ether is naturally attracted to itself and flows from low potential to high potential. This is why living organisms continue to draw nutrients and life forces into themselves while the rest of the world is supposedly running down. Ether penetrates substance, and substance influences ether. This dynamic interplay is essential to life on the physical plane.
+
+Under favorable conditions, the following etheric condensations will occur:
+
+Warmth Ether –> Light Ether, releasing energy as lightning
+
+Light Ether –> Tone Ether, releasing energy as thunder
+
+Tone Ether –> Life Ether, releasing energy as biological manifestation
+
+Recall that lightning and thunder sometimes occur independently of each other (as in “heat lightning” and “rolling thunder”), while at other times they are closely linked. Clearly any reasonable explanation for these phenomena must allow for both cases. The common notion that lightning and thunder are caused by static discharge between air masses is clearly untenable. A buildup of static charge in such magnitudes could only occur under extremely dry conditions; the typical thunderstorm is certainly not dry.
+
+The biodynamic researcher points to a well-defined cumulus cloud in mid-summer as the ideal collector of etheric energy. Hour by hour it grows, drawing abundant warmth ether from the atmosphere into itself as well as particles of dust and moisture. The cloud builds itself taller and taller, its boundaries sharply distinct from the rest of the sky. Eventually the cloud becomes saturated, turning darker and forming a mighty thunderhead. At this point, anyone who is familiar with weather patterns in open country is headed for shelter. They know that a violent thunderstorm could be unleased at any moment.
+
+Just a few months ago the author observed such a phenomena in central Maryland. The top of the cloud was puffy and brilliant white, illuminated by the late afternoon sun. In contrast, the bottom was flat and dark, laden with moisture. Great bolts of lightning began to crackle about its upper regions. The air felt clear and energized while all around trees were bending and twisting in sudden gusts of wind. When the storm finally broke it was both fearsome and beautiful, a mighty discharge of lightning, thunder, and rain.
+
+We can surmise that the Joe Cell becomes highly charged with etheric energy and that this charge is transferred through the carburetor to the air entering each cylinder. As the compression stroke begins the volume of air is compressed, causing a further concentration of etheric charge. Soon the air becomes saturated with ether. At this point conditions in the cylinder are similar to those within the thunderhead. The ignition spark, far advanced into the compression stroke, serves to catalyze a condensation reaction of the compressed ether. This sudden change of state causes the air mixture to contract sharply, generating power through the remainder of the compression stroke. Therefore the air mixture in each cylinder undergoes a structural change, not a chemical one, and the flywheel is driven by *suction* rather than combustion. With the exception of small amounts of vapor from engine oil and perhaps trace elements from the engine and muffler, the exhaust should be of substantially the same quality as the air intake.
+
+Since warmth ether is the most rarefied ether, condensation will have the effect of reducing or consuming warmth. Therefore implosion is a cool process, which tends to absorb heat rather than release it. This matches observations of the Joe Cell in which the engine runs cold. Unlike combustion, implosion is a “living” process, and as such produces no waste heat or by-products.
+
+# An Enhanced Orgone Accumulator:
+
+All three styles of Joe Cell are based on concentric, insulated cylinders. This is similar to the classic “orgone accumulator” discovered by Wilhelm Reich. Reich found that metals tended to conduct ether while organic materials tended to absorb it. By layering the two types of materials together, Reich caused a directional flow of ether to occur. The orgone accumulator was a six-sided box constructed with alternating layers of metal and non-metallic materials.
+
+The inclusion of a 1.5 volt battery to maintain the charged condition (and a 12 volt battery to create it) is an interesting variation on the orgone accumulator design. There is precedent for this idea in electrogravity documentation that has become available in recent years. (See the USAF report “Electrogravitic Systems” that was released in 1995 as well as patents by T. Townsend Brown.) The basic idea is that a charged condenser exhibits a tendency to move towards its positive terminal. This is thought to result from a net movement of ether in the opposite direction (from positive to negative). Therefore a static electric charge stimulates a directional flow of ether.
+
+The Joe Cell design implies a net movement of ether from positive to negatively charged terminals (i.e. towards the center of the cell and towards the engine).
+
+# Transfer of Energy to the Carburetor:
+
+The transfer of energy to the carburetor is accomplished by several different conductors including plastic, copper, aluminum and rubber tubing. The common material in all of these configurations is the *air* inside the tubing. This is consistent with the biodynamic view that oxygen is an excellent carrier of etheric forces. (Fertile soils are said to contain 50% air for just this reason.) The metallic carburetor housing would conduct the etheric energy to its interior surfaces, where incoming air would absorb it and carry it into the cylinders.
+
+# Conclusions:
+
+In conclusion, the Joe Cell offers a compelling view of how ordinary combustion engines might be modified to run on natural etheric energy. This could be an important direction for future research. Validation of the concept could be approached in three phases:
+
+– 1. Collecting a high concentration of etheric charge. For some ideas on how to accomplish this, see Geometric Energy Fields  http://www.twelvestar.com/Sourceworks/Geometric%20Energy%20Fields.html  which includes specific instructions for building resonant etheric devices.
+
+– 2. Stimulating a sudden condensation of ether by means of electric spark and measuring the implosion effect in a pressurized container.
+
+– 3. Achieving reproducible evidence of successive implosion events within a small engine mounted for laboratory testing.
+
+(to link the article above use: #GUY)
+
+ ## Sonoluminescence Primer:
+
+Sonoluminescence (SL) is the ultraviolet and visible light observed from the collapse of bubbles containing atmospheric air during the ultrasonic cavitation of water, although bubble collapse without ultrasound also produces SL light. SL from bubble collapse is related to the dissociation of water molecule during bubble nucleation. Bubble related applications include: sonochemistry, photoelectrochemistry, lightning, the Lenard effect and waterfall electricity, thundercloud electrification, Sprites, St. Elmo’s fire, ball lightning, tornado warning devices, and weather modification to reduce the intensity of tornadoes and hurricanes.
+
+SL is proposed caused by the cavity QED induced frequency up-conversion of IR radiation to the VUV. During bubble nucleation, surface tension forms a spherical liquid particle leaving an annular gap with the expanding bubble wall, the annular gap resonant at far VUV frequencies.
+
+At ambient temperature, the thermal kT energy of atoms and molecules is emitted at mid to far IR frequencies while bubbles having highly absorptive (or reflective) liquid surfaces suffice as high quality QED cavities having resonant frequencies in the near IR. Thus, the mid to far IR radiation from the particle is suppressed by the near IR resonant frequency of the bubble. The suppression of IR radiation might be conserved by the lowering of the particle temperature to absolute zero. But this does not occur as cooling of the particle takes time, and therefore EM energy cannot be conserved.
+
+The energy manifested by the Joe Cell is likely to be the same energy related to lightning, waterfall or steam electricity, thundercloud electrification and ball lightning.
+
+(to link the article above use: #JOEW2)

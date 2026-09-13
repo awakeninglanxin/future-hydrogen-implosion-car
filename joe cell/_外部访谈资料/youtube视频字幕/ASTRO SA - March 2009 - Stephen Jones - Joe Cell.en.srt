@@ -1,0 +1,7820 @@
+1
+00:00:00,400 --> 00:00:05,200
+set up the gear. We hope it works well.
+
+2
+00:00:03,040 --> 00:00:07,440
+I hope I can display that my knowledge
+
+3
+00:00:05,200 --> 00:00:10,639
+on the fuel cell is better than my
+
+4
+00:00:07,440 --> 00:00:12,240
+knowledge of setting up projectors. So,
+
+5
+00:00:10,639 --> 00:00:13,920
+without any further ado, I've produced a
+
+6
+00:00:12,240 --> 00:00:15,759
+little movie. It's about 20 minutes
+
+7
+00:00:13,920 --> 00:00:18,000
+long. It has a lot of cutaways and shows
+
+8
+00:00:15,759 --> 00:00:20,800
+other vision that it would take me far
+
+9
+00:00:18,000 --> 00:00:22,720
+longer to to display to you. So, best
+
+10
+00:00:20,800 --> 00:00:26,199
+thing is let's play the movie and come
+
+11
+00:00:22,720 --> 00:00:26,199
+back to it afterwards.
+
+12
+00:00:42,239 --> 00:00:47,200
+Hi Steve, this is Steve James [music]
+
+13
+00:00:44,719 --> 00:00:50,719
+the author of the book Water Fuel Cell
+
+14
+00:00:47,200 --> 00:00:56,039
+Secrets Revealed. Steve you're here
+
+15
+00:00:50,719 --> 00:00:56,039
+today to minister into something
+
+16
+00:00:57,120 --> 00:01:01,120
+secret.
+
+17
+00:00:58,960 --> 00:01:03,840
+Um
+
+18
+00:01:01,120 --> 00:01:05,680
+what you can do
+
+19
+00:01:03,840 --> 00:01:10,000
+uh take
+
+20
+00:01:05,680 --> 00:01:11,520
+very basic concept yourself
+
+21
+00:01:10,000 --> 00:01:14,479
+develop
+
+22
+00:01:11,520 --> 00:01:17,680
+formulas and theories
+
+23
+00:01:14,479 --> 00:01:20,720
+and make the process repeatable
+
+24
+00:01:17,680 --> 00:01:22,799
+opposed to having an idea or a concept
+
+25
+00:01:20,720 --> 00:01:25,520
+that really had no basis. people were
+
+26
+00:01:22,799 --> 00:01:27,200
+just unable to to communicate with
+
+27
+00:01:25,520 --> 00:01:31,520
+others just what they achieved other
+
+28
+00:01:27,200 --> 00:01:36,320
+than than referring to BS.
+
+29
+00:01:31,520 --> 00:01:39,360
+Um the fuel cell what is uh
+
+30
+00:01:36,320 --> 00:01:42,799
+what is it? Well, it's placed in a
+
+31
+00:01:39,360 --> 00:01:44,479
+number of stainless steel cylinders and
+
+32
+00:01:42,799 --> 00:01:46,560
+tubes
+
+33
+00:01:44,479 --> 00:01:48,560
+inside [clears throat] the other uh
+
+34
+00:01:46,560 --> 00:01:50,880
+water field
+
+35
+00:01:48,560 --> 00:01:54,040
+and a process of extracting energy from
+
+36
+00:01:50,880 --> 00:01:54,040
+the water.
+
+37
+00:01:55,680 --> 00:02:01,600
+So, what's the history of?
+
+38
+00:01:59,759 --> 00:02:06,040
+Well,
+
+39
+00:02:01,600 --> 00:02:06,040
+initially it was was discovered
+
+40
+00:02:07,920 --> 00:02:16,440
+They came across [music] this trying to
+
+41
+00:02:12,560 --> 00:02:16,440
+walk system
+
+42
+00:02:21,920 --> 00:02:28,879
+and change the shape of his we
+
+43
+00:02:25,599 --> 00:02:33,040
+for seem to work quite well. So Joe was
+
+44
+00:02:28,879 --> 00:02:36,560
+not able to bring it to um to any great
+
+45
+00:02:33,040 --> 00:02:40,360
+degree relative great degree. Uh I
+
+46
+00:02:36,560 --> 00:02:40,360
+really don't know a lot about
+
+47
+00:02:45,519 --> 00:02:54,640
+the interest in other fields and fields.
+
+48
+00:02:50,319 --> 00:02:57,760
+I've seen videos where he expressed
+
+49
+00:02:54,640 --> 00:02:59,840
+um that he didn't really know what the
+
+50
+00:02:57,760 --> 00:03:03,120
+energy was or how it worked, but it did
+
+51
+00:02:59,840 --> 00:03:05,920
+work. And that's what got me originally
+
+52
+00:03:03,120 --> 00:03:08,879
+interested. It was a phenomena that not
+
+53
+00:03:05,920 --> 00:03:10,959
+only Joe and others had been
+
+54
+00:03:08,879 --> 00:03:12,480
+had results with people who made engines
+
+55
+00:03:10,959 --> 00:03:15,519
+run.
+
+56
+00:03:12,480 --> 00:03:17,360
+So what have you done to um that perhaps
+
+57
+00:03:15,519 --> 00:03:18,959
+others haven't done in the past with
+
+58
+00:03:17,360 --> 00:03:20,879
+towards the development of the pure
+
+59
+00:03:18,959 --> 00:03:23,519
+self?
+
+60
+00:03:20,879 --> 00:03:25,680
+What I tried to do from from the
+
+61
+00:03:23,519 --> 00:03:30,080
+beginning
+
+62
+00:03:25,680 --> 00:03:33,519
+was to create formulas um methods of
+
+63
+00:03:30,080 --> 00:03:39,040
+measuring and methods of communicating.
+
+64
+00:03:33,519 --> 00:03:42,000
+So instead of um selling other people,
+
+65
+00:03:39,040 --> 00:03:44,080
+it all works on BS which has never been
+
+66
+00:03:42,000 --> 00:03:46,480
+the case. We're only involved with with
+
+67
+00:03:44,080 --> 00:03:48,400
+these people charging sales and
+
+68
+00:03:46,480 --> 00:03:49,920
+primarily
+
+69
+00:03:48,400 --> 00:03:51,840
+was all about what was on top of the
+
+70
+00:03:49,920 --> 00:03:53,920
+water.
+
+71
+00:03:51,840 --> 00:03:56,480
+I wasn't really happy with trying to
+
+72
+00:03:53,920 --> 00:04:00,480
+work with BS and it's pretty hard to say
+
+73
+00:03:56,480 --> 00:04:03,599
+somebody myself working.
+
+74
+00:04:00,480 --> 00:04:05,920
+What I did was
+
+75
+00:04:03,599 --> 00:04:08,400
+look a little closer at the electronic
+
+76
+00:04:05,920 --> 00:04:11,280
+aspects of the cell. What was happening
+
+77
+00:04:08,400 --> 00:04:15,280
+when I charged it? What happened after I
+
+78
+00:04:11,280 --> 00:04:16,880
+charged? Uh did did the voltage that
+
+79
+00:04:15,280 --> 00:04:19,359
+that the cell go across it? Did that
+
+80
+00:04:16,880 --> 00:04:20,959
+diminish instantly? Did it take time?
+
+81
+00:04:19,359 --> 00:04:23,680
+And what I found was there was a direct
+
+82
+00:04:20,959 --> 00:04:25,600
+relationship between the decay voltage
+
+83
+00:04:23,680 --> 00:04:27,120
+across the sample and the state of
+
+84
+00:04:25,600 --> 00:04:31,280
+charge.
+
+85
+00:04:27,120 --> 00:04:34,479
+Uh we were able to I was able to uh
+
+86
+00:04:31,280 --> 00:04:36,000
+build a a computer interface, write a
+
+87
+00:04:34,479 --> 00:04:38,320
+program,
+
+88
+00:04:36,000 --> 00:04:40,960
+charge the cell and then monitor it the
+
+89
+00:04:38,320 --> 00:04:44,000
+state of charge on the cell over. It
+
+90
+00:04:40,960 --> 00:04:46,320
+turned out to be many many months and
+
+91
+00:04:44,000 --> 00:04:49,759
+then established that there was not any
+
+92
+00:04:46,320 --> 00:04:51,840
+relationship between the state of charge
+
+93
+00:04:49,759 --> 00:04:54,240
+uh of the cell and the voltage that was
+
+94
+00:04:51,840 --> 00:04:57,199
+across it. But it was a relationship
+
+95
+00:04:54,240 --> 00:05:00,560
+that met the requirements of formula. I
+
+96
+00:04:57,199 --> 00:05:03,600
+was able to uh
+
+97
+00:05:00,560 --> 00:05:06,320
+create a formula that would say okay do
+
+98
+00:05:03,600 --> 00:05:07,840
+these measurements of these high levels
+
+99
+00:05:06,320 --> 00:05:09,919
+and
+
+100
+00:05:07,840 --> 00:05:12,479
+you can tell exactly how much charge is
+
+101
+00:05:09,919 --> 00:05:14,320
+in the cell or isn't in the cell. You
+
+102
+00:05:12,479 --> 00:05:17,759
+can also tell whether the cell is
+
+103
+00:05:14,320 --> 00:05:20,320
+leaking, whether we've got uh problems
+
+104
+00:05:17,759 --> 00:05:23,120
+where it's not holding a charge. uh and
+
+105
+00:05:20,320 --> 00:05:24,880
+none of these uh things were available
+
+106
+00:05:23,120 --> 00:05:27,759
+previously.
+
+107
+00:05:24,880 --> 00:05:32,759
+>> So what are the elements that are needed
+
+108
+00:05:27,759 --> 00:05:32,759
+to have a working fuel cell?
+
+109
+00:05:33,039 --> 00:05:38,880
+Uh or three criteria. The first is the
+
+110
+00:05:35,440 --> 00:05:40,960
+water. The water's got to be the right
+
+111
+00:05:38,880 --> 00:05:42,880
+water. Now when I say right water, I
+
+112
+00:05:40,960 --> 00:05:47,759
+developed a method of processing that
+
+113
+00:05:42,880 --> 00:05:50,639
+water or any to usable. Uh the second is
+
+114
+00:05:47,759 --> 00:05:52,720
+the construction of the cell needs to be
+
+115
+00:05:50,639 --> 00:05:54,080
+constructed within certain criteria, the
+
+116
+00:05:52,720 --> 00:05:55,600
+right certain metals and the right
+
+117
+00:05:54,080 --> 00:05:57,759
+thickness.
+
+118
+00:05:55,600 --> 00:06:01,199
+Uh and then the water is put in the cell
+
+119
+00:05:57,759 --> 00:06:05,919
+and the cell is energized by applying a
+
+120
+00:06:01,199 --> 00:06:07,919
+series of voltages until we uh cause the
+
+121
+00:06:05,919 --> 00:06:11,440
+deteriorate
+
+122
+00:06:07,919 --> 00:06:15,440
+into the steel.
+
+123
+00:06:11,440 --> 00:06:16,880
+Okay. about the water. What's water
+
+124
+00:06:15,440 --> 00:06:19,600
+table? There's something special about
+
+125
+00:06:16,880 --> 00:06:23,360
+the water.
+
+126
+00:06:19,600 --> 00:06:25,600
+Well, it's not that it's special water.
+
+127
+00:06:23,360 --> 00:06:28,080
+We just need water at the right right
+
+128
+00:06:25,600 --> 00:06:32,160
+part of the process. And although I
+
+129
+00:06:28,080 --> 00:06:34,960
+explain that a lot in the book, um
+
+130
+00:06:32,160 --> 00:06:37,120
+ideal water has often been called fresh
+
+131
+00:06:34,960 --> 00:06:39,759
+or juvenile water. Well, that's water
+
+132
+00:06:37,120 --> 00:06:42,000
+that's virtually just rain out of the
+
+133
+00:06:39,759 --> 00:06:43,919
+top of the stream somewhere. Problem
+
+134
+00:06:42,000 --> 00:06:46,479
+with that is it's almost impossible to
+
+135
+00:06:43,919 --> 00:06:48,800
+find. And even if you do find the right
+
+136
+00:06:46,479 --> 00:06:50,400
+location, the water you get there is
+
+137
+00:06:48,800 --> 00:06:53,120
+very different the day after a
+
+138
+00:06:50,400 --> 00:06:57,520
+thunderstorm to the day in the middle of
+
+139
+00:06:53,120 --> 00:07:00,400
+a drought. So, what I tried to do was
+
+140
+00:06:57,520 --> 00:07:03,120
+look at exactly what made water the
+
+141
+00:07:00,400 --> 00:07:05,520
+right water. First, we needed to have as
+
+142
+00:07:03,120 --> 00:07:07,520
+little contaminants as possible. And
+
+143
+00:07:05,520 --> 00:07:10,479
+we're not talking manmade contaminants.
+
+144
+00:07:07,520 --> 00:07:13,280
+We're talking uh
+
+145
+00:07:10,479 --> 00:07:15,840
+carbon type contaminants. We need the
+
+146
+00:07:13,280 --> 00:07:18,000
+water to have a reasonably conductivity.
+
+147
+00:07:15,840 --> 00:07:19,840
+Pure water doesn't conduct and therefore
+
+148
+00:07:18,000 --> 00:07:24,080
+doesn't put in electrolysis. So that's
+
+149
+00:07:19,840 --> 00:07:26,319
+not not going to work. Um
+
+150
+00:07:24,080 --> 00:07:28,800
+we need the pH of the water to be
+
+151
+00:07:26,319 --> 00:07:31,360
+relatively neutral, slightly acidic. If
+
+152
+00:07:28,800 --> 00:07:34,000
+anything, certainly not as alkaline as
+
+153
+00:07:31,360 --> 00:07:37,599
+it can be way downstream.
+
+154
+00:07:34,000 --> 00:07:40,880
+What I did was to develop a process
+
+155
+00:07:37,599 --> 00:07:43,680
+involving ionization where we separate
+
+156
+00:07:40,880 --> 00:07:47,280
+the water from its normal 10 to 13
+
+157
+00:07:43,680 --> 00:07:49,039
+molecules into six molecule classes
+
+158
+00:07:47,280 --> 00:07:51,199
+and in that process we're able to
+
+159
+00:07:49,039 --> 00:07:54,400
+extract what we don't want from the
+
+160
+00:07:51,199 --> 00:07:56,240
+water being long chain carbons and
+
+161
+00:07:54,400 --> 00:07:58,560
+the process doesn't really affect the
+
+162
+00:07:56,240 --> 00:08:01,919
+conductivity of the water or change the
+
+163
+00:07:58,560 --> 00:08:03,919
+pH. So what it means is that almost any
+
+164
+00:08:01,919 --> 00:08:06,800
+natural water By that I mean
+
+165
+00:08:03,919 --> 00:08:10,080
+nonprocessed water can now be used be
+
+166
+00:08:06,800 --> 00:08:12,080
+rain water, stream, creek, river water,
+
+167
+00:08:10,080 --> 00:08:14,160
+uh anywhere like that can now be
+
+168
+00:08:12,080 --> 00:08:15,919
+processed to the point where it's using
+
+169
+00:08:14,160 --> 00:08:19,199
+a cell.
+
+170
+00:08:15,919 --> 00:08:22,000
+Interesting. Um, so the cell itself,
+
+171
+00:08:19,199 --> 00:08:23,840
+what's now? What's about the cell
+
+172
+00:08:22,000 --> 00:08:27,680
+itself? How is it made? What's it made
+
+173
+00:08:23,840 --> 00:08:29,759
+of? Well, many things have been tried.
+
+174
+00:08:27,680 --> 00:08:32,880
+The best is stainless steel. There's no
+
+175
+00:08:29,759 --> 00:08:36,000
+doubt about that. A good cell will be
+
+176
+00:08:32,880 --> 00:08:38,800
+made in 360, which is a low carb, high
+
+177
+00:08:36,000 --> 00:08:40,800
+ground stance. The primary reason for
+
+178
+00:08:38,800 --> 00:08:43,519
+that is that it doesn't deteriorate too
+
+179
+00:08:40,800 --> 00:08:46,480
+much with the electrolysis which is a
+
+180
+00:08:43,519 --> 00:08:49,040
+primal part of of conditioning the cell.
+
+181
+00:08:46,480 --> 00:08:52,399
+Uh we don't have problems with corrosion
+
+182
+00:08:49,040 --> 00:08:55,600
+and rust. Um
+
+183
+00:08:52,399 --> 00:08:58,080
+the main thing with a successful cell is
+
+184
+00:08:55,600 --> 00:09:00,000
+having reasonably heavy metal. Doesn't
+
+185
+00:08:58,080 --> 00:09:03,360
+matter the cathode or the neutrals and
+
+186
+00:09:00,000 --> 00:09:05,920
+silver within the cell. The cell casing
+
+187
+00:09:03,360 --> 00:09:09,600
+itself either needs to be of a
+
+188
+00:09:05,920 --> 00:09:12,240
+substantial metal or have a fairly good
+
+189
+00:09:09,600 --> 00:09:16,839
+good top solid top solid top ring
+
+190
+00:09:12,240 --> 00:09:16,839
+assembly where the energy is taken
+
+191
+00:09:21,040 --> 00:09:26,399
+1.6 for 2 mil is fine. It's reasonably
+
+192
+00:09:24,720 --> 00:09:29,839
+important that the status is not
+
+193
+00:09:26,399 --> 00:09:31,680
+magnetic. we really just will not get
+
+194
+00:09:29,839 --> 00:09:33,680
+the results if it's if it's highly
+
+195
+00:09:31,680 --> 00:09:35,920
+magnetized
+
+196
+00:09:33,680 --> 00:09:39,680
+which is the reason going for 316
+
+197
+00:09:35,920 --> 00:09:42,240
+stainless. The other thing is that
+
+198
+00:09:39,680 --> 00:09:45,200
+I found that the seams or welding and
+
+199
+00:09:42,240 --> 00:09:46,959
+cell construction is is a big negative.
+
+200
+00:09:45,200 --> 00:09:48,880
+It really does affect the operation of
+
+201
+00:09:46,959 --> 00:09:51,360
+the cell.
+
+202
+00:09:48,880 --> 00:09:55,920
+Currently I use seamless stainless and I
+
+203
+00:09:51,360 --> 00:09:59,200
+find that is is by far better and a
+
+204
+00:09:55,920 --> 00:10:02,080
+pressure assemble cell where quite
+
+205
+00:09:59,200 --> 00:10:04,000
+literally the tops and bottoms are
+
+206
+00:10:02,080 --> 00:10:07,920
+pressed in
+
+207
+00:10:04,000 --> 00:10:10,560
+um in a fashion that we don't
+
+208
+00:10:07,920 --> 00:10:13,040
+and we have no no welding which affects
+
+209
+00:10:10,560 --> 00:10:14,480
+the working structure of the metal and
+
+210
+00:10:13,040 --> 00:10:18,160
+therefore affects the energy that flows
+
+211
+00:10:14,480 --> 00:10:21,040
+through it. So in having the cell and
+
+212
+00:10:18,160 --> 00:10:22,880
+the water and obviously getting them
+
+213
+00:10:21,040 --> 00:10:24,320
+together,
+
+214
+00:10:22,880 --> 00:10:26,240
+how do you actually get the cell to
+
+215
+00:10:24,320 --> 00:10:28,240
+work?
+
+216
+00:10:26,240 --> 00:10:30,640
+That's that's a three-state stage
+
+217
+00:10:28,240 --> 00:10:33,839
+process. The first thing is to have
+
+218
+00:10:30,640 --> 00:10:36,480
+yourself acceptable properly and clean
+
+219
+00:10:33,839 --> 00:10:39,200
+um to put in the charged water where the
+
+220
+00:10:36,480 --> 00:10:41,440
+water is has been processed and
+
+221
+00:10:39,200 --> 00:10:43,360
+electrically charged.
+
+222
+00:10:41,440 --> 00:10:45,279
+We first pull the water into the soil.
+
+223
+00:10:43,360 --> 00:10:49,519
+will then go through a stage of
+
+224
+00:10:45,279 --> 00:10:53,200
+energizing which is applying a voltage
+
+225
+00:10:49,519 --> 00:10:55,839
+for a given time and duration at a given
+
+226
+00:10:53,200 --> 00:10:57,839
+intervals according to the uh the
+
+227
+00:10:55,839 --> 00:11:03,279
+formula is the charge charge power
+
+228
+00:10:57,839 --> 00:11:06,720
+formula. Um and we we charge the cell
+
+229
+00:11:03,279 --> 00:11:09,040
+until its half life which is another one
+
+230
+00:11:06,720 --> 00:11:10,959
+of the formulas until it halfife stops
+
+231
+00:11:09,040 --> 00:11:14,160
+extending other words we have a fixed
+
+232
+00:11:10,959 --> 00:11:17,040
+half life at that point tip out the
+
+233
+00:11:14,160 --> 00:11:18,880
+water it's always got contaminants in it
+
+234
+00:11:17,040 --> 00:11:20,959
+mainly contaminants from the surface of
+
+235
+00:11:18,880 --> 00:11:24,240
+the stainless
+
+236
+00:11:20,959 --> 00:11:27,200
+putting fresh water uh and and it's time
+
+237
+00:11:24,240 --> 00:11:29,440
+to start using the energy from the cell
+
+238
+00:11:27,200 --> 00:11:32,560
+in the running
+
+239
+00:11:29,440 --> 00:11:35,200
+And is that all we need to do?
+
+240
+00:11:32,560 --> 00:11:37,360
+Seal thing that the water contain in the
+
+241
+00:11:35,200 --> 00:11:42,160
+glass forever or does it evaporate away
+
+242
+00:11:37,360 --> 00:11:43,839
+or uh the cell can't be sealed would
+
+243
+00:11:42,160 --> 00:11:46,399
+probably
+
+244
+00:11:43,839 --> 00:11:49,760
+it simply cannot electrolysis we create
+
+245
+00:11:46,399 --> 00:11:53,279
+gases hydrogen and oxygen the primary
+
+246
+00:11:49,760 --> 00:11:55,200
+gases. Um not a lot of gas certainly not
+
+247
+00:11:53,279 --> 00:11:57,519
+enough to run the engine in any fashion
+
+248
+00:11:55,200 --> 00:11:59,120
+even the smallest engine could run. So
+
+249
+00:11:57,519 --> 00:12:01,920
+the people that think that we've got a
+
+250
+00:11:59,120 --> 00:12:05,040
+hydrogen generator not happen near
+
+251
+00:12:01,920 --> 00:12:06,800
+enough. If we had no means of that gas
+
+252
+00:12:05,040 --> 00:12:08,800
+getting out there that would be enough
+
+253
+00:12:06,800 --> 00:12:13,120
+to create pressure and eventually
+
+254
+00:12:08,800 --> 00:12:16,079
+explode. So we do have to have a a vent
+
+255
+00:12:13,120 --> 00:12:19,760
+and that vent must be fed through a ho
+
+256
+00:12:16,079 --> 00:12:22,560
+or hydrogen flashback
+
+257
+00:12:19,760 --> 00:12:26,639
+so that the gases that are produced can
+
+258
+00:12:22,560 --> 00:12:28,560
+be vented from the cell um safely. And
+
+259
+00:12:26,639 --> 00:12:30,800
+in my case, I always run the out of the
+
+260
+00:12:28,560 --> 00:12:33,360
+flashback
+
+261
+00:12:30,800 --> 00:12:35,440
+engines in that manifold and feed into
+
+262
+00:12:33,360 --> 00:12:38,959
+the vacuum and dispose of it quite
+
+263
+00:12:35,440 --> 00:12:41,040
+nicely and get to shoot in the engine.
+
+264
+00:12:38,959 --> 00:12:42,959
+Having said that, I've done a number of
+
+265
+00:12:41,040 --> 00:12:47,013
+tests where I've disconnected that
+
+266
+00:12:42,959 --> 00:12:49,200
+vacuum or closed it off the engine end
+
+267
+00:12:47,013 --> 00:12:50,800
+[clears throat] satisfied that it's it's
+
+268
+00:12:49,200 --> 00:12:53,440
+having no measurable effect on the
+
+269
+00:12:50,800 --> 00:12:56,160
+engine. We're not using any energies
+
+270
+00:12:53,440 --> 00:12:59,920
+associated with the gas.
+
+271
+00:12:56,160 --> 00:13:04,399
+Then so here we have a a fuel cell which
+
+272
+00:12:59,920 --> 00:13:06,480
+is producing um dutarium which actually
+
+273
+00:13:04,399 --> 00:13:08,240
+gets the motor to work. How does that
+
+274
+00:13:06,480 --> 00:13:10,000
+get to the motor? How does it work
+
+275
+00:13:08,240 --> 00:13:14,639
+within the motor?
+
+276
+00:13:10,000 --> 00:13:18,079
+>> Okay. Well my theory is that the at the
+
+277
+00:13:14,639 --> 00:13:20,240
+point of electrolysis we've got gases
+
+278
+00:13:18,079 --> 00:13:22,160
+coming off of what effectively the two
+
+279
+00:13:20,240 --> 00:13:24,000
+electrodes the cathode being the center
+
+280
+00:13:22,160 --> 00:13:25,600
+of the cell. The anode is the other
+
+281
+00:13:24,000 --> 00:13:28,560
+case.
+
+282
+00:13:25,600 --> 00:13:31,040
+At the point where the gas is coming off
+
+283
+00:13:28,560 --> 00:13:33,920
+of the out case which is positive, we've
+
+284
+00:13:31,040 --> 00:13:37,040
+got oxygen gas being produced and
+
+285
+00:13:33,920 --> 00:13:40,160
+against the stainless steel warm off the
+
+286
+00:13:37,040 --> 00:13:43,839
+the case. We have effectively hydrogen
+
+287
+00:13:40,160 --> 00:13:47,120
+enriched water. I believe that the
+
+288
+00:13:43,839 --> 00:13:49,519
+positive voltage applied to
+
+289
+00:13:47,120 --> 00:13:51,519
+permit the electrolysis
+
+290
+00:13:49,519 --> 00:13:52,880
+attracts the hydrogen. When I say
+
+291
+00:13:51,519 --> 00:13:55,680
+hydrogen, we're possibly talking
+
+292
+00:13:52,880 --> 00:13:57,199
+detracted
+
+293
+00:13:55,680 --> 00:13:58,959
+to the molecular structure, the
+
+294
+00:13:57,199 --> 00:14:00,560
+crystallized structure of the steel
+
+295
+00:13:58,959 --> 00:14:03,040
+itself
+
+296
+00:14:00,560 --> 00:14:06,079
+and migrates through the structure um
+
+297
+00:14:03,040 --> 00:14:08,320
+toward the source of voltage. Now coming
+
+298
+00:14:06,079 --> 00:14:13,360
+off the top of the cell we have a
+
+299
+00:14:08,320 --> 00:14:16,079
+connection device to the engine. Um
+
+300
+00:14:13,360 --> 00:14:19,120
+for the most part in the past that has
+
+301
+00:14:16,079 --> 00:14:22,480
+has typically been a tube uh 1 in round
+
+302
+00:14:19,120 --> 00:14:24,320
+a fairly heavy tubing
+
+303
+00:14:22,480 --> 00:14:26,079
+uh where people were thinking it was a
+
+304
+00:14:24,320 --> 00:14:27,600
+gas that was actually going through the
+
+305
+00:14:26,079 --> 00:14:30,959
+tube.
+
+306
+00:14:27,600 --> 00:14:32,880
+Although that tube was not vented into
+
+307
+00:14:30,959 --> 00:14:35,760
+the engine. It was going to a blind
+
+308
+00:14:32,880 --> 00:14:37,760
+connection on the engine. meaning that
+
+309
+00:14:35,760 --> 00:14:40,240
+at the point where the tube met the
+
+310
+00:14:37,760 --> 00:14:42,880
+engine was no hole going through. We
+
+311
+00:14:40,240 --> 00:14:46,399
+were simply presenting this gas to a
+
+312
+00:14:42,880 --> 00:14:49,199
+blind plug. Um I then thought one more
+
+313
+00:14:46,399 --> 00:14:51,600
+and more is it actually gas at that
+
+314
+00:14:49,199 --> 00:14:54,560
+point. Is it traveling through the the
+
+315
+00:14:51,600 --> 00:14:57,600
+hole through the metal? Another test
+
+316
+00:14:54,560 --> 00:14:59,360
+that I did that led me to the to the
+
+317
+00:14:57,600 --> 00:15:02,240
+conclusion that it actually migrates
+
+318
+00:14:59,360 --> 00:15:05,440
+through the steel itself.
+
+319
+00:15:02,240 --> 00:15:08,440
+And one from the tube was to use a head
+
+320
+00:15:05,440 --> 00:15:08,440
+alter
+
+321
+00:15:11,440 --> 00:15:19,680
+19 cable to connect the cell to the
+
+322
+00:15:16,160 --> 00:15:23,600
+engine. Now we go out of the the engine
+
+323
+00:15:19,680 --> 00:15:25,600
+as explaining in detail in the book. But
+
+324
+00:15:23,600 --> 00:15:28,320
+what we do is we use a voltage which is
+
+325
+00:15:25,600 --> 00:15:30,959
+connected at the engine cable and that
+
+326
+00:15:28,320 --> 00:15:33,199
+attracts this energy along the cable
+
+327
+00:15:30,959 --> 00:15:35,600
+right up to the the point of the engine
+
+328
+00:15:33,199 --> 00:15:38,800
+where it travels over a small gap into
+
+329
+00:15:35,600 --> 00:15:42,959
+the block itself or the cylinder head.
+
+330
+00:15:38,800 --> 00:15:44,480
+Mhm. Uh and then over time do the entire
+
+331
+00:15:42,959 --> 00:15:47,680
+engine
+
+332
+00:15:44,480 --> 00:15:49,199
+with the hydrogen deter
+
+333
+00:15:47,680 --> 00:15:51,040
+referium
+
+334
+00:15:49,199 --> 00:15:53,600
+because I really don't have a method for
+
+335
+00:15:51,040 --> 00:15:57,279
+telling you exactly what it is. It
+
+336
+00:15:53,600 --> 00:16:01,240
+simply fits with uh what I believe to be
+
+337
+00:15:57,279 --> 00:16:01,240
+the operation of the engine.
+
+338
+00:16:01,279 --> 00:16:06,720
+>> Then once this is within the engine
+
+339
+00:16:04,160 --> 00:16:11,120
+within the metal itself, how does it
+
+340
+00:16:06,720 --> 00:16:13,199
+then work the combust?
+
+341
+00:16:11,120 --> 00:16:16,079
+Okay. Well,
+
+342
+00:16:13,199 --> 00:16:17,759
+what I believe happens is different to
+
+343
+00:16:16,079 --> 00:16:21,759
+any of the other theories being
+
+344
+00:16:17,759 --> 00:16:23,839
+presented. It's just what I think.
+
+345
+00:16:21,759 --> 00:16:27,680
+is that we end up with our combustion
+
+346
+00:16:23,839 --> 00:16:30,079
+chamber effectively being totally doped
+
+347
+00:16:27,680 --> 00:16:32,480
+with hydrogen deterior.
+
+348
+00:16:30,079 --> 00:16:36,240
+So that all surfaces
+
+349
+00:16:32,480 --> 00:16:37,759
+effectively wet with these uh these
+
+350
+00:16:36,240 --> 00:16:41,440
+elements.
+
+351
+00:16:37,759 --> 00:16:44,320
+When we then combust or or start to
+
+352
+00:16:41,440 --> 00:16:47,839
+compress atmosphere, which is almost
+
+353
+00:16:44,320 --> 00:16:49,920
+sucking into the engine, just air uh at
+
+354
+00:16:47,839 --> 00:16:52,880
+about two 2 and 1 half atmospheres
+
+355
+00:16:49,920 --> 00:16:54,639
+within spark where ignition timing is no
+
+356
+00:16:52,880 --> 00:16:59,199
+longer a few degrees before top dead
+
+357
+00:16:54,639 --> 00:17:03,600
+center. It's around 70° uh and and only
+
+358
+00:16:59,199 --> 00:17:06,880
+85. So the pistons just over halfway up
+
+359
+00:17:03,600 --> 00:17:09,919
+the stroke the spark happens that would
+
+360
+00:17:06,880 --> 00:17:13,199
+seem to create that inflation.
+
+361
+00:17:09,919 --> 00:17:17,120
+Now there are suggestions and I've read
+
+362
+00:17:13,199 --> 00:17:19,919
+information that suggests that if we don
+
+363
+00:17:17,120 --> 00:17:22,559
+in hydrogen enriched environment which
+
+364
+00:17:19,919 --> 00:17:26,079
+is what we really have with air in this
+
+365
+00:17:22,559 --> 00:17:29,679
+enriched combustion chamber we get a
+
+366
+00:17:26,079 --> 00:17:31,679
+thermic reaction which is the implosion.
+
+367
+00:17:29,679 --> 00:17:34,720
+Now that implosion was certainly
+
+368
+00:17:31,679 --> 00:17:36,960
+explained for the effect of compression
+
+369
+00:17:34,720 --> 00:17:40,640
+being removed. the fact that the engine
+
+370
+00:17:36,960 --> 00:17:43,120
+can turn out so slowly and so easily.
+
+371
+00:17:40,640 --> 00:17:45,679
+Uh that implosion would draw the piston
+
+372
+00:17:43,120 --> 00:17:48,720
+up and possibly also make the valve
+
+373
+00:17:45,679 --> 00:17:51,280
+leak. In the normal for engine valves
+
+374
+00:17:48,720 --> 00:17:53,520
+are intended to seal under compressions,
+
+375
+00:17:51,280 --> 00:17:57,200
+not under vacuums.
+
+376
+00:17:53,520 --> 00:18:00,880
+So it also sucks in more atmosphere that
+
+377
+00:17:57,200 --> 00:18:03,120
+was intended to go into the chamber.
+
+378
+00:18:00,880 --> 00:18:05,200
+And the other interesting point with an
+
+379
+00:18:03,120 --> 00:18:07,840
+endothermic reaction is that endothermic
+
+380
+00:18:05,200 --> 00:18:11,440
+reactions consume the heat of the
+
+381
+00:18:07,840 --> 00:18:13,120
+inflation. Now we also explain why so
+
+382
+00:18:11,440 --> 00:18:15,200
+many people have reported these engines
+
+383
+00:18:13,120 --> 00:18:19,520
+running cold.
+
+384
+00:18:15,200 --> 00:18:22,799
+I personally had um a read of 70° C on
+
+385
+00:18:19,520 --> 00:18:25,679
+the exhaust of my generator.
+
+386
+00:18:22,799 --> 00:18:29,520
+Um 70 is not that cold. You can put your
+
+387
+00:18:25,679 --> 00:18:33,200
+hand on it if you want to. Yes. When you
+
+388
+00:18:29,520 --> 00:18:39,440
+say generating your home petrol driven
+
+389
+00:18:33,200 --> 00:18:39,440
+motor generator test you got a small
+
+390
+00:18:45,039 --> 00:18:50,120
+I haven't
+
+391
+00:18:47,120 --> 00:18:50,120
+given
+
+392
+00:18:56,960 --> 00:19:05,120
+me producing apply that to normal for
+
+393
+00:19:02,080 --> 00:19:07,360
+what people were going for
+
+394
+00:19:05,120 --> 00:19:10,559
+out and so on. So the generator seems to
+
+395
+00:19:07,360 --> 00:19:13,120
+be on four bands perfect way of testing.
+
+396
+00:19:10,559 --> 00:19:15,200
+Uh back to to the operation of the
+
+397
+00:19:13,120 --> 00:19:18,000
+engine, it would seem that if we've got
+
+398
+00:19:15,200 --> 00:19:20,960
+an end reaction happening in implosion
+
+399
+00:19:18,000 --> 00:19:24,240
+that's pulling more atmosphere than uh
+
+400
+00:19:20,960 --> 00:19:26,400
+would normally be the case. When the
+
+401
+00:19:24,240 --> 00:19:29,200
+piston approaches the top, there's a
+
+402
+00:19:26,400 --> 00:19:31,200
+release of energy from that implosion.
+
+403
+00:19:29,200 --> 00:19:33,280
+And I really don't know through what
+
+404
+00:19:31,200 --> 00:19:36,160
+process, but that explosion definitely
+
+405
+00:19:33,280 --> 00:19:38,080
+takes place. So we have the implosion at
+
+406
+00:19:36,160 --> 00:19:40,960
+the bottom of the or halfway up the
+
+407
+00:19:38,080 --> 00:19:44,559
+stroke somewhere around top dead center
+
+408
+00:19:40,960 --> 00:19:46,880
+without see there's definite explosion
+
+409
+00:19:44,559 --> 00:19:50,120
+that is visible watching the engine run
+
+410
+00:19:46,880 --> 00:19:50,120
+the firewise
+
+411
+00:19:54,400 --> 00:19:58,039
+if we were running pula
+
+412
+00:19:59,600 --> 00:20:02,720
+although it's fair to say there's a
+
+413
+00:20:00,960 --> 00:20:05,360
+great reduction in the noise of the
+
+414
+00:20:02,720 --> 00:20:09,039
+engine is a lot quieter greater rate on
+
+415
+00:20:05,360 --> 00:20:10,880
+cell than it would be on petrol. Um that
+
+416
+00:20:09,039 --> 00:20:14,080
+could be explained by the fact that the
+
+417
+00:20:10,880 --> 00:20:17,280
+explosion component is a shorter shorter
+
+418
+00:20:14,080 --> 00:20:19,280
+duration than a normal petrol explosion.
+
+419
+00:20:17,280 --> 00:20:22,000
+Most of the noise that we hear from a
+
+420
+00:20:19,280 --> 00:20:23,760
+four- stroke engine's exhaust is in fact
+
+421
+00:20:22,000 --> 00:20:26,000
+the exhaust valve opening. There's still
+
+422
+00:20:23,760 --> 00:20:28,640
+pressure there and that comes out
+
+423
+00:20:26,000 --> 00:20:30,080
+through the valve exhaust and so on. In
+
+424
+00:20:28,640 --> 00:20:33,919
+this case, it's quite a reduction in
+
+425
+00:20:30,080 --> 00:20:36,000
+that noise. Um, so that's basically how
+
+426
+00:20:33,919 --> 00:20:39,760
+it works.
+
+427
+00:20:36,000 --> 00:20:42,640
+>> And is this engine running with petrol
+
+428
+00:20:39,760 --> 00:20:45,440
+as well or just purely on air or mixture
+
+429
+00:20:42,640 --> 00:20:47,280
+of both still? Well, I have never
+
+430
+00:20:45,440 --> 00:20:49,360
+managed to start the generator without
+
+431
+00:20:47,280 --> 00:20:50,960
+petrol. I have to be [clears throat]
+
+432
+00:20:49,360 --> 00:20:53,039
+absolutely honest about that. Some
+
+433
+00:20:50,960 --> 00:20:56,640
+people have claimed that they can start
+
+434
+00:20:53,039 --> 00:21:00,559
+and operate engines from cells alone. I
+
+435
+00:20:56,640 --> 00:21:03,120
+haven't. It has always taken petrol.
+
+436
+00:21:00,559 --> 00:21:04,559
+Having said that, it's a full start and
+
+437
+00:21:03,120 --> 00:21:07,280
+there's a limit to how many times you
+
+438
+00:21:04,559 --> 00:21:09,600
+can pull that shred and try to get it
+
+439
+00:21:07,280 --> 00:21:11,440
+going. So, I'm quite happy with the idea
+
+440
+00:21:09,600 --> 00:21:15,520
+of putting a little bit of petrol in a
+
+441
+00:21:11,440 --> 00:21:17,760
+in a much smaller than normal tank.
+
+442
+00:21:15,520 --> 00:21:19,760
+Um, and getting getting the engine
+
+443
+00:21:17,760 --> 00:21:23,520
+running down there exactly how long it
+
+444
+00:21:19,760 --> 00:21:26,240
+run for with petrol turned off. uh and
+
+445
+00:21:23,520 --> 00:21:28,559
+there is there is little doubt for much
+
+446
+00:21:26,240 --> 00:21:31,280
+much longer than that is possible not
+
+447
+00:21:28,559 --> 00:21:33,600
+only from myself of course but but many
+
+448
+00:21:31,280 --> 00:21:36,480
+friends neighbors and other people have
+
+449
+00:21:33,600 --> 00:21:38,799
+seen that um
+
+450
+00:21:36,480 --> 00:21:41,200
+that's not really what I'm looking to
+
+451
+00:21:38,799 --> 00:21:43,440
+promote. It's it's only fair to say that
+
+452
+00:21:41,200 --> 00:21:46,640
+it's a very new science. It certainly
+
+453
+00:21:43,440 --> 00:21:49,120
+isn't perfected. Anyone building a cell
+
+454
+00:21:46,640 --> 00:21:50,640
+uh and going down this this avenue would
+
+455
+00:21:49,120 --> 00:21:52,799
+be foolish to believe they're going to
+
+456
+00:21:50,640 --> 00:21:55,760
+build the cell, start the generator, run
+
+457
+00:21:52,799 --> 00:21:58,320
+for forever. We're not there yet.
+
+458
+00:21:55,760 --> 00:22:01,039
+>> We're getting closer with some of the
+
+459
+00:21:58,320 --> 00:22:03,200
+formulas and methods of communicating.
+
+460
+00:22:01,039 --> 00:22:06,080
+We're now in a position to to further
+
+461
+00:22:03,200 --> 00:22:08,640
+the science by exchanging what
+
+462
+00:22:06,080 --> 00:22:12,240
+information we're learning
+
+463
+00:22:08,640 --> 00:22:14,320
+as we go. And uh so you've you've been
+
+464
+00:22:12,240 --> 00:22:16,799
+able to develop a a working model and
+
+465
+00:22:14,320 --> 00:22:20,480
+demonstrate that it works. Where you
+
+466
+00:22:16,799 --> 00:22:24,480
+moving to from there?
+
+467
+00:22:20,480 --> 00:22:28,720
+I I think at this stage it's a case of
+
+468
+00:22:24,480 --> 00:22:31,280
+of refining what I have established. Um
+
+469
+00:22:28,720 --> 00:22:34,400
+the formulas seem seem to be consistent
+
+470
+00:22:31,280 --> 00:22:37,760
+and working.
+
+471
+00:22:34,400 --> 00:22:42,480
+There are certainly atmospheric effects
+
+472
+00:22:37,760 --> 00:22:44,240
+of um I haven't haven't yet proven
+
+473
+00:22:42,480 --> 00:22:46,320
+conclusively
+
+474
+00:22:44,240 --> 00:22:48,799
+but I find the best uncanny that I can
+
+475
+00:22:46,320 --> 00:22:51,200
+never get the thing to run. It's not
+
+476
+00:22:48,799 --> 00:22:53,760
+outside it's inside
+
+477
+00:22:51,200 --> 00:22:57,600
+but uh there certainly effects of
+
+478
+00:22:53,760 --> 00:22:59,280
+humidity of the engine. So one of my
+
+479
+00:22:57,600 --> 00:23:02,240
+directions is to look at the condition
+
+480
+00:22:59,280 --> 00:23:04,080
+or condition of atmosphere as it goes
+
+481
+00:23:02,240 --> 00:23:05,840
+in.
+
+482
+00:23:04,080 --> 00:23:09,039
+Um
+
+483
+00:23:05,840 --> 00:23:12,400
+as far as the cells construction itself,
+
+484
+00:23:09,039 --> 00:23:15,360
+we are exploring with
+
+485
+00:23:12,400 --> 00:23:17,600
+the idea of lining different metals so
+
+486
+00:23:15,360 --> 00:23:21,360
+that we can obtain great mass energy to
+
+487
+00:23:17,600 --> 00:23:24,320
+go through um while still having the
+
+488
+00:23:21,360 --> 00:23:25,760
+stainless steel containers. Uh of course
+
+489
+00:23:24,320 --> 00:23:29,679
+it's always the normal thing. it's
+
+490
+00:23:25,760 --> 00:23:32,159
+expensive for research. Um, another
+
+491
+00:23:29,679 --> 00:23:35,280
+component that I would like to to
+
+492
+00:23:32,159 --> 00:23:38,240
+research is the concept of incorporating
+
+493
+00:23:35,280 --> 00:23:39,919
+a cell within a motor instead of being a
+
+494
+00:23:38,240 --> 00:23:42,000
+separate device that's brought to the
+
+495
+00:23:39,919 --> 00:23:44,480
+motor. the idea of actually
+
+496
+00:23:42,000 --> 00:23:48,159
+incorporating the generation of the
+
+497
+00:23:44,480 --> 00:23:50,880
+hydrogen materials within the water
+
+498
+00:23:48,159 --> 00:23:54,440
+cooling confinements of the engine. And
+
+499
+00:23:50,880 --> 00:23:54,440
+again, something
+
+500
+00:24:01,016 --> 00:24:03,036
+[clears throat]
+
+501
+00:24:16,880 --> 00:24:21,440
+here was just me, you know.
+
+502
+00:24:24,400 --> 00:24:28,799
+Now I'm hoping you all got some
+
+503
+00:24:25,679 --> 00:24:30,320
+questions for me there. Yes. Uh I
+
+504
+00:24:28,799 --> 00:24:32,080
+presume when you run out of petrol the
+
+505
+00:24:30,320 --> 00:24:34,320
+engine still running. Have you done an
+
+506
+00:24:32,080 --> 00:24:34,720
+exhaust gas analysis run the results?
+
+507
+00:24:34,320 --> 00:24:36,720
+>> No.
+
+508
+00:24:34,720 --> 00:24:40,480
+>> The other question is how do you start
+
+509
+00:24:36,720 --> 00:24:44,080
+the engine on petrol 70°?
+
+510
+00:24:40,480 --> 00:24:46,240
+>> Do you get no firing or no?
+
+511
+00:24:44,080 --> 00:24:47,120
+>> You just don't get compression the
+
+512
+00:24:46,240 --> 00:24:48,720
+implosion.
+
+513
+00:24:47,120 --> 00:24:50,320
+>> No. No. when you when you started your
+
+514
+00:24:48,720 --> 00:24:51,039
+first petrol.
+
+515
+00:24:50,320 --> 00:24:53,279
+>> Yes.
+
+516
+00:24:51,039 --> 00:24:56,640
+>> How do you start with 70°?
+
+517
+00:24:53,279 --> 00:25:00,440
+>> You still with petrol once the energy
+
+518
+00:24:56,640 --> 00:25:00,440
+from the center reass
+
+519
+00:25:06,320 --> 00:25:11,840
+if I didn't fully that spot that
+
+520
+00:25:08,960 --> 00:25:14,640
+didn't fire until top dead center. If I
+
+521
+00:25:11,840 --> 00:25:17,640
+had it on
+
+522
+00:25:14,640 --> 00:25:17,640
+30°
+
+523
+00:25:19,679 --> 00:25:23,600
+so 70°
+
+524
+00:25:21,840 --> 00:25:24,640
+start
+
+525
+00:25:23,600 --> 00:25:26,960
+85 or 90
+
+526
+00:25:24,640 --> 00:25:29,600
+>> 85 90°
+
+527
+00:25:26,960 --> 00:25:32,080
+how do you start the engine on petrol?
+
+528
+00:25:29,600 --> 00:25:34,640
+>> You never you can never just have the
+
+529
+00:25:32,080 --> 00:25:36,720
+engine on petrol and I say start we put
+
+530
+00:25:34,640 --> 00:25:39,600
+petrol in the materium is always
+
+531
+00:25:36,720 --> 00:25:41,200
+present. So from the very beginning we
+
+532
+00:25:39,600 --> 00:25:42,880
+get an endothermic reaction out of
+
+533
+00:25:41,200 --> 00:25:44,720
+enclosure. There's no perceivable
+
+534
+00:25:42,880 --> 00:25:46,799
+compression when you pull the string the
+
+535
+00:25:44,720 --> 00:25:48,960
+plates in.
+
+536
+00:25:46,799 --> 00:25:53,039
+You have no perceivable compression in
+
+537
+00:25:48,960 --> 00:25:55,120
+pulling the string. It's simply
+
+538
+00:25:53,039 --> 00:25:57,039
+you get the inertia turning over the
+
+539
+00:25:55,120 --> 00:25:59,200
+crack the mass you get to the point
+
+540
+00:25:57,039 --> 00:26:01,840
+where the engine fires as the string
+
+541
+00:25:59,200 --> 00:26:04,159
+gets pushed out. There is you've
+
+542
+00:26:01,840 --> 00:26:06,640
+experienced this Bob. Bob's been there
+
+543
+00:26:04,159 --> 00:26:09,120
+many times when we started this. Uh
+
+544
+00:26:06,640 --> 00:26:11,200
+there is no compression and therefore
+
+545
+00:26:09,120 --> 00:26:14,000
+normally any any internal combustion
+
+546
+00:26:11,200 --> 00:26:16,880
+engine trying to idle at low revs with
+
+547
+00:26:14,000 --> 00:26:19,039
+20 or 30° the thing will just fire. The
+
+548
+00:26:16,880 --> 00:26:21,120
+piston will get stalled or go backwards.
+
+549
+00:26:19,039 --> 00:26:25,440
+It won't run. With one of these you can
+
+550
+00:26:21,120 --> 00:26:28,000
+go from uh top dead center back to 90°
+
+551
+00:26:25,440 --> 00:26:29,279
+before top halfway up stroke and the
+
+552
+00:26:28,000 --> 00:26:31,120
+engine just turns over. There's
+
+553
+00:26:29,279 --> 00:26:34,480
+definitely an implosion component that
+
+554
+00:26:31,120 --> 00:26:36,960
+happens before the explosion
+
+555
+00:26:34,480 --> 00:26:38,880
+present. Even with it present. Yes.
+
+556
+00:26:36,960 --> 00:26:40,799
+Yeah. But I can't get it where I pull
+
+557
+00:26:38,880 --> 00:26:43,279
+the string and starts without petrol. I
+
+558
+00:26:40,799 --> 00:26:45,679
+need petrol there initially to get the
+
+559
+00:26:43,279 --> 00:26:48,240
+revs up. And it only needs to be enough
+
+560
+00:26:45,679 --> 00:26:50,480
+petrol for the thing to rev and then it
+
+561
+00:26:48,240 --> 00:26:53,520
+can run out of petrol. But the problem
+
+562
+00:26:50,480 --> 00:26:57,120
+is you can't pull it fast enough to get
+
+563
+00:26:53,520 --> 00:27:00,159
+it to self run. One of those engines
+
+564
+00:26:57,120 --> 00:27:03,440
+where you've got those start
+
+565
+00:27:00,159 --> 00:27:05,440
+release on it. So that you're not full
+
+566
+00:27:03,440 --> 00:27:06,960
+compression. Yeah. So as soon as it
+
+567
+00:27:05,440 --> 00:27:08,880
+fires
+
+568
+00:27:06,960 --> 00:27:10,559
+compression
+
+569
+00:27:08,880 --> 00:27:12,640
+building compression at all otherwise
+
+570
+00:27:10,559 --> 00:27:14,720
+you wouldn't be able to start that
+
+571
+00:27:12,640 --> 00:27:17,440
+doesn't have any sort of depression. It
+
+572
+00:27:14,720 --> 00:27:19,039
+hasn't no we have a book which is what
+
+573
+00:27:17,440 --> 00:27:21,679
+I'm promoting tonight that has pictures
+
+574
+00:27:19,039 --> 00:27:23,520
+of that very engine the cylinder head.
+
+575
+00:27:21,679 --> 00:27:26,080
+You can see the valves and it's quite
+
+576
+00:27:23,520 --> 00:27:27,840
+easy to look at it. It's an oldfashioned
+
+577
+00:27:26,080 --> 00:27:30,720
+you know four stroke engine. It's quite
+
+578
+00:27:27,840 --> 00:27:32,720
+a few years old. Um it's not designed to
+
+579
+00:27:30,720 --> 00:27:34,960
+run with a sort of an advanced timing
+
+580
+00:27:32,720 --> 00:27:36,799
+that it has. It shouldn't be possible.
+
+581
+00:27:34,960 --> 00:27:38,720
+It simply shouldn't be right. And the
+
+582
+00:27:36,799 --> 00:27:43,000
+only way it does is because of the ender
+
+583
+00:27:38,720 --> 00:27:43,000
+reaction, an implosion that happens.
+
+584
+00:27:44,480 --> 00:27:48,440
+>> No, I was going to.
+
+585
+00:27:49,279 --> 00:27:54,320
+>> Not tonight.
+
+586
+00:27:52,400 --> 00:27:56,640
+>> We were hoping tonight, but these things
+
+587
+00:27:54,320 --> 00:27:58,720
+take time.
+
+588
+00:27:56,640 --> 00:28:03,120
+What what's the relationship between
+
+589
+00:27:58,720 --> 00:28:06,080
+your voltage and your amp?
+
+590
+00:28:03,120 --> 00:28:08,640
+You finding that running small voltage
+
+591
+00:28:06,080 --> 00:28:09,200
+or high ampage. What are we talking in
+
+592
+00:28:08,640 --> 00:28:10,640
+the cell?
+
+593
+00:28:09,200 --> 00:28:13,200
+>> In the cell itself.
+
+594
+00:28:10,640 --> 00:28:16,240
+>> Um that particular cell with with the
+
+595
+00:28:13,200 --> 00:28:18,240
+wood I'm using about 250 300 milliamps
+
+596
+00:28:16,240 --> 00:28:20,320
+12 volt.
+
+597
+00:28:18,240 --> 00:28:23,200
+>> Is there any in the cell?
+
+598
+00:28:20,320 --> 00:28:24,329
+>> No, not not a power. It's only three W
+
+599
+00:28:23,200 --> 00:28:24,880
+or something.
+
+600
+00:28:24,329 --> 00:28:26,720
+>> [clears throat]
+
+601
+00:28:24,880 --> 00:28:28,960
+>> What happens if you actually press the
+
+602
+00:28:26,720 --> 00:28:33,039
+the air press?
+
+603
+00:28:28,960 --> 00:28:34,960
+>> You you don't really need to um
+
+604
+00:28:33,039 --> 00:28:36,880
+with with a cell and this is where a lot
+
+605
+00:28:34,960 --> 00:28:38,960
+of people that have that have built
+
+606
+00:28:36,880 --> 00:28:40,720
+water fuel cells or chose cells where a
+
+607
+00:28:38,960 --> 00:28:42,880
+lot of things have gone wrong is they've
+
+608
+00:28:40,720 --> 00:28:45,679
+been chasing bubbles and we don't need
+
+609
+00:28:42,880 --> 00:28:47,840
+bubbles and and therefore the amount of
+
+610
+00:28:45,679 --> 00:28:50,799
+electrolysis we need is a fraction of
+
+611
+00:28:47,840 --> 00:28:52,559
+what people thought we needed. We start
+
+612
+00:28:50,799 --> 00:28:54,720
+off by putting charged water into the
+
+613
+00:28:52,559 --> 00:28:56,880
+cell. So it's fully charged before we
+
+614
+00:28:54,720 --> 00:28:59,360
+put it in there. From then on, every
+
+615
+00:28:56,880 --> 00:29:01,840
+voltage that we apply to the cell is a
+
+616
+00:28:59,360 --> 00:29:06,320
+conditioning voltage to get the dutium
+
+617
+00:29:01,840 --> 00:29:08,640
+from the water into the steel.
+
+618
+00:29:06,320 --> 00:29:11,640
+>> So about some of the cells where they're
+
+619
+00:29:08,640 --> 00:29:11,640
+using
+
+620
+00:29:12,000 --> 00:29:16,799
+>> well they're not working. They're
+
+621
+00:29:14,159 --> 00:29:19,799
+looking for
+
+622
+00:29:16,799 --> 00:29:19,799
+whatever.
+
+623
+00:29:20,320 --> 00:29:24,159
+No, Joseph certainly isn't looking for
+
+624
+00:29:22,399 --> 00:29:26,640
+that. And I mentioned in the in the
+
+625
+00:29:24,159 --> 00:29:31,880
+video that the gas that comes off of one
+
+626
+00:29:26,640 --> 00:29:31,880
+of these things is so so minuscule
+
+627
+00:29:32,480 --> 00:29:38,159
+position will display the um the the uh
+
+628
+00:29:36,559 --> 00:29:40,799
+screen
+
+629
+00:29:38,159 --> 00:29:42,960
+uh on the computer that shows the
+
+630
+00:29:40,799 --> 00:29:46,480
+condition of the cell. You've got a
+
+631
+00:29:42,960 --> 00:29:49,640
+fairly elaborate um piece of software
+
+632
+00:29:46,480 --> 00:29:49,640
+and hardware.
+
+633
+00:29:50,320 --> 00:29:54,159
+>> Yes, but I can't bring I guess I didn't
+
+634
+00:29:52,559 --> 00:29:55,279
+bring my computer systems.
+
+635
+00:29:54,159 --> 00:30:00,679
+>> Okay, fair enough.
+
+636
+00:29:55,279 --> 00:30:00,679
+>> Uh there was a quick glimpse of it.
+
+637
+00:30:01,039 --> 00:30:05,840
+>> I started off like everybody else did
+
+638
+00:30:02,799 --> 00:30:07,919
+with with Joel. I saw something on the
+
+639
+00:30:05,840 --> 00:30:10,399
+internet. I water and and I start off
+
+640
+00:30:07,919 --> 00:30:11,760
+the hard way and I went through and I
+
+641
+00:30:10,399 --> 00:30:14,159
+got up in the middle of night and
+
+642
+00:30:11,760 --> 00:30:16,320
+charged water for 3 minutes went back to
+
+643
+00:30:14,159 --> 00:30:18,000
+sleep for two more hours and like a lot
+
+644
+00:30:16,320 --> 00:30:21,520
+of you that have played with Joe says
+
+645
+00:30:18,000 --> 00:30:22,640
+it's better takes a lot of time. I then
+
+646
+00:30:21,520 --> 00:30:25,840
+thought there's going to be an easier
+
+647
+00:30:22,640 --> 00:30:28,320
+way. So I bu interface [clears throat]
+
+648
+00:30:25,840 --> 00:30:31,120
+um I then wrote some software that could
+
+649
+00:30:28,320 --> 00:30:33,440
+do variations on charging and what I
+
+650
+00:30:31,120 --> 00:30:36,000
+realized was there is a relationship
+
+651
+00:30:33,440 --> 00:30:38,320
+between the residual voltage in the cell
+
+652
+00:30:36,000 --> 00:30:40,960
+and the conditional or the charge of the
+
+653
+00:30:38,320 --> 00:30:43,360
+cell. So I came up with what I call a
+
+654
+00:30:40,960 --> 00:30:45,600
+full life and a half life formula. Now
+
+655
+00:30:43,360 --> 00:30:49,200
+what that that means is that we can
+
+656
+00:30:45,600 --> 00:30:52,320
+charge any cell with any water for 1
+
+657
+00:30:49,200 --> 00:30:55,039
+minute just straight 12 V and then we
+
+658
+00:30:52,320 --> 00:30:57,760
+can measure that voltage 1 minute later
+
+659
+00:30:55,039 --> 00:31:00,080
+and that's called our full life voltage.
+
+660
+00:30:57,760 --> 00:31:01,760
+We can wait another 4 minutes and
+
+661
+00:31:00,080 --> 00:31:04,720
+measure what that voltage has dropped
+
+662
+00:31:01,760 --> 00:31:08,880
+off to and that is our halflife voltage.
+
+663
+00:31:04,720 --> 00:31:10,640
+Now every time we charge the cell and we
+
+664
+00:31:08,880 --> 00:31:12,640
+do that in accordance with another very
+
+665
+00:31:10,640 --> 00:31:15,440
+simple formula. Every time we charge the
+
+666
+00:31:12,640 --> 00:31:19,120
+cell, it takes longer for that halflife
+
+667
+00:31:15,440 --> 00:31:20,960
+voltage to drop off. So, initially,
+
+668
+00:31:19,120 --> 00:31:24,080
+because of how the formula worked, it's
+
+669
+00:31:20,960 --> 00:31:26,960
+5 minutes, but it's not long before it's
+
+670
+00:31:24,080 --> 00:31:29,279
+25 minutes, and then it's an hour. So,
+
+671
+00:31:26,960 --> 00:31:31,760
+we're charging it the same amount of
+
+672
+00:31:29,279 --> 00:31:34,640
+charge each time, but the duration
+
+673
+00:31:31,760 --> 00:31:37,039
+between the charge gets longer and
+
+674
+00:31:34,640 --> 00:31:38,640
+longer, and that's to do with the the
+
+675
+00:31:37,039 --> 00:31:40,960
+surface charge, the material in the
+
+676
+00:31:38,640 --> 00:31:43,200
+surface of the steel being absorbed into
+
+677
+00:31:40,960 --> 00:31:44,960
+the crystallite structure.
+
+678
+00:31:43,200 --> 00:31:46,399
+So, it it's quite an interesting
+
+679
+00:31:44,960 --> 00:31:48,480
+formula. What it does, it takes all the
+
+680
+00:31:46,399 --> 00:31:50,000
+guess work out and all of you people
+
+681
+00:31:48,480 --> 00:31:52,559
+that have have charged looking for
+
+682
+00:31:50,000 --> 00:31:54,399
+bubbles. The simple formula will get
+
+683
+00:31:52,559 --> 00:31:58,000
+those wonderful bubbles within a day or
+
+684
+00:31:54,399 --> 00:31:58,080
+so very easily repeatedly.
+
+685
+00:31:58,000 --> 00:32:00,960
+Do
+
+686
+00:31:58,080 --> 00:32:04,159
+>> you find that um
+
+687
+00:32:00,960 --> 00:32:06,480
+effectiveness of the cell increased with
+
+688
+00:32:04,159 --> 00:32:09,440
+the engine?
+
+689
+00:32:06,480 --> 00:32:11,600
+>> Sorry, with the load applied to the
+
+690
+00:32:09,440 --> 00:32:12,480
+>> No, I can't say I've really tested that.
+
+691
+00:32:11,600 --> 00:32:16,080
+Um
+
+692
+00:32:12,480 --> 00:32:18,559
+>> could you repeat the questions on
+
+693
+00:32:16,080 --> 00:32:20,559
+>> Okay. The gentleman asked whether um
+
+694
+00:32:18,559 --> 00:32:23,760
+there was an increase in effectiveness
+
+695
+00:32:20,559 --> 00:32:27,200
+of the wood fuel cell on the engine when
+
+696
+00:32:23,760 --> 00:32:30,080
+a load was applied to the engine. Um
+
+697
+00:32:27,200 --> 00:32:32,240
+it's it's not something that I tested to
+
+698
+00:32:30,080 --> 00:32:34,480
+date. I always run the generator. I say
+
+699
+00:32:32,240 --> 00:32:37,440
+always that's not true. Most of the time
+
+700
+00:32:34,480 --> 00:32:41,200
+I run the generator the load. Uh you saw
+
+701
+00:32:37,440 --> 00:32:43,919
+in the video a little 250 W hogen lamp
+
+702
+00:32:41,200 --> 00:32:46,320
+on the generator. Uh the reason for that
+
+703
+00:32:43,919 --> 00:32:47,760
+is that even the fuel with the car in
+
+704
+00:32:46,320 --> 00:32:50,720
+one of these things will make it run for
+
+705
+00:32:47,760 --> 00:32:52,080
+several minutes without a lot of idle.
+
+706
+00:32:50,720 --> 00:32:53,679
+You don't use a whole lot of juice.
+
+707
+00:32:52,080 --> 00:32:55,120
+Well, I I'll tell you why I asked that
+
+708
+00:32:53,679 --> 00:32:57,760
+question because when I experimented
+
+709
+00:32:55,120 --> 00:33:00,720
+with the job set, I had um I was
+
+710
+00:32:57,760 --> 00:33:04,960
+expecting the um the car basically to
+
+711
+00:33:00,720 --> 00:33:10,080
+run and id like most people do and um I
+
+712
+00:33:04,960 --> 00:33:14,080
+was able to to increase the on
+
+713
+00:33:10,080 --> 00:33:18,080
+the idle time on just one float chamber
+
+714
+00:33:14,080 --> 00:33:20,000
+of content to uh about 6 and 1/2
+
+715
+00:33:18,080 --> 00:33:22,080
+minutes, but normally it's about 1 and
+
+716
+00:33:20,000 --> 00:33:25,600
+1/2 minutes, which I thought there very
+
+717
+00:33:22,080 --> 00:33:29,279
+good but I was never left up when I was
+
+718
+00:33:25,600 --> 00:33:32,640
+trying to run the engine. Uh then under
+
+719
+00:33:29,279 --> 00:33:36,720
+load I wasn't able to turn turn the fuel
+
+720
+00:33:32,640 --> 00:33:38,480
+off until one day when I was going about
+
+721
+00:33:36,720 --> 00:33:40,640
+100 km an hour and I had written the
+
+722
+00:33:38,480 --> 00:33:44,399
+load on the engine and just because I
+
+723
+00:33:40,640 --> 00:33:46,320
+had a fuel just turn it off. Yep. And it
+
+724
+00:33:44,399 --> 00:33:49,360
+would then keep running enough I drove
+
+725
+00:33:46,320 --> 00:33:52,399
+for about 10 15 km and then as soon as
+
+726
+00:33:49,360 --> 00:33:54,480
+the load dropped below a certain level
+
+727
+00:33:52,399 --> 00:33:57,760
+that it I had to turn the fuel on again
+
+728
+00:33:54,480 --> 00:34:00,399
+because there was it would only work
+
+729
+00:33:57,760 --> 00:34:04,320
+above a certain load not below. So I was
+
+730
+00:34:00,399 --> 00:34:07,200
+able to actually drive with a fuel up
+
+731
+00:34:04,320 --> 00:34:10,159
+inclines and not up the freeway and all
+
+732
+00:34:07,200 --> 00:34:12,793
+that. Not actually driving under under
+
+733
+00:34:10,159 --> 00:34:13,359
+low conditions. And that was for a year
+
+734
+00:34:12,793 --> 00:34:15,359
+[clears throat]
+
+735
+00:34:13,359 --> 00:34:16,720
+advance on the distributor itself. What
+
+736
+00:34:15,359 --> 00:34:19,280
+sort of timing you
+
+737
+00:34:16,720 --> 00:34:22,560
+>> I don't I I don't know other than I know
+
+738
+00:34:19,280 --> 00:34:24,159
+that I had to actually um the machine
+
+739
+00:34:22,560 --> 00:34:28,159
+the foot got the distributor away
+
+740
+00:34:24,159 --> 00:34:33,639
+because the the um slot wasn't long
+
+741
+00:34:28,159 --> 00:34:33,639
+enough was it was way way past
+
+742
+00:34:33,679 --> 00:34:39,280
+>> but but that was um after quite a while
+
+743
+00:34:37,359 --> 00:34:41,613
+initially there's no way you can get
+
+744
+00:34:39,280 --> 00:34:44,639
+running after the sale was on there for
+
+745
+00:34:41,613 --> 00:34:46,399
+[clears throat] quite quite a few weeks.
+
+746
+00:34:44,639 --> 00:34:48,399
+So you had advanced timing. Did you have
+
+747
+00:34:46,399 --> 00:34:50,159
+any problems with it or
+
+748
+00:34:48,399 --> 00:34:53,119
+>> No trouble with the flight?
+
+749
+00:34:50,159 --> 00:34:56,399
+>> No, I did not. But that was no
+
+750
+00:34:53,119 --> 00:34:58,160
+condition, but it would only really work
+
+751
+00:34:56,399 --> 00:35:00,320
+under
+
+752
+00:34:58,160 --> 00:35:03,200
+a certain when they when I was doing
+
+753
+00:35:00,320 --> 00:35:05,760
+about 65 km an hour constant turn the
+
+754
+00:35:03,200 --> 00:35:07,920
+fuel off in the bath but not below which
+
+755
+00:35:05,760 --> 00:35:10,160
+is which is counter to what you would
+
+756
+00:35:07,920 --> 00:35:12,000
+expect. That's why I'm asking the
+
+757
+00:35:10,160 --> 00:35:14,400
+question. There there definitely seems
+
+758
+00:35:12,000 --> 00:35:17,119
+to be a change in in the air
+
+759
+00:35:14,400 --> 00:35:19,280
+requirements of the engine. Uh a short
+
+760
+00:35:17,119 --> 00:35:22,839
+part of the video there I didn't think
+
+761
+00:35:19,280 --> 00:35:22,839
+to make it obvious.
+
+762
+00:35:24,000 --> 00:35:28,640
+>> It it may not be more air. It might be
+
+763
+00:35:25,760 --> 00:35:32,240
+less air. When you look at the load
+
+764
+00:35:28,640 --> 00:35:34,720
+situation and in fact the car is open um
+
+765
+00:35:32,240 --> 00:35:36,240
+on the generator here part of the filing
+
+766
+00:35:34,720 --> 00:35:37,760
+that you saw it running there was a
+
+767
+00:35:36,240 --> 00:35:40,480
+thumb
+
+768
+00:35:37,760 --> 00:35:43,839
+almost nowhere over the car that was Bob
+
+769
+00:35:40,480 --> 00:35:46,000
+Cox's thumb blocking off the air intake
+
+770
+00:35:43,839 --> 00:35:49,520
+[clears throat] to the car. Now normal
+
+771
+00:35:46,000 --> 00:35:51,599
+generator refs blow on it and the
+
+772
+00:35:49,520 --> 00:35:53,680
+carburetor virtually blocked off choke
+
+773
+00:35:51,599 --> 00:35:55,359
+butterfly closed
+
+774
+00:35:53,680 --> 00:35:59,040
+box thumb which is bigger than mine. his
+
+775
+00:35:55,359 --> 00:36:01,200
+thumb was able to fit the whole hole.
+
+776
+00:35:59,040 --> 00:36:03,280
+Virtually no air going into this engine.
+
+777
+00:36:01,200 --> 00:36:05,920
+It shouldn't have even been able to run
+
+778
+00:36:03,280 --> 00:36:10,000
+at those reps and yet it did and it
+
+779
+00:36:05,920 --> 00:36:11,599
+would not run with normal gun. Another
+
+780
+00:36:10,000 --> 00:36:13,359
+strange thing happens to me all the time
+
+781
+00:36:11,599 --> 00:36:15,520
+is petrol won't flow into it. Doesn't
+
+782
+00:36:13,359 --> 00:36:17,280
+matter what I do, I cannot get the
+
+783
+00:36:15,520 --> 00:36:20,000
+petrol to go into the carburetor. It's
+
+784
+00:36:17,280 --> 00:36:21,440
+like it's blocked, but it isn't. Uh and
+
+785
+00:36:20,000 --> 00:36:24,079
+that seems to be when there's too much
+
+786
+00:36:21,440 --> 00:36:25,680
+energy there. It just repels the petrol
+
+787
+00:36:24,079 --> 00:36:28,079
+flow.
+
+788
+00:36:25,680 --> 00:36:31,040
+So, but we're getting there.
+
+789
+00:36:28,079 --> 00:36:33,760
+Okay. Another question. Um, you've got
+
+790
+00:36:31,040 --> 00:36:36,560
+250 W
+
+791
+00:36:33,760 --> 00:36:38,205
+and I've seen it myself. You say you
+
+792
+00:36:36,560 --> 00:36:41,560
+have about 6 minutes worth of
+
+793
+00:36:38,205 --> 00:36:41,560
+[clears throat] in
+
+794
+00:36:43,760 --> 00:36:49,119
+the maximum time the machine has run
+
+795
+00:36:46,560 --> 00:36:53,520
+powering that once you start to shut the
+
+796
+00:36:49,119 --> 00:36:53,520
+fuel off. People have heard that
+
+797
+00:36:54,320 --> 00:36:59,599
+I'll say an hour because many people
+
+798
+00:36:57,119 --> 00:37:02,240
+have seen the hour. It's longer, but an
+
+799
+00:36:59,599 --> 00:37:04,960
+hour is is and to me for something like
+
+800
+00:37:02,240 --> 00:37:09,240
+this to run for an hour without a fuel
+
+801
+00:37:04,960 --> 00:37:09,240
+tank connected, it's pretty complicated.
+
+802
+00:37:22,960 --> 00:37:24,880
+Yes.
+
+803
+00:37:23,359 --> 00:37:27,359
+>> Have you thought of any way how do you
+
+804
+00:37:24,880 --> 00:37:28,960
+might concentrate the so-called dutyium
+
+805
+00:37:27,359 --> 00:37:30,720
+before in the water before you actually
+
+806
+00:37:28,960 --> 00:37:31,760
+start electrolizing at all or anything
+
+807
+00:37:30,720 --> 00:37:33,520
+like that?
+
+808
+00:37:31,760 --> 00:37:37,359
+>> Uh I don't know there's a need to when
+
+809
+00:37:33,520 --> 00:37:41,119
+you um charge water repeatedly keep
+
+810
+00:37:37,359 --> 00:37:44,079
+charging it becomes heavy water enriched
+
+811
+00:37:41,119 --> 00:37:46,000
+water. Um
+
+812
+00:37:44,079 --> 00:37:47,920
+and and that really seems to be enough.
+
+813
+00:37:46,000 --> 00:37:49,599
+But when we put it into the cell, the
+
+814
+00:37:47,920 --> 00:37:52,320
+actual electrolysis that's happening in
+
+815
+00:37:49,599 --> 00:37:55,359
+the cell is also charging that water and
+
+816
+00:37:52,320 --> 00:37:57,760
+creating more deterior. So how do we get
+
+817
+00:37:55,359 --> 00:38:00,480
+deterior? Well, we know that all natural
+
+818
+00:37:57,760 --> 00:38:02,240
+water has it. [clears throat] It's it's
+
+819
+00:38:00,480 --> 00:38:04,720
+just there.
+
+820
+00:38:02,240 --> 00:38:06,800
+We know that when we charge water
+
+821
+00:38:04,720 --> 00:38:08,160
+through electrolysis, we create more
+
+822
+00:38:06,800 --> 00:38:10,320
+deterior. Now the only difference
+
+823
+00:38:08,160 --> 00:38:13,200
+between hydrogen deterior is an electron
+
+824
+00:38:10,320 --> 00:38:16,000
+neutron. Uh we do know that in
+
+825
+00:38:13,200 --> 00:38:19,440
+electrolysis we're separating hydrogen
+
+826
+00:38:16,000 --> 00:38:22,720
+effectively oxygen. Oxygen's got uh
+
+827
+00:38:19,440 --> 00:38:24,880
+seven or eight neutrons. Someone tell me
+
+828
+00:38:22,720 --> 00:38:26,720
+>> eight. Thank you. I get these numbers.
+
+829
+00:38:24,880 --> 00:38:28,480
+I'm electronics guy. Some of this stuff
+
+830
+00:38:26,720 --> 00:38:32,079
+is just beyond me. But you have to learn
+
+831
+00:38:28,480 --> 00:38:34,960
+it if you try to be sure. Um so we we've
+
+832
+00:38:32,079 --> 00:38:36,560
+got all the components to make material
+
+833
+00:38:34,960 --> 00:38:39,440
+and I think science is quite happy with
+
+834
+00:38:36,560 --> 00:38:42,000
+the fact that we do by charging water.
+
+835
+00:38:39,440 --> 00:38:44,560
+Another thing is an idea of how much
+
+836
+00:38:42,000 --> 00:38:47,040
+deterium do we need for it to actually
+
+837
+00:38:44,560 --> 00:38:48,400
+go through metal. I'm talking did you
+
+838
+00:38:47,040 --> 00:38:49,839
+have a blind connection on your engine
+
+839
+00:38:48,400 --> 00:38:52,800
+or did you go to that
+
+840
+00:38:49,839 --> 00:38:54,320
+>> blind blind connection to just
+
+841
+00:38:52,800 --> 00:38:57,520
+aluminum
+
+842
+00:38:54,320 --> 00:38:59,359
+uh block with about 1/2 in double it and
+
+843
+00:38:57,520 --> 00:39:02,480
+that's where
+
+844
+00:38:59,359 --> 00:39:05,520
+>> okay so the energy is going through the
+
+845
+00:39:02,480 --> 00:39:09,440
+metal itself how much do we need 1/8 of
+
+846
+00:39:05,520 --> 00:39:11,520
+a g of detium is the equivalent of 1200
+
+847
+00:39:09,440 --> 00:39:13,760
+L of petrol
+
+848
+00:39:11,520 --> 00:39:16,560
+so it gives you some idea of the bang
+
+849
+00:39:13,760 --> 00:39:17,920
+that you get in detium Now on my engine
+
+850
+00:39:16,560 --> 00:39:20,320
+there [clears throat]
+
+851
+00:39:17,920 --> 00:39:24,160
+microphone but it's a blind connection.
+
+852
+00:39:20,320 --> 00:39:27,599
+So okay I do feed back into the cell and
+
+853
+00:39:24,160 --> 00:39:30,160
+this is the typically the cell that was
+
+854
+00:39:27,599 --> 00:39:32,720
+on the roof.
+
+855
+00:39:30,160 --> 00:39:35,440
+Come back to the microphone. I feed a
+
+856
+00:39:32,720 --> 00:39:37,520
+vacuum through this very very small
+
+857
+00:39:35,440 --> 00:39:39,280
+diameter tube. Occasionally I block this
+
+858
+00:39:37,520 --> 00:39:40,960
+thing off and also the test to make sure
+
+859
+00:39:39,280 --> 00:39:42,240
+that we're not running or having
+
+860
+00:39:40,960 --> 00:39:43,920
+anything to do with the gas that's
+
+861
+00:39:42,240 --> 00:39:46,560
+coming out of here. Very little but it's
+
+862
+00:39:43,920 --> 00:39:49,520
+there. Um,
+
+863
+00:39:46,560 --> 00:39:50,480
+no more tubes. This is solid cable.
+
+864
+00:39:49,520 --> 00:39:53,680
+Okay. So, we're [clears throat] actually
+
+865
+00:39:50,480 --> 00:39:55,760
+connecting to the engine via 19 aluminum
+
+866
+00:39:53,680 --> 00:39:59,280
+cable and that energy is going through
+
+867
+00:39:55,760 --> 00:40:01,920
+there. Uh, Ian Pagan, some of you would
+
+868
+00:39:59,280 --> 00:40:04,720
+know who new put one of these exact
+
+869
+00:40:01,920 --> 00:40:07,920
+cells on on his car a couple of days
+
+870
+00:40:04,720 --> 00:40:11,119
+ago. There's a video on on YouTube now.
+
+871
+00:40:07,920 --> 00:40:12,880
+Um, he did tests on on this little
+
+872
+00:40:11,119 --> 00:40:15,440
+Corolla which hadn't had a sale on in
+
+873
+00:40:12,880 --> 00:40:18,240
+the past. uh he ran it many many times
+
+874
+00:40:15,440 --> 00:40:22,079
+and and he got 90
+
+875
+00:40:18,240 --> 00:40:23,440
+90 something seconds repeatedly uh by
+
+876
+00:40:22,079 --> 00:40:25,040
+switching off the fuel. The first thing
+
+877
+00:40:23,440 --> 00:40:28,240
+he did before he put a cell on there was
+
+878
+00:40:25,040 --> 00:40:30,720
+put a fuel cup so soft started ran it
+
+879
+00:40:28,240 --> 00:40:32,320
+turned off the fuel time it repeated and
+
+880
+00:40:30,720 --> 00:40:34,800
+repeated and repeated and got exactly
+
+881
+00:40:32,320 --> 00:40:38,000
+the same time. Then he put a cell on
+
+882
+00:40:34,800 --> 00:40:41,920
+there in his case the the cable is way
+
+883
+00:40:38,000 --> 00:40:44,320
+wrong. Um, hooked it up. Couple of
+
+884
+00:40:41,920 --> 00:40:46,079
+energizing charges,
+
+885
+00:40:44,320 --> 00:40:49,680
+then turned the fuel off. We got 4
+
+886
+00:40:46,079 --> 00:40:52,560
+minutes and 5 seconds.
+
+887
+00:40:49,680 --> 00:40:54,160
+>> Just like, but it's from 90 something to
+
+888
+00:40:52,560 --> 00:40:56,400
+4 minutes and five.
+
+889
+00:40:54,160 --> 00:40:58,800
+>> From 90 seconds to 6 and 12.
+
+890
+00:40:56,400 --> 00:41:00,319
+>> 6 and Well, you did better than Ian.
+
+891
+00:40:58,800 --> 00:41:02,000
+Ian's been in the game for 10 years.
+
+892
+00:41:00,319 --> 00:41:03,920
+Never had those sort of results. So, he
+
+893
+00:41:02,000 --> 00:41:07,200
+was pretty uh [clears throat] pretty
+
+894
+00:41:03,920 --> 00:41:09,680
+happy. It was a long phone call. So, it
+
+895
+00:41:07,200 --> 00:41:11,920
+it happens. And we're slowly getting
+
+896
+00:41:09,680 --> 00:41:14,160
+we're getting there. What I've managed
+
+897
+00:41:11,920 --> 00:41:17,280
+to to do and what the book is about is
+
+898
+00:41:14,160 --> 00:41:19,200
+to try and remove the reliability on
+
+899
+00:41:17,280 --> 00:41:21,440
+visual effects. Remove the fact that
+
+900
+00:41:19,200 --> 00:41:24,000
+we're looking at bubbles and put
+
+901
+00:41:21,440 --> 00:41:26,319
+consistency in charge where we have a
+
+902
+00:41:24,000 --> 00:41:29,520
+charge power formula. The gentleman
+
+903
+00:41:26,319 --> 00:41:31,839
+asked how many amps and how many volbs.
+
+904
+00:41:29,520 --> 00:41:33,920
+Every cell should should be charging
+
+905
+00:41:31,839 --> 00:41:35,599
+about half a watt per square in of
+
+906
+00:41:33,920 --> 00:41:37,920
+cathode.
+
+907
+00:41:35,599 --> 00:41:40,720
+So with a simple power formula, it
+
+908
+00:41:37,920 --> 00:41:42,800
+doesn't matter how many amps or bolts as
+
+909
+00:41:40,720 --> 00:41:44,560
+long as you end up with about a half a W
+
+910
+00:41:42,800 --> 00:41:46,800
+per square in cathode. Any more than
+
+911
+00:41:44,560 --> 00:41:49,359
+that, you just extra cathode you need
+
+912
+00:41:46,800 --> 00:41:52,079
+it. Any less than that, you still get
+
+913
+00:41:49,359 --> 00:41:53,680
+there. It just takes a lot lot longer.
+
+914
+00:41:52,079 --> 00:41:56,240
+So
+
+915
+00:41:53,680 --> 00:41:58,240
+between the power formula for how much
+
+916
+00:41:56,240 --> 00:42:00,480
+do we charge and all charging is based
+
+917
+00:41:58,240 --> 00:42:02,160
+on the idea of half a watt per square in
+
+918
+00:42:00,480 --> 00:42:03,760
+per minute.
+
+919
+00:42:02,160 --> 00:42:06,560
+So if your current is a quarter of a
+
+920
+00:42:03,760 --> 00:42:08,240
+watt, you charge it for 2 minutes. But
+
+921
+00:42:06,560 --> 00:42:10,720
+if it's 1 W, you charge it for half a
+
+922
+00:42:08,240 --> 00:42:13,520
+minute. So a very simple formula saying
+
+923
+00:42:10,720 --> 00:42:15,200
+what is the right charging current. Now
+
+924
+00:42:13,520 --> 00:42:17,599
+where people like Alec Schiff used to
+
+925
+00:42:15,200 --> 00:42:20,079
+say charge a man.
+
+926
+00:42:17,599 --> 00:42:22,640
+Now is great, but if you've got a 6 in
+
+927
+00:42:20,079 --> 00:42:25,920
+by one cathode, you've got 18 square in.
+
+928
+00:42:22,640 --> 00:42:28,319
+If it's 10 in by 2 in round,
+
+929
+00:42:25,920 --> 00:42:31,760
+you got 30 square in
+
+930
+00:42:28,319 --> 00:42:33,839
+somewhere around there. So, um, what
+
+931
+00:42:31,760 --> 00:42:36,800
+I've tried to do is bring down some some
+
+932
+00:42:33,839 --> 00:42:39,119
+constants so that I can charge this and
+
+933
+00:42:36,800 --> 00:42:42,560
+I can tell any of you exactly what my
+
+934
+00:42:39,119 --> 00:42:44,240
+charge power is and what my halfife is,
+
+935
+00:42:42,560 --> 00:42:46,960
+the time it takes for this cell to
+
+936
+00:42:44,240 --> 00:42:49,119
+deteriorate to that halfife voltage. And
+
+937
+00:42:46,960 --> 00:42:51,119
+you can repeat that exactly and you can
+
+938
+00:42:49,119 --> 00:42:53,440
+share your findings with others and say,
+
+939
+00:42:51,119 --> 00:42:56,240
+"My engine's running and I hit this hard
+
+940
+00:42:53,440 --> 00:43:02,160
+drive." As far as bubbles, read the
+
+941
+00:42:56,240 --> 00:43:05,880
+book. You you don't want them. Um, BS
+
+942
+00:43:02,160 --> 00:43:05,880
+put this down here.
+
+943
+00:43:12,079 --> 00:43:17,280
+That's about the latest in in cell
+
+944
+00:43:14,560 --> 00:43:19,119
+design. Um, it's seamless. Well,
+
+945
+00:43:17,280 --> 00:43:22,000
+actually that one isn't, but the ones
+
+946
+00:43:19,119 --> 00:43:24,079
+we're making now are two more seamless.
+
+947
+00:43:22,000 --> 00:43:26,240
+And the finish is almost like chrome.
+
+948
+00:43:24,079 --> 00:43:29,599
+They're just mirror finish. That stop
+
+949
+00:43:26,240 --> 00:43:31,599
+edging. Um, and really stops building up
+
+950
+00:43:29,599 --> 00:43:33,839
+in the cell. They just go for so much
+
+951
+00:43:31,599 --> 00:43:36,480
+longer. Um,
+
+952
+00:43:33,839 --> 00:43:39,599
+now as far as
+
+953
+00:43:36,480 --> 00:43:42,240
+how many of you have done Joseph?
+
+954
+00:43:39,599 --> 00:43:43,599
+Okay, that was a few. You've all gone
+
+955
+00:43:42,240 --> 00:43:46,880
+through looking for these wonderful
+
+956
+00:43:43,599 --> 00:43:50,960
+stage one and stage two, stage 3s. Could
+
+957
+00:43:46,880 --> 00:43:53,960
+I interrupt for a minute? the owner of
+
+958
+00:43:50,960 --> 00:43:53,960
+X153
+
+959
+00:43:55,040 --> 00:43:59,119
+XPC375.
+
+960
+00:43:57,280 --> 00:44:01,520
+Could you
+
+961
+00:43:59,119 --> 00:44:04,160
+please
+
+962
+00:44:01,520 --> 00:44:07,880
+meditation group was on the next floor?
+
+963
+00:44:04,160 --> 00:44:07,880
+You're packing them in.
+
+964
+00:44:13,435 --> 00:44:17,839
+[clears throat]
+
+965
+00:44:14,160 --> 00:44:19,680
+And um when I did my halfife test and I
+
+966
+00:44:17,839 --> 00:44:21,280
+do my computer volume and I got all
+
+967
+00:44:19,680 --> 00:44:24,160
+these results I got them whether I had
+
+968
+00:44:21,280 --> 00:44:26,480
+bubbles or any bubbles. So they looked
+
+969
+00:44:24,160 --> 00:44:28,160
+into what make bubbles and they do the
+
+970
+00:44:26,480 --> 00:44:29,920
+research on where does the rain come
+
+971
+00:44:28,160 --> 00:44:32,480
+from? How does it happen? How does it
+
+972
+00:44:29,920 --> 00:44:34,800
+fall? What happens to it? Turns out that
+
+973
+00:44:32,480 --> 00:44:37,359
+all plants or almost all plants that
+
+974
+00:44:34,800 --> 00:44:39,200
+have leaves have an immune system.
+
+975
+00:44:37,359 --> 00:44:41,280
+That's the reason that fungus and mold
+
+976
+00:44:39,200 --> 00:44:44,400
+doesn't grow on a leaf. Grows on the
+
+977
+00:44:41,280 --> 00:44:47,040
+ground not on a leaf. They secrete what
+
+978
+00:44:44,400 --> 00:44:49,440
+what they call a sapion, which is a
+
+979
+00:44:47,040 --> 00:44:51,359
+natural form of surfactant. It's another
+
+980
+00:44:49,440 --> 00:44:53,520
+word for soap.
+
+981
+00:44:51,359 --> 00:44:55,119
+So all of this rain that we get at the
+
+982
+00:44:53,520 --> 00:44:56,960
+top of the mountain stream that's come
+
+983
+00:44:55,119 --> 00:44:59,200
+off the rainforest that's come over the
+
+984
+00:44:56,960 --> 00:45:02,079
+paddics has picked up all of this
+
+985
+00:44:59,200 --> 00:45:03,839
+natural soap. And it just happens at
+
+986
+00:45:02,079 --> 00:45:05,359
+that stage to have not too many
+
+987
+00:45:03,839 --> 00:45:07,359
+pollutants and to meet a lot of our
+
+988
+00:45:05,359 --> 00:45:09,040
+other requirements.
+
+989
+00:45:07,359 --> 00:45:11,119
+But
+
+990
+00:45:09,040 --> 00:45:13,119
+we got this cycle and when we start
+
+991
+00:45:11,119 --> 00:45:15,520
+using that water in these cells, we get
+
+992
+00:45:13,119 --> 00:45:18,319
+these bubbles that seem to look great
+
+993
+00:45:15,520 --> 00:45:20,880
+and they work. Uh they do absolutely
+
+994
+00:45:18,319 --> 00:45:26,040
+nothing for the production of the energy
+
+995
+00:45:20,880 --> 00:45:26,040
+or vibration of the cell. So
+
+996
+00:45:31,359 --> 00:45:33,401
+power [clears throat]
+
+997
+00:45:35,200 --> 00:45:40,040
+you call a deteriorating battery
+
+998
+00:45:40,800 --> 00:45:45,119
+but it doesn't deterior
+
+999
+00:45:48,000 --> 00:45:51,000
+Sorry.
+
+1000
+00:45:51,520 --> 00:45:56,640
+Oh, when we're talking, we're not we're
+
+1001
+00:45:54,160 --> 00:45:59,280
+talking pure voltage.
+
+1002
+00:45:56,640 --> 00:46:01,760
+Uh the the residual voltage, you put a
+
+1003
+00:45:59,280 --> 00:46:05,440
+charge on itself, we'll stick 12 volts
+
+1004
+00:46:01,760 --> 00:46:07,119
+on it for a minute and we wait a little
+
+1005
+00:46:05,440 --> 00:46:09,760
+period of time and we measure that
+
+1006
+00:46:07,119 --> 00:46:12,079
+voltage. Now the case of this cell it
+
+1007
+00:46:09,760 --> 00:46:16,079
+varies from cell to cell but it's pretty
+
+1008
+00:46:12,079 --> 00:46:18,560
+consistent with a particular cell and a
+
+1009
+00:46:16,079 --> 00:46:21,119
+given water.
+
+1010
+00:46:18,560 --> 00:46:23,599
+So that cell with the water that I
+
+1011
+00:46:21,119 --> 00:46:27,040
+process that I use
+
+1012
+00:46:23,599 --> 00:46:29,119
+um the halfife voltage is about 1.2 vol
+
+1013
+00:46:27,040 --> 00:46:30,560
+which means when I charged it I'm not
+
+1014
+00:46:29,119 --> 00:46:33,040
+going to charge it again until the
+
+1015
+00:46:30,560 --> 00:46:34,880
+cell's voltage has dropped off to 1.2
+
+1016
+00:46:33,040 --> 00:46:37,040
+volts.
+
+1017
+00:46:34,880 --> 00:46:38,720
+Uh and this is a very simple formula
+
+1018
+00:46:37,040 --> 00:46:40,400
+that that's in the book where you do two
+
+1019
+00:46:38,720 --> 00:46:42,560
+initial readings. You get the full life
+
+1020
+00:46:40,400 --> 00:46:45,119
+voltage, you get the half life. The full
+
+1021
+00:46:42,560 --> 00:46:46,880
+life is the one minute after a charge.
+
+1022
+00:46:45,119 --> 00:46:49,119
+And this is initial charge when we first
+
+1023
+00:46:46,880 --> 00:46:50,640
+put it together. When you connect back
+
+1024
+00:46:49,119 --> 00:46:53,599
+into one of these cells, the voltage on
+
+1025
+00:46:50,640 --> 00:46:55,839
+it will go up to the full life voltage.
+
+1026
+00:46:53,599 --> 00:46:57,280
+It's kind of uncanny to watch, but all
+
+1027
+00:46:55,839 --> 00:47:01,119
+of a sudden you've got this thing going
+
+1028
+00:46:57,280 --> 00:47:02,800
+up in voltage, not down. Um, and now the
+
+1029
+00:47:01,119 --> 00:47:04,560
+very very crazy thing is current can
+
+1030
+00:47:02,800 --> 00:47:06,560
+come out of them and not into them when
+
+1031
+00:47:04,560 --> 00:47:08,800
+you're charging them back in. If you've
+
+1032
+00:47:06,560 --> 00:47:10,400
+actually got engine running, the
+
+1033
+00:47:08,800 --> 00:47:12,240
+generator's running off this and the
+
+1034
+00:47:10,400 --> 00:47:15,839
+computer connects to charge. I often get
+
+1035
+00:47:12,240 --> 00:47:18,560
+the current coming out, not going in.
+
+1036
+00:47:15,839 --> 00:47:22,000
+So just another
+
+1037
+00:47:18,560 --> 00:47:26,720
+surface area of the cells is what's
+
+1038
+00:47:22,000 --> 00:47:29,440
+creating hydrogen. Um friend here has
+
+1039
+00:47:26,720 --> 00:47:32,319
+got uh the latest design that we sell in
+
+1040
+00:47:29,440 --> 00:47:35,520
+square plates. So you get more surface
+
+1041
+00:47:32,319 --> 00:47:38,160
+area if you put square plates in uh
+
+1042
+00:47:35,520 --> 00:47:42,000
+rather than the round plates. Another
+
+1043
+00:47:38,160 --> 00:47:44,640
+question I've got is um a more exotic
+
+1044
+00:47:42,000 --> 00:47:46,720
+metal. Wouldn't that uh encourage the
+
+1045
+00:47:44,640 --> 00:47:49,920
+hydrogen to be produced? In other words,
+
+1046
+00:47:46,720 --> 00:47:52,800
+if the plates and there were plated with
+
+1047
+00:47:49,920 --> 00:47:55,920
+say nickel, the nickel is going to
+
+1048
+00:47:52,800 --> 00:47:58,480
+encourage more hydrogen production. And
+
+1049
+00:47:55,920 --> 00:48:00,240
+the other thing that that's amazing,
+
+1050
+00:47:58,480 --> 00:48:02,000
+you're charging the water. Is it
+
+1051
+00:48:00,240 --> 00:48:05,960
+possible that you're restoring the
+
+1052
+00:48:02,000 --> 00:48:05,960
+memory back in that water?
+
+1053
+00:48:06,240 --> 00:48:11,119
+>> That I don't know. I really haven't
+
+1054
+00:48:08,880 --> 00:48:13,040
+looked into the memory storage part of
+
+1055
+00:48:11,119 --> 00:48:15,040
+it. I watched the videos. I've seen the
+
+1056
+00:48:13,040 --> 00:48:18,240
+crystals growing, etc. I haven't
+
+1057
+00:48:15,040 --> 00:48:20,720
+researched it. Um, as far as the square
+
+1058
+00:48:18,240 --> 00:48:23,520
+plates or flat plates, the reason that
+
+1059
+00:48:20,720 --> 00:48:26,480
+we have the shape we do with with a
+
+1060
+00:48:23,520 --> 00:48:29,520
+water fuel cell is
+
+1061
+00:48:26,480 --> 00:48:32,079
+cell. We've got cylindricical cylinders
+
+1062
+00:48:29,520 --> 00:48:34,640
+one inside the other. Each of those
+
+1063
+00:48:32,079 --> 00:48:37,119
+effectively becomes a battery. Okay, we
+
+1064
+00:48:34,640 --> 00:48:40,160
+get where it's fully charged about 800 m
+
+1065
+00:48:37,119 --> 00:48:42,319
+volts across each of the gaps. Um, and
+
+1066
+00:48:40,160 --> 00:48:45,920
+half life is about 400 m volts at each
+
+1067
+00:48:42,319 --> 00:48:50,200
+gap. That battery that's inside the cell
+
+1068
+00:48:45,920 --> 00:48:50,200
+tends to stop the
+
+1069
+00:48:51,520 --> 00:48:55,200
+that battery that's in the cell tries to
+
+1070
+00:48:53,440 --> 00:48:58,079
+stop the material from returning back
+
+1071
+00:48:55,200 --> 00:49:01,599
+into the water. So what the neutrals
+
+1072
+00:48:58,079 --> 00:49:04,800
+actually do uh act as as a barrier to
+
+1073
+00:49:01,599 --> 00:49:06,640
+keep the charge within the cell.
+
+1074
+00:49:04,800 --> 00:49:08,559
+So if we go to square plates, we really
+
+1075
+00:49:06,640 --> 00:49:10,880
+don't have the same setup and we can't
+
+1076
+00:49:08,559 --> 00:49:12,640
+keep it as charge. Having said that, you
+
+1077
+00:49:10,880 --> 00:49:14,640
+can put an external control voltage on
+
+1078
+00:49:12,640 --> 00:49:15,920
+it and keep it charged without neutrals.
+
+1079
+00:49:14,640 --> 00:49:20,359
+You can build one of these and make it
+
+1080
+00:49:15,920 --> 00:49:20,359
+work without neutrals. It's just harder.
+
+1081
+00:49:27,839 --> 00:49:34,280
+So you can have as as many neutral
+
+1082
+00:49:29,359 --> 00:49:34,280
+positions in a square
+
+1083
+00:49:34,960 --> 00:49:39,760
+separated from each other.
+
+1084
+00:49:37,200 --> 00:49:41,359
+>> If they're flat parallel plates, the
+
+1085
+00:49:39,760 --> 00:49:45,040
+problem is that we're accumulating
+
+1086
+00:49:41,359 --> 00:49:48,240
+detium on one plate on one end only and
+
+1087
+00:49:45,040 --> 00:49:51,040
+we need a mechanism to attract that off
+
+1088
+00:49:48,240 --> 00:49:53,200
+of the metal and out of the environment
+
+1089
+00:49:51,040 --> 00:49:55,040
+without going back to the cathode. The
+
+1090
+00:49:53,200 --> 00:49:57,520
+construction of this is just ideal for
+
+1091
+00:49:55,040 --> 00:49:58,880
+doing that. And when you're in a flat
+
+1092
+00:49:57,520 --> 00:50:02,480
+plate environment, you really can't stop
+
+1093
+00:49:58,880 --> 00:50:04,720
+that. And it's much harder to stop the
+
+1094
+00:50:02,480 --> 00:50:07,119
+cathode effective cathode in plate from
+
+1095
+00:50:04,720 --> 00:50:08,960
+leaking through all the others. Unless
+
+1096
+00:50:07,119 --> 00:50:10,480
+you try to convert it by voice or
+
+1097
+00:50:08,960 --> 00:50:13,760
+something into a Joe cell, but it's not
+
+1098
+00:50:10,480 --> 00:50:16,880
+going to work as easily. Uh with such a
+
+1099
+00:50:13,760 --> 00:50:19,599
+simple format, there isn't one.
+
+1100
+00:50:16,880 --> 00:50:23,240
+What was the other part of your three?
+
+1101
+00:50:19,599 --> 00:50:23,240
+Yeah, the nickel
+
+1102
+00:50:23,359 --> 00:50:28,880
+never looked at nickel looked at nickel
+
+1103
+00:50:26,240 --> 00:50:32,240
+a very exotic sort of material and it
+
+1104
+00:50:28,880 --> 00:50:34,160
+does encourage in certain um conditions
+
+1105
+00:50:32,240 --> 00:50:36,480
+gas production.
+
+1106
+00:50:34,160 --> 00:50:38,559
+>> The nice thing with stainless is that
+
+1107
+00:50:36,480 --> 00:50:40,880
+when we get to these mirror finishes we
+
+1108
+00:50:38,559 --> 00:50:42,960
+don't get itching. It's fairly dense
+
+1109
+00:50:40,880 --> 00:50:44,400
+metal. Uh people have had a lot of
+
+1110
+00:50:42,960 --> 00:50:47,440
+success with aluminium especially
+
+1111
+00:50:44,400 --> 00:50:50,160
+aluminium tops. Um, anyone here made an
+
+1112
+00:50:47,440 --> 00:50:52,559
+aluminium cell or an aluminium top cone?
+
+1113
+00:50:50,160 --> 00:50:54,640
+Nothing. You have. You have. Okay. Both
+
+1114
+00:50:52,559 --> 00:50:56,640
+have any Well, you've had success. Did
+
+1115
+00:50:54,640 --> 00:50:59,640
+you have any success with yours? No.
+
+1116
+00:50:56,640 --> 00:50:59,640
+Okay.
+
+1117
+00:51:00,160 --> 00:51:04,839
+>> The key was the aluminium.
+
+1118
+00:51:01,839 --> 00:51:04,839
+>> Yeah.
+
+1119
+00:51:04,880 --> 00:51:12,000
+>> The advantage of aluminium uh is that
+
+1120
+00:51:09,040 --> 00:51:14,640
+being a soft metal that deteriorates it
+
+1121
+00:51:12,000 --> 00:51:17,760
+and migrates through it very easily.
+
+1122
+00:51:14,640 --> 00:51:20,079
+as the angle and and I've heard a lot of
+
+1123
+00:51:17,760 --> 00:51:22,960
+people talk about pyramid tops, cone
+
+1124
+00:51:20,079 --> 00:51:25,440
+tops, 45°. I've bought them, I've made
+
+1125
+00:51:22,960 --> 00:51:27,200
+them, I've tried every one of them, and
+
+1126
+00:51:25,440 --> 00:51:29,440
+I haven't measured any difference to a
+
+1127
+00:51:27,200 --> 00:51:31,119
+flat top. And I'm not saying there isn't
+
+1128
+00:51:29,440 --> 00:51:32,960
+a difference, but personally, there
+
+1129
+00:51:31,119 --> 00:51:35,760
+there's been no operational difference
+
+1130
+00:51:32,960 --> 00:51:37,599
+for me personally over a straight flat
+
+1131
+00:51:35,760 --> 00:51:39,920
+top. And the flat tops about a tenth of
+
+1132
+00:51:37,599 --> 00:51:42,160
+the price to make as of even something
+
+1133
+00:51:39,920 --> 00:51:43,680
+like one of those tops, which is 8 mil
+
+1134
+00:51:42,160 --> 00:51:46,800
+thick.
+
+1135
+00:51:43,680 --> 00:51:48,960
+uh a lot easier to make. Um
+
+1136
+00:51:46,800 --> 00:51:51,119
+the direction that I'm starting to go
+
+1137
+00:51:48,960 --> 00:51:54,079
+now and Bob and I were talking about
+
+1138
+00:51:51,119 --> 00:51:57,839
+about this couple of days ago was
+
+1139
+00:51:54,079 --> 00:51:59,440
+laminations where the water surface is
+
+1140
+00:51:57,839 --> 00:52:03,200
+in contact with a half a mill of
+
+1141
+00:51:59,440 --> 00:52:05,359
+stainless that's there to uh for the
+
+1142
+00:52:03,200 --> 00:52:07,280
+electrolysis to stop corrosion itching
+
+1143
+00:52:05,359 --> 00:52:08,880
+all the things aluminium has but
+
+1144
+00:52:07,280 --> 00:52:12,160
+literally aluminium [clears throat]
+
+1145
+00:52:08,880 --> 00:52:15,599
+bonded to the stainless so that we've
+
+1146
+00:52:12,160 --> 00:52:20,280
+got the um lower density the structure
+
+1147
+00:52:15,599 --> 00:52:20,280
+for the dutium to migrate through.
+
+1148
+00:52:21,119 --> 00:52:24,160
+It's just a case of getting the numbers
+
+1149
+00:52:22,480 --> 00:52:25,599
+right, getting getting the thickness
+
+1150
+00:52:24,160 --> 00:52:27,200
+right, getting it working. And you got
+
+1151
+00:52:25,599 --> 00:52:29,200
+to try these.
+
+1152
+00:52:27,200 --> 00:52:31,040
+>> What was interesting was the aluminum
+
+1153
+00:52:29,200 --> 00:52:32,960
+tops which I made cuz they were solid
+
+1154
+00:52:31,040 --> 00:52:37,440
+machine
+
+1155
+00:52:32,960 --> 00:52:40,000
+tops. Um [clears throat] that after
+
+1156
+00:52:37,440 --> 00:52:44,160
+after a while the cell was operating for
+
+1157
+00:52:40,000 --> 00:52:46,640
+a while the the actual alum that was
+
+1158
+00:52:44,160 --> 00:52:50,319
+subjected to the inside of the cell
+
+1159
+00:52:46,640 --> 00:52:51,520
+forms a almost black sort of pentite
+
+1160
+00:52:50,319 --> 00:52:51,839
+coating on it.
+
+1161
+00:52:51,520 --> 00:52:54,319
+>> Okay,
+
+1162
+00:52:51,839 --> 00:52:57,640
+>> which is very hard and is nonconductive.
+
+1163
+00:52:54,319 --> 00:52:57,640
+there was not
+
+1164
+00:53:00,800 --> 00:53:08,576
+and and that was also when the cell was
+
+1165
+00:53:04,000 --> 00:53:10,596
+at it full effect and when it was once
+
+1166
+00:53:08,576 --> 00:53:10,596
+[clears throat]
+
+1167
+00:53:15,599 --> 00:53:21,680
+you've got copper in it where you
+
+1168
+00:53:18,480 --> 00:53:24,559
+separate the copper from the aluminium
+
+1169
+00:53:21,680 --> 00:53:27,359
+uh you find a lot of green
+
+1170
+00:53:24,559 --> 00:53:30,400
+wouldn't be green and and this was
+
+1171
+00:53:27,359 --> 00:53:33,440
+totally non nonconductive
+
+1172
+00:53:30,400 --> 00:53:37,440
+was not green.
+
+1173
+00:53:33,440 --> 00:53:41,760
+No matter it was like
+
+1174
+00:53:37,440 --> 00:53:44,960
+excuse me with the car that
+
+1175
+00:53:41,760 --> 00:53:47,520
+uh yes it was. Yeah. Yeah. Actually I
+
+1176
+00:53:44,960 --> 00:53:49,440
+grab my center
+
+1177
+00:53:47,520 --> 00:53:51,440
+>> and then
+
+1178
+00:53:49,440 --> 00:53:53,040
+there neutrals.
+
+1179
+00:53:51,440 --> 00:53:54,880
+>> Yes I had neutral.
+
+1180
+00:53:53,040 --> 00:53:57,040
+about
+
+1181
+00:53:54,880 --> 00:53:59,680
+what I what I would invite people with
+
+1182
+00:53:57,040 --> 00:54:03,040
+you to do that have worked on Joe within
+
+1183
+00:53:59,680 --> 00:54:04,480
+one sec um share with me if you could
+
+1184
+00:54:03,040 --> 00:54:09,040
+what successes you've had and what
+
+1185
+00:54:04,480 --> 00:54:11,119
+variations I spent some years in my shed
+
+1186
+00:54:09,040 --> 00:54:12,880
+knowing nobody that worked with these I
+
+1187
+00:54:11,119 --> 00:54:15,520
+read little bits on the internet came
+
+1188
+00:54:12,880 --> 00:54:18,559
+across Bob absolutely by some tools one
+
+1189
+00:54:15,520 --> 00:54:21,599
+time um and and got to know him and
+
+1190
+00:54:18,559 --> 00:54:22,559
+therefore meet some of you and others in
+
+1191
+00:54:21,599 --> 00:54:24,079
+in the
+
+1192
+00:54:22,559 --> 00:54:26,480
+But I have very little hands on with
+
+1193
+00:54:24,079 --> 00:54:28,960
+other people's views and therefore
+
+1194
+00:54:26,480 --> 00:54:31,040
+things like the aluminium tops or
+
+1195
+00:54:28,960 --> 00:54:33,200
+graphite centers. They're things I
+
+1196
+00:54:31,040 --> 00:54:36,240
+haven't explored because there's a limit
+
+1197
+00:54:33,200 --> 00:54:38,240
+to what I can do in a [music] day. Um
+
+1198
+00:54:36,240 --> 00:54:40,480
+but I'd like that feedback. I don't need
+
+1199
+00:54:38,240 --> 00:54:42,880
+to reinvent. If you tried something that
+
+1200
+00:54:40,480 --> 00:54:45,119
+didn't work, it saved me a lot of time.
+
+1201
+00:54:42,880 --> 00:54:49,559
+If you tried something that had positive
+
+1202
+00:54:45,119 --> 00:54:49,559
+results, help me in that direction.
+
+1203
+00:54:51,839 --> 00:54:57,963
+Now,
+
+1204
+00:54:53,839 --> 00:54:59,440
+sorry. What color is this showing on
+
+1205
+00:54:57,963 --> 00:55:02,440
+[music]
+
+1206
+00:54:59,440 --> 00:55:02,440
+any
+
+1207
+00:55:03,440 --> 00:55:11,839
+brown or maybe black?
+
+1208
+00:55:07,680 --> 00:55:14,480
+>> Cuz I because I run it out of fuel.
+
+1209
+00:55:11,839 --> 00:55:17,200
+I turn the fuel off. Literally put my
+
+1210
+00:55:14,480 --> 00:55:19,359
+hand over the end of the car, pull it a
+
+1211
+00:55:17,200 --> 00:55:21,200
+few times. So the first time I turn the
+
+1212
+00:55:19,359 --> 00:55:22,720
+ignition on, she's saying we should
+
+1213
+00:55:21,200 --> 00:55:25,040
+flood. It's not funny.
+
+1214
+00:55:22,720 --> 00:55:26,640
+>> The only thing I was asking for is that
+
+1215
+00:55:25,040 --> 00:55:30,079
+you know me and the motors have been
+
+1216
+00:55:26,640 --> 00:55:31,040
+running perfect just conventional rings.
+
+1217
+00:55:30,079 --> 00:55:32,880
+>> Sorry,
+
+1218
+00:55:31,040 --> 00:55:34,880
+>> they running perfect still rings or saw
+
+1219
+00:55:32,880 --> 00:55:37,839
+everyone runs conventional rings.
+
+1220
+00:55:34,880 --> 00:55:39,440
+>> That's just I don't know about the
+
+1221
+00:55:37,839 --> 00:55:42,480
+piston
+
+1222
+00:55:39,440 --> 00:55:45,119
+rings. What I'm asking is if on that
+
+1223
+00:55:42,480 --> 00:55:47,119
+implosion that you're saying is maybe
+
+1224
+00:55:45,119 --> 00:55:48,720
+that maybe it's pulling a fraction of
+
+1225
+00:55:47,119 --> 00:55:50,240
+oil vapor up that it's actually
+
+1226
+00:55:48,720 --> 00:55:51,920
+partially using that as
+
+1227
+00:55:50,240 --> 00:55:54,960
+>> I have little doubt. Well, I don't know
+
+1228
+00:55:51,920 --> 00:56:00,160
+about about fuel because the oil level
+
+1229
+00:55:54,960 --> 00:56:05,920
+certainly does not go down. So my same
+
+1230
+00:56:00,160 --> 00:56:08,920
+>> if it's that my gladly buy all petrol
+
+1231
+00:56:05,920 --> 00:56:08,920
+GTX,000
+
+1232
+00:56:08,960 --> 00:56:12,640
+the combination was you saying that
+
+1233
+00:56:11,200 --> 00:56:14,240
+starting from
+
+1234
+00:56:12,640 --> 00:56:16,160
+>> yeah it could well be with an
+
+1235
+00:56:14,240 --> 00:56:18,480
+endothermic reaction where we got this
+
+1236
+00:56:16,160 --> 00:56:20,480
+inflation and I think that's really why
+
+1237
+00:56:18,480 --> 00:56:22,640
+they had no compression with general
+
+1238
+00:56:20,480 --> 00:56:25,640
+said that it should be kicking back just
+
+1239
+00:56:22,640 --> 00:56:25,640
+occasionally
+
+1240
+00:56:26,400 --> 00:56:31,760
+with Ken Occasionally I'll pull it and
+
+1241
+00:56:29,280 --> 00:56:33,920
+and this is like one in the hundth ball
+
+1242
+00:56:31,760 --> 00:56:37,520
+and it kicks back and what you know
+
+1243
+00:56:33,920 --> 00:56:39,520
+about it's enormous. It's huge. Uh most
+
+1244
+00:56:37,520 --> 00:56:42,880
+of the time there's just no compression.
+
+1245
+00:56:39,520 --> 00:56:45,839
+So that implosion that starts must
+
+1246
+00:56:42,880 --> 00:56:48,400
+logically take oil past the rings. We
+
+1247
+00:56:45,839 --> 00:56:52,720
+must be consuming some oil. But I've
+
+1248
+00:56:48,400 --> 00:56:56,640
+never had to replace oil in it at all.
+
+1249
+00:56:52,720 --> 00:56:58,640
+Well, I I just recall that when Bruce is
+
+1250
+00:56:56,640 --> 00:57:01,040
+Bruce there or you were there when I
+
+1251
+00:56:58,640 --> 00:57:03,040
+gave myself to you and you might recall
+
+1252
+00:57:01,040 --> 00:57:06,079
+what I tell the story what happened to
+
+1253
+00:57:03,040 --> 00:57:10,640
+your car was was the oil.
+
+1254
+00:57:06,079 --> 00:57:14,400
+>> Yeah. When um was sold early
+
+1255
+00:57:10,640 --> 00:57:17,280
+when I used it on the car, the actual uh
+
+1256
+00:57:14,400 --> 00:57:20,079
+exhaust went really oily. It was that
+
+1257
+00:57:17,280 --> 00:57:21,409
+bad that uh when I pulled up a traffic
+
+1258
+00:57:20,079 --> 00:57:24,880
+lights, you could you couldn't
+
+1259
+00:57:21,409 --> 00:57:26,799
+[clears throat] see what was behind you.
+
+1260
+00:57:24,880 --> 00:57:28,319
+It was as though similar to if you break
+
+1261
+00:57:26,799 --> 00:57:29,040
+a ring, crack a ring or something. It
+
+1262
+00:57:28,319 --> 00:57:30,880
+was that much.
+
+1263
+00:57:29,040 --> 00:57:32,079
+>> The explosion was sucking oil up past
+
+1264
+00:57:30,880 --> 00:57:34,000
+the rings and and
+
+1265
+00:57:32,079 --> 00:57:36,799
+>> burn.
+
+1266
+00:57:34,000 --> 00:57:38,799
+The interesting thing was that um Joe
+
+1267
+00:57:36,799 --> 00:57:41,200
+had said previously that if you have any
+
+1268
+00:57:38,799 --> 00:57:43,119
+problems, get a lead, go from the
+
+1269
+00:57:41,200 --> 00:57:46,319
+positive of your battery and just arc it
+
+1270
+00:57:43,119 --> 00:57:48,319
+onto the block and it will get rid of
+
+1271
+00:57:46,319 --> 00:57:51,200
+the charge. And I did that and instantly
+
+1272
+00:57:48,319 --> 00:57:52,880
+the oil smoke stopped. But it came back
+
+1273
+00:57:51,200 --> 00:57:55,040
+over a period of a couple of weeks. It
+
+1274
+00:57:52,880 --> 00:57:57,520
+came back again. I arked it and went
+
+1275
+00:57:55,040 --> 00:58:00,640
+away again. In the end, I took the cell
+
+1276
+00:57:57,520 --> 00:58:02,400
+off and it still did it. And it was only
+
+1277
+00:58:00,640 --> 00:58:05,200
+after I drained the water out of the
+
+1278
+00:58:02,400 --> 00:58:07,839
+radiator and the block and put fresh
+
+1279
+00:58:05,200 --> 00:58:10,079
+water back in that the oil oil smoke
+
+1280
+00:58:07,839 --> 00:58:12,799
+problem didn't reoccur.
+
+1281
+00:58:10,079 --> 00:58:14,000
+Okay.
+
+1282
+00:58:12,799 --> 00:58:16,000
+>> Well, first of all, thank you for
+
+1283
+00:58:14,000 --> 00:58:18,960
+telling me that 6 months ago because you
+
+1284
+00:58:16,000 --> 00:58:20,640
+saved my
+
+1285
+00:58:18,960 --> 00:58:23,440
+tool
+
+1286
+00:58:20,640 --> 00:58:27,359
+came over one evening 25 or 6 months
+
+1287
+00:58:23,440 --> 00:58:29,599
+ago. Uh, I had a cell on on the van, not
+
+1288
+00:58:27,359 --> 00:58:31,920
+for a long time. Um, we done a couple of
+
+1289
+00:58:29,599 --> 00:58:33,359
+trips and I took the cell off the van
+
+1290
+00:58:31,920 --> 00:58:37,119
+and a couple of the effects didn't go
+
+1291
+00:58:33,359 --> 00:58:41,599
+away. It used to go into city finally at
+
+1292
+00:58:37,119 --> 00:58:42,880
+um, how many RPM? 200. Yeah. Just just
+
+1293
+00:58:41,599 --> 00:58:44,240
+way slight lower than it should have
+
+1294
+00:58:42,880 --> 00:58:47,520
+been to the point the ignition light
+
+1295
+00:58:44,240 --> 00:58:49,599
+come on. So the light side
+
+1296
+00:58:47,520 --> 00:58:51,839
+was already going [clears throat]
+
+1297
+00:58:49,599 --> 00:58:53,839
+and it it did this where it felt like it
+
+1298
+00:58:51,839 --> 00:58:55,599
+for a long time. I couldn't stop it. I
+
+1299
+00:58:53,839 --> 00:58:58,319
+just could not stop this thing from
+
+1300
+00:58:55,599 --> 00:59:01,520
+dropping off into absolutely smooth. So
+
+1301
+00:58:58,319 --> 00:59:03,920
+smooth. Smoother than normal 800 RPM.
+
+1302
+00:59:01,520 --> 00:59:05,599
+Just down [clears throat] it goes. And
+
+1303
+00:59:03,920 --> 00:59:07,280
+Bob's got his head up there and he's got
+
+1304
+00:59:05,599 --> 00:59:09,440
+his ear on the exhaust pipe, but it's
+
+1305
+00:59:07,280 --> 00:59:11,440
+running as smooth as would be. And I
+
+1306
+00:59:09,440 --> 00:59:14,400
+think Bruce, you were the one that told
+
+1307
+00:59:11,440 --> 00:59:16,960
+me to zap the crank. And I did want to
+
+1308
+00:59:14,400 --> 00:59:19,440
+zap the crank as normally. Thanks for a
+
+1309
+00:59:16,960 --> 00:59:24,400
+normal vehicle, Bruce.
+
+1310
+00:59:19,440 --> 00:59:26,720
+>> Anyone else? Uh uh 3116 by the way has
+
+1311
+00:59:24,400 --> 00:59:27,520
+between 3 and 6% copper.
+
+1312
+00:59:26,720 --> 00:59:30,079
+>> Yes.
+
+1313
+00:59:27,520 --> 00:59:33,520
+>> Okay.
+
+1314
+00:59:30,079 --> 00:59:36,960
+>> So could we be using that?
+
+1315
+00:59:33,520 --> 00:59:39,760
+What we're doing is is well do we need
+
+1316
+00:59:36,960 --> 00:59:42,640
+do we need to use anything else? We we
+
+1317
+00:59:39,760 --> 00:59:44,720
+believe deterior is our energy. It
+
+1318
+00:59:42,640 --> 00:59:47,599
+certainly has
+
+1319
+00:59:44,720 --> 00:59:50,079
+enough energy. An eighth of a grand for
+
+1320
+00:59:47,599 --> 00:59:53,040
+1200 L of petrol. That's pretty powerful
+
+1321
+00:59:50,079 --> 00:59:55,359
+stuff. Um I've got another video here
+
+1322
+00:59:53,040 --> 00:59:57,200
+which if you wish to see it's 10 minutes
+
+1323
+00:59:55,359 --> 00:59:59,920
+long. It was a presentation by Barry
+
+1324
+00:59:57,200 --> 01:00:02,960
+Hook. Uh it looks at the Joe settle and
+
+1325
+00:59:59,920 --> 01:00:05,359
+perhaps back in the early days uh he
+
+1326
+01:00:02,960 --> 01:00:08,240
+spent time with Joe and had access to
+
+1327
+01:00:05,359 --> 01:00:10,160
+Joe cell talks about what he found. He
+
+1328
+01:00:08,240 --> 01:00:12,319
+concluded that it may be deteriorating.
+
+1329
+01:00:10,160 --> 01:00:13,599
+That's how I originally got to thinking
+
+1330
+01:00:12,319 --> 01:00:17,680
+about it. Then when I learned about
+
+1331
+01:00:13,599 --> 01:00:20,480
+endothermics and so on, it fits. Uh but
+
+1332
+01:00:17,680 --> 01:00:22,880
+he also talks about the the power of
+
+1333
+01:00:20,480 --> 01:00:26,000
+deterium. A thousand times more energy
+
+1334
+01:00:22,880 --> 01:00:28,720
+in deteriorum than uranium which is
+
+1335
+01:00:26,000 --> 01:00:30,400
+powerful stuff you know
+
+1336
+01:00:28,720 --> 01:00:34,480
+it's about a million times more than
+
+1337
+01:00:30,400 --> 01:00:37,920
+petrol some crazy crazy formulation
+
+1338
+01:00:34,480 --> 01:00:40,400
+energy but you don't take those numbers
+
+1339
+01:00:37,920 --> 01:00:43,040
+just the proportions.
+
+1340
+01:00:40,400 --> 01:00:45,440
+Yeah but I'm just trying to make some
+
+1341
+01:00:43,040 --> 01:00:47,680
+sense of physics and chemistry. Yes,
+
+1342
+01:00:45,440 --> 01:00:50,799
+there is an enormous amount of energy
+
+1343
+01:00:47,680 --> 01:00:53,799
+healing, but that only when uh fuses
+
+1344
+01:00:50,799 --> 01:00:53,799
+performing
+
+1345
+01:00:53,839 --> 01:01:01,319
+and we're talking about a a reaction
+
+1346
+01:00:57,280 --> 01:01:01,319
+that normally takes place
+
+1347
+01:01:06,880 --> 01:01:12,559
+and and huge experiments of fusion have
+
+1348
+01:01:09,680 --> 01:01:14,400
+been very difficult
+
+1349
+01:01:12,559 --> 01:01:16,160
+and to step back to try and make some
+
+1350
+01:01:14,400 --> 01:01:19,359
+sense Because the only way I can see
+
+1351
+01:01:16,160 --> 01:01:21,200
+deterior being formed is that you get
+
+1352
+01:01:19,359 --> 01:01:23,520
+atomic hydrogen that is not molecular
+
+1353
+01:01:21,200 --> 01:01:27,480
+but atomic hydrogen for initially
+
+1354
+01:01:23,520 --> 01:01:27,480
+normally in the presence of other
+
+1355
+01:01:28,799 --> 01:01:37,280
+then electron
+
+1356
+01:01:32,640 --> 01:01:42,480
+um which is somehow
+
+1357
+01:01:37,280 --> 01:01:45,119
+uh join with another spare hydrogen
+
+1358
+01:01:42,480 --> 01:01:48,079
+presumably another atomic
+
+1359
+01:01:45,119 --> 01:01:50,319
+The net result of that should be a net
+
+1360
+01:01:48,079 --> 01:01:53,599
+positive charge on the cell. Have you
+
+1361
+01:01:50,319 --> 01:01:55,520
+noticed that? The other question is I'm
+
+1362
+01:01:53,599 --> 01:01:58,960
+trying to figure out is the only way I
+
+1363
+01:01:55,520 --> 01:02:01,960
+can see this run unless we're going for
+
+1364
+01:01:58,960 --> 01:02:01,960
+reaction
+
+1365
+01:02:03,839 --> 01:02:06,839
+anything.
+
+1366
+01:02:07,119 --> 01:02:13,920
+Um so that's
+
+1367
+01:02:10,240 --> 01:02:16,960
+the case. uh my thing that's got nucleus
+
+1368
+01:02:13,920 --> 01:02:19,599
+perhaps it's actually
+
+1369
+01:02:16,960 --> 01:02:22,000
+nitrogen and oxygen
+
+1370
+01:02:19,599 --> 01:02:25,280
+that's more like yes so that's why I
+
+1371
+01:02:22,000 --> 01:02:28,319
+asked the question about exhaust gas so
+
+1372
+01:02:25,280 --> 01:02:33,440
+>> I never have I don't have
+
+1373
+01:02:28,319 --> 01:02:36,640
+uh there is I didn't bring in the Barry
+
+1374
+01:02:33,440 --> 01:02:38,480
+tapes he talks about
+
+1375
+01:02:36,640 --> 01:02:41,200
+guys name
+
+1376
+01:02:38,480 --> 01:02:42,799
+experiments on HH gener ation
+
+1377
+01:02:41,200 --> 01:02:44,559
+environment
+
+1378
+01:02:42,799 --> 01:02:47,440
+where where they were able to and they
+
+1379
+01:02:44,559 --> 01:02:50,319
+measured 350% increases in helium in the
+
+1380
+01:02:47,440 --> 01:02:53,119
+exhaust while we're in the car.
+
+1381
+01:02:50,319 --> 01:02:55,920
+So there's there generation which
+
+1382
+01:02:53,119 --> 01:02:57,760
+supports all the rest of it as far as
+
+1383
+01:02:55,920 --> 01:02:59,520
+creating the detium. I think it's
+
+1384
+01:02:57,760 --> 01:03:01,520
+accepted knowledge. The Germans did it
+
+1385
+01:02:59,520 --> 01:03:02,720
+in World War II. You just keep charging
+
+1386
+01:03:01,520 --> 01:03:07,000
+water, you get material.
+
+1387
+01:03:02,720 --> 01:03:07,000
+>> That that was a convention electroly
+
+1388
+01:03:09,040 --> 01:03:17,359
+and so it seems to be more comes out.
+
+1389
+01:03:13,440 --> 01:03:20,559
+Then you burn that water
+
+1390
+01:03:17,359 --> 01:03:25,359
+from the process. The amount of material
+
+1391
+01:03:20,559 --> 01:03:27,039
+in this mattress is extremely small.
+
+1392
+01:03:25,359 --> 01:03:30,359
+>> That's there, but we don't think we can
+
+1393
+01:03:27,039 --> 01:03:30,359
+make detium
+
+1394
+01:03:31,119 --> 01:03:35,680
+to occur as an electron and a neutron.
+
+1395
+01:03:34,079 --> 01:03:36,720
+>> Well, have to combine those and then
+
+1396
+01:03:35,680 --> 01:03:39,200
+latch them on.
+
+1397
+01:03:36,720 --> 01:03:41,200
+>> Yeah. So, right on the wall of our cell,
+
+1398
+01:03:39,200 --> 01:03:43,039
+we separated hydrogen and oxygen.
+
+1399
+01:03:41,200 --> 01:03:43,599
+Oxygen's got the neutrons. You got heaps
+
+1400
+01:03:43,039 --> 01:03:47,520
+of electrons.
+
+1401
+01:03:43,599 --> 01:03:50,839
+>> Well, that would be an unstable oxygen.
+
+1402
+01:03:47,520 --> 01:03:50,839
+>> Not necessarily.
+
+1403
+01:03:54,240 --> 01:03:58,720
+I don't know if that's a state or not.
+
+1404
+01:03:57,280 --> 01:04:00,640
+>> I don't know either.
+
+1405
+01:03:58,720 --> 01:04:02,160
+>> You're a bit of my knowledge here. I'm a
+
+1406
+01:04:00,640 --> 01:04:04,400
+humble cell builder.
+
+1407
+01:04:02,160 --> 01:04:05,280
+>> My guess is coming from the electron.
+
+1408
+01:04:04,400 --> 01:04:07,680
+>> Okay.
+
+1409
+01:04:05,280 --> 01:04:10,160
+>> That was from
+
+1410
+01:04:07,680 --> 01:04:12,240
+don't know. I really don't. I mean, if
+
+1411
+01:04:10,160 --> 01:04:13,920
+there's specific questions of that type,
+
+1412
+01:04:12,240 --> 01:04:15,839
+I'm happy to Google them and try and
+
+1413
+01:04:13,920 --> 01:04:17,839
+help. You work through them. But to be
+
+1414
+01:04:15,839 --> 01:04:20,720
+truthful, it's not chemistry is not my
+
+1415
+01:04:17,839 --> 01:04:23,119
+field. I didn't know what deterior never
+
+1416
+01:04:20,720 --> 01:04:25,599
+heard of it. It's something where you
+
+1417
+01:04:23,119 --> 01:04:28,160
+hear, you look, you Google, you live on
+
+1418
+01:04:25,599 --> 01:04:30,400
+the internet and you research. How do we
+
+1419
+01:04:28,160 --> 01:04:31,920
+lose compression? Endothermic reactions
+
+1420
+01:04:30,400 --> 01:04:33,599
+give you compression. What can cause
+
+1421
+01:04:31,920 --> 01:04:36,960
+that? Then we work back to somebody
+
+1422
+01:04:33,599 --> 01:04:38,640
+else's suggestion. Did you nitrogen? So,
+
+1423
+01:04:36,960 --> 01:04:42,400
+you get it from both ends. And the other
+
+1424
+01:04:38,640 --> 01:04:45,440
+thing is an object one of uh
+
+1425
+01:04:42,400 --> 01:04:48,000
+my books. This is
+
+1426
+01:04:45,440 --> 01:04:49,599
+the book. Um
+
+1427
+01:04:48,000 --> 01:04:53,200
+don't mention this in the book and
+
+1428
+01:04:49,599 --> 01:04:55,920
+didn't go on until we were just talking.
+
+1429
+01:04:53,200 --> 01:04:58,160
+This is process and the water in a fish
+
+1430
+01:04:55,920 --> 01:05:00,240
+tank. It's an ionization mole charging
+
+1431
+01:04:58,160 --> 01:05:03,039
+process I came up with that gets the
+
+1432
+01:05:00,240 --> 01:05:05,200
+water just right every time. One side of
+
+1433
+01:05:03,039 --> 01:05:06,480
+the tank is always about 10% higher in
+
+1434
+01:05:05,200 --> 01:05:08,960
+the water level than the other. But
+
+1435
+01:05:06,480 --> 01:05:10,960
+there's a hole between the two parts. So
+
+1436
+01:05:08,960 --> 01:05:14,240
+one side's about 10% heavier than the
+
+1437
+01:05:10,960 --> 01:05:16,240
+other and deterior%
+
+1438
+01:05:14,240 --> 01:05:19,680
+heavier
+
+1439
+01:05:16,240 --> 01:05:21,839
+supports that we're making it. And the
+
+1440
+01:05:19,680 --> 01:05:23,280
+figure it's not a mention of it in
+
+1441
+01:05:21,839 --> 01:05:26,799
+there, but I've seen it a thousand
+
+1442
+01:05:23,280 --> 01:05:29,599
+times. So
+
+1443
+01:05:26,799 --> 01:05:31,119
+sort of unexplained
+
+1444
+01:05:29,599 --> 01:05:34,319
+scientifically
+
+1445
+01:05:31,119 --> 01:05:37,839
+happening is just that water.
+
+1446
+01:05:34,319 --> 01:05:41,039
+It's come back from from there was a an
+
+1447
+01:05:37,839 --> 01:05:44,960
+article in the in the local paper which
+
+1448
+01:05:41,039 --> 01:05:48,559
+the hospital is now using um electrolyed
+
+1449
+01:05:44,960 --> 01:05:50,480
+water as clean agent. Now there's many
+
+1450
+01:05:48,559 --> 01:05:53,920
+other other cleaning products and they
+
+1451
+01:05:50,480 --> 01:05:56,640
+find that that is the best cleaning
+
+1452
+01:05:53,920 --> 01:05:59,680
+of thing that they can use that just
+
+1453
+01:05:56,640 --> 01:06:02,559
+basically removes everything which is
+
+1454
+01:05:59,680 --> 01:06:04,319
+fishing part of ioniz membrane with
+
+1455
+01:06:02,559 --> 01:06:07,359
+electrode either side of the membrane
+
+1456
+01:06:04,319 --> 01:06:08,880
+can't be that boring
+
+1457
+01:06:07,359 --> 01:06:12,400
+with an ionizer on either side of the
+
+1458
+01:06:08,880 --> 01:06:14,240
+membrane. What we do is we uh basically
+
+1459
+01:06:12,400 --> 01:06:17,920
+break down water molecule from 13
+
+1460
+01:06:14,240 --> 01:06:21,440
+modules six. Now we end up with a
+
+1461
+01:06:17,920 --> 01:06:24,960
+proportion of those molecules that are
+
+1462
+01:06:21,440 --> 01:06:26,880
+alkaline and the others acidic. Uh in
+
+1463
+01:06:24,960 --> 01:06:28,880
+Japan all hospitals they drink the
+
+1464
+01:06:26,880 --> 01:06:30,480
+alkaline water
+
+1465
+01:06:28,880 --> 01:06:32,559
+you can buy machines for it but it's
+
+1466
+01:06:30,480 --> 01:06:34,559
+standard that they drink the alkaline
+
+1467
+01:06:32,559 --> 01:06:36,400
+for health purpose. You go to a Japanese
+
+1468
+01:06:34,559 --> 01:06:40,160
+hospital
+
+1469
+01:06:36,400 --> 01:06:41,680
+water it's alkaline ionized water and
+
+1470
+01:06:40,160 --> 01:06:44,400
+they clean all the hospital stuff up
+
+1471
+01:06:41,680 --> 01:06:45,359
+with positive water. So
+
+1472
+01:06:44,400 --> 01:06:48,240
+>> yeah,
+
+1473
+01:06:45,359 --> 01:06:52,000
+>> when you're running on the engine,
+
+1474
+01:06:48,240 --> 01:06:55,359
+did you record any of the
+
+1475
+01:06:52,000 --> 01:07:00,119
+um I don't have a thermal
+
+1476
+01:06:55,359 --> 01:07:00,119
+gauge? I guess I had a friend that
+
+1477
+01:07:01,039 --> 01:07:04,039
+exhaust.
+
+1478
+01:07:09,599 --> 01:07:15,599
+>> No, you do get it on the on well the
+
+1479
+01:07:11,839 --> 01:07:17,440
+highest point of combustion engine.
+
+1480
+01:07:15,599 --> 01:07:19,440
+That's where the flame's coming out. In
+
+1481
+01:07:17,440 --> 01:07:22,000
+the case of air, there's so much air
+
+1482
+01:07:19,440 --> 01:07:24,400
+being blown over the head. Things aren't
+
+1483
+01:07:22,000 --> 01:07:25,680
+real combustion surface temperature
+
+1484
+01:07:24,400 --> 01:07:29,200
+anymore.
+
+1485
+01:07:25,680 --> 01:07:31,200
+Uh, normally you touch an exhaust just
+
+1486
+01:07:29,200 --> 01:07:35,039
+for a second and you got to burn. She's
+
+1487
+01:07:31,200 --> 01:07:40,280
+up at 730 something. Tell us what's
+
+1488
+01:07:35,039 --> 01:07:40,280
+exhaust 730 something on petrol.
+
+1489
+01:07:42,319 --> 01:07:49,839
+>> It's hot. It's not
+
+1490
+01:07:45,760 --> 01:07:53,880
+that depend on. Did you measure the
+
+1491
+01:07:49,839 --> 01:07:53,880
+outlet tools or
+
+1492
+01:07:59,920 --> 01:08:03,559
+would be about 200?
+
+1493
+01:08:05,599 --> 01:08:09,359
+Well, 70.
+
+1494
+01:08:07,839 --> 01:08:13,200
+I was quite surprised actually when I
+
+1495
+01:08:09,359 --> 01:08:14,559
+saw 70. I thought is that all how the 70
+
+1496
+01:08:13,200 --> 01:08:17,759
+is quite warm when you put your handle
+
+1497
+01:08:14,559 --> 01:08:20,640
+up for birds. It's still way less than
+
+1498
+01:08:17,759 --> 01:08:25,199
+it should be now. How do we not have the
+
+1499
+01:08:20,640 --> 01:08:28,640
+heat? Endothermic reactions absorb heat
+
+1500
+01:08:25,199 --> 01:08:31,920
+taking the heat of the reaction. Uh
+
+1501
+01:08:28,640 --> 01:08:34,880
+personally 70 is the only factual number
+
+1502
+01:08:31,920 --> 01:08:37,120
+I have, the best I've seen. Um, I've
+
+1503
+01:08:34,880 --> 01:08:39,520
+I've read what I believe is credible
+
+1504
+01:08:37,120 --> 01:08:42,000
+information from people talking about
+
+1505
+01:08:39,520 --> 01:08:45,679
+frost and exhaust.
+
+1506
+01:08:42,000 --> 01:08:47,600
+Uh, engines running so cold that they
+
+1507
+01:08:45,679 --> 01:08:49,839
+frost.
+
+1508
+01:08:47,600 --> 01:08:53,359
+Now, if I can get down to 70 where I
+
+1509
+01:08:49,839 --> 01:08:55,279
+shouldn't be, I can't somebody saying
+
+1510
+01:08:53,359 --> 01:08:58,239
+that right down the other end. And if
+
+1511
+01:08:55,279 --> 01:09:01,920
+we've got full reaction, it's consuming
+
+1512
+01:08:58,239 --> 01:09:03,920
+heat. It can also consume ambient heat.
+
+1513
+01:09:01,920 --> 01:09:07,920
+We can get down below.
+
+1514
+01:09:03,920 --> 01:09:08,480
+So can't dismiss it.
+
+1515
+01:09:07,920 --> 01:09:10,159
+>> Yes.
+
+1516
+01:09:08,480 --> 01:09:12,960
+>> A couple questions just on the cell
+
+1517
+01:09:10,159 --> 01:09:16,839
+itself. I top the cap is actually
+
+1518
+01:09:12,960 --> 01:09:16,839
+isolated from the other
+
+1519
+01:09:17,520 --> 01:09:19,199
+>> the top of the cell.
+
+1520
+01:09:18,799 --> 01:09:22,199
+>> Yeah.
+
+1521
+01:09:19,199 --> 01:09:22,199
+>> No.
+
+1522
+01:09:26,799 --> 01:09:30,239
+>> In that actual instance, it's got a
+
+1523
+01:09:28,960 --> 01:09:32,480
+rubber band in there which I don't
+
+1524
+01:09:30,239 --> 01:09:34,880
+normally have in there. Okay. I'm
+
+1525
+01:09:32,480 --> 01:09:38,560
+showing this whole assembly because of
+
+1526
+01:09:34,880 --> 01:09:40,080
+the clamp that goes around the outside
+
+1527
+01:09:38,560 --> 01:09:41,679
+part.
+
+1528
+01:09:40,080 --> 01:09:45,719
+Um,
+
+1529
+01:09:41,679 --> 01:09:45,719
+this is the easiest seal.
+
+1530
+01:09:45,839 --> 01:09:49,239
+That's the top.
+
+1531
+01:09:50,159 --> 01:09:55,120
+And that's got a seal. But from an
+
+1532
+01:09:53,199 --> 01:09:57,600
+energy point of view, we've got this
+
+1533
+01:09:55,120 --> 01:10:00,320
+relative stainless cast touching all
+
+1534
+01:09:57,600 --> 01:10:04,520
+surfaces. So we've got induction in the
+
+1535
+01:10:00,320 --> 01:10:04,520
+same way our goss
+
+1536
+01:10:15,760 --> 01:10:19,840
+neutral tubes in there.
+
+1537
+01:10:17,840 --> 01:10:21,760
+>> Yes.
+
+1538
+01:10:19,840 --> 01:10:24,800
+>> Is there any particular reason why you
+
+1539
+01:10:21,760 --> 01:10:26,000
+only got two and not three or only one?
+
+1540
+01:10:24,800 --> 01:10:27,520
+>> I don't think there's a need to have
+
+1541
+01:10:26,000 --> 01:10:31,600
+more than two.
+
+1542
+01:10:27,520 --> 01:10:33,760
+um all we're doing with neutrals.
+
+1543
+01:10:31,600 --> 01:10:35,199
+Barry Gilton's work found that he
+
+1544
+01:10:33,760 --> 01:10:37,199
+couldn't see a reason why we have
+
+1545
+01:10:35,199 --> 01:10:41,520
+neutrals. As I explained earlier, the
+
+1546
+01:10:37,199 --> 01:10:43,920
+neutrals are the about 400 mill
+
+1547
+01:10:41,520 --> 01:10:45,760
+on each of those neutrals. What that
+
+1548
+01:10:43,920 --> 01:10:49,440
+potential is doing is keeping that
+
+1549
+01:10:45,760 --> 01:10:51,520
+material in the metal on the outside. If
+
+1550
+01:10:49,440 --> 01:10:52,800
+there's nothing else to stop it, if
+
+1551
+01:10:51,520 --> 01:10:54,480
+there's no potential, it's just going to
+
+1552
+01:10:52,800 --> 01:10:55,920
+come back to the cathode and back into a
+
+1553
+01:10:54,480 --> 01:10:58,080
+natural balance. So electrons [music]
+
+1554
+01:10:55,920 --> 01:11:00,080
+are also trying.
+
+1555
+01:10:58,080 --> 01:11:01,840
+So
+
+1556
+01:11:00,080 --> 01:11:03,280
+they just go and keep the balance. Now
+
+1557
+01:11:01,840 --> 01:11:05,600
+having said that, I put it a step
+
+1558
+01:11:03,280 --> 01:11:06,960
+further this week. Um you're all
+
+1559
+01:11:05,600 --> 01:11:11,040
+familiar with the fact that you have a
+
+1560
+01:11:06,960 --> 01:11:13,520
+gap at the uh engine end of your host
+
+1561
+01:11:11,040 --> 01:11:17,440
+pipe or cable or pipe or whatever you
+
+1562
+01:11:13,520 --> 01:11:19,920
+connect. If you have a gap on the
+
+1563
+01:11:17,440 --> 01:11:22,239
+engine,
+
+1564
+01:11:19,920 --> 01:11:24,880
+we don't have a gap here. We can connect
+
+1565
+01:11:22,239 --> 01:11:26,960
+this cable.
+
+1566
+01:11:24,880 --> 01:11:29,280
+absolutely directly hard connected to
+
+1567
+01:11:26,960 --> 01:11:31,440
+the block. Now, we used [music] to have
+
+1568
+01:11:29,280 --> 01:11:33,760
+a gap because 12 volts went on here and
+
+1569
+01:11:31,440 --> 01:11:35,440
+the blocks are ground.
+
+1570
+01:11:33,760 --> 01:11:38,080
+But what I found this week is connect
+
+1571
+01:11:35,440 --> 01:11:41,040
+that solid and put a negative voltage on
+
+1572
+01:11:38,080 --> 01:11:43,280
+the cathode separate supply positive to
+
+1573
+01:11:41,040 --> 01:11:45,600
+the block, negative to the cathode. So,
+
+1574
+01:11:43,280 --> 01:11:47,360
+we're running this on a floating supply.
+
+1575
+01:11:45,600 --> 01:11:50,000
+We no longer need that gap. And boy,
+
+1576
+01:11:47,360 --> 01:11:51,760
+does the energy get out quick. It makes
+
+1577
+01:11:50,000 --> 01:11:54,560
+a huge difference to the way things
+
+1578
+01:11:51,760 --> 01:11:56,880
+work. So just one little simple step
+
+1579
+01:11:54,560 --> 01:11:59,120
+that's not even books
+
+1580
+01:11:56,880 --> 01:12:03,400
+are a month old saying hey [music]
+
+1581
+01:11:59,120 --> 01:12:03,400
+there's more but
+
+1582
+01:12:03,520 --> 01:12:12,000
+no exactly the same instead of having
+
+1583
+01:12:07,920 --> 01:12:15,280
+cell going to the car chassis and up
+
+1584
+01:12:12,000 --> 01:12:17,360
+here we have a separate supply where we
+
+1585
+01:12:15,280 --> 01:12:19,760
+put positive gear which happens to be
+
+1586
+01:12:17,360 --> 01:12:22,000
+connected to the engine and now the
+
+1587
+01:12:19,760 --> 01:12:26,440
+cathode which is needed
+
+1588
+01:12:22,000 --> 01:12:26,440
+doesn't go to the chassis go
+
+1589
+01:12:45,280 --> 01:12:52,080
+12 actually
+
+1590
+01:12:48,560 --> 01:12:54,719
+I think 6 to 12 in and 6 24 hours. So if
+
+1591
+01:12:52,080 --> 01:12:56,400
+you want a little bit more, but I
+
+1592
+01:12:54,719 --> 01:12:58,880
+believe it's a switch flight. Don't
+
+1593
+01:12:56,400 --> 01:13:04,360
+quote that. You have to get the I just
+
+1594
+01:12:58,880 --> 01:13:04,360
+logged on for for what do
+
+1595
+01:13:05,120 --> 01:13:09,000
+you have to switch?
+
+1596
+01:13:14,239 --> 01:13:17,640
+This is the man.
+
+1597
+01:13:19,440 --> 01:13:23,600
+Anyone else? Yes.
+
+1598
+01:13:21,679 --> 01:13:25,199
+>> Over the period of Joe cells, there's
+
+1599
+01:13:23,600 --> 01:13:27,120
+been a lot of talk about insulators. Can
+
+1600
+01:13:25,199 --> 01:13:30,239
+you just tell us what you found be to be
+
+1601
+01:13:27,120 --> 01:13:32,560
+the best with insulators? Uh first, we
+
+1602
+01:13:30,239 --> 01:13:35,600
+don't have external insulators.
+
+1603
+01:13:32,560 --> 01:13:37,600
+Okay. You don't have insulator layers
+
+1604
+01:13:35,600 --> 01:13:41,199
+between this outside neutral and the
+
+1605
+01:13:37,600 --> 01:13:43,120
+circle. That's a big must. make the cath
+
+1606
+01:13:41,199 --> 01:13:45,199
+strong enough to take everything without
+
+1607
+01:13:43,120 --> 01:13:48,199
+having
+
+1608
+01:13:45,199 --> 01:13:48,199
+um
+
+1609
+01:13:48,400 --> 01:13:53,360
+is is I think probably the best having
+
+1610
+01:13:50,640 --> 01:13:56,800
+said that I promoted teflon made teflon
+
+1611
+01:13:53,360 --> 01:14:00,000
+sold teflon sometimes um there's really
+
+1612
+01:13:56,800 --> 01:14:03,360
+not a lot between teflon you know
+
+1613
+01:14:00,000 --> 01:14:05,040
+electrical insulated quite a bit um
+
+1614
+01:14:03,360 --> 01:14:07,120
+insulators by the way people think of
+
+1615
+01:14:05,040 --> 01:14:09,760
+insulator breaking down electronically
+
+1616
+01:14:07,120 --> 01:14:11,760
+it doesn't if you look closely where
+
+1617
+01:14:09,760 --> 01:14:14,000
+it's edging and how it's edging. I think
+
+1618
+01:14:11,760 --> 01:14:16,640
+it's the deterior
+
+1619
+01:14:14,000 --> 01:14:19,360
+back to the center to balance things
+
+1620
+01:14:16,640 --> 01:14:22,320
+back up and there's no cell potential
+
+1621
+01:14:19,360 --> 01:14:26,640
+there in the the water the electrolyte
+
+1622
+01:14:22,320 --> 01:14:28,880
+is simply not where the electro
+
+1623
+01:14:26,640 --> 01:14:32,640
+is and that's why they edge where they
+
+1624
+01:14:28,880 --> 01:14:36,320
+shouldn't edge. So teflon's great. It
+
+1625
+01:14:32,640 --> 01:14:38,560
+does hold it nicely. Really bonds. If
+
+1626
+01:14:36,320 --> 01:14:40,560
+you put them together, it's impossible
+
+1627
+01:14:38,560 --> 01:14:43,679
+to get them apart. You just shouldn't
+
+1628
+01:14:40,560 --> 01:14:45,679
+get it right now. So,
+
+1629
+01:14:43,679 --> 01:14:48,400
+is that it?
+
+1630
+01:14:45,679 --> 01:14:50,719
+What about when you first met you
+
+1631
+01:14:48,400 --> 01:14:53,960
+talking about your band?
+
+1632
+01:14:50,719 --> 01:14:53,960
+What particular
+
+1633
+01:14:57,360 --> 01:15:01,760
+I don't like talking about my I don't
+
+1634
+01:14:59,280 --> 01:15:03,520
+provide these sales for my accounts. I
+
+1635
+01:15:01,760 --> 01:15:05,600
+have to be very honest. You won't see
+
+1636
+01:15:03,520 --> 01:15:08,080
+anything in the book that says put it in
+
+1637
+01:15:05,600 --> 01:15:10,159
+your car. Um I don't think the
+
+1638
+01:15:08,080 --> 01:15:12,400
+technology is reliable enough yet. And
+
+1639
+01:15:10,159 --> 01:15:14,480
+if it's going to pack up and kids on the
+
+1640
+01:15:12,400 --> 01:15:16,159
+ground, it's right for us to own
+
+1641
+01:15:14,480 --> 01:15:20,719
+experimental vehicles, but occasionally
+
+1642
+01:15:16,159 --> 01:15:23,440
+someone else uses the vehicles. Um
+
+1643
+01:15:20,719 --> 01:15:25,440
+humidity is a major thing with the cell.
+
+1644
+01:15:23,440 --> 01:15:28,480
+If it's raining, a running cell will
+
+1645
+01:15:25,440 --> 01:15:31,360
+stop. I often can't start that if it's
+
+1646
+01:15:28,480 --> 01:15:34,560
+raining. And and I think humidity is
+
+1647
+01:15:31,360 --> 01:15:38,640
+something I'm now looking how to make
+
+1648
+01:15:34,560 --> 01:15:42,000
+this this test outcome this problem. I
+
+1649
+01:15:38,640 --> 01:15:45,520
+got to sell it. It's in the book
+
+1650
+01:15:42,000 --> 01:15:48,480
+and I drove over to Meadows which I had
+
+1651
+01:15:45,520 --> 01:15:52,000
+several times. Now my old van is is an
+
+1652
+01:15:48,480 --> 01:15:55,120
+84 camper.
+
+1653
+01:15:52,000 --> 01:15:58,159
+It's a 2 L high convert to a camper.
+
+1654
+01:15:55,120 --> 01:16:00,400
+Things are pretty pretty weak. Um about
+
+1655
+01:15:58,159 --> 01:16:06,199
+40ks is the best way to go up Chambers
+
+1656
+01:16:00,400 --> 01:16:06,199
+Hill Road. Second gear absolutely fl
+
+1657
+01:16:12,719 --> 01:16:16,280
+it was instant.
+
+1658
+01:16:17,440 --> 01:16:27,520
+There was a need to say wow let's go. It
+
+1659
+01:16:20,719 --> 01:16:31,920
+was fun. Um we then drove up to zoo. um
+
+1660
+01:16:27,520 --> 01:16:34,080
+never intend to sell on board had fuel
+
+1661
+01:16:31,920 --> 01:16:37,520
+thinking about the cell my folks on
+
+1662
+01:16:34,080 --> 01:16:39,360
+board son
+
+1663
+01:16:37,520 --> 01:16:41,440
+so I go to the zoo when we came to the
+
+1664
+01:16:39,360 --> 01:16:45,199
+zoo I'm running out of gas so I flipped
+
+1665
+01:16:41,440 --> 01:16:49,080
+the switch and didn't realize that and
+
+1666
+01:16:45,199 --> 01:16:49,080
+suddenly it ran scient
+
+1667
+01:16:52,800 --> 01:16:58,400
+about 100 km later and on the way back I
+
+1668
+01:16:55,840 --> 01:17:00,960
+comment anything fuel this thing's
+
+1669
+01:16:58,400 --> 01:17:04,159
+flying up down heels
+
+1670
+01:17:00,960 --> 01:17:08,000
+now on that realization I went from
+
+1671
+01:17:04,159 --> 01:17:10,320
+skeptic to I'm amazed this really does
+
+1672
+01:17:08,000 --> 01:17:12,080
+happen there's something in this cell
+
+1673
+01:17:10,320 --> 01:17:15,520
+came out but on the bench for lots of
+
+1674
+01:17:12,080 --> 01:17:18,000
+experiments and my friend me was going
+
+1675
+01:17:15,520 --> 01:17:21,040
+on he open the generator take my
+
+1676
+01:17:18,000 --> 01:17:24,159
+generator he said the experiment 3 years
+
+1677
+01:17:21,040 --> 01:17:28,159
+and about a th000 p,000 p starts later I
+
+1678
+01:17:24,159 --> 01:17:30,000
+still generator with one day electric.
+
+1679
+01:17:28,159 --> 01:17:32,800
+But uh the reason I've still got that
+
+1680
+01:17:30,000 --> 01:17:35,840
+generator is I know absolutely
+
+1681
+01:17:32,800 --> 01:17:39,760
+everything that it does. The timing on
+
+1682
+01:17:35,840 --> 01:17:42,960
+it is a is a machined slide
+
+1683
+01:17:39,760 --> 01:17:45,960
+that's top center but actually it's
+
+1684
+01:17:42,960 --> 01:17:45,960
+about
+
+1685
+01:17:46,400 --> 01:17:51,760
+so
+
+1686
+01:17:48,320 --> 01:17:53,679
+exactly what the timing is. I know
+
+1687
+01:17:51,760 --> 01:17:56,480
+everything. When something changes
+
+1688
+01:17:53,679 --> 01:17:59,360
+because of an experiment being done from
+
+1689
+01:17:56,480 --> 01:18:01,360
+tube to cable, I know exactly what the
+
+1690
+01:17:59,360 --> 01:18:04,480
+changes are because it's run hundreds
+
+1691
+01:18:01,360 --> 01:18:08,760
+and hundreds of times consistently. I
+
+1692
+01:18:04,480 --> 01:18:08,760
+got over
+
+1693
+01:18:11,600 --> 01:18:14,600
+here.
+
+1694
+01:18:17,714 --> 01:18:21,280
+[clears throat]
+
+1695
+01:18:18,400 --> 01:18:25,040
+I I think that drying the air drying air
+
+1696
+01:18:21,280 --> 01:18:28,320
+is not a big a big process. Drying huge
+
+1697
+01:18:25,040 --> 01:18:30,560
+volumes of air can be a little harder.
+
+1698
+01:18:28,320 --> 01:18:33,600
+But as I mentioned earlier with with
+
+1699
+01:18:30,560 --> 01:18:36,320
+Bob's thumb over the car couple of
+
+1700
+01:18:33,600 --> 01:18:38,880
+millimeters of hole very very much
+
+1701
+01:18:36,320 --> 01:18:40,800
+running the lights four years ago. So
+
+1702
+01:18:38,880 --> 01:18:43,360
+maybe these engines really just don't
+
+1703
+01:18:40,800 --> 01:18:47,120
+need the
+
+1704
+01:18:43,360 --> 01:18:50,960
+that they're getting might be running on
+
+1705
+01:18:47,120 --> 01:18:53,920
+the super rich things and it's only been
+
+1706
+01:18:50,960 --> 01:18:56,719
+a week week and a half since we did that
+
+1707
+01:18:53,920 --> 01:18:58,640
+started up.
+
+1708
+01:18:56,719 --> 01:18:59,840
+We we couldn't get petrol. God came
+
+1709
+01:18:58,640 --> 01:19:02,480
+over. We said, "Let's start the
+
+1710
+01:18:59,840 --> 01:19:05,120
+generator." Couldn't get petrol to go.
+
+1711
+01:19:02,480 --> 01:19:08,080
+No blockages. Just nothing I could do to
+
+1712
+01:19:05,120 --> 01:19:09,840
+get petrol to flow into that car. And
+
+1713
+01:19:08,080 --> 01:19:13,120
+that's happened before. Build up of
+
+1714
+01:19:09,840 --> 01:19:14,560
+energy. Whatever won't go in. So I said
+
+1715
+01:19:13,120 --> 01:19:16,560
+to Bob, "Let's put our thumb over the
+
+1716
+01:19:14,560 --> 01:19:18,880
+car, block it off, to run nice and
+
+1717
+01:19:16,560 --> 01:19:20,719
+reach." Uh we really never did run
+
+1718
+01:19:18,880 --> 01:19:24,719
+bridge. We could only get the engine to
+
+1719
+01:19:20,719 --> 01:19:26,480
+run with car being blocked off. Just
+
+1720
+01:19:24,719 --> 01:19:28,960
+big thumb. That's what the photo was on
+
+1721
+01:19:26,480 --> 01:19:31,760
+on the video
+
+1722
+01:19:28,960 --> 01:19:35,800
+and it ran. So yeah, part of this
+
+1723
+01:19:31,760 --> 01:19:35,800
+development is we need to condition
+
+1724
+01:19:43,360 --> 01:19:46,600
+my sharpest.
+
+1725
+01:19:47,520 --> 01:19:56,080
+It's going to cost me a fortune replace.
+
+1726
+01:19:51,520 --> 01:19:57,679
+Yeah. Can I do a high flame?
+
+1727
+01:19:56,080 --> 01:20:01,320
+Well, Bob over here said, "Let's have a
+
+1728
+01:19:57,679 --> 01:20:01,320
+coffee while the sales
+
+1729
+01:20:02,400 --> 01:20:07,520
+we we were just doing lots of crazy
+
+1730
+01:20:05,600 --> 01:20:09,840
+tests. It's all right about what we
+
+1731
+01:20:07,520 --> 01:20:13,920
+find, but occasionally you look up to
+
+1732
+01:20:09,840 --> 01:20:16,080
+you and you say, "What will that do?"
+
+1733
+01:20:13,920 --> 01:20:18,239
+But you don't keep reviewing every
+
+1734
+01:20:16,080 --> 01:20:20,159
+aspect of it. You're not truly
+
+1735
+01:20:18,239 --> 01:20:22,800
+researching. You just go in one
+
+1736
+01:20:20,159 --> 01:20:25,679
+direction. So when I connected the power
+
+1737
+01:20:22,800 --> 01:20:30,640
+up to this with that
+
+1738
+01:20:25,679 --> 01:20:33,679
+was a big home top 5 in round.
+
+1739
+01:20:30,640 --> 01:20:38,000
+Uh we left for a long while wasn't even
+
+1740
+01:20:33,679 --> 01:20:39,760
+on charge at the time. Yeah.
+
+1741
+01:20:38,000 --> 01:20:43,440
+few minutes.
+
+1742
+01:20:39,760 --> 01:20:47,520
+Uh well, we don't charge for minutes. We
+
+1743
+01:20:43,440 --> 01:20:50,080
+charge in a lot shorter duration.
+
+1744
+01:20:47,520 --> 01:20:53,040
+Uh and we started
+
+1745
+01:20:50,080 --> 01:20:54,880
+I did and the cell was there and I
+
+1746
+01:20:53,040 --> 01:20:58,400
+simply saw a color change, heard
+
+1747
+01:20:54,880 --> 01:20:59,920
+nothing, felt nothing, looked at Bob and
+
+1748
+01:20:58,400 --> 01:21:03,760
+then looked back and realized the top
+
+1749
+01:20:59,920 --> 01:21:05,920
+was missing off the cell. Looked up and
+
+1750
+01:21:03,760 --> 01:21:08,960
+and that top that cone top, they're
+
+1751
+01:21:05,920 --> 01:21:13,040
+pretty thin. They weigh nothing. It only
+
+1752
+01:21:08,960 --> 01:21:15,280
+broke the uh asbestous, it fractured a
+
+1753
+01:21:13,040 --> 01:21:18,400
+wooden beam that goes through the tree
+
+1754
+01:21:15,280 --> 01:21:22,000
+and it push through.
+
+1755
+01:21:18,400 --> 01:21:26,960
+So that actually traveled 5 ft that cell
+
+1756
+01:21:22,000 --> 01:21:29,440
+with the fiber. Yeah. Just
+
+1757
+01:21:26,960 --> 01:21:31,360
+the cause was really nothing to do with
+
+1758
+01:21:29,440 --> 01:21:33,520
+the cell. Well, except it had a good bit
+
+1759
+01:21:31,360 --> 01:21:35,840
+of hydrogen in there, but it was the
+
+1760
+01:21:33,520 --> 01:21:38,159
+engine, the short.
+
+1761
+01:21:35,840 --> 01:21:41,640
+There was a backfire. Oh yes, that's
+
+1762
+01:21:38,159 --> 01:21:41,640
+right. That's what
+
+1763
+01:21:42,960 --> 01:21:47,760
+I say.
+
+1764
+01:21:45,360 --> 01:21:50,560
+The backfire did cause it. That's why
+
+1765
+01:21:47,760 --> 01:21:53,440
+now every
+
+1766
+01:21:50,560 --> 01:22:00,719
+H flash they're full of glass beads that
+
+1767
+01:21:53,440 --> 01:22:04,800
+made the HH flash won't stop the gas.
+
+1768
+01:22:00,719 --> 01:22:06,880
+Okay. Hydrogen doesn't burn any quick as
+
+1769
+01:22:04,800 --> 01:22:12,880
+well as the oxygen depends on what you
+
+1770
+01:22:06,880 --> 01:22:15,360
+get. So HA flashback absolute must. We
+
+1771
+01:22:12,880 --> 01:22:18,560
+got a cell that accumulated the hydrogen
+
+1772
+01:22:15,360 --> 01:22:20,560
+and on my slide here one of my slide
+
+1773
+01:22:18,560 --> 01:22:23,040
+wires just wore through on the slide
+
+1774
+01:22:20,560 --> 01:22:25,280
+when it came off the top.
+
+1775
+01:22:23,040 --> 01:22:27,199
+We had a point I called the string and I
+
+1776
+01:22:25,280 --> 01:22:29,040
+think it worked out that it sparked
+
+1777
+01:22:27,199 --> 01:22:31,840
+every couple of degrees and one of them
+
+1778
+01:22:29,040 --> 01:22:35,040
+would have been at a point where
+
+1779
+01:22:31,840 --> 01:22:37,600
+straight back up the tube bang I try to
+
+1780
+01:22:35,040 --> 01:22:39,760
+forget that but I'm really uncomfortable
+
+1781
+01:22:37,600 --> 01:22:41,679
+with [clears throat] working with some
+
+1782
+01:22:39,760 --> 01:22:43,760
+of these cells now if they don't flash
+
+1783
+01:22:41,679 --> 01:22:46,239
+the rest I just don't I won't start the
+
+1784
+01:22:43,760 --> 01:22:48,880
+engine very lucky I wasn't killed the
+
+1785
+01:22:46,239 --> 01:22:50,880
+force that it took to do that was just
+
+1786
+01:22:48,880 --> 01:22:53,920
+enorous
+
+1787
+01:22:50,880 --> 01:22:53,920
+so anyway
+
+1788
+01:23:00,320 --> 01:23:06,320
+Not not personally. I spoke to Western
+
+1789
+01:23:02,639 --> 01:23:08,639
+Australia um some time back that
+
+1790
+01:23:06,320 --> 01:23:12,400
+claimed to have a a diesel station in
+
+1791
+01:23:08,639 --> 01:23:15,199
+his power plant uh which his son made a
+
+1792
+01:23:12,400 --> 01:23:18,639
+sale with a car ignition coil housing.
+
+1793
+01:23:15,199 --> 01:23:21,440
+So it's as well from the general pretty
+
+1794
+01:23:18,639 --> 01:23:25,280
+small uh and he played it bank for quite
+
+1795
+01:23:21,440 --> 01:23:27,920
+a period of time. Um firstly they
+
+1796
+01:23:25,280 --> 01:23:30,000
+thought of it as as using extremely
+
+1797
+01:23:27,920 --> 01:23:32,239
+little diesel because the diesel
+
+1798
+01:23:30,000 --> 01:23:34,480
+consumption went down to nothing for
+
+1799
+01:23:32,239 --> 01:23:36,239
+months but then they realized they were
+
+1800
+01:23:34,480 --> 01:23:38,719
+actually out of diesel that kept
+
+1801
+01:23:36,239 --> 01:23:40,800
+running. But I I don't personally I mean
+
+1802
+01:23:38,719 --> 01:23:44,719
+I spoke to you seem quite credible but I
+
+1803
+01:23:40,800 --> 01:23:48,000
+can never experience person.
+
+1804
+01:23:44,719 --> 01:23:50,560
+So anyone else
+
+1805
+01:23:48,000 --> 01:23:52,239
+about there
+
+1806
+01:23:50,560 --> 01:23:54,560
+and I'm afraid you can't because the
+
+1807
+01:23:52,239 --> 01:23:57,840
+cells in bits and I discussed this with
+
+1808
+01:23:54,560 --> 01:24:00,840
+Bob beforehand. We didn't think people
+
+1809
+01:23:57,840 --> 01:24:00,840
+start.
+
+1810
+01:24:06,639 --> 01:24:11,639
+so close that I was kind of wor
+
+1811
+01:24:15,199 --> 01:24:19,520
+over
+
+1812
+01:24:16,960 --> 01:24:21,760
+the uh generator isn't connected up
+
+1813
+01:24:19,520 --> 01:24:23,360
+because I'm an electrician. I've got a
+
+1814
+01:24:21,760 --> 01:24:24,560
+few other people to do a few things, but
+
+1815
+01:24:23,360 --> 01:24:27,760
+that's the only things that have to be
+
+1816
+01:24:24,560 --> 01:24:30,239
+done. Then it can run on gas. Then
+
+1817
+01:24:27,760 --> 01:24:32,880
+Steven can experiment with a water
+
+1818
+01:24:30,239 --> 01:24:36,320
+cooled engine. This is going to be down
+
+1819
+01:24:32,880 --> 01:24:38,880
+your place for quite a while, I think.
+
+1820
+01:24:36,320 --> 01:24:43,280
+You're welcome to use
+
+1821
+01:24:38,880 --> 01:24:45,280
+that's a six uh 6 KVA um generator and a
+
+1822
+01:24:43,280 --> 01:24:48,560
+1200cc
+
+1823
+01:24:45,280 --> 01:24:50,560
+uh that's a 12 just laying at home or
+
+1824
+01:24:48,560 --> 01:24:52,239
+I'll use that one. It's taken a few
+
+1825
+01:24:50,560 --> 01:24:54,000
+months to put it together. I thought
+
+1826
+01:24:52,239 --> 01:24:55,840
+we'll run on gas and get rid of the car
+
+1827
+01:24:54,000 --> 01:24:58,080
+later on and just have the butterfly
+
+1828
+01:24:55,840 --> 01:24:59,840
+because as Joe point I pointed out to
+
+1829
+01:24:58,080 --> 01:25:01,600
+Joe I said you don't really need a
+
+1830
+01:24:59,840 --> 01:25:03,440
+butter but he said I never thought about
+
+1831
+01:25:01,600 --> 01:25:04,960
+that and it's such a simple thing. Why
+
+1832
+01:25:03,440 --> 01:25:07,440
+do we need a car? We don't need a
+
+1833
+01:25:04,960 --> 01:25:08,880
+butterfly. You only let air in. So
+
+1834
+01:25:07,440 --> 01:25:11,440
+that's going to get deleted. And the
+
+1835
+01:25:08,880 --> 01:25:12,719
+aluminium fell. Where is the couple of
+
+1836
+01:25:11,440 --> 01:25:15,440
+gentlemen there? They give me some
+
+1837
+01:25:12,719 --> 01:25:17,920
+aluminium in aluminium the other day.
+
+1838
+01:25:15,440 --> 01:25:20,000
+I'll make a block up.
+
+1839
+01:25:17,920 --> 01:25:22,480
+That's all we're going to hopefully.
+
+1840
+01:25:20,000 --> 01:25:24,159
+There's other things. These gentlemen up
+
+1841
+01:25:22,480 --> 01:25:28,080
+here, they've got a lot of aluminium
+
+1842
+01:25:24,159 --> 01:25:31,360
+spool. What we're hoping to do is to
+
+1843
+01:25:28,080 --> 01:25:35,159
+enase a cell with aluminium sport to see
+
+1844
+01:25:31,360 --> 01:25:35,159
+if it holds more detenting
+
+1845
+01:25:48,719 --> 01:25:54,309
+yourself and presenting your
+
+1846
+01:25:52,289 --> 01:25:54,309
+>> [applause]
+
+1847
+01:25:59,440 --> 01:26:05,760
+>> Yes. Price of the book. The price of the
+
+1848
+01:26:02,159 --> 01:26:08,560
+book is $49.95. Not that come up there
+
+1849
+01:26:05,760 --> 01:26:11,840
+said 99.9 or so. We all thought it was
+
+1850
+01:26:08,560 --> 01:26:15,320
+99, but it was 9,999.
+
+1851
+01:26:11,840 --> 01:26:15,320
+These are $49.95.
+
+1852
+01:26:15,440 --> 01:26:18,440
+Sorry.
+
+1853
+01:26:23,760 --> 01:26:30,159
+>> Gage is right. If anybody
+
+1854
+01:26:26,560 --> 01:26:33,840
+>> right, we'll bring it up. Look, there's
+
+1855
+01:26:30,159 --> 01:26:36,159
+a box of a box of books here and I'm
+
+1856
+01:26:33,840 --> 01:26:38,000
+looking after the sales of it. So, come
+
+1857
+01:26:36,159 --> 01:26:39,600
+and see me after if you want one or down
+
+1858
+01:26:38,000 --> 01:26:42,320
+the line. I've got some business cards.
+
+1859
+01:26:39,600 --> 01:26:45,520
+pretty poor quality one because uh they
+
+1860
+01:26:42,320 --> 01:26:47,600
+forgot to get printed by the boss. So,
+
+1861
+01:26:45,520 --> 01:26:49,760
+right. Well, thanks very much, Stephen.
+
+1862
+01:26:47,600 --> 01:26:50,960
+And um any other questions? Anybody
+
+1863
+01:26:49,760 --> 01:26:51,920
+really want to present something
+
+1864
+01:26:50,960 --> 01:26:53,840
+important? Yes.
+
+1865
+01:26:51,920 --> 01:26:55,199
+>> Bob, as a teaser for the people here
+
+1866
+01:26:53,840 --> 01:26:57,679
+that are new to it, why don't you
+
+1867
+01:26:55,199 --> 01:26:59,760
+mention what sort of car Joe was driving
+
+1868
+01:26:57,679 --> 01:27:00,960
+originally back in the '90s?
+
+1869
+01:26:59,760 --> 01:27:01,679
+>> I didn't ask him,
+
+1870
+01:27:00,960 --> 01:27:02,080
+>> didn't you?
+
+1871
+01:27:01,679 --> 01:27:03,679
+>> No.
+
+1872
+01:27:02,080 --> 01:27:06,400
+>> Wasn't it a Ford Escort?
+
+1873
+01:27:03,679 --> 01:27:08,960
+>> That was one of them. Also, the Rover
+
+1874
+01:27:06,400 --> 01:27:10,320
+V8. That was one of the first ones. Why
+
+1875
+01:27:08,960 --> 01:27:12,080
+don't you mention some of the strange
+
+1876
+01:27:10,320 --> 01:27:14,080
+effects you noticed in the car?
+
+1877
+01:27:12,080 --> 01:27:16,400
+>> Well, which one do you want?
+
+1878
+01:27:14,080 --> 01:27:16,960
+>> The inertial dampening one.
+
+1879
+01:27:16,400 --> 01:27:18,800
+>> Which one?
+
+1880
+01:27:16,960 --> 01:27:20,880
+>> The inertial dampening effect. When he
+
+1881
+01:27:18,800 --> 01:27:22,639
+had a tuned car running, didn't
+
+1882
+01:27:20,880 --> 01:27:23,440
+experience G-forces when you were around
+
+1883
+01:27:22,639 --> 01:27:25,280
+corners.
+
+1884
+01:27:23,440 --> 01:27:26,000
+>> Oh, no, no, no. That's not his car,
+
+1885
+01:27:25,280 --> 01:27:28,800
+>> wasn't it?
+
+1886
+01:27:26,000 --> 01:27:30,480
+>> No, no, no. That's a Scottish gentleman.
+
+1887
+01:27:28,800 --> 01:27:32,080
+He told me where he lived, but that's an
+
+1888
+01:27:30,480 --> 01:27:33,840
+interesting story again. It's supposed
+
+1889
+01:27:32,080 --> 01:27:35,760
+to go around corners without tip over
+
+1890
+01:27:33,840 --> 01:27:38,080
+and also get off the ground. Joe had
+
+1891
+01:27:35,760 --> 01:27:39,679
+been in it, but he wasn't interested.
+
+1892
+01:27:38,080 --> 01:27:43,440
+But I won't go into all that part.
+
+1893
+01:27:39,679 --> 01:27:44,880
+That's another story. And that that may
+
+1894
+01:27:43,440 --> 01:27:46,960
+come later because I think we're playing
+
+1895
+01:27:44,880 --> 01:27:48,320
+with this sort of stuff. You're going to
+
+1896
+01:27:46,960 --> 01:27:50,320
+come across that stuff because that's
+
+1897
+01:27:48,320 --> 01:27:52,239
+what that guy did. He come across that
+
+1898
+01:27:50,320 --> 01:27:54,400
+stuff.
+
+1899
+01:27:52,239 --> 01:27:56,719
+But Joe, that was not Joe's car. He was
+
+1900
+01:27:54,400 --> 01:27:58,239
+not interested. But actually Joe being
+
+1901
+01:27:56,719 --> 01:28:00,000
+for a drive, put his hands under the
+
+1902
+01:27:58,239 --> 01:28:02,000
+wheels. I'd like to know how did they
+
+1903
+01:28:00,000 --> 01:28:03,760
+steer it, how did they stop it, and
+
+1904
+01:28:02,000 --> 01:28:05,679
+things like that. that he said it was
+
+1905
+01:28:03,760 --> 01:28:08,560
+dead smooth over a real rough bit of
+
+1906
+01:28:05,679 --> 01:28:10,800
+corrugated bit. I've actually seen that
+
+1907
+01:28:08,560 --> 01:28:12,560
+bit of I've seen the rams which
+
+1908
+01:28:10,800 --> 01:28:15,120
+they put the tractor on the back of the
+
+1909
+01:28:12,560 --> 01:28:17,600
+the ute with before it went off the
+
+1910
+01:28:15,120 --> 01:28:19,920
+ground. So some straight things here.
+
+1911
+01:28:17,600 --> 01:28:23,280
+Joe's a fantastic bloke really. He's
+
+1912
+01:28:19,920 --> 01:28:25,600
+very open. He doesn't know what it is
+
+1913
+01:28:23,280 --> 01:28:27,920
+but he knows how to handle it which was
+
+1914
+01:28:25,600 --> 01:28:29,520
+be. And I was lucky enough to spend 2
+
+1915
+01:28:27,920 --> 01:28:31,920
+and 1/2 days with another gentleman
+
+1916
+01:28:29,520 --> 01:28:34,159
+here. You spent one week with him and
+
+1917
+01:28:31,920 --> 01:28:36,400
+been in touch with him for a long time.
+
+1918
+01:28:34,159 --> 01:28:39,120
+You've got a video later on I hope to
+
+1919
+01:28:36,400 --> 01:28:42,880
+show not tonight of the dragster that
+
+1920
+01:28:39,120 --> 01:28:45,211
+Joe had soal treated or put a cell on.
+
+1921
+01:28:42,880 --> 01:28:47,840
+And uh Joe showed me different dragster
+
+1922
+01:28:45,211 --> 01:28:50,560
+[music] field too. Very eye opening.
+
+1923
+01:28:47,840 --> 01:28:52,480
+It's not his vehicle though.
+
+1924
+01:28:50,560 --> 01:28:54,960
+But Joe did apparently 14 different
+
+1925
+01:28:52,480 --> 01:28:58,320
+vehicles including a diesel. The diesel
+
+1926
+01:28:54,960 --> 01:29:00,880
+as Steven said must have an ignition.
+
+1927
+01:28:58,320 --> 01:29:03,440
+And you must have still have that spark.
+
+1928
+01:29:00,880 --> 01:29:05,120
+Joe is a very strange he strange person.
+
+1929
+01:29:03,440 --> 01:29:07,679
+He's played with a lot of things and
+
+1930
+01:29:05,120 --> 01:29:10,080
+come across a lot of abnormalities.
+
+1931
+01:29:07,679 --> 01:29:11,920
+Victor's about abnormalities. He knows a
+
+1932
+01:29:10,080 --> 01:29:13,920
+lot of strange things out there. Well,
+
+1933
+01:29:11,920 --> 01:29:16,400
+Joe did all this up with himself too.
+
+1934
+01:29:13,920 --> 01:29:20,000
+There's a lot of abnies and I was
+
+1935
+01:29:16,400 --> 01:29:22,800
+permitted to take 3 days of talking with
+
+1936
+01:29:20,000 --> 01:29:25,360
+Joe and then my uh some friends actually
+
+1937
+01:29:22,800 --> 01:29:27,760
+transpose it to computer. My wife made
+
+1938
+01:29:25,360 --> 01:29:29,520
+some books and a few of you fellas have
+
+1939
+01:29:27,760 --> 01:29:32,239
+read these books. Well, you you
+
+1940
+01:29:29,520 --> 01:29:34,159
+eventually got accepted from another one
+
+1941
+01:29:32,239 --> 01:29:36,320
+of our members sort of thing in the
+
+1942
+01:29:34,159 --> 01:29:38,719
+roundabout way. Eventually, you gave it
+
+1943
+01:29:36,320 --> 01:29:40,560
+back to Joe. He would know all about
+
+1944
+01:29:38,719 --> 01:29:42,400
+that. Anyway, now has anybody else got
+
+1945
+01:29:40,560 --> 01:29:42,960
+something to present now? You've got
+
+1946
+01:29:42,400 --> 01:29:44,960
+some
+
+1947
+01:29:42,960 --> 01:29:47,360
+>> Yeah,
+
+1948
+01:29:44,960 --> 01:29:48,960
+there's
+
+1949
+01:29:47,360 --> 01:29:50,639
+interested in that video.
+
+1950
+01:29:48,960 --> 01:29:53,679
+>> How much?
+
+1951
+01:29:50,639 --> 01:29:56,320
+>> There we go. There's a fire. This one
+
+1952
+01:29:53,679 --> 01:29:59,560
+auction case.
+
+1953
+01:29:56,320 --> 01:29:59,560
+>> Oh, sorry.
+
+1954
+01:30:01,920 --> 01:30:07,679
+You're going to start the auction. So,
+
+1955
+01:30:03,520 --> 01:30:07,679
+has anybody got any stuff? Uh, yes.
+

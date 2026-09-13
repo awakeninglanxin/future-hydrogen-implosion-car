@@ -224,8 +224,10 @@
 > made for a suck, they were made for a blow.** And a big phenomenal blow they can handle,
 > not much of a suck. So the implosion sucks your ear drums against it…"
 
-> 📎 与库内 `HHO书本精读` 的「内爆不震耳、爆炸才震耳」是**同一逻辑**
-> —— ★ 现在有了 Joe 原话版，两处可互证。
+> 📎 🔴 **2026-09-13 老师更正**：本处曾与库内「内爆不震耳、爆炸才震耳」互证 —— **该互证撤回**。
+> 理由：① 那句系对 SCP 一次特定实验的**泛化误用**；② 且与 Joe 本段原话**直接冲突**
+> （Joe 明说「内爆会把耳膜吸过去」——即**内爆同样作用于耳朵**，只是"吸"而非"吹"）。
+> ⇒ 正确的框架见 **`26` 号文档**：**内爆=负压/坍塌；外爆=膨胀；威力=先内爆再外爆（氢弹原理）**。
 
 ---
 
