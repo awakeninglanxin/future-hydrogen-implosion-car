@@ -1,0 +1,1300 @@
+1
+00:00:00,060 --> 00:00:07,379
+so estimate about how much money or with
+
+2
+00:00:04,440 --> 00:00:09,240
+the components cost just to just to
+
+3
+00:00:07,379 --> 00:00:11,190
+start out to play with it probably
+
+4
+00:00:09,240 --> 00:00:13,650
+figure about a hundred hundred fifty
+
+5
+00:00:11,190 --> 00:00:16,560
+dollars you've got to cut the stainless
+
+6
+00:00:13,650 --> 00:00:18,660
+steel plates I have some of you guys if
+
+7
+00:00:16,560 --> 00:00:20,520
+somebody wants to I have a whole bunch
+
+8
+00:00:18,660 --> 00:00:22,439
+of them of the six by six squares
+
+9
+00:00:20,520 --> 00:00:24,420
+somebody wants to buy some I just have
+
+10
+00:00:22,439 --> 00:00:26,519
+you know just the money into the the
+
+11
+00:00:24,420 --> 00:00:28,230
+shearing of it but if you guys want to
+
+12
+00:00:26,519 --> 00:00:31,769
+just buy stainless steel plates and
+
+13
+00:00:28,230 --> 00:00:33,300
+shear them off that's whatever if you've
+
+14
+00:00:31,769 --> 00:00:35,520
+got a machine shop local they can do
+
+15
+00:00:33,300 --> 00:00:37,410
+that that works pretty well back in my
+
+16
+00:00:35,520 --> 00:00:43,050
+joe sell days when i was really focused
+
+17
+00:00:37,410 --> 00:00:46,559
+on that there was quite a bit of talk
+
+18
+00:00:43,050 --> 00:00:50,850
+about when you cut the metal that you
+
+19
+00:00:46,559 --> 00:00:52,410
+get some magnetization of the metal of
+
+20
+00:00:50,850 --> 00:00:56,190
+going on do you have to be careful about
+
+21
+00:00:52,410 --> 00:00:58,199
+that kind of stuff using a conventional
+
+22
+00:00:56,190 --> 00:01:00,570
+joe cell which has the concentric
+
+23
+00:00:58,199 --> 00:01:02,399
+stainless steel tubes you do have to
+
+24
+00:01:00,570 --> 00:01:04,830
+worry about that that's actually fairly
+
+25
+00:01:02,399 --> 00:01:06,270
+easy to overcome with browns gas because
+
+26
+00:01:04,830 --> 00:01:09,110
+you can you can heat it
+
+27
+00:01:06,270 --> 00:01:13,439
+take out the take out the magnetism
+
+28
+00:01:09,110 --> 00:01:16,020
+shearing it or or cutting this cutting
+
+29
+00:01:13,439 --> 00:01:20,189
+the shapes out with a with a water jet
+
+30
+00:01:16,020 --> 00:01:21,600
+as because i use i use flat parallel
+
+31
+00:01:20,189 --> 00:01:24,659
+plates instead of the concentric
+
+32
+00:01:21,600 --> 00:01:29,700
+stainless steel tubes because I can
+
+33
+00:01:24,659 --> 00:01:31,920
+control the distances much better so
+
+34
+00:01:29,700 --> 00:01:35,579
+when you share them there's there's less
+
+35
+00:01:31,920 --> 00:01:37,920
+of an issue with that plus you know
+
+36
+00:01:35,579 --> 00:01:41,180
+there's magnetism there's para magnetism
+
+37
+00:01:37,920 --> 00:01:43,710
+and then there's diamagnetism and so I
+
+38
+00:01:41,180 --> 00:01:46,470
+one of the actually a couple of the free
+
+39
+00:01:43,710 --> 00:01:50,369
+energy devices that I've seen actually
+
+40
+00:01:46,470 --> 00:01:52,680
+relies upon a ratio between the three
+
+41
+00:01:50,369 --> 00:01:53,939
+levels of magnetism both pair magnets
+
+42
+00:01:52,680 --> 00:01:57,420
+and diamagnetism
+
+43
+00:01:53,939 --> 00:02:00,270
+and magnetism in in very ratios and what
+
+44
+00:01:57,420 --> 00:02:02,429
+they were able to tune the machines to
+
+45
+00:02:00,270 --> 00:02:05,700
+not just the components but everything
+
+46
+00:02:02,429 --> 00:02:08,429
+around the machine to the ratios of more
+
+47
+00:02:05,700 --> 00:02:09,929
+paramagnetism than than the others but
+
+48
+00:02:08,429 --> 00:02:12,750
+with different ratios they were able to
+
+49
+00:02:09,929 --> 00:02:14,640
+achieve free energy so met some some
+
+50
+00:02:12,750 --> 00:02:16,680
+amount of magnetism is good I haven't
+
+51
+00:02:14,640 --> 00:02:19,200
+actually run into an issue where the
+
+52
+00:02:16,680 --> 00:02:21,540
+magnetism in the system is a detriment
+
+53
+00:02:19,200 --> 00:02:24,000
+right now because I don't work with this
+
+54
+00:02:21,540 --> 00:02:28,220
+conventional there the concentric
+
+55
+00:02:24,000 --> 00:02:30,900
+stainless steel tubes and the concentric
+
+56
+00:02:28,220 --> 00:02:33,450
+tubes are usually what you see in a Joe
+
+57
+00:02:30,900 --> 00:02:35,400
+cell so that Joe cell is not necessary
+
+58
+00:02:33,450 --> 00:02:38,450
+for this it's one of the things where it
+
+59
+00:02:35,400 --> 00:02:44,329
+shows up but it's not necessarily a
+
+60
+00:02:38,450 --> 00:02:47,250
+crucial component let me back up here
+
+61
+00:02:44,329 --> 00:02:49,410
+the conventional Joe cell that we see
+
+62
+00:02:47,250 --> 00:02:51,510
+which is the conventional is perfect
+
+63
+00:02:49,410 --> 00:02:55,739
+concentric stainless steel tubes is a
+
+64
+00:02:51,510 --> 00:02:57,540
+sip is one tight above Joe cell if you
+
+65
+00:02:55,739 --> 00:02:59,370
+look at the books that have been written
+
+66
+00:02:57,540 --> 00:03:01,769
+on Joe cell technology and I actually
+
+67
+00:02:59,370 --> 00:03:04,440
+gave a lecture on this about five years
+
+68
+00:03:01,769 --> 00:03:06,150
+ago if you look at the the the books and
+
+69
+00:03:04,440 --> 00:03:09,569
+the information on that what you're
+
+70
+00:03:06,150 --> 00:03:11,250
+really looking for is certain types of
+
+71
+00:03:09,569 --> 00:03:13,349
+materials interacting with other types
+
+72
+00:03:11,250 --> 00:03:16,319
+of materials so you're looking for
+
+73
+00:03:13,349 --> 00:03:17,880
+metallic and as this also goes back to
+
+74
+00:03:16,319 --> 00:03:21,870
+Oregon research you're looking for
+
+75
+00:03:17,880 --> 00:03:24,090
+metallic versus natural materials some
+
+76
+00:03:21,870 --> 00:03:25,680
+Joe cells I have a I have a battery and
+
+77
+00:03:24,090 --> 00:03:28,349
+literally looks like a battery it's made
+
+78
+00:03:25,680 --> 00:03:29,940
+out of brass plates and a different type
+
+79
+00:03:28,349 --> 00:03:32,010
+of fluid in there and it is and it
+
+80
+00:03:29,940 --> 00:03:34,260
+conforms to all the rules of a Joe cell
+
+81
+00:03:32,010 --> 00:03:37,079
+it's just not made out of the concentric
+
+82
+00:03:34,260 --> 00:03:39,720
+stew or like the Mojo cell a sphere
+
+83
+00:03:37,079 --> 00:03:41,280
+which is really fun to play with but
+
+84
+00:03:39,720 --> 00:03:43,650
+it's but it actually conforms to all the
+
+85
+00:03:41,280 --> 00:03:46,530
+rules of the dough cell certain ratios
+
+86
+00:03:43,650 --> 00:03:48,370
+to height to width and the fluid the
+
+87
+00:03:46,530 --> 00:03:50,590
+fluid in there versus the metal
+
+88
+00:03:48,370 --> 00:03:52,239
+that's interacting with so there are
+
+89
+00:03:50,590 --> 00:03:54,400
+different types of Joe cells that the
+
+90
+00:03:52,239 --> 00:03:58,360
+concentric stew this only is only one of
+
+91
+00:03:54,400 --> 00:04:03,849
+them so is this going to be a science
+
+92
+00:03:58,360 --> 00:04:04,870
+where you can follow a recipe and like
+
+93
+00:04:03,849 --> 00:04:06,849
+for example if you were to mass-produce
+
+94
+00:04:04,870 --> 00:04:08,290
+something like this you can make it the
+
+95
+00:04:06,849 --> 00:04:10,360
+same way every time and it works the
+
+96
+00:04:08,290 --> 00:04:11,440
+same way every time or is there
+
+97
+00:04:10,360 --> 00:04:13,540
+something that goes interesting
+
+98
+00:04:11,440 --> 00:04:16,120
+materials where you require a gift to do
+
+99
+00:04:13,540 --> 00:04:22,650
+some tuning and now chemical gift for
+
+100
+00:04:16,120 --> 00:04:26,860
+example I have on this in this aspect
+
+101
+00:04:22,650 --> 00:04:29,800
+it's behaving the same way each time and
+
+102
+00:04:26,860 --> 00:04:31,300
+I'm not I'm not running into you know
+
+103
+00:04:29,800 --> 00:04:33,940
+times of day
+
+104
+00:04:31,300 --> 00:04:36,900
+I'm not running into the attitude of the
+
+105
+00:04:33,940 --> 00:04:41,139
+operator which I have machines that are
+
+106
+00:04:36,900 --> 00:04:42,880
+at that work absolutely contingent on
+
+107
+00:04:41,139 --> 00:04:46,330
+the attitude and the spiritual mindset
+
+108
+00:04:42,880 --> 00:04:47,770
+of the operator but this is this is
+
+109
+00:04:46,330 --> 00:04:50,139
+behaving a little bit different way and
+
+110
+00:04:47,770 --> 00:04:53,410
+I think we've it's a refinement of the
+
+111
+00:04:50,139 --> 00:04:56,200
+process that allows us to focus the the
+
+112
+00:04:53,410 --> 00:04:58,590
+energy without worrying about without
+
+113
+00:04:56,200 --> 00:05:02,289
+wearing too much about the outside
+
+114
+00:04:58,590 --> 00:05:06,520
+extraneous input now I haven't I can't
+
+115
+00:05:02,289 --> 00:05:10,720
+rule out the zodiacal signs or where the
+
+116
+00:05:06,520 --> 00:05:13,990
+moon is which is actually very important
+
+117
+00:05:10,720 --> 00:05:15,190
+in some processes some prospect
+
+118
+00:05:13,990 --> 00:05:18,940
+it's important to make a lot of
+
+119
+00:05:15,190 --> 00:05:22,810
+scientific processes they cannot machine
+
+120
+00:05:18,940 --> 00:05:25,479
+the plutonium course for nuclear nuclear
+
+121
+00:05:22,810 --> 00:05:27,970
+bombs or nuclear reactors they cannot
+
+122
+00:05:25,479 --> 00:05:30,800
+machine them under certain signs of the
+
+123
+00:05:27,970 --> 00:05:33,639
+moon because if they do
+
+124
+00:05:30,800 --> 00:05:36,830
+the metal will literally change
+
+125
+00:05:33,639 --> 00:05:39,199
+dimensions as the moon shifts they have
+
+126
+00:05:36,830 --> 00:05:41,120
+to do they have to machine them under
+
+127
+00:05:39,199 --> 00:05:43,879
+certain signs that are what they call
+
+128
+00:05:41,120 --> 00:05:45,530
+fixed otherwise the middle will change
+
+129
+00:05:43,879 --> 00:05:47,599
+dimensions and not work properly and
+
+130
+00:05:45,530 --> 00:05:49,819
+this has talked about in people who are
+
+131
+00:05:47,599 --> 00:05:52,909
+in that industry it is it is a
+
+132
+00:05:49,819 --> 00:05:54,770
+little-known fact in the industry yeah
+
+133
+00:05:52,909 --> 00:05:56,810
+something they don't dare talk about was
+
+134
+00:05:54,770 --> 00:05:59,509
+it was like to most people because it
+
+135
+00:05:56,810 --> 00:06:04,849
+kind of flied kind of flies in the face
+
+136
+00:05:59,509 --> 00:06:11,539
+of conventional physics that's a that's
+
+137
+00:06:04,849 --> 00:06:14,270
+a very strange and very understand
+
+138
+00:06:11,539 --> 00:06:17,629
+people who make automobile parts or like
+
+139
+00:06:14,270 --> 00:06:20,270
+engines for example for racecars that
+
+140
+00:06:17,629 --> 00:06:23,440
+when they make that they can make three
+
+141
+00:06:20,270 --> 00:06:25,430
+engines under seemingly identical
+
+142
+00:06:23,440 --> 00:06:26,840
+circumstances but they have to test each
+
+143
+00:06:25,430 --> 00:06:29,120
+one of them because they don't actually
+
+144
+00:06:26,840 --> 00:06:30,949
+function the same that's amazing and it
+
+145
+00:06:29,120 --> 00:06:34,370
+has to do with when they were made and
+
+146
+00:06:30,949 --> 00:06:37,159
+and it's there's really no such thing as
+
+147
+00:06:34,370 --> 00:06:39,469
+two identical scientifically made things
+
+148
+00:06:37,159 --> 00:06:41,740
+because there are other phenomena going
+
+149
+00:06:39,469 --> 00:06:44,360
+on it's not just humans that are
+
+150
+00:06:41,740 --> 00:06:47,630
+responsive to astrological types of
+
+151
+00:06:44,360 --> 00:06:49,400
+influences that materials also have an
+
+152
+00:06:47,630 --> 00:06:52,849
+input you're saying that you absolutely
+
+153
+00:06:49,400 --> 00:06:55,759
+in this particular process you haven't
+
+154
+00:06:52,849 --> 00:06:58,819
+noticed yet that kind of influence well
+
+155
+00:06:55,759 --> 00:07:00,949
+I haven't noticed that a macrocosmic
+
+156
+00:06:58,819 --> 00:07:05,900
+skill that may be happening on a micro
+
+157
+00:07:00,949 --> 00:07:07,300
+cosmic scale but you know it's funny you
+
+158
+00:07:05,900 --> 00:07:09,979
+mentioned that because when I was in
+
+159
+00:07:07,300 --> 00:07:11,779
+studying electrical engineering they
+
+160
+00:07:09,979 --> 00:07:13,909
+told us the same thing about things like
+
+161
+00:07:11,779 --> 00:07:18,050
+solar panels and I integrated circuits
+
+162
+00:07:13,909 --> 00:07:20,210
+and they actually have to put in they
+
+163
+00:07:18,050 --> 00:07:23,120
+actually have to engineer in adjustment
+
+164
+00:07:20,210 --> 00:07:27,710
+so that they can tune something into the
+
+165
+00:07:23,120 --> 00:07:30,979
+that they want and from a religious
+
+166
+00:07:27,710 --> 00:07:34,220
+perspective we we see that all energy
+
+167
+00:07:30,979 --> 00:07:36,199
+has consciousness and if we're working
+
+168
+00:07:34,220 --> 00:07:39,320
+with certain types of energy we have to
+
+169
+00:07:36,199 --> 00:07:40,520
+understand that the the consciousness of
+
+170
+00:07:39,320 --> 00:07:43,100
+that energy is going to come into play
+
+171
+00:07:40,520 --> 00:07:45,229
+but on a macro cosmic scale with this
+
+172
+00:07:43,100 --> 00:07:48,139
+hydrogen system that I've been working
+
+173
+00:07:45,229 --> 00:07:50,360
+with and we're not seeing it we're not
+
+174
+00:07:48,139 --> 00:07:53,840
+seeing a lot of influence in that regard
+
+175
+00:07:50,360 --> 00:07:55,760
+which makes me happy because because it
+
+176
+00:07:53,840 --> 00:07:57,110
+means that that everybody can work with
+
+177
+00:07:55,760 --> 00:08:00,020
+it and everybody can play with it so
+
+178
+00:07:57,110 --> 00:08:02,030
+that's exciting so it may not be
+
+179
+00:08:00,020 --> 00:08:04,850
+necessary that the person have an
+
+180
+00:08:02,030 --> 00:08:06,530
+alchemical calling so to speak to do
+
+181
+00:08:04,850 --> 00:08:13,880
+this or do you think how important do
+
+182
+00:08:06,530 --> 00:08:16,910
+you think that would be well because I'm
+
+183
+00:08:13,880 --> 00:08:21,199
+very much out chemically oriented and so
+
+184
+00:08:16,910 --> 00:08:22,550
+I'm probably not the not the norm of the
+
+185
+00:08:21,199 --> 00:08:24,260
+people that are going to be we're going
+
+186
+00:08:22,550 --> 00:08:27,169
+to be working with this I learned
+
+187
+00:08:24,260 --> 00:08:29,770
+something very interesting conventional
+
+188
+00:08:27,169 --> 00:08:33,770
+engineering deals with the bell curve
+
+189
+00:08:29,770 --> 00:08:37,969
+they want to know what goes on in this
+
+190
+00:08:33,770 --> 00:08:39,650
+in this normal space okay and they plot
+
+191
+00:08:37,969 --> 00:08:41,120
+all their diagrams and everything and
+
+192
+00:08:39,650 --> 00:08:42,469
+they create bell curves because they
+
+193
+00:08:41,120 --> 00:08:45,350
+want to understand what goes on in this
+
+194
+00:08:42,469 --> 00:08:46,940
+normal space I realized that is so far
+
+195
+00:08:45,350 --> 00:08:48,890
+outside of my kingdom understand because
+
+196
+00:08:46,940 --> 00:08:51,200
+I don't care what goes on there because
+
+197
+00:08:48,890 --> 00:08:53,870
+that's that's normal I want to know why
+
+198
+00:08:51,200 --> 00:08:55,820
+this little spike occurred over here I
+
+199
+00:08:53,870 --> 00:08:59,990
+want to know what goes on outside of the
+
+200
+00:08:55,820 --> 00:09:01,400
+norm so that's that's plenty a funny way
+
+201
+00:08:59,990 --> 00:09:03,410
+to look at it but that's that's where
+
+202
+00:09:01,400 --> 00:09:04,660
+I'm at and turn that into a new norm
+
+203
+00:09:03,410 --> 00:09:10,220
+[Music]
+
+204
+00:09:04,660 --> 00:09:12,709
+honing on that yeah so we didn't finish
+
+205
+00:09:10,220 --> 00:09:14,660
+the question about what would be
+
+206
+00:09:12,709 --> 00:09:17,060
+involved in getting started in this just
+
+207
+00:09:14,660 --> 00:09:19,130
+on an on a replication basis to prove to
+
+208
+00:09:17,060 --> 00:09:22,900
+yourself that it works we talked about
+
+209
+00:09:19,130 --> 00:09:22,900
+materials what about time
+
+210
+00:09:23,800 --> 00:09:30,370
+if you'll mechanically or if your hands
+
+211
+00:09:27,910 --> 00:09:33,070
+on or into you know about a week to put
+
+212
+00:09:30,370 --> 00:09:35,200
+this all together a week full time or
+
+213
+00:09:33,070 --> 00:09:37,030
+tinkering time a week tinkering time
+
+214
+00:09:35,200 --> 00:09:40,450
+yeah hobby time in the evening when you
+
+215
+00:09:37,030 --> 00:09:42,520
+come home for work yeah just playing
+
+216
+00:09:40,450 --> 00:09:44,080
+around with it you can sit and put
+
+217
+00:09:42,520 --> 00:09:47,380
+together the you can sit and put
+
+218
+00:09:44,080 --> 00:09:48,640
+together the plates pretty easily there
+
+219
+00:09:47,380 --> 00:09:51,430
+there's some rules you have to follow
+
+220
+00:09:48,640 --> 00:09:53,530
+and so you know you don't what
+
+221
+00:09:51,430 --> 00:09:56,080
+say this is the this is the thing about
+
+222
+00:09:53,530 --> 00:09:58,450
+working with working with hydrogen you
+
+223
+00:09:56,080 --> 00:09:59,920
+follow the rules to understand the rules
+
+224
+00:09:58,450 --> 00:10:03,460
+and you learn where you can break them
+
+225
+00:09:59,920 --> 00:10:06,730
+okay but you when you first start out
+
+226
+00:10:03,460 --> 00:10:09,490
+you reproduce things exactly the way
+
+227
+00:10:06,730 --> 00:10:11,620
+they're made before once you understand
+
+228
+00:10:09,490 --> 00:10:14,560
+the rules then you can start
+
+229
+00:10:11,620 --> 00:10:17,350
+experimenting outside of the rules do
+
+230
+00:10:14,560 --> 00:10:19,750
+you have on your website some kind of a
+
+231
+00:10:17,350 --> 00:10:21,490
+set of plans - no nothing nothing I just
+
+232
+00:10:19,750 --> 00:10:23,980
+have a few pictures up there right now I
+
+233
+00:10:21,490 --> 00:10:26,350
+just literally just barely got control
+
+234
+00:10:23,980 --> 00:10:28,480
+of that website again from from the
+
+235
+00:10:26,350 --> 00:10:30,340
+person who was running it before so a
+
+236
+00:10:28,480 --> 00:10:33,340
+real good guy but he kind of disappeared
+
+237
+00:10:30,340 --> 00:10:35,440
+down in Mexico and is exploring the the
+
+238
+00:10:33,340 --> 00:10:37,270
+ancient ruins down there which makes it
+
+239
+00:10:35,440 --> 00:10:39,370
+very difficult to you know run a
+
+240
+00:10:37,270 --> 00:10:40,900
+computer and state website it's the
+
+241
+00:10:39,370 --> 00:10:42,610
+phones I just got control of that so I
+
+242
+00:10:40,900 --> 00:10:49,119
+can post so I can start changing the
+
+243
+00:10:42,610 --> 00:10:50,829
+content again okay and let's
+
+244
+00:10:49,119 --> 00:10:52,209
+do you want to give you contact
+
+245
+00:10:50,829 --> 00:10:54,279
+information or can people go to the
+
+246
+00:10:52,209 --> 00:10:57,519
+website to get that people can go to the
+
+247
+00:10:54,279 --> 00:11:00,839
+website my the easiest way to contact me
+
+248
+00:10:57,519 --> 00:11:05,529
+is either through Facebook or my email
+
+249
+00:11:00,839 --> 00:11:11,849
+Earth's Earth's ransom at yahoo.com
+
+250
+00:11:05,529 --> 00:11:13,869
+that's dar THS ra n som at yahoo.com or
+
+251
+00:11:11,849 --> 00:11:15,609
+just look me up on Facebook and
+
+252
+00:11:13,869 --> 00:11:19,019
+communicate that way pretty easily too
+
+253
+00:11:15,609 --> 00:11:22,659
+important those are the easiest ways I
+
+254
+00:11:19,019 --> 00:11:24,639
+tempted to to bring up what you post on
+
+255
+00:11:22,659 --> 00:11:30,129
+Facebook the other day about a six-foot
+
+256
+00:11:24,639 --> 00:11:32,319
+rattles oh well you know I I have been
+
+257
+00:11:30,129 --> 00:11:34,059
+blessed with different messengers
+
+258
+00:11:32,319 --> 00:11:35,979
+through my through my life and I was
+
+259
+00:11:34,059 --> 00:11:38,079
+attacked by a six-foot rattlesnake the
+
+260
+00:11:35,979 --> 00:11:40,809
+other day that was a pretty pretty
+
+261
+00:11:38,079 --> 00:11:43,359
+interesting experience and it struck at
+
+262
+00:11:40,809 --> 00:11:45,219
+me twice and missed both times so it's a
+
+263
+00:11:43,359 --> 00:11:49,389
+it's a beautiful little miracle that I
+
+264
+00:11:45,219 --> 00:11:51,929
+am here and but that was a that was a
+
+265
+00:11:49,389 --> 00:11:53,469
+sign of change and actually in
+
+266
+00:11:51,929 --> 00:11:54,879
+retrospect that was an interesting
+
+267
+00:11:53,469 --> 00:11:59,559
+little warning that I had that I
+
+268
+00:11:54,879 --> 00:12:01,749
+received so I'm glad that it happened
+
+269
+00:11:59,559 --> 00:12:04,209
+you know I I did have to kill the
+
+270
+00:12:01,749 --> 00:12:07,029
+rattlesnake but because it was very
+
+271
+00:12:04,209 --> 00:12:09,039
+aggressive and was not just you know
+
+272
+00:12:07,029 --> 00:12:09,420
+hanging out by himself and doing nothing
+
+273
+00:12:09,039 --> 00:12:13,050
+he was
+
+274
+00:12:09,420 --> 00:12:15,360
+actually very aggressive so it was it
+
+275
+00:12:13,050 --> 00:12:18,360
+was a indicator that certain things were
+
+276
+00:12:15,360 --> 00:12:19,470
+changing for me which happens the last
+
+277
+00:12:18,360 --> 00:12:23,090
+time was a bear
+
+278
+00:12:19,470 --> 00:12:25,200
+five years ago broke into my house
+
+279
+00:12:23,090 --> 00:12:28,500
+teaching me an interesting lesson that I
+
+280
+00:12:25,200 --> 00:12:30,330
+got to that I had to learn interesting
+
+281
+00:12:28,500 --> 00:12:32,820
+well thanks for sharing that is there
+
+282
+00:12:30,330 --> 00:12:35,040
+anything else in this particular sector
+
+283
+00:12:32,820 --> 00:12:36,960
+that we haven't talked about that ought
+
+284
+00:12:35,040 --> 00:12:40,050
+to be brought up oh you know I'm sure
+
+285
+00:12:36,960 --> 00:12:41,580
+there is but we but as you know when we
+
+286
+00:12:40,050 --> 00:12:46,830
+start looking at the machine such I'll
+
+287
+00:12:41,580 --> 00:12:49,920
+start thinking of more stuff all right
+
+288
+00:12:46,830 --> 00:12:52,410
+so let's do that as part three okay and
+
+289
+00:12:49,920 --> 00:12:54,930
+we'll we'll stop this segment for now
+
+290
+00:12:52,410 --> 00:12:58,170
+all right well plates instead of the
+
+291
+00:12:54,930 --> 00:13:02,450
+concentric stainless steel tubes because
+
+292
+00:12:58,170 --> 00:13:05,490
+I can control the distances much better
+
+293
+00:13:02,450 --> 00:13:09,360
+so when you shear them there's there's
+
+294
+00:13:05,490 --> 00:13:11,670
+less of an issue with that plus you know
+
+295
+00:13:09,360 --> 00:13:16,260
+there's magnetism there's para magnetism
+
+296
+00:13:11,670 --> 00:13:18,360
+and there's diamagnetism so estimate
+
+297
+00:13:16,260 --> 00:13:21,210
+about how much money or with the
+
+298
+00:13:18,360 --> 00:13:23,010
+components cost wheels just to just
+
+299
+00:13:21,210 --> 00:13:24,960
+start out to play with it probably
+
+300
+00:13:23,010 --> 00:13:27,420
+figure about a hundred hundred fifty
+
+301
+00:13:24,960 --> 00:13:30,330
+dollars you've got to cut the stainless
+
+302
+00:13:27,420 --> 00:13:32,130
+steel plates I have some if you guys if
+
+303
+00:13:30,330 --> 00:13:34,290
+somebody wants to do I have a whole
+
+304
+00:13:32,130 --> 00:13:36,210
+bunch of them of the six by six squares
+
+305
+00:13:34,290 --> 00:13:38,190
+somebody wants to buy some I just have
+
+306
+00:13:36,210 --> 00:13:40,290
+you know just the money into the the
+
+307
+00:13:38,190 --> 00:13:42,000
+shearing of it but if you guys want to
+
+308
+00:13:40,290 --> 00:13:45,570
+just buy stainless steel plates and
+
+309
+00:13:42,000 --> 00:13:47,070
+shear them off that's whatever if you've
+
+310
+00:13:45,570 --> 00:13:50,580
+got a machine shop local they can do
+
+311
+00:13:47,070 --> 00:13:53,880
+that back in my joe sell days when I was
+
+312
+00:13:50,580 --> 00:13:59,400
+really focused on that there was quite a
+
+313
+00:13:53,880 --> 00:14:04,170
+bit of talk about when you cut the metal
+
+314
+00:13:59,400 --> 00:14:05,700
+that you get some magnetization of the
+
+315
+00:14:04,170 --> 00:14:09,570
+metal of going on do you have to be
+
+316
+00:14:05,700 --> 00:14:11,820
+careful about that kind of stuff using a
+
+317
+00:14:09,570 --> 00:14:14,340
+conventional joe cell which has the
+
+318
+00:14:11,820 --> 00:14:16,170
+stainless steel tubes you do have to
+
+319
+00:14:14,340 --> 00:14:18,600
+worry about that that's actually fairly
+
+320
+00:14:16,170 --> 00:14:20,670
+easy to overcome with Browns gas because
+
+321
+00:14:18,600 --> 00:14:25,380
+you can you can heat it and take out the
+
+322
+00:14:20,670 --> 00:14:28,110
+take out the magnetism sharing it or or
+
+323
+00:14:25,380 --> 00:14:31,830
+cutting this cutting the shapes out with
+
+324
+00:14:28,110 --> 00:14:35,720
+a with a water jet is because I use I
+
+325
+00:14:31,830 --> 00:14:35,720
+use flat pair
+

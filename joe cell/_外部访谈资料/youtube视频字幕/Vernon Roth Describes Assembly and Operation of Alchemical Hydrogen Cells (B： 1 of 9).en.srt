@@ -1,0 +1,1584 @@
+1
+00:00:00,350 --> 00:00:05,490
+hi sterling Allen here at we're at the
+
+2
+00:00:03,210 --> 00:00:09,900
+Tesla tech conference 2011 in
+
+3
+00:00:05,490 --> 00:00:11,400
+Albuquerque New Mexico July 29th and I'm
+
+4
+00:00:09,900 --> 00:00:15,570
+with Vernon Roth here this is actually
+
+5
+00:00:11,400 --> 00:00:17,310
+the second part of a two-part a video
+
+6
+00:00:15,570 --> 00:00:19,199
+series the first part we'll have a link
+
+7
+00:00:17,310 --> 00:00:21,119
+there in the bottom in this YouTube
+
+8
+00:00:19,199 --> 00:00:24,330
+video where you can see where he
+
+9
+00:00:21,119 --> 00:00:28,019
+described this chemical process where in
+
+10
+00:00:24,330 --> 00:00:30,359
+his electrolysis scenario he's found
+
+11
+00:00:28,019 --> 00:00:32,610
+that some of the elements that are in
+
+12
+00:00:30,359 --> 00:00:35,640
+the water in certain electrolysis
+
+13
+00:00:32,610 --> 00:00:39,570
+scenarios are duplicated whether they're
+
+14
+00:00:35,640 --> 00:00:42,270
+minerals or whether they are chemicals
+
+15
+00:00:39,570 --> 00:00:43,410
+chemical compounds and the question I
+
+16
+00:00:42,270 --> 00:00:45,600
+didn't ask him was
+
+17
+00:00:43,410 --> 00:00:46,530
+what about molecules like insulin for
+
+18
+00:00:45,600 --> 00:00:49,800
+example could you
+
+19
+00:00:46,530 --> 00:00:53,250
+he found that elements that are within
+
+20
+00:00:49,800 --> 00:00:56,039
+the water are duplicated so that he
+
+21
+00:00:53,250 --> 00:00:59,760
+started with one part in some cases he
+
+22
+00:00:56,039 --> 00:01:02,010
+saw with the cycling of the water they
+
+23
+00:00:59,760 --> 00:01:04,320
+actually had 13 times as much of that
+
+24
+00:01:02,010 --> 00:01:07,460
+element at the end than they had at the
+
+25
+00:01:04,320 --> 00:01:11,850
+beginning and this is true with gold
+
+26
+00:01:07,460 --> 00:01:14,580
+particles and with some fairly complex
+
+27
+00:01:11,850 --> 00:01:16,799
+chemical compounds that he that's right
+
+28
+00:01:14,580 --> 00:01:18,570
+that's in part a we went through all
+
+29
+00:01:16,799 --> 00:01:22,200
+that kind of the philosophy behind it
+
+30
+00:01:18,570 --> 00:01:25,490
+and the part this video here is to
+
+31
+00:01:22,200 --> 00:01:27,630
+describe the apparatus he's actually
+
+32
+00:01:25,490 --> 00:01:31,200
+agreed to go ahead and take things apart
+
+33
+00:01:27,630 --> 00:01:32,970
+and show us exactly how he makes that's
+
+34
+00:01:31,200 --> 00:01:36,780
+not exactly I mean this is going to be
+
+35
+00:01:32,970 --> 00:01:38,610
+fairly technical but you know it's not
+
+36
+00:01:36,780 --> 00:01:42,270
+like he's going to show you you know a
+
+37
+00:01:38,610 --> 00:01:45,180
+to Z but he is going to give us a good
+
+38
+00:01:42,270 --> 00:01:47,850
+overview going through each component
+
+39
+00:01:45,180 --> 00:01:49,500
+and now that I given that explanation I
+
+40
+00:01:47,850 --> 00:01:51,030
+would like to go ahead and turn it over
+
+41
+00:01:49,500 --> 00:01:53,880
+I'm going to go ahead and
+
+42
+00:01:51,030 --> 00:01:56,610
+control the camera but I'd like vermin
+
+43
+00:01:53,880 --> 00:01:59,970
+to recap what I just said in his words
+
+44
+00:01:56,610 --> 00:02:01,650
+to begin with and then we'll we'll make
+
+45
+00:01:59,970 --> 00:02:04,229
+this cut this video into what however
+
+46
+00:02:01,650 --> 00:02:07,490
+segments we need to as Part B of this
+
+47
+00:02:04,229 --> 00:02:09,869
+series all right let's go for it
+
+48
+00:02:07,490 --> 00:02:12,270
+well thank you sir Liam thank you for
+
+49
+00:02:09,869 --> 00:02:18,840
+everybody for being here and we're going
+
+50
+00:02:12,270 --> 00:02:20,040
+to move on forward so I think that one
+
+51
+00:02:18,840 --> 00:02:23,640
+of the most important things that we can
+
+52
+00:02:20,040 --> 00:02:26,280
+you know that we can do with our energy
+
+53
+00:02:23,640 --> 00:02:28,440
+and for the future is to find out more
+
+54
+00:02:26,280 --> 00:02:31,590
+and better ways to use water in our
+
+55
+00:02:28,440 --> 00:02:33,840
+world that's really a huge portion of my
+
+56
+00:02:31,590 --> 00:02:36,989
+research as many of you experienced the
+
+57
+00:02:33,840 --> 00:02:38,670
+spark of life water and its various
+
+58
+00:02:36,989 --> 00:02:43,590
+incarnations and what that what it's
+
+59
+00:02:38,670 --> 00:02:45,959
+used for that's really my driving focus
+
+60
+00:02:43,590 --> 00:02:48,180
+the forces to find out different ways to
+
+61
+00:02:45,959 --> 00:02:50,040
+use water in the world and so that's
+
+62
+00:02:48,180 --> 00:02:52,890
+what I do with hydrogen and then make
+
+63
+00:02:50,040 --> 00:02:54,540
+hydrogen and oxygen from from
+
+64
+00:02:52,890 --> 00:02:56,070
+electricity and water so that's what
+
+65
+00:02:54,540 --> 00:02:57,810
+we're talking about here and this is a
+
+66
+00:02:56,070 --> 00:03:00,900
+basic cell this is what we call it dry
+
+67
+00:02:57,810 --> 00:03:02,640
+cell before you get into them yeah this
+
+68
+00:03:00,900 --> 00:03:03,900
+is actually take two the first thing we
+
+69
+00:03:02,640 --> 00:03:05,100
+thought the camera was rolling in it
+
+70
+00:03:03,900 --> 00:03:07,860
+wasn't
+
+71
+00:03:05,100 --> 00:03:09,690
+tell us about what happened with after
+
+72
+00:03:07,860 --> 00:03:13,560
+you gave your presentation two people
+
+73
+00:03:09,690 --> 00:03:16,769
+came up to you Oh yesterday after I gave
+
+74
+00:03:13,560 --> 00:03:19,829
+my presentation to people independently
+
+75
+00:03:16,769 --> 00:03:22,410
+came up to me and said we also have
+
+76
+00:03:19,829 --> 00:03:25,739
+experienced the multiplication of
+
+77
+00:03:22,410 --> 00:03:28,850
+elements that we did not expect at all
+
+78
+00:03:25,739 --> 00:03:31,920
+using energy magnetic fields and
+
+79
+00:03:28,850 --> 00:03:34,170
+geometrical structures and occurring on
+
+80
+00:03:31,920 --> 00:03:36,060
+a much on a much smaller scale than what
+
+81
+00:03:34,170 --> 00:03:38,280
+we're experiencing here but it is
+
+82
+00:03:36,060 --> 00:03:41,130
+occurring and so they said we were so
+
+83
+00:03:38,280 --> 00:03:42,600
+glad that that someone else talked about
+
+84
+00:03:41,130 --> 00:03:43,930
+it because now we know that we're not
+
+85
+00:03:42,600 --> 00:03:46,420
+crazy now that we
+
+86
+00:03:43,930 --> 00:03:47,859
+we know that this is actually reality so
+
+87
+00:03:46,420 --> 00:03:49,510
+it's very exciting stuff and this is
+
+88
+00:03:47,859 --> 00:03:51,189
+going to I feel like it's going to be
+
+89
+00:03:49,510 --> 00:03:52,780
+happening more and more and many people
+
+90
+00:03:51,189 --> 00:03:55,209
+may already actually be doing it and not
+
+91
+00:03:52,780 --> 00:03:58,359
+knowing what's going on so with that
+
+92
+00:03:55,209 --> 00:04:00,040
+said we will start with we'll start with
+
+93
+00:03:58,359 --> 00:04:02,469
+hydrogen while we start where I started
+
+94
+00:04:00,040 --> 00:04:07,269
+and what we have over here is a
+
+95
+00:04:02,469 --> 00:04:09,670
+conventional well it uses some
+
+96
+00:04:07,269 --> 00:04:13,959
+principles above voices work with
+
+97
+00:04:09,670 --> 00:04:15,519
+hydrogen uses some principles of George
+
+98
+00:04:13,959 --> 00:04:17,859
+Wiseman and Uwe Browns work with
+
+99
+00:04:15,519 --> 00:04:19,989
+hydrogen the simple hydrogen cell with
+
+100
+00:04:17,859 --> 00:04:25,270
+parallel stainless steel plates in it
+
+101
+00:04:19,989 --> 00:04:32,650
+you input 120 volts DC and this it's not
+
+102
+00:04:25,270 --> 00:04:36,370
+supposed to be in there and the gas
+
+103
+00:04:32,650 --> 00:04:39,940
+comes out of the hydrogen unit goes into
+
+104
+00:04:36,370 --> 00:04:42,190
+the reservoir which acts like a trap and
+
+105
+00:04:39,940 --> 00:04:44,919
+an expansion chamber to trap vapors and
+
+106
+00:04:42,190 --> 00:04:49,030
+then the gas feeds from the reservoir
+
+107
+00:04:44,919 --> 00:04:52,120
+into a first stage bubbler which is this
+
+108
+00:04:49,030 --> 00:04:55,810
+is a safety bubbler and it and it also
+
+109
+00:04:52,120 --> 00:04:58,870
+serves as a a wash for the gas to wash
+
+110
+00:04:55,810 --> 00:05:00,490
+off any sodium hydroxide and then the
+
+111
+00:04:58,870 --> 00:05:03,250
+gas escapes out the top and this little
+
+112
+00:05:00,490 --> 00:05:07,960
+hose you see down at the bottom is the
+
+113
+00:05:03,250 --> 00:05:10,539
+water feed to the hydrogen device so gas
+
+114
+00:05:07,960 --> 00:05:13,150
+a little bit of water comes out here and
+
+115
+00:05:10,539 --> 00:05:15,970
+the water returns to the bottom and then
+
+116
+00:05:13,150 --> 00:05:18,370
+fills the device this is a small device
+
+117
+00:05:15,970 --> 00:05:21,370
+that well not not a not a very small
+
+118
+00:05:18,370 --> 00:05:23,680
+device but it's a it's a simple device
+
+119
+00:05:21,370 --> 00:05:26,500
+excuse me and this was commissioned by a
+
+120
+00:05:23,680 --> 00:05:28,900
+friend of mine to run a to help run his
+
+121
+00:05:26,500 --> 00:05:31,630
+diesel generator on his his mountain
+
+122
+00:05:28,900 --> 00:05:34,810
+retreat and it uses the solar panels a
+
+123
+00:05:31,630 --> 00:05:37,479
+set of solar panels about about a
+
+124
+00:05:34,810 --> 00:05:40,090
+thousand watts of solar panel goes into
+
+125
+00:05:37,479 --> 00:05:43,960
+this and boosts his hydrogen our suit
+
+126
+00:05:40,090 --> 00:05:47,440
+boost is a diesel engine once it leaves
+
+127
+00:05:43,960 --> 00:05:49,060
+that just just on a tangent what kind of
+
+128
+00:05:47,440 --> 00:05:50,560
+improvements does he see on the diesel
+
+129
+00:05:49,060 --> 00:05:52,360
+generator using that well what we
+
+130
+00:05:50,560 --> 00:05:55,300
+calculated was that
+
+131
+00:05:52,360 --> 00:05:58,449
+because there is no parasitic drag from
+
+132
+00:05:55,300 --> 00:06:01,840
+an alternator to feed his to feed his
+
+133
+00:05:58,449 --> 00:06:03,759
+engine using this and one other piece of
+
+134
+00:06:01,840 --> 00:06:05,939
+technology that's not mine so I can't
+
+135
+00:06:03,759 --> 00:06:09,099
+talk about it but it's a passive device
+
+136
+00:06:05,939 --> 00:06:11,530
+he we calculated that he will get about
+
+137
+00:06:09,099 --> 00:06:14,650
+a 90 percent boost in his diesel
+
+138
+00:06:11,530 --> 00:06:18,669
+generator system so that's almost a
+
+139
+00:06:14,650 --> 00:06:20,919
+double of his absolutely and then that's
+
+140
+00:06:18,669 --> 00:06:23,259
+taken into account the wattage from the
+
+141
+00:06:20,919 --> 00:06:25,360
+solar panel yes that take it's like a
+
+142
+00:06:23,259 --> 00:06:29,020
+voltage multiplier we're using you're
+
+143
+00:06:25,360 --> 00:06:32,560
+using water instead of and we're using
+
+144
+00:06:29,020 --> 00:06:33,430
+water and hydrogen that is not what
+
+145
+00:06:32,560 --> 00:06:34,870
+you're going to get if you have a
+
+146
+00:06:33,430 --> 00:06:36,940
+parasitic dragon you're running it off
+
+147
+00:06:34,870 --> 00:06:38,740
+your own generator that's just what the
+
+148
+00:06:36,940 --> 00:06:40,599
+solar panels but he found that it was
+
+149
+00:06:38,740 --> 00:06:43,539
+cheaper for him to do that and use a
+
+150
+00:06:40,599 --> 00:06:46,750
+generator as his existing power source
+
+151
+00:06:43,539 --> 00:06:48,879
+than it was to it to install a big solar
+
+152
+00:06:46,750 --> 00:06:50,259
+system with batteries and all the
+
+153
+00:06:48,879 --> 00:06:52,509
+electrical components would go along
+
+154
+00:06:50,259 --> 00:06:54,759
+with that this is more plug-and-play for
+
+155
+00:06:52,509 --> 00:06:57,279
+Hammond II and he likes that so this one
+
+156
+00:06:54,759 --> 00:06:59,460
+is built for with 1,000 watt solar
+
+157
+00:06:57,279 --> 00:07:02,500
+panels he was able to power his house
+
+158
+00:06:59,460 --> 00:07:04,690
+1000 watts and a diesel generator in a
+
+159
+00:07:02,500 --> 00:07:05,889
+diesel generator generator right so he's
+
+160
+00:07:04,690 --> 00:07:08,770
+running his house on the diesel
+
+161
+00:07:05,889 --> 00:07:12,639
+generator with a 1,000 watt solar panel
+
+162
+00:07:08,770 --> 00:07:15,310
+right essentially okay and 9 and 10
+
+163
+00:07:12,639 --> 00:07:17,020
+percent is this augmenting so he had
+
+164
+00:07:15,310 --> 00:07:19,360
+he's also plugged into the grid or is he
+
+165
+00:07:17,020 --> 00:07:20,979
+off grid he will be off grid once he
+
+166
+00:07:19,360 --> 00:07:22,990
+goes this way because his electricity
+
+167
+00:07:20,979 --> 00:07:25,900
+will be cheaper with this method than it
+
+168
+00:07:22,990 --> 00:07:29,500
+will be off of the conventional grid
+
+169
+00:07:25,900 --> 00:07:33,279
+system so this is also what I brought to
+
+170
+00:07:29,500 --> 00:07:35,229
+show a simple system the most simple
+
+171
+00:07:33,279 --> 00:07:37,650
+system that you can that you can deal
+
+172
+00:07:35,229 --> 00:07:41,949
+that you can create hydrogen device
+
+173
+00:07:37,650 --> 00:07:45,430
+reservoir bubbler and this is very safe
+
+174
+00:07:41,949 --> 00:07:47,740
+and it's easy to me and it's got a lot
+
+175
+00:07:45,430 --> 00:07:49,479
+of safeties built in especially at the
+
+176
+00:07:47,740 --> 00:07:52,360
+end when the water or when the hydrogen
+
+177
+00:07:49,479 --> 00:07:54,699
+comes out of there and goes into here
+
+178
+00:07:52,360 --> 00:07:57,069
+this is our flashback arrestor and the
+
+179
+00:07:54,699 --> 00:07:59,050
+last line of defense for this system
+
+180
+00:07:57,069 --> 00:08:00,880
+which it's filled with water and it
+
+181
+00:07:59,050 --> 00:08:01,570
+bubbles through it and then the gas goes
+
+182
+00:08:00,880 --> 00:08:05,440
+so generally
+
+183
+00:08:01,570 --> 00:08:07,450
+if we were running a torch we were going
+
+184
+00:08:05,440 --> 00:08:11,230
+to run a torch safer welding of in a
+
+185
+00:08:07,450 --> 00:08:12,520
+welding shop one more system would be
+
+186
+00:08:11,230 --> 00:08:15,400
+installed here and that is this
+
+187
+00:08:12,520 --> 00:08:17,080
+flashback arrestor and this is something
+
+188
+00:08:15,400 --> 00:08:19,480
+off the shelf this is something off the
+
+189
+00:08:17,080 --> 00:08:22,090
+shelf you buy them for forty to sixty
+
+190
+00:08:19,480 --> 00:08:24,820
+dollars a pair you get it at any welding
+
+191
+00:08:22,090 --> 00:08:26,920
+shop I recommend I highly recommend it
+
+192
+00:08:24,820 --> 00:08:30,490
+and it's called a flashback is called a
+
+193
+00:08:26,920 --> 00:08:31,870
+flashback or a spark back arrestor they
+
+194
+00:08:30,490 --> 00:08:34,330
+use them for oxygen and acetylene
+
+195
+00:08:31,870 --> 00:08:37,150
+torches as well as hydrogen torches as
+
+196
+00:08:34,330 --> 00:08:39,940
+well I recommend on this system down
+
+197
+00:08:37,150 --> 00:08:41,890
+here using any kind of conditioning of
+
+198
+00:08:39,940 --> 00:08:44,740
+the DC that's coming into it are using
+
+199
+00:08:41,890 --> 00:08:47,680
+it no we're not it's straight line DC
+
+200
+00:08:44,740 --> 00:08:49,300
+and I went with I went with straight
+
+201
+00:08:47,680 --> 00:08:51,840
+line DC because it's easier to work with
+
+202
+00:08:49,300 --> 00:08:54,370
+the only current control that I that I
+
+203
+00:08:51,840 --> 00:08:59,170
+put in the system is the number of
+
+204
+00:08:54,370 --> 00:09:01,510
+plates and the concentration of catalyst
+
+205
+00:08:59,170 --> 00:09:03,520
+when I start working with this I started
+
+206
+00:09:01,510 --> 00:09:05,290
+working with electronic gizmos and the
+
+207
+00:09:03,520 --> 00:09:07,780
+and the pulse width modulator and all
+
+208
+00:09:05,290 --> 00:09:11,770
+that burned him up pretty quick and in
+
+209
+00:09:07,780 --> 00:09:13,930
+my experimental phase realized I wanted
+
+210
+00:09:11,770 --> 00:09:17,560
+something a little more foolproof and so
+
+211
+00:09:13,930 --> 00:09:20,050
+I developed a way of calculating number
+
+212
+00:09:17,560 --> 00:09:24,400
+of plates to the current ratios that I
+
+213
+00:09:20,050 --> 00:09:26,230
+wanted and also the catalyst the amount
+
+214
+00:09:24,400 --> 00:09:28,030
+of catalyst in the system could help
+
+215
+00:09:26,230 --> 00:09:29,770
+control the current flow did we go over
+
+216
+00:09:28,030 --> 00:09:31,450
+those numbers this morning we have not
+
+217
+00:09:29,770 --> 00:09:33,400
+yet and so I was gonna I was going to
+
+218
+00:09:31,450 --> 00:09:34,770
+outline that guys I can illustrate it
+
+219
+00:09:33,400 --> 00:09:37,210
+very easily praise
+
+220
+00:09:34,770 --> 00:09:43,060
+but essentially I'll just give you the
+
+221
+00:09:37,210 --> 00:09:51,450
+numbers right now maximum two point two
+
+222
+00:09:43,060 --> 00:09:54,760
+three volts per cell maximum one quarter
+
+223
+00:09:51,450 --> 00:09:57,610
+watt there's even one quarter amp per
+
+224
+00:09:54,760 --> 00:10:00,940
+square inch of plate surface so for
+
+225
+00:09:57,610 --> 00:10:03,460
+instance we have a 6 by 6 plate here so
+
+226
+00:10:00,940 --> 00:10:05,260
+that's 36 square inches and if we were
+
+227
+00:10:03,460 --> 00:10:07,060
+using this the 6x6
+
+228
+00:10:05,260 --> 00:10:07,589
+not including the ring in here just
+
+229
+00:10:07,060 --> 00:10:09,749
+ignore
+
+230
+00:10:07,589 --> 00:10:13,350
+if we were using the 6 by 6 plate
+
+231
+00:10:09,749 --> 00:10:18,990
+putting current across that our limit
+
+232
+00:10:13,350 --> 00:10:24,660
+would be 9 amps because 9 divided by 36
+
+233
+00:10:18,990 --> 00:10:26,430
+is of course 4 so that's our 1/4 and per
+
+234
+00:10:24,660 --> 00:10:31,170
+square inch that's a maximum amount I
+
+235
+00:10:26,430 --> 00:10:32,579
+actually like to run about about using
+
+236
+00:10:31,170 --> 00:10:35,639
+that plate I'd like to learn about 5
+
+237
+00:10:32,579 --> 00:10:38,970
+amps just to make certain that there's a
+
+238
+00:10:35,639 --> 00:10:42,300
+nice nice margin of safety there so
+
+239
+00:10:38,970 --> 00:10:45,899
+whether you had 2 plates or a hundred
+
+240
+00:10:42,300 --> 00:10:48,029
+plates you go based on one surface
+
+241
+00:10:45,899 --> 00:10:50,790
+you're not going to exceed this cell
+
+242
+00:10:48,029 --> 00:10:52,800
+system that's right by 5 amp and by 9
+
+243
+00:10:50,790 --> 00:10:56,550
+amps that's right exactly
+
+244
+00:10:52,800 --> 00:10:59,309
+now this system you know we'll get into
+
+245
+00:10:56,550 --> 00:11:03,120
+that so we've got if we were using these
+
+246
+00:10:59,309 --> 00:11:04,589
+plates we would go 9 amps since the
+
+247
+00:11:03,120 --> 00:11:06,389
+since we've actually cut off surface
+
+248
+00:11:04,589 --> 00:11:12,240
+area in this device I go less than 9
+
+249
+00:11:06,389 --> 00:11:15,209
+amps and then we go to 2.3 5 volts or
+
+250
+00:11:12,240 --> 00:11:17,220
+2.3 4 volts per cell so there's no
+
+251
+00:11:15,209 --> 00:11:18,889
+longer than 2 points no more because
+
+252
+00:11:17,220 --> 00:11:24,809
+you'll start to burn up your place okay
+
+253
+00:11:18,889 --> 00:11:28,019
+so there's one two three four five six
+
+254
+00:11:24,809 --> 00:11:32,430
+cells in there so you would not go more
+
+255
+00:11:28,019 --> 00:11:37,110
+than 14 volts before the lay person I'm
+
+256
+00:11:32,430 --> 00:11:40,410
+seeing you at 24 so this isn't this is a
+
+257
+00:11:37,110 --> 00:11:43,319
+double unit okay there's a there's a
+
+258
+00:11:40,410 --> 00:11:45,149
+negative plate in the center and a
+
+259
+00:11:43,319 --> 00:11:46,170
+positive plate on one side on a positive
+
+260
+00:11:45,149 --> 00:11:49,350
+plate on the other so what you're
+
+261
+00:11:46,170 --> 00:11:52,350
+actually seeing is two two sets of
+
+262
+00:11:49,350 --> 00:11:54,569
+hydrogen that a two stacked hydrogen
+
+263
+00:11:52,350 --> 00:11:56,429
+device and so going from this side to
+
+264
+00:11:54,569 --> 00:11:58,259
+this side what are you calling a cell
+
+265
+00:11:56,429 --> 00:12:00,740
+the cell is the different distance
+
+266
+00:11:58,259 --> 00:12:07,620
+between plates so there's one two three
+
+267
+00:12:00,740 --> 00:12:09,920
+four five six cells in there and then we
+
+268
+00:12:07,620 --> 00:12:14,450
+go to the other side
+
+269
+00:12:09,920 --> 00:12:17,300
+one two three four oh I'm sorry there's
+
+270
+00:12:14,450 --> 00:12:19,220
+no there's six the other six okay six so
+
+271
+00:12:17,300 --> 00:12:21,470
+there's six on each side with it with an
+
+272
+00:12:19,220 --> 00:12:23,870
+with a negative center so there's a
+
+273
+00:12:21,470 --> 00:12:25,640
+positive and a negative positive on the
+
+274
+00:12:23,870 --> 00:12:28,790
+other side set to positive negative
+
+275
+00:12:25,640 --> 00:12:31,579
+twelve piece of metal makes a 6-cell
+
+276
+00:12:28,790 --> 00:12:33,050
+plate yeah and this this appears to be
+
+277
+00:12:31,579 --> 00:12:35,420
+the conventional cell that you can buy
+
+278
+00:12:33,050 --> 00:12:36,740
+on almost any hydrogen cell device but
+
+279
+00:12:35,420 --> 00:12:38,870
+it's not and we'll get into the
+
+280
+00:12:36,740 --> 00:12:42,370
+difference but we have we have two
+
+281
+00:12:38,870 --> 00:12:48,589
+inputs fuel in our Sumeet water in
+
+282
+00:12:42,370 --> 00:12:50,750
+hydrogen out say what yeah there's 13
+
+283
+00:12:48,589 --> 00:12:54,440
+plates there well 13 pieces of metal
+
+284
+00:12:50,750 --> 00:12:56,600
+yeah 13 pieces of metal negative in the
+
+285
+00:12:54,440 --> 00:12:59,420
+center and you can see I slip on a
+
+286
+00:12:56,600 --> 00:13:01,430
+little super neutral negative you call
+
+287
+00:12:59,420 --> 00:13:02,510
+it new neutral neutral are the ones in
+
+288
+00:13:01,430 --> 00:13:05,120
+between the negative and the positive
+
+289
+00:13:02,510 --> 00:13:07,899
+okay you just put on a little Spade
+
+290
+00:13:05,120 --> 00:13:10,970
+connector on the bottom slip it on and
+
+291
+00:13:07,899 --> 00:13:13,430
+and then the positive go up there a
+
+292
+00:13:10,970 --> 00:13:15,890
+little Spade connector on the edges I
+
+293
+00:13:13,430 --> 00:13:16,250
+sell this for about four three hundred
+
+294
+00:13:15,890 --> 00:13:18,860
+bucks
+
+295
+00:13:16,250 --> 00:13:22,070
+this is actually my breather unit I used
+
+296
+00:13:18,860 --> 00:13:24,380
+this to breathe Browns gas but we'll get
+
+297
+00:13:22,070 --> 00:13:26,540
+into that as we as we move forward so
+
+298
+00:13:24,380 --> 00:13:28,040
+that is the essential that is
+
+299
+00:13:26,540 --> 00:13:30,769
+essentially what we're dealing with here
+
+300
+00:13:28,040 --> 00:13:34,880
+only that one it's a larger scale so
+
+301
+00:13:30,769 --> 00:13:38,089
+there's there's sixty plates in that
+
+302
+00:13:34,880 --> 00:13:39,829
+device with a nice nice little water
+
+303
+00:13:38,089 --> 00:13:44,209
+jacket on either side to make certain
+
+304
+00:13:39,829 --> 00:13:47,750
+things stay cool and 60 plates takes 120
+
+305
+00:13:44,209 --> 00:13:48,829
+volts so that's 2 volts per cell so or
+
+306
+00:13:47,750 --> 00:13:50,720
+you know there abouts
+
+307
+00:13:48,829 --> 00:13:52,850
+and on that one we're dealing with a
+
+308
+00:13:50,720 --> 00:13:58,699
+little bit larger larger plates so I can
+
+309
+00:13:52,850 --> 00:14:00,709
+actually go up to 12 amps per per per 12
+
+310
+00:13:58,699 --> 00:14:03,290
+pounds for the whole unit because the
+
+311
+00:14:00,709 --> 00:14:05,959
+plates are actually larger so for the
+
+312
+00:14:03,290 --> 00:14:10,550
+voltage it's additive for the number of
+
+313
+00:14:05,959 --> 00:14:13,279
+cells right and four amp it's it's based
+
+314
+00:14:10,550 --> 00:14:15,589
+on the surface of one a single of cells
+
+315
+00:14:13,279 --> 00:14:16,209
+right we start with max we're in a
+
+316
+00:14:15,589 --> 00:14:19,629
+series
+
+317
+00:14:16,209 --> 00:14:22,980
+system so it's the it's the the amperage
+
+318
+00:14:19,629 --> 00:14:25,899
+is based off of one plate versus the
+
+319
+00:14:22,980 --> 00:14:29,259
+voltage being based off of the entire
+
+320
+00:14:25,899 --> 00:14:31,899
+set of plates okay so that's a little
+
+321
+00:14:29,259 --> 00:14:33,519
+bit of the technicalities that we we go
+
+322
+00:14:31,899 --> 00:14:36,490
+into with this with this type of
+
+323
+00:14:33,519 --> 00:14:38,139
+hydrogen device and these are these are
+
+324
+00:14:36,490 --> 00:14:40,749
+rules that have been tried out many
+
+325
+00:14:38,139 --> 00:14:42,069
+tried and proven many times if you go
+
+326
+00:14:40,749 --> 00:14:43,389
+over amperage you'll start to
+
+327
+00:14:42,069 --> 00:14:45,730
+crystallize your plates and they won't
+
+328
+00:14:43,389 --> 00:14:48,279
+produce gas very well if you go over
+
+329
+00:14:45,730 --> 00:14:50,050
+voltage just start to break down your
+
+330
+00:14:48,279 --> 00:14:54,850
+you'll just start to break down your
+
+331
+00:14:50,050 --> 00:14:57,730
+plates and let me add rules or whether
+
+332
+00:14:54,850 --> 00:15:00,339
+they are chemicals chemical compounds
+
+333
+00:14:57,730 --> 00:15:02,559
+and the question I didn't ask him ways
+
+334
+00:15:00,339 --> 00:15:05,709
+what about molecules like insulin for
+
+335
+00:15:02,559 --> 00:15:09,189
+example could you he founded elements
+
+336
+00:15:05,709 --> 00:15:12,220
+that are within the water are duplicated
+
+337
+00:15:09,189 --> 00:15:15,550
+so that if he started with one part in
+
+338
+00:15:12,220 --> 00:15:17,679
+some cases he saw with the cycling of
+
+339
+00:15:15,550 --> 00:15:20,259
+the water they actually had thirteen
+
+340
+00:15:17,679 --> 00:15:22,809
+times as much of that element at the end
+
+341
+00:15:20,259 --> 00:15:27,069
+than they had at the beginning and this
+
+342
+00:15:22,809 --> 00:15:30,220
+is true with gold particles and with
+
+343
+00:15:27,069 --> 00:15:33,040
+some fairly complex chemical compounds
+
+344
+00:15:30,220 --> 00:15:34,449
+said he that's right that's in Part A we
+
+345
+00:15:33,040 --> 00:15:37,959
+went through all that kind of the
+
+346
+00:15:34,449 --> 00:15:41,019
+philosophy behind it and the part this
+
+347
+00:15:37,959 --> 00:15:43,959
+video here is to describe the apparatus
+
+348
+00:15:41,019 --> 00:15:47,049
+he's actually agreed to go ahead and
+
+349
+00:15:43,959 --> 00:15:49,209
+take things apart and show us exactly
+
+350
+00:15:47,049 --> 00:15:52,509
+how he makes that's not exactly I mean
+
+351
+00:15:49,209 --> 00:15:54,309
+this is going to be fairly technical but
+
+352
+00:15:52,509 --> 00:15:57,369
+you know it's not like he's going to
+
+353
+00:15:54,309 --> 00:16:01,029
+show you you know a to Z but he is going
+
+354
+00:15:57,369 --> 00:16:03,910
+to give us a good overview going through
+
+355
+00:16:01,029 --> 00:16:07,119
+each component and now that I given that
+
+356
+00:16:03,910 --> 00:16:08,709
+explanation I would i sterling Allen
+
+357
+00:16:07,119 --> 00:16:10,750
+here I we're at the Tesla tech
+
+358
+00:16:08,709 --> 00:16:15,280
+conference 2011 you know
+
+359
+00:16:10,750 --> 00:16:17,440
+New Mexico July 29th and I'm with Verna
+
+360
+00:16:15,280 --> 00:16:21,010
+Roth here this is actually the second
+
+361
+00:16:17,440 --> 00:16:22,690
+part of a two-part a video series the
+
+362
+00:16:21,010 --> 00:16:24,760
+first part will have link there in the
+
+363
+00:16:22,690 --> 00:16:27,880
+bottom in this YouTube video where you
+
+364
+00:16:24,760 --> 00:16:31,270
+can see where he described this chemical
+
+365
+00:16:27,880 --> 00:16:33,990
+process where in his electrolysis
+
+366
+00:16:31,270 --> 00:16:36,280
+scenario he's found that some of the
+
+367
+00:16:33,990 --> 00:16:39,370
+elements that are in the water in
+
+368
+00:16:36,280 --> 00:16:40,960
+certain electrolysis scenarios are
+
+369
+00:16:39,370 --> 00:16:43,930
+duplicated whether they're armed in
+
+370
+00:16:40,960 --> 00:16:47,050
+future is to find out more and better
+
+371
+00:16:43,930 --> 00:16:49,120
+ways to use water in our world that's
+
+372
+00:16:47,050 --> 00:16:51,790
+really a huge portion of my research as
+
+373
+00:16:49,120 --> 00:16:54,430
+many of you experienced the spark of
+
+374
+00:16:51,790 --> 00:16:59,080
+life water and its various incarnations
+
+375
+00:16:54,430 --> 00:17:02,260
+and what that what it's used for that's
+
+376
+00:16:59,080 --> 00:17:03,790
+really my driving forces to find out
+
+377
+00:17:02,260 --> 00:17:06,189
+different ways to use water in the world
+
+378
+00:17:03,790 --> 00:17:08,850
+and so that's what I do with hydrogen
+
+379
+00:17:06,189 --> 00:17:11,350
+and then make hydrogen and oxygen from
+
+380
+00:17:08,850 --> 00:17:12,880
+from electricity and water so that's
+
+381
+00:17:11,350 --> 00:17:14,560
+what we're talking about here and this
+
+382
+00:17:12,880 --> 00:17:16,329
+is a basic cell this is what we call it
+
+383
+00:17:14,560 --> 00:17:18,339
+dry sunlight to go ahead and turn it
+
+384
+00:17:16,329 --> 00:17:22,030
+over I'm going to go ahead and control
+
+385
+00:17:18,339 --> 00:17:24,490
+the camera but I'd like Vernon to recap
+
+386
+00:17:22,030 --> 00:17:27,430
+what I just said in his words to begin
+
+387
+00:17:24,490 --> 00:17:29,140
+with and then we'll we'll make this cut
+
+388
+00:17:27,430 --> 00:17:32,590
+this video into what however segments we
+
+389
+00:17:29,140 --> 00:17:34,440
+need to as Part B of this series all
+
+390
+00:17:32,590 --> 00:17:36,580
+right let's go for it
+
+391
+00:17:34,440 --> 00:17:39,010
+well thank you sterling and thank you
+
+392
+00:17:36,580 --> 00:17:44,790
+for everybody for being here and we're
+
+393
+00:17:39,010 --> 00:17:46,960
+going to move on forward so I think that
+
+394
+00:17:44,790 --> 00:17:49,560
+one of the most important things that we
+
+395
+00:17:46,960 --> 00:17:52,950
+can you know that we can do with our
+
+396
+00:17:49,560 --> 00:17:52,950
+energy and for the
+

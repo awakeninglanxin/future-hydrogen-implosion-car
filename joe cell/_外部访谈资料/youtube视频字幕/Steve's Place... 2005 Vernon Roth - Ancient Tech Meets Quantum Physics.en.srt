@@ -1,0 +1,7812 @@
+1
+00:00:02,159 --> 00:00:05,159
+foreign
+
+2
+00:00:13,519 --> 00:00:19,140
+awake again Sunday 6 p.m welcome to
+
+3
+00:00:17,220 --> 00:00:20,400
+Steve's place I'm glad to see everyone
+
+4
+00:00:19,140 --> 00:00:23,400
+here tonight
+
+5
+00:00:20,400 --> 00:00:24,300
+and um oh tonight's gonna be a little
+
+6
+00:00:23,400 --> 00:00:25,800
+bit different
+
+7
+00:00:24,300 --> 00:00:27,720
+um
+
+8
+00:00:25,800 --> 00:00:29,400
+I'm gonna talk a little bit about the
+
+9
+00:00:27,720 --> 00:00:31,500
+conference
+
+10
+00:00:29,400 --> 00:00:35,340
+and then I'm going to turn around and uh
+
+11
+00:00:31,500 --> 00:00:37,920
+I'm gonna play the video from uh burn
+
+12
+00:00:35,340 --> 00:00:41,160
+Ross presentation from 2005 which is
+
+13
+00:00:37,920 --> 00:00:42,899
+extremely interesting and it and if any
+
+14
+00:00:41,160 --> 00:00:45,360
+one of you have comments I go ahead and
+
+15
+00:00:42,899 --> 00:00:47,399
+send them in I'll try to answer them the
+
+16
+00:00:45,360 --> 00:00:49,739
+best that I can
+
+17
+00:00:47,399 --> 00:00:52,440
+anyway uh
+
+18
+00:00:49,739 --> 00:00:55,140
+I need to remind everyone first of all
+
+19
+00:00:52,440 --> 00:00:56,699
+we have the 2023 furnished technology
+
+20
+00:00:55,140 --> 00:00:59,520
+campus coming up
+
+21
+00:00:56,699 --> 00:01:02,160
+and um
+
+22
+00:00:59,520 --> 00:01:03,660
+I'm really hoping that it get a really
+
+23
+00:01:02,160 --> 00:01:05,580
+good attendance there we have quite a
+
+24
+00:01:03,660 --> 00:01:07,920
+few people signing up but we like to
+
+25
+00:01:05,580 --> 00:01:10,080
+have a lot more sun between now and then
+
+26
+00:01:07,920 --> 00:01:13,140
+uh
+
+27
+00:01:10,080 --> 00:01:15,780
+this is a live conference and the big
+
+28
+00:01:13,140 --> 00:01:18,479
+problem you know that we have that since
+
+29
+00:01:15,780 --> 00:01:21,420
+sakova is that people
+
+30
+00:01:18,479 --> 00:01:22,799
+uh have become isolated and they really
+
+31
+00:01:21,420 --> 00:01:25,259
+don't want to leave their houses and
+
+32
+00:01:22,799 --> 00:01:28,979
+that and um
+
+33
+00:01:25,259 --> 00:01:31,259
+and that leads to uh reduction in what
+
+34
+00:01:28,979 --> 00:01:34,200
+you can learn
+
+35
+00:01:31,259 --> 00:01:36,600
+the studies show that uh when we closed
+
+36
+00:01:34,200 --> 00:01:39,299
+down the schools and that our education
+
+37
+00:01:36,600 --> 00:01:41,280
+has fallen behind well the same thing
+
+38
+00:01:39,299 --> 00:01:43,979
+happens to us
+
+39
+00:01:41,280 --> 00:01:46,740
+as uh independent research is that if we
+
+40
+00:01:43,979 --> 00:01:49,500
+don't get out and meet enter mingle with
+
+41
+00:01:46,740 --> 00:01:52,500
+people face to face and sit and talk to
+
+42
+00:01:49,500 --> 00:01:54,960
+people and exchange ideas
+
+43
+00:01:52,500 --> 00:01:58,439
+um which is what the whole concept of
+
+44
+00:01:54,960 --> 00:01:59,159
+the conference was then
+
+45
+00:01:58,439 --> 00:02:01,079
+um
+
+46
+00:01:59,159 --> 00:02:02,700
+I'm always going to be isolated and
+
+47
+00:02:01,079 --> 00:02:04,860
+we're trying to break that isolation
+
+48
+00:02:02,700 --> 00:02:07,860
+down first and foremost with our
+
+49
+00:02:04,860 --> 00:02:10,679
+conferences which are live and uh
+
+50
+00:02:07,860 --> 00:02:12,420
+because they're live you have an
+
+51
+00:02:10,679 --> 00:02:13,920
+opportunity to meet people
+
+52
+00:02:12,420 --> 00:02:18,780
+talk to people
+
+53
+00:02:13,920 --> 00:02:21,000
+we have equipment there uh that would be
+
+54
+00:02:18,780 --> 00:02:23,340
+considered extraordinary you know
+
+55
+00:02:21,000 --> 00:02:24,780
+actually I'm thinking about renaming the
+
+56
+00:02:23,340 --> 00:02:27,120
+conference to be the disruptive
+
+57
+00:02:24,780 --> 00:02:28,739
+technology conference because the
+
+58
+00:02:27,120 --> 00:02:31,620
+technologies that we cover at our
+
+59
+00:02:28,739 --> 00:02:34,200
+conference would disrupt the status quo
+
+60
+00:02:31,620 --> 00:02:37,200
+as we know it you know imagine instead
+
+61
+00:02:34,200 --> 00:02:39,599
+of having all these um
+
+62
+00:02:37,200 --> 00:02:42,540
+all this chemical Rockets being shot up
+
+63
+00:02:39,599 --> 00:02:46,319
+by SpaceX and the uh and that's and that
+
+64
+00:02:42,540 --> 00:02:49,260
+they uh in order to work with a real
+
+65
+00:02:46,319 --> 00:02:51,720
+anti-gravity you know and polluting the
+
+66
+00:02:49,260 --> 00:02:54,900
+atmosphere so much you know
+
+67
+00:02:51,720 --> 00:02:58,019
+um and then also like a Bobby
+
+68
+00:02:54,900 --> 00:03:02,040
+on the medical side the hillside a lot
+
+69
+00:02:58,019 --> 00:03:03,900
+of the stuff is dismissed out of hand
+
+70
+00:03:02,040 --> 00:03:05,940
+um
+
+71
+00:03:03,900 --> 00:03:07,560
+a lot of stuff is dismissed out of hand
+
+72
+00:03:05,940 --> 00:03:10,440
+because it's so
+
+73
+00:03:07,560 --> 00:03:11,280
+well applies both to the people who
+
+74
+00:03:10,440 --> 00:03:14,280
+don't
+
+75
+00:03:11,280 --> 00:03:16,920
+really try things the biggest impediment
+
+76
+00:03:14,280 --> 00:03:19,080
+to progress is the ability to believe
+
+77
+00:03:16,920 --> 00:03:21,540
+that something is real our conference
+
+78
+00:03:19,080 --> 00:03:23,879
+people bring their equipment they
+
+79
+00:03:21,540 --> 00:03:27,060
+demonstrate it they show that this stuff
+
+80
+00:03:23,879 --> 00:03:28,080
+is real technology it actually works you
+
+81
+00:03:27,060 --> 00:03:29,340
+know
+
+82
+00:03:28,080 --> 00:03:32,220
+um
+
+83
+00:03:29,340 --> 00:03:33,659
+as time goes on I mean think about it
+
+84
+00:03:32,220 --> 00:03:36,540
+you know
+
+85
+00:03:33,659 --> 00:03:39,019
+in the 1800s now space flight you know
+
+86
+00:03:36,540 --> 00:03:42,060
+was a Fool's dream you know yet we have
+
+87
+00:03:39,019 --> 00:03:45,480
+just fine all over the place you know
+
+88
+00:03:42,060 --> 00:03:47,760
+Tesla demonstrate remote control and he
+
+89
+00:03:45,480 --> 00:03:49,200
+also demonstrated drones you know and
+
+90
+00:03:47,760 --> 00:03:50,340
+what do we have right now on the other
+
+91
+00:03:49,200 --> 00:03:54,000
+side of the world we're having an entire
+
+92
+00:03:50,340 --> 00:03:55,080
+War uh being based on a drone Warfare
+
+93
+00:03:54,000 --> 00:03:58,620
+you know
+
+94
+00:03:55,080 --> 00:04:01,980
+all this stuff was unimaginable you know
+
+95
+00:03:58,620 --> 00:04:04,920
+radio you know
+
+96
+00:04:01,980 --> 00:04:07,140
+you know all this stuff at one time
+
+97
+00:04:04,920 --> 00:04:09,599
+was a Fool's errand to believe in or
+
+98
+00:04:07,140 --> 00:04:11,280
+even think about but yet it's what's
+
+99
+00:04:09,599 --> 00:04:16,079
+driving
+
+100
+00:04:11,280 --> 00:04:19,199
+our our economy our society today yeah
+
+101
+00:04:16,079 --> 00:04:20,639
+so I encourage everyone to come to the
+
+102
+00:04:19,199 --> 00:04:21,600
+conference
+
+103
+00:04:20,639 --> 00:04:23,280
+um
+
+104
+00:04:21,600 --> 00:04:27,660
+because if I come to the conference you
+
+105
+00:04:23,280 --> 00:04:30,000
+get to see for yourself what's real and
+
+106
+00:04:27,660 --> 00:04:32,520
+what's not this is like a lot of real
+
+107
+00:04:30,000 --> 00:04:35,100
+stuff out there the conference is August
+
+108
+00:04:32,520 --> 00:04:36,479
+9th the 13th at the Crowne Plaza Hotel
+
+109
+00:04:35,100 --> 00:04:38,280
+and
+
+110
+00:04:36,479 --> 00:04:40,919
+an Albuquerque
+
+111
+00:04:38,280 --> 00:04:43,500
+and um
+
+112
+00:04:40,919 --> 00:04:45,479
+and uh we expect that well the rooms are
+
+113
+00:04:43,500 --> 00:04:47,400
+sims last year they started aging to
+
+114
+00:04:45,479 --> 00:04:50,300
+dollars they include
+
+115
+00:04:47,400 --> 00:04:54,300
+they include a breakfast and free Wi-Fi
+
+116
+00:04:50,300 --> 00:04:56,520
+and at night you know we have our uh our
+
+117
+00:04:54,300 --> 00:04:57,900
+evening the meals in there or actually
+
+118
+00:04:56,520 --> 00:05:00,419
+yeah
+
+119
+00:04:57,900 --> 00:05:02,220
+Refreshments or whatever but
+
+120
+00:05:00,419 --> 00:05:04,199
+they're pretty substantial you know and
+
+121
+00:05:02,220 --> 00:05:06,060
+we have different stuff like we have a
+
+122
+00:05:04,199 --> 00:05:08,040
+taco bar one night you know and we had
+
+123
+00:05:06,060 --> 00:05:11,220
+pizza bar on another we had fried
+
+124
+00:05:08,040 --> 00:05:13,020
+chicken we've had chicken wing bars now
+
+125
+00:05:11,220 --> 00:05:15,240
+so this is it's pretty good stuff you
+
+126
+00:05:13,020 --> 00:05:15,960
+know you won't start start that's for
+
+127
+00:05:15,240 --> 00:05:19,620
+sure
+
+128
+00:05:15,960 --> 00:05:22,199
+and um and it's and it provides an
+
+129
+00:05:19,620 --> 00:05:23,759
+opportunity for you to sit down as you
+
+130
+00:05:22,199 --> 00:05:26,400
+can see in the picture there and
+
+131
+00:05:23,759 --> 00:05:28,620
+actually uh meet with other people there
+
+132
+00:05:26,400 --> 00:05:30,419
+and I I think we have a pretty good
+
+133
+00:05:28,620 --> 00:05:33,180
+lineup I'm getting ready to mail out the
+
+134
+00:05:30,419 --> 00:05:35,699
+programs uh here probably in a week or
+
+135
+00:05:33,180 --> 00:05:37,680
+two and um
+
+136
+00:05:35,699 --> 00:05:40,020
+and if you if you need something to hand
+
+137
+00:05:37,680 --> 00:05:43,259
+out give me a call I can send you
+
+138
+00:05:40,020 --> 00:05:44,699
+another 10 or 15 uh programs if you want
+
+139
+00:05:43,259 --> 00:05:46,800
+you need that major go out and hand out
+
+140
+00:05:44,699 --> 00:05:48,539
+to other people I'd like people to help
+
+141
+00:05:46,800 --> 00:05:51,479
+us get people to come to this conference
+
+142
+00:05:48,539 --> 00:05:53,539
+this conference is important
+
+143
+00:05:51,479 --> 00:05:53,539
+um
+
+144
+00:05:53,639 --> 00:05:59,639
+outside of UFO conferences
+
+145
+00:05:56,639 --> 00:06:02,220
+there's nothing out there that really
+
+146
+00:05:59,639 --> 00:06:05,639
+life accomplishes that
+
+147
+00:06:02,220 --> 00:06:08,639
+that touch on what we touch on even uh
+
+148
+00:06:05,639 --> 00:06:10,740
+Aaron's conference up in Idaho uh he's
+
+149
+00:06:08,639 --> 00:06:14,100
+limited and how many people can have
+
+150
+00:06:10,740 --> 00:06:16,680
+there and he's focused on more having a
+
+151
+00:06:14,100 --> 00:06:18,720
+a video conference you know
+
+152
+00:06:16,680 --> 00:06:20,280
+and those are nice and then they give
+
+153
+00:06:18,720 --> 00:06:22,199
+some information out but there's nothing
+
+154
+00:06:20,280 --> 00:06:24,600
+like going and touching the equipment up
+
+155
+00:06:22,199 --> 00:06:26,520
+close you know and actually feeling that
+
+156
+00:06:24,600 --> 00:06:29,520
+stuff and seeing that it happens you
+
+157
+00:06:26,520 --> 00:06:32,900
+know and uh
+
+158
+00:06:29,520 --> 00:06:36,780
+and as far as like uh past conferences
+
+159
+00:06:32,900 --> 00:06:38,340
+we have over a thousand videos of past
+
+160
+00:06:36,780 --> 00:06:40,560
+conferences both as extraordinary
+
+161
+00:06:38,340 --> 00:06:42,360
+technology conference and the Exotic
+
+162
+00:06:40,560 --> 00:06:44,940
+research conferences are all up there
+
+163
+00:06:42,360 --> 00:06:47,100
+and we're working even last year's
+
+164
+00:06:44,940 --> 00:06:48,900
+conferences up there you have to be a
+
+165
+00:06:47,100 --> 00:06:51,000
+member to view the last year's
+
+166
+00:06:48,900 --> 00:06:54,180
+conference in the year before last but
+
+167
+00:06:51,000 --> 00:06:58,620
+uh for 9.99 a month you have access to a
+
+168
+00:06:54,180 --> 00:07:00,840
+thousand videos 24 7. you know and uh
+
+169
+00:06:58,620 --> 00:07:02,699
+it's like instantaneous you know you
+
+170
+00:07:00,840 --> 00:07:04,819
+know you don't have to order it and then
+
+171
+00:07:02,699 --> 00:07:08,340
+wait no to get into the mail or anything
+
+172
+00:07:04,819 --> 00:07:10,800
+and uh and so it's just great
+
+173
+00:07:08,340 --> 00:07:12,720
+and they're on YouTube and uh soon we'll
+
+174
+00:07:10,800 --> 00:07:14,280
+be doing the conference on free energy
+
+175
+00:07:12,720 --> 00:07:16,560
+soon
+
+176
+00:07:14,280 --> 00:07:21,060
+um so I encourage everyone to get up
+
+177
+00:07:16,560 --> 00:07:23,460
+there and uh sign up now
+
+178
+00:07:21,060 --> 00:07:27,199
+without further ado
+
+179
+00:07:23,460 --> 00:07:27,199
+I'm gonna introduce um
+
+180
+00:07:27,599 --> 00:07:32,340
+without further Ado we're gonna
+
+181
+00:07:29,580 --> 00:07:35,039
+turn it over to Vernon Roth from 2005
+
+182
+00:07:32,340 --> 00:07:37,199
+and uh Mike Riverstone unfortunately
+
+183
+00:07:35,039 --> 00:07:40,440
+there's no one with us we'll be doing
+
+184
+00:07:37,199 --> 00:07:43,080
+the uh the presentation
+
+185
+00:07:40,440 --> 00:07:44,280
+um are the introduction
+
+186
+00:07:43,080 --> 00:07:46,680
+so
+
+187
+00:07:44,280 --> 00:07:49,460
+so these Tesla
+
+188
+00:07:46,680 --> 00:07:49,460
+wrong one
+
+189
+00:07:50,400 --> 00:07:53,060
+okay
+
+190
+00:07:53,840 --> 00:07:59,160
+you have to excuse me I'm still learning
+
+191
+00:07:56,819 --> 00:08:00,900
+the soul system here
+
+192
+00:07:59,160 --> 00:08:03,240
+um maybe someday I'll be a real
+
+193
+00:08:00,900 --> 00:08:06,060
+professional at this stuff
+
+194
+00:08:03,240 --> 00:08:08,460
+and um and this stuff will be like uh
+
+195
+00:08:06,060 --> 00:08:10,440
+super fast
+
+196
+00:08:08,460 --> 00:08:12,360
+and if we could always use some help too
+
+197
+00:08:10,440 --> 00:08:13,800
+right now I want to be able to convert
+
+198
+00:08:12,360 --> 00:08:16,740
+some of our um
+
+199
+00:08:13,800 --> 00:08:18,539
+our videos into uh shorts but I don't
+
+200
+00:08:16,740 --> 00:08:20,580
+know how to do that
+
+201
+00:08:18,539 --> 00:08:24,000
+anyone does have an experience and
+
+202
+00:08:20,580 --> 00:08:25,680
+create a short from an mp4 I would love
+
+203
+00:08:24,000 --> 00:08:27,960
+to hear from you
+
+204
+00:08:25,680 --> 00:08:30,180
+and um
+
+205
+00:08:27,960 --> 00:08:32,099
+and without any further ado
+
+206
+00:08:30,180 --> 00:08:35,760
+here's Vernon Roth
+
+207
+00:08:32,099 --> 00:08:39,300
+these high spin elements are
+
+208
+00:08:35,760 --> 00:08:43,080
+conventional usually metallic
+
+209
+00:08:39,300 --> 00:08:45,660
+elements and this High spin corresponds
+
+210
+00:08:43,080 --> 00:08:47,459
+to the implosive force of nature we had
+
+211
+00:08:45,660 --> 00:08:50,279
+an extensive discussion about the
+
+212
+00:08:47,459 --> 00:08:53,040
+balance of explosion and implosion in
+
+213
+00:08:50,279 --> 00:08:54,019
+terms of research and so he's very up on
+
+214
+00:08:53,040 --> 00:08:57,779
+that
+
+215
+00:08:54,019 --> 00:08:59,279
+he's got expertise in linguistics and
+
+216
+00:08:57,779 --> 00:09:01,920
+also construction
+
+217
+00:08:59,279 --> 00:09:04,740
+he lives in Westcliffe Colorado right
+
+218
+00:09:01,920 --> 00:09:07,019
+now he's building his own Dome house and
+
+219
+00:09:04,740 --> 00:09:08,519
+he also used to be work as a criminal
+
+220
+00:09:07,019 --> 00:09:10,440
+youth counselor
+
+221
+00:09:08,519 --> 00:09:12,899
+and he was in the Wilderness at one
+
+222
+00:09:10,440 --> 00:09:15,120
+point for seven months straight which is
+
+223
+00:09:12,899 --> 00:09:17,760
+a pretty amazing thing in itself he
+
+224
+00:09:15,120 --> 00:09:20,459
+studied electronics and mechanical
+
+225
+00:09:17,760 --> 00:09:23,160
+design also studied psychology and
+
+226
+00:09:20,459 --> 00:09:25,860
+physics and he's come into alternative
+
+227
+00:09:23,160 --> 00:09:28,080
+medicine because of a situation with one
+
+228
+00:09:25,860 --> 00:09:30,180
+of his children and he's found that the
+
+229
+00:09:28,080 --> 00:09:32,700
+alternative medicine has really worked
+
+230
+00:09:30,180 --> 00:09:35,459
+in this situation he sells energized
+
+231
+00:09:32,700 --> 00:09:38,820
+water and other products and he's a good
+
+232
+00:09:35,459 --> 00:09:40,940
+example of a solid homegrown scientist
+
+233
+00:09:38,820 --> 00:09:44,150
+researcher I'm very happy to welcome
+
+234
+00:09:40,940 --> 00:09:48,799
+Vernon Roth
+
+235
+00:09:44,150 --> 00:09:48,799
+[Applause]
+
+236
+00:09:51,000 --> 00:09:59,000
+good afternoon ladies and gentlemen
+
+237
+00:09:53,580 --> 00:09:59,000
+the subject of my presentation today
+
+238
+00:09:59,519 --> 00:10:03,120
+I guess I'm not going yet there we go
+
+239
+00:10:01,140 --> 00:10:06,120
+the subject of my presentation today is
+
+240
+00:10:03,120 --> 00:10:07,740
+as you can see ancient technology meets
+
+241
+00:10:06,120 --> 00:10:10,980
+quantum physics
+
+242
+00:10:07,740 --> 00:10:13,920
+and it is going to I'm going to outline
+
+243
+00:10:10,980 --> 00:10:17,700
+the use of high spin elements
+
+244
+00:10:13,920 --> 00:10:20,480
+in the research me and the past present
+
+245
+00:10:17,700 --> 00:10:23,700
+and future and I'm going to start with
+
+246
+00:10:20,480 --> 00:10:26,640
+basically where I came from and how
+
+247
+00:10:23,700 --> 00:10:28,920
+these elements are utilized and such and
+
+248
+00:10:26,640 --> 00:10:30,839
+then give you some information on the
+
+249
+00:10:28,920 --> 00:10:33,120
+new technologies that are coming out
+
+250
+00:10:30,839 --> 00:10:35,640
+in regards to those elements
+
+251
+00:10:33,120 --> 00:10:37,200
+a little background about myself I
+
+252
+00:10:35,640 --> 00:10:38,940
+started college when I was very young
+
+253
+00:10:37,200 --> 00:10:40,740
+and
+
+254
+00:10:38,940 --> 00:10:42,360
+it was kind of an interesting uh
+
+255
+00:10:40,740 --> 00:10:44,760
+interesting time I was just a voracious
+
+256
+00:10:42,360 --> 00:10:46,380
+reader and I loved to study and learn
+
+257
+00:10:44,760 --> 00:10:49,620
+all sorts of new and interesting things
+
+258
+00:10:46,380 --> 00:10:51,540
+and so when I was studying in college I
+
+259
+00:10:49,620 --> 00:10:55,079
+actually was exposed to the work of T
+
+260
+00:10:51,540 --> 00:10:56,700
+Henry T Henry Murray and which was very
+
+261
+00:10:55,079 --> 00:10:58,860
+nice because eventually I was able to
+
+262
+00:10:56,700 --> 00:11:01,260
+actually meet one of the uh one of the
+
+263
+00:10:58,860 --> 00:11:03,060
+relatives of Murray's assistants and
+
+264
+00:11:01,260 --> 00:11:04,620
+learned some very interesting facts
+
+265
+00:11:03,060 --> 00:11:07,920
+about the gentleman
+
+266
+00:11:04,620 --> 00:11:10,740
+I studied the work of Ed gray and his
+
+267
+00:11:07,920 --> 00:11:14,220
+cold electricity devices
+
+268
+00:11:10,740 --> 00:11:17,040
+as well as Tom Barden scalar beams and
+
+269
+00:11:14,220 --> 00:11:19,140
+Fields now as I was studying in college
+
+270
+00:11:17,040 --> 00:11:21,180
+it was uh it was very interesting
+
+271
+00:11:19,140 --> 00:11:23,040
+because I would take the I would take
+
+272
+00:11:21,180 --> 00:11:27,120
+these ideas these phenomenal fantastic
+
+273
+00:11:23,040 --> 00:11:29,760
+ideas like uh cold electricity and I
+
+274
+00:11:27,120 --> 00:11:31,140
+would go to my my professors and say hey
+
+275
+00:11:29,760 --> 00:11:33,000
+can you tell me can you tell me about
+
+276
+00:11:31,140 --> 00:11:34,019
+this and they would kind of look at me
+
+277
+00:11:33,000 --> 00:11:36,300
+and say
+
+278
+00:11:34,019 --> 00:11:37,380
+I don't think you quite get it
+
+279
+00:11:36,300 --> 00:11:40,800
+um
+
+280
+00:11:37,380 --> 00:11:42,480
+electricity is not cold it's hot and no
+
+281
+00:11:40,800 --> 00:11:44,760
+there is no free electricity everything
+
+282
+00:11:42,480 --> 00:11:48,000
+is uh everything has losses everything
+
+283
+00:11:44,760 --> 00:11:50,519
+breaks down over time and so what I
+
+284
+00:11:48,000 --> 00:11:52,200
+realized was eventually that the
+
+285
+00:11:50,519 --> 00:11:55,800
+establishment does not always have the
+
+286
+00:11:52,200 --> 00:11:58,740
+answers and so I turned to organizations
+
+287
+00:11:55,800 --> 00:12:01,620
+like this and others to to start to
+
+288
+00:11:58,740 --> 00:12:04,320
+learn more about what is going on with
+
+289
+00:12:01,620 --> 00:12:06,180
+uh with different types of energy and
+
+290
+00:12:04,320 --> 00:12:08,420
+that kind of led me on this path and
+
+291
+00:12:06,180 --> 00:12:12,000
+it's been a phenomenal phenomenal path
+
+292
+00:12:08,420 --> 00:12:13,440
+eventually I was led to take a class can
+
+293
+00:12:12,000 --> 00:12:15,959
+I move around
+
+294
+00:12:13,440 --> 00:12:18,360
+okay great I was led to take a class in
+
+295
+00:12:15,959 --> 00:12:20,339
+physics because I was studying chemistry
+
+296
+00:12:18,360 --> 00:12:22,560
+at the time I assuming uh studying
+
+297
+00:12:20,339 --> 00:12:24,300
+psychology at the time and my sister
+
+298
+00:12:22,560 --> 00:12:26,760
+said I needed to take something in the
+
+299
+00:12:24,300 --> 00:12:30,240
+hard Sciences instead of uh instead of
+
+300
+00:12:26,760 --> 00:12:32,100
+you know the brain sciences and it was
+
+301
+00:12:30,240 --> 00:12:34,040
+very interesting it was in an auditorium
+
+302
+00:12:32,100 --> 00:12:36,779
+much like this in the physics professor
+
+303
+00:12:34,040 --> 00:12:39,180
+professor Gilbert who formerly of Los
+
+304
+00:12:36,779 --> 00:12:41,399
+Alamos NASA and the Apollo space program
+
+305
+00:12:39,180 --> 00:12:42,660
+he stood up there just like I'm standing
+
+306
+00:12:41,399 --> 00:12:44,040
+here now and he said something very
+
+307
+00:12:42,660 --> 00:12:46,620
+interesting
+
+308
+00:12:44,040 --> 00:12:48,839
+he said I'm going to tell you a story it
+
+309
+00:12:46,620 --> 00:12:51,180
+is a fiction story but it is the best
+
+310
+00:12:48,839 --> 00:12:53,459
+story that we have in the future the
+
+311
+00:12:51,180 --> 00:12:56,160
+story will change as it has in the past
+
+312
+00:12:53,459 --> 00:12:58,440
+if you disagree with this story please
+
+313
+00:12:56,160 --> 00:12:59,760
+feel free to write your own
+
+314
+00:12:58,440 --> 00:13:01,139
+now that was a very interesting
+
+315
+00:12:59,760 --> 00:13:04,920
+statement for me
+
+316
+00:13:01,139 --> 00:13:06,839
+and by this he was saying that not
+
+317
+00:13:04,920 --> 00:13:08,279
+everybody has the answers as I said
+
+318
+00:13:06,839 --> 00:13:10,320
+before the establishment doesn't always
+
+319
+00:13:08,279 --> 00:13:13,620
+have the answers if you feel like
+
+320
+00:13:10,320 --> 00:13:14,639
+there's a better answer out there do the
+
+321
+00:13:13,620 --> 00:13:16,620
+research
+
+322
+00:13:14,639 --> 00:13:19,800
+and come back and present it write to
+
+323
+00:13:16,620 --> 00:13:22,440
+your own story and so that's in a sense
+
+324
+00:13:19,800 --> 00:13:24,720
+what we're doing here today isn't it
+
+325
+00:13:22,440 --> 00:13:27,060
+we're redefining we're redefining
+
+326
+00:13:24,720 --> 00:13:28,260
+technology as we know it and it was a
+
+327
+00:13:27,060 --> 00:13:30,000
+very interesting time for me because
+
+328
+00:13:28,260 --> 00:13:32,399
+about halfway through the semester this
+
+329
+00:13:30,000 --> 00:13:35,519
+professor did in fact do just what he
+
+330
+00:13:32,399 --> 00:13:36,959
+said he threw out the textbook and said
+
+331
+00:13:35,519 --> 00:13:38,880
+I'm going to teach you things that
+
+332
+00:13:36,959 --> 00:13:41,399
+they're just barely writing about in the
+
+333
+00:13:38,880 --> 00:13:44,339
+physics journals themselves
+
+334
+00:13:41,399 --> 00:13:46,200
+and we went on to reproduce the the wave
+
+335
+00:13:44,339 --> 00:13:49,079
+versus particle reality experiments
+
+336
+00:13:46,200 --> 00:13:51,899
+utilizing lasers does is a laser photon
+
+337
+00:13:49,079 --> 00:13:53,760
+is it a wave is it a particle
+
+338
+00:13:51,899 --> 00:13:55,200
+is it going to go through door a or door
+
+339
+00:13:53,760 --> 00:13:56,639
+B
+
+340
+00:13:55,200 --> 00:13:58,680
+and this was a this was a very
+
+341
+00:13:56,639 --> 00:14:00,240
+interesting time for me because we were
+
+342
+00:13:58,680 --> 00:14:02,820
+actually like I said in an auditorium
+
+343
+00:14:00,240 --> 00:14:04,680
+like this reproducing quantum physics
+
+344
+00:14:02,820 --> 00:14:06,540
+experiments
+
+345
+00:14:04,680 --> 00:14:09,420
+and I came to a very interesting reality
+
+346
+00:14:06,540 --> 00:14:12,180
+realization is that thought controls
+
+347
+00:14:09,420 --> 00:14:13,440
+reality and yes the self-help gurus have
+
+348
+00:14:12,180 --> 00:14:16,440
+been saying this for a very long time
+
+349
+00:14:13,440 --> 00:14:19,019
+but here was quantum uh Quantum proof
+
+350
+00:14:16,440 --> 00:14:21,899
+that this was this was in fact a reality
+
+351
+00:14:19,019 --> 00:14:24,660
+and based on that
+
+352
+00:14:21,899 --> 00:14:28,740
+we can also discern that how you view a
+
+353
+00:14:24,660 --> 00:14:30,180
+problem controls the outcome so if the
+
+354
+00:14:28,740 --> 00:14:33,360
+established scientific Community is
+
+355
+00:14:30,180 --> 00:14:36,060
+saying well it's impossible to develop
+
+356
+00:14:33,360 --> 00:14:39,300
+anti-gravity or if it's impossible to
+
+357
+00:14:36,060 --> 00:14:41,459
+have free energy then it will always be
+
+358
+00:14:39,300 --> 00:14:44,220
+impossible for them
+
+359
+00:14:41,459 --> 00:14:46,019
+and so what we need to do is we need to
+
+360
+00:14:44,220 --> 00:14:49,260
+say
+
+361
+00:14:46,019 --> 00:14:50,639
+it is possible can I do this and it's
+
+362
+00:14:49,260 --> 00:14:52,860
+interesting because this has led me to
+
+363
+00:14:50,639 --> 00:14:54,540
+some very interesting people I have met
+
+364
+00:14:52,860 --> 00:14:57,300
+people that have created particle
+
+365
+00:14:54,540 --> 00:15:00,240
+accelerators in their backyards I have
+
+366
+00:14:57,300 --> 00:15:02,820
+met people that have developed cold
+
+367
+00:15:00,240 --> 00:15:04,440
+electricity literally you hold the bulb
+
+368
+00:15:02,820 --> 00:15:05,820
+in your hand it's burning cold and you
+
+369
+00:15:04,440 --> 00:15:07,680
+put it into water that was kind of a
+
+370
+00:15:05,820 --> 00:15:10,440
+freaky experience dipping your hand into
+
+371
+00:15:07,680 --> 00:15:13,199
+water and not having it electrocute you
+
+372
+00:15:10,440 --> 00:15:16,620
+and so the defining characteristic of
+
+373
+00:15:13,199 --> 00:15:18,540
+these people is that it can be done not
+
+374
+00:15:16,620 --> 00:15:22,380
+that it can't be done
+
+375
+00:15:18,540 --> 00:15:26,279
+let's just find a way to make it happen
+
+376
+00:15:22,380 --> 00:15:30,240
+so in my quest and as a
+
+377
+00:15:26,279 --> 00:15:32,519
+as uh the uh Larry mentioned as I was
+
+378
+00:15:30,240 --> 00:15:34,560
+getting uh introduced here uh my
+
+379
+00:15:32,519 --> 00:15:38,220
+daughter had was diagnosed recently with
+
+380
+00:15:34,560 --> 00:15:40,860
+CP cerebral palsy and this was actually
+
+381
+00:15:38,220 --> 00:15:43,139
+a quest to try and Define some way to
+
+382
+00:15:40,860 --> 00:15:44,399
+help her we didn't even know what was
+
+383
+00:15:43,139 --> 00:15:48,480
+going on we knew that there was some
+
+384
+00:15:44,399 --> 00:15:50,639
+type of neurological disorder and we the
+
+385
+00:15:48,480 --> 00:15:52,380
+uh community in the the medical
+
+386
+00:15:50,639 --> 00:15:55,139
+community was not able to help us
+
+387
+00:15:52,380 --> 00:15:57,199
+whatsoever until just bear just recently
+
+388
+00:15:55,139 --> 00:15:59,040
+once after she's almost six years old
+
+389
+00:15:57,199 --> 00:16:01,079
+and so
+
+390
+00:15:59,040 --> 00:16:03,899
+I was actually led to the field of
+
+391
+00:16:01,079 --> 00:16:05,579
+alternative archeology now this may
+
+392
+00:16:03,899 --> 00:16:07,800
+sound off the subject but it's not
+
+393
+00:16:05,579 --> 00:16:09,839
+really it it is quite quite on the
+
+394
+00:16:07,800 --> 00:16:11,820
+subject in the field of alternative
+
+395
+00:16:09,839 --> 00:16:13,980
+archeology there are several assumptions
+
+396
+00:16:11,820 --> 00:16:17,279
+that are made first of all we believe
+
+397
+00:16:13,980 --> 00:16:19,440
+that history many parts of history as we
+
+398
+00:16:17,279 --> 00:16:21,240
+know it are in fact false
+
+399
+00:16:19,440 --> 00:16:23,820
+they are
+
+400
+00:16:21,240 --> 00:16:25,560
+creations of people that uh that do not
+
+401
+00:16:23,820 --> 00:16:27,779
+remember actually what happened
+
+402
+00:16:25,560 --> 00:16:30,060
+and so
+
+403
+00:16:27,779 --> 00:16:32,820
+um one of the basic tenets of the uh
+
+404
+00:16:30,060 --> 00:16:34,079
+oops lights over here isn't it one of
+
+405
+00:16:32,820 --> 00:16:37,380
+the basic tenets of alternative
+
+406
+00:16:34,079 --> 00:16:39,600
+archeology is that we've discovered that
+
+407
+00:16:37,380 --> 00:16:41,220
+there are vast civilizations that
+
+408
+00:16:39,600 --> 00:16:43,259
+covered both this continent and other
+
+409
+00:16:41,220 --> 00:16:45,540
+places in the world that we have
+
+410
+00:16:43,259 --> 00:16:48,420
+absolutely no record of whatsoever we
+
+411
+00:16:45,540 --> 00:16:51,000
+have a few statues a few rocks with a
+
+412
+00:16:48,420 --> 00:16:54,600
+few few markings on it and that's it
+
+413
+00:16:51,000 --> 00:16:57,320
+that's all oops how did that happen I
+
+414
+00:16:54,600 --> 00:16:57,320
+didn't push the button
+
+415
+00:16:57,360 --> 00:17:01,940
+so I'm back thank you
+
+416
+00:17:02,040 --> 00:17:07,199
+um what we end what we have come to find
+
+417
+00:17:04,439 --> 00:17:09,959
+out as we study these these our ancient
+
+418
+00:17:07,199 --> 00:17:12,059
+archaeological sites is that there was
+
+419
+00:17:09,959 --> 00:17:15,540
+in fact a technology
+
+420
+00:17:12,059 --> 00:17:18,299
+that was vastly outside of our current
+
+421
+00:17:15,540 --> 00:17:19,980
+mode of understanding now we we believe
+
+422
+00:17:18,299 --> 00:17:23,640
+in electricity and we believe in
+
+423
+00:17:19,980 --> 00:17:25,980
+electron flow and whatever technology
+
+424
+00:17:23,640 --> 00:17:27,480
+these these civilizations utilize and
+
+425
+00:17:25,980 --> 00:17:29,520
+I'm not saying they're more advanced or
+
+426
+00:17:27,480 --> 00:17:31,740
+less advanced than we are I'm saying
+
+427
+00:17:29,520 --> 00:17:33,720
+that they are a different idea of
+
+428
+00:17:31,740 --> 00:17:36,299
+Technology it's outside of our current
+
+429
+00:17:33,720 --> 00:17:39,059
+mode of understanding
+
+430
+00:17:36,299 --> 00:17:42,000
+and lastly we we realize very quickly
+
+431
+00:17:39,059 --> 00:17:44,340
+that if through in-depth study of these
+
+432
+00:17:42,000 --> 00:17:46,740
+civilizations and their Technologies we
+
+433
+00:17:44,340 --> 00:17:48,780
+could in fact find out a deeper
+
+434
+00:17:46,740 --> 00:17:51,360
+understanding for our science and our
+
+435
+00:17:48,780 --> 00:17:53,280
+reality for instance we as we see here
+
+436
+00:17:51,360 --> 00:17:56,460
+this is the picture many of you have
+
+437
+00:17:53,280 --> 00:17:59,220
+probably seen it before of a Tesla coil
+
+438
+00:17:56,460 --> 00:18:02,460
+being energized inside of a pyramid and
+
+439
+00:17:59,220 --> 00:18:04,080
+look at the interesting symbol or shape
+
+440
+00:18:02,460 --> 00:18:07,320
+pattern that is coming out of the top of
+
+441
+00:18:04,080 --> 00:18:11,580
+that the double helix DNA strand this
+
+442
+00:18:07,320 --> 00:18:15,620
+right here is a skull cap found on found
+
+443
+00:18:11,580 --> 00:18:19,500
+in an Egyptian tomb and you'll notice
+
+444
+00:18:15,620 --> 00:18:22,080
+the circular serpent pattern intertwined
+
+445
+00:18:19,500 --> 00:18:24,480
+serpent pattern here on the screen now
+
+446
+00:18:22,080 --> 00:18:27,000
+this whole this right here
+
+447
+00:18:24,480 --> 00:18:28,919
+and this these shapes right here are
+
+448
+00:18:27,000 --> 00:18:30,960
+subject for a much much larger
+
+449
+00:18:28,919 --> 00:18:33,179
+discussion but it's enough to illustrate
+
+450
+00:18:30,960 --> 00:18:35,640
+the point that they had an understanding
+
+451
+00:18:33,179 --> 00:18:39,200
+that we have just barely come to in the
+
+452
+00:18:35,640 --> 00:18:39,200
+past 50 to 100 years
+
+453
+00:18:39,780 --> 00:18:45,720
+now taken one step further
+
+454
+00:18:42,840 --> 00:18:47,940
+we can see that our DNA strands which
+
+455
+00:18:45,720 --> 00:18:50,120
+look very similar to the you know I'm
+
+456
+00:18:47,940 --> 00:18:52,620
+not going to go backwards just in case
+
+457
+00:18:50,120 --> 00:18:55,380
+that look very similar to the patterns
+
+458
+00:18:52,620 --> 00:18:57,660
+on the caduceus coils the Mercury wands
+
+459
+00:18:55,380 --> 00:19:00,600
+and all all of the ancient writings
+
+460
+00:18:57,660 --> 00:19:02,640
+having to do with medicine
+
+461
+00:19:00,600 --> 00:19:05,580
+our DNA is very very similar to that
+
+462
+00:19:02,640 --> 00:19:09,299
+this right here is another subject of a
+
+463
+00:19:05,580 --> 00:19:11,520
+of a huge huge vast study this is
+
+464
+00:19:09,299 --> 00:19:14,940
+practically a three-dimensional version
+
+465
+00:19:11,520 --> 00:19:16,860
+of this broken down there are elements
+
+466
+00:19:14,940 --> 00:19:18,900
+of Phi harmonics there are elements of
+
+467
+00:19:16,860 --> 00:19:22,520
+global scaling or Universal scaling
+
+468
+00:19:18,900 --> 00:19:26,039
+depending on what continent you're on
+
+469
+00:19:22,520 --> 00:19:27,299
+this right here is is a field of study
+
+470
+00:19:26,039 --> 00:19:29,460
+that you could spend your life just
+
+471
+00:19:27,299 --> 00:19:31,799
+trying to understand the the extreme
+
+472
+00:19:29,460 --> 00:19:33,660
+depth of this but we're not going to go
+
+473
+00:19:31,799 --> 00:19:35,940
+into that we're going to go into this
+
+474
+00:19:33,660 --> 00:19:37,500
+here see this is my oldest daughter her
+
+475
+00:19:35,940 --> 00:19:39,600
+name is Sage
+
+476
+00:19:37,500 --> 00:19:41,700
+she's seven years old she wants to grow
+
+477
+00:19:39,600 --> 00:19:43,799
+up to be Laura Croft and I am fostering
+
+478
+00:19:41,700 --> 00:19:46,440
+that ambition as much as I can
+
+479
+00:19:43,799 --> 00:19:48,780
+she is sitting on an ancient Temple that
+
+480
+00:19:46,440 --> 00:19:50,700
+we found actually I'll let you in a
+
+481
+00:19:48,780 --> 00:19:54,020
+little secret it's actually near here
+
+482
+00:19:50,700 --> 00:19:56,160
+but it's pretty inaccessible
+
+483
+00:19:54,020 --> 00:19:57,780
+it's made out of a very interesting
+
+484
+00:19:56,160 --> 00:19:59,760
+Stone and I'm going to be demonstrating
+
+485
+00:19:57,780 --> 00:20:02,160
+that actually I'll take you to it right
+
+486
+00:19:59,760 --> 00:20:04,320
+now if we want to raise the lights a
+
+487
+00:20:02,160 --> 00:20:06,000
+little bit
+
+488
+00:20:04,320 --> 00:20:07,679
+what we have here is what we call a
+
+489
+00:20:06,000 --> 00:20:09,360
+Genesis Stone
+
+490
+00:20:07,679 --> 00:20:12,500
+and I'll be explaining what I mean by
+
+491
+00:20:09,360 --> 00:20:15,299
+that that stone that she is
+
+492
+00:20:12,500 --> 00:20:17,059
+okay that stone that she was sitting on
+
+493
+00:20:15,299 --> 00:20:19,980
+in another reality
+
+494
+00:20:17,059 --> 00:20:22,080
+okay fantastic that Stones those stones
+
+495
+00:20:19,980 --> 00:20:25,320
+that she are sitting on actually started
+
+496
+00:20:22,080 --> 00:20:28,500
+out as this very soft white stone
+
+497
+00:20:25,320 --> 00:20:30,600
+and became this rock hard crystalline
+
+498
+00:20:28,500 --> 00:20:32,520
+structure
+
+499
+00:20:30,600 --> 00:20:35,340
+these Stones as I'm going to show on
+
+500
+00:20:32,520 --> 00:20:37,380
+shows later on are in fact what are
+
+501
+00:20:35,340 --> 00:20:39,000
+known as type 3 superconductors
+
+502
+00:20:37,380 --> 00:20:40,620
+so it's very interesting that this
+
+503
+00:20:39,000 --> 00:20:44,460
+ancient civilization would build an
+
+504
+00:20:40,620 --> 00:20:47,220
+entire Temple a seven-tiered temple that
+
+505
+00:20:44,460 --> 00:20:49,380
+they worshiped at made out of this High
+
+506
+00:20:47,220 --> 00:20:53,240
+spin superconducting element
+
+507
+00:20:49,380 --> 00:20:53,240
+so moving right along
+
+508
+00:20:54,480 --> 00:20:59,700
+here we are now I need to dispel some
+
+509
+00:20:57,000 --> 00:21:02,160
+myths and maybe make some definitions
+
+510
+00:20:59,700 --> 00:21:04,559
+for everybody as we as we move on into
+
+511
+00:21:02,160 --> 00:21:06,600
+our into the presentation I'm sure many
+
+512
+00:21:04,559 --> 00:21:08,100
+of you have heard the term either arms
+
+513
+00:21:06,600 --> 00:21:10,020
+or ormus
+
+514
+00:21:08,100 --> 00:21:11,880
+and I want to stress that we did a lot
+
+515
+00:21:10,020 --> 00:21:13,919
+all of this where well most of this work
+
+516
+00:21:11,880 --> 00:21:16,620
+without ever hearing the name Dave
+
+517
+00:21:13,919 --> 00:21:18,179
+Hudson and his work on white powder of
+
+518
+00:21:16,620 --> 00:21:19,080
+gold how many people are familiar with
+
+519
+00:21:18,179 --> 00:21:21,299
+that
+
+520
+00:21:19,080 --> 00:21:23,820
+many many people I see in the audience
+
+521
+00:21:21,299 --> 00:21:24,419
+through the bright lights
+
+522
+00:21:23,820 --> 00:21:26,820
+um
+
+523
+00:21:24,419 --> 00:21:29,280
+we did all of our work independent of
+
+524
+00:21:26,820 --> 00:21:31,400
+This research hardly even hearing of the
+
+525
+00:21:29,280 --> 00:21:31,400
+name
+
+526
+00:21:31,679 --> 00:21:34,980
+we didn't hear we didn't understand the
+
+527
+00:21:33,360 --> 00:21:37,620
+word monoatomic we didn't know the word
+
+528
+00:21:34,980 --> 00:21:38,840
+monoatomic which stands for single atom
+
+529
+00:21:37,620 --> 00:21:41,280
+element
+
+530
+00:21:38,840 --> 00:21:43,140
+that's actually a misnomer his white
+
+531
+00:21:41,280 --> 00:21:45,780
+powder of gold was never monoatomic
+
+532
+00:21:43,140 --> 00:21:48,559
+which brings us to the last the last
+
+533
+00:21:45,780 --> 00:21:52,020
+phrase arms stands for orbitally
+
+534
+00:21:48,559 --> 00:21:54,840
+rearranged monoatomic elements
+
+535
+00:21:52,020 --> 00:21:56,880
+also a misnomer because all of these
+
+536
+00:21:54,840 --> 00:21:59,580
+elements are not monoatomic they are in
+
+537
+00:21:56,880 --> 00:22:01,620
+fact diatomic
+
+538
+00:21:59,580 --> 00:22:03,000
+instead we called the elements that we
+
+539
+00:22:01,620 --> 00:22:06,240
+were working with
+
+540
+00:22:03,000 --> 00:22:08,820
+we call them high spin elements
+
+541
+00:22:06,240 --> 00:22:12,679
+and I'll be explaining what that means
+
+542
+00:22:08,820 --> 00:22:12,679
+we called them etheric elements
+
+543
+00:22:13,200 --> 00:22:17,940
+and
+
+544
+00:22:15,059 --> 00:22:20,100
+we call them organic elements what's the
+
+545
+00:22:17,940 --> 00:22:23,400
+difference between the car that you
+
+546
+00:22:20,100 --> 00:22:24,900
+drive drove here today in and the iron
+
+547
+00:22:23,400 --> 00:22:26,760
+found in the vegetables that you had
+
+548
+00:22:24,900 --> 00:22:28,620
+last night for dinner
+
+549
+00:22:26,760 --> 00:22:31,320
+they're they've gone through a different
+
+550
+00:22:28,620 --> 00:22:33,059
+process and so we worked with elements
+
+551
+00:22:31,320 --> 00:22:35,220
+that we called organic because the body
+
+552
+00:22:33,059 --> 00:22:37,080
+could absorb them they could be readily
+
+553
+00:22:35,220 --> 00:22:39,780
+absorbed by the body
+
+554
+00:22:37,080 --> 00:22:41,520
+now let me whoop
+
+555
+00:22:39,780 --> 00:22:44,220
+we've got a lot of energy flowing around
+
+556
+00:22:41,520 --> 00:22:46,620
+here buttons getting pushed machines
+
+557
+00:22:44,220 --> 00:22:49,020
+generating energy it's kind of fun but
+
+558
+00:22:46,620 --> 00:22:51,600
+plays havoc with computers okay what we
+
+559
+00:22:49,020 --> 00:22:52,980
+have here is a model of the solar system
+
+560
+00:22:51,600 --> 00:22:54,659
+and this is a this is an interesting
+
+561
+00:22:52,980 --> 00:22:57,059
+example when I talk about high spin
+
+562
+00:22:54,659 --> 00:23:00,780
+elements and by the way I'm I'm speaking
+
+563
+00:22:57,059 --> 00:23:03,600
+I'm speaking to uh I'm trying to convey
+
+564
+00:23:00,780 --> 00:23:06,179
+these words in the terms that everybody
+
+565
+00:23:03,600 --> 00:23:09,299
+can understand I'm not trying to speak
+
+566
+00:23:06,179 --> 00:23:10,440
+in quantum physics lingo because a lot
+
+567
+00:23:09,299 --> 00:23:13,080
+of you wouldn't understand what's going
+
+568
+00:23:10,440 --> 00:23:16,260
+on so I'm I'm I want to convey this in a
+
+569
+00:23:13,080 --> 00:23:18,659
+in a basically scientific but very easy
+
+570
+00:23:16,260 --> 00:23:20,700
+to understand manner now what we have
+
+571
+00:23:18,659 --> 00:23:23,460
+here is a model of the solar system and
+
+572
+00:23:20,700 --> 00:23:26,940
+in here we have mercury which orbits at
+
+573
+00:23:23,460 --> 00:23:29,159
+a at a time period of about 58 days
+
+574
+00:23:26,940 --> 00:23:30,840
+around the Sun okay very very quickly
+
+575
+00:23:29,159 --> 00:23:33,120
+it's moving very fast
+
+576
+00:23:30,840 --> 00:23:34,559
+we have at the outer end of the solar
+
+577
+00:23:33,120 --> 00:23:37,280
+system
+
+578
+00:23:34,559 --> 00:23:40,799
+Pluto which orbits at a rate of about
+
+579
+00:23:37,280 --> 00:23:42,679
+248 years around the sun which by the
+
+580
+00:23:40,799 --> 00:23:45,960
+way it was not until
+
+581
+00:23:42,679 --> 00:23:47,460
+1998 it was not the uh the furthest
+
+582
+00:23:45,960 --> 00:23:49,140
+planet out it was actually inside the
+
+583
+00:23:47,460 --> 00:23:52,260
+orbit of Neptune but that's beside the
+
+584
+00:23:49,140 --> 00:23:54,900
+fact now imagine that you were to take
+
+585
+00:23:52,260 --> 00:23:56,940
+an element let us say since we'll be
+
+586
+00:23:54,900 --> 00:24:00,539
+talking about the element gold let's say
+
+587
+00:23:56,940 --> 00:24:02,580
+gold and you were to expanded out to the
+
+588
+00:24:00,539 --> 00:24:05,220
+size of the solar system what you would
+
+589
+00:24:02,580 --> 00:24:06,600
+find was that the nucleus was was
+
+590
+00:24:05,220 --> 00:24:08,760
+actually would actually be somewhat
+
+591
+00:24:06,600 --> 00:24:12,179
+larger than the size of the sun
+
+592
+00:24:08,760 --> 00:24:14,820
+and that the outermost electrons would
+
+593
+00:24:12,179 --> 00:24:15,960
+be spinning out beyond the orbit of
+
+594
+00:24:14,820 --> 00:24:17,760
+Pluto
+
+595
+00:24:15,960 --> 00:24:19,740
+that is in conventional metal to metal
+
+596
+00:24:17,760 --> 00:24:22,620
+metal to metal gold
+
+597
+00:24:19,740 --> 00:24:25,140
+now imagine this in a high spin State
+
+598
+00:24:22,620 --> 00:24:29,039
+those electrons which are spinning out
+
+599
+00:24:25,140 --> 00:24:32,700
+very very uh very very relatively slowly
+
+600
+00:24:29,039 --> 00:24:35,039
+are suddenly pulled in somewhere inside
+
+601
+00:24:32,700 --> 00:24:37,080
+the orbit of Venus or the Earth
+
+602
+00:24:35,039 --> 00:24:39,720
+they still have all that momentum they
+
+603
+00:24:37,080 --> 00:24:41,580
+still have all that energy but now
+
+604
+00:24:39,720 --> 00:24:44,100
+they're spinning much much faster
+
+605
+00:24:41,580 --> 00:24:45,659
+spinning around the uh as close to the
+
+606
+00:24:44,100 --> 00:24:47,880
+surface of the Sun
+
+607
+00:24:45,659 --> 00:24:50,400
+this is an example
+
+608
+00:24:47,880 --> 00:24:53,460
+it's not entirely accurate but it is an
+
+609
+00:24:50,400 --> 00:24:56,460
+example to illustrate what is going on
+
+610
+00:24:53,460 --> 00:25:00,179
+in high spin elements
+
+611
+00:24:56,460 --> 00:25:02,720
+oops let me go back not ready yet
+
+612
+00:25:00,179 --> 00:25:02,720
+okay
+
+613
+00:25:03,480 --> 00:25:07,320
+they told me that I couldn't tell any
+
+614
+00:25:04,919 --> 00:25:09,840
+jokes but this was my this was my
+
+615
+00:25:07,320 --> 00:25:12,120
+attempt pitiful attempt at humor as we
+
+616
+00:25:09,840 --> 00:25:15,179
+we've all seen Fantasia if you can
+
+617
+00:25:12,120 --> 00:25:18,120
+imagine that these bubbles are in fact
+
+618
+00:25:15,179 --> 00:25:20,460
+the electrons so spinning around the
+
+619
+00:25:18,120 --> 00:25:23,820
+nucleus of the atom and these elephants
+
+620
+00:25:20,460 --> 00:25:26,220
+are the nucleus or the belly button of
+
+621
+00:25:23,820 --> 00:25:29,100
+the atom and the faster the elephants
+
+622
+00:25:26,220 --> 00:25:31,380
+Spin The Closer
+
+623
+00:25:29,100 --> 00:25:34,200
+those electrons come to the elephants
+
+624
+00:25:31,380 --> 00:25:37,980
+come to the nucleus of the atom that's a
+
+625
+00:25:34,200 --> 00:25:40,980
+my humorous nod to uh
+
+626
+00:25:37,980 --> 00:25:42,840
+to uh an illustration so we're going to
+
+627
+00:25:40,980 --> 00:25:45,419
+have a quick video here
+
+628
+00:25:42,840 --> 00:25:46,799
+and I'm going to demonstrate how I
+
+629
+00:25:45,419 --> 00:25:47,880
+mentioned that these elements are
+
+630
+00:25:46,799 --> 00:25:52,279
+actually what are called type 3
+
+631
+00:25:47,880 --> 00:25:54,720
+superconductors Dr Lawrence Gardner has
+
+632
+00:25:52,279 --> 00:25:56,880
+defined type 3 as basically room
+
+633
+00:25:54,720 --> 00:25:58,679
+temperature superconductors our next
+
+634
+00:25:56,880 --> 00:26:00,659
+slide is going to illustrate that oh wow
+
+635
+00:25:58,679 --> 00:26:03,140
+they're still dancing let's get rid of
+
+636
+00:26:00,659 --> 00:26:03,140
+that shall we
+
+637
+00:26:04,820 --> 00:26:12,620
+one more time there we go okay
+
+638
+00:26:08,820 --> 00:26:12,620
+wait can we pause that
+
+639
+00:26:13,260 --> 00:26:19,860
+okay video was shot on July 25th 1996 on
+
+640
+00:26:17,820 --> 00:26:21,960
+my kitchen table
+
+641
+00:26:19,860 --> 00:26:24,720
+okay the almost gold was made from
+
+642
+00:26:21,960 --> 00:26:27,000
+metallic gold chloride using ozone watch
+
+643
+00:26:24,720 --> 00:26:29,539
+the video the only materials used were
+
+644
+00:26:27,000 --> 00:26:32,700
+commercial gold chloride salt
+
+645
+00:26:29,539 --> 00:26:36,440
+hydrochloric acid bicarbonate of soda
+
+646
+00:26:32,700 --> 00:26:36,440
+distilled water and ozone
+
+647
+00:26:37,799 --> 00:26:42,120
+I am placing the ormus gold on a piece
+
+648
+00:26:40,440 --> 00:26:44,640
+of paper which has been folded to make
+
+649
+00:26:42,120 --> 00:26:46,919
+it more rigid I will be moving a rare
+
+650
+00:26:44,640 --> 00:26:49,860
+earth magnet around under the paper and
+
+651
+00:26:46,919 --> 00:26:51,659
+the pile of warmest gold will respond to
+
+652
+00:26:49,860 --> 00:26:54,020
+the magnet this is my good friend Barry
+
+653
+00:26:51,659 --> 00:26:54,020
+Carter
+
+654
+00:26:55,860 --> 00:27:00,840
+the rare earth magnet came from Radio
+
+655
+00:26:57,960 --> 00:27:02,580
+Shack here I am holding the magnet in my
+
+656
+00:27:00,840 --> 00:27:05,539
+fingers so you can get a better idea of
+
+657
+00:27:02,580 --> 00:27:05,539
+its relative size
+
+658
+00:27:08,279 --> 00:27:13,559
+watch the small pile of ormus gold as I
+
+659
+00:27:11,460 --> 00:27:16,380
+start to move the magnet under it
+
+660
+00:27:13,559 --> 00:27:19,200
+notice that the ormus gold powder is
+
+661
+00:27:16,380 --> 00:27:21,600
+following the magnet
+
+662
+00:27:19,200 --> 00:27:23,640
+ordinary gold is well known for not
+
+663
+00:27:21,600 --> 00:27:25,980
+being attracted to magnets
+
+664
+00:27:23,640 --> 00:27:28,559
+several gold mining methods take
+
+665
+00:27:25,980 --> 00:27:30,779
+advantage of this fact by separating the
+
+666
+00:27:28,559 --> 00:27:32,760
+heavy magnetic materials from the gold
+
+667
+00:27:30,779 --> 00:27:34,740
+using a magnet
+
+668
+00:27:32,760 --> 00:27:38,720
+this magnetic material is generally
+
+669
+00:27:34,740 --> 00:27:38,720
+discarded on the mine site
+
+670
+00:27:39,059 --> 00:27:43,200
+notice how the ormus gold appears to
+
+671
+00:27:41,400 --> 00:27:45,480
+build up a charge from the magnet moving
+
+672
+00:27:43,200 --> 00:27:47,640
+under it until it reaches some sort of
+
+673
+00:27:45,480 --> 00:27:51,980
+charged state where it is repelled by
+
+674
+00:27:47,640 --> 00:27:51,980
+the magnet and jumps away from it
+
+675
+00:28:03,539 --> 00:28:08,580
+now remember that he mentioned that this
+
+676
+00:28:06,240 --> 00:28:10,380
+was formed with the use of ozone we'll
+
+677
+00:28:08,580 --> 00:28:13,380
+be talking about that later on this is
+
+678
+00:28:10,380 --> 00:28:15,000
+uh one of the emergent technologies that
+
+679
+00:28:13,380 --> 00:28:17,520
+are coming out of the study of ormus
+
+680
+00:28:15,000 --> 00:28:19,860
+powder are ormus elements rather
+
+681
+00:28:17,520 --> 00:28:23,940
+and I I like to use the word high spin
+
+682
+00:28:19,860 --> 00:28:25,679
+rather than ormus just because I I
+
+683
+00:28:23,940 --> 00:28:29,179
+believe it's more accurate description
+
+684
+00:28:25,679 --> 00:28:29,179
+of the elements that we're working with
+
+685
+00:28:34,020 --> 00:28:36,559
+hmm
+
+686
+00:28:42,240 --> 00:28:44,960
+all right yeah
+
+687
+00:28:45,419 --> 00:28:50,240
+no this
+
+688
+00:28:47,580 --> 00:28:50,240
+is good thank you
+
+689
+00:28:51,720 --> 00:28:54,840
+all right
+
+690
+00:28:52,919 --> 00:28:56,100
+um while we're watching this these
+
+691
+00:28:54,840 --> 00:28:59,400
+elements are found in many many
+
+692
+00:28:56,100 --> 00:29:02,520
+locations for instance Black Sands is a
+
+693
+00:28:59,400 --> 00:29:05,100
+is a readily available source of these
+
+694
+00:29:02,520 --> 00:29:07,980
+types of elements leading to work done
+
+695
+00:29:05,100 --> 00:29:11,400
+with with charging Water by placing them
+
+696
+00:29:07,980 --> 00:29:14,640
+into a bit large Vats of Black Sands
+
+697
+00:29:11,400 --> 00:29:17,220
+they can be Black Sands are also used to
+
+698
+00:29:14,640 --> 00:29:19,020
+as a source for different types of
+
+699
+00:29:17,220 --> 00:29:20,700
+minerals that leads the minerals out and
+
+700
+00:29:19,020 --> 00:29:22,919
+then you actually can take the minerals
+
+701
+00:29:20,700 --> 00:29:24,840
+and as a supplement
+
+702
+00:29:22,919 --> 00:29:27,299
+you know what I'm going to leave Barry
+
+703
+00:29:24,840 --> 00:29:29,659
+behind now as we move on to the next
+
+704
+00:29:27,299 --> 00:29:29,659
+stage
+
+705
+00:29:29,899 --> 00:29:34,380
+these elements over here if we can turn
+
+706
+00:29:32,520 --> 00:29:36,299
+on the lights a little bit again these
+
+707
+00:29:34,380 --> 00:29:39,240
+elements are also examples of blacks of
+
+708
+00:29:36,299 --> 00:29:40,980
+uh of of high spin elements this right
+
+709
+00:29:39,240 --> 00:29:41,880
+here is a very interesting Rock
+
+710
+00:29:40,980 --> 00:29:44,580
+um
+
+711
+00:29:41,880 --> 00:29:45,960
+literally at one point in time
+
+712
+00:29:44,580 --> 00:29:48,120
+there was a vein if you can imagine
+
+713
+00:29:45,960 --> 00:29:52,919
+there was a vein of this
+
+714
+00:29:48,120 --> 00:29:56,220
+and a uh a blast of molten metal shot
+
+715
+00:29:52,919 --> 00:29:58,200
+through the vein and crystallized on the
+
+716
+00:29:56,220 --> 00:29:59,700
+metal what we have is a is a this is
+
+717
+00:29:58,200 --> 00:30:01,679
+actually kind of a poor example but we
+
+718
+00:29:59,700 --> 00:30:03,720
+have a peacock color on this
+
+719
+00:30:01,679 --> 00:30:06,840
+and what happens is that this was
+
+720
+00:30:03,720 --> 00:30:08,220
+volatized and was joined to this and
+
+721
+00:30:06,840 --> 00:30:11,220
+we'll be talking a little bit about more
+
+722
+00:30:08,220 --> 00:30:13,260
+ore processing later on however I want
+
+723
+00:30:11,220 --> 00:30:15,840
+to point out that
+
+724
+00:30:13,260 --> 00:30:17,880
+when you process this out depending on
+
+725
+00:30:15,840 --> 00:30:19,919
+what type of processes you use you get
+
+726
+00:30:17,880 --> 00:30:21,320
+different values out so if you go
+
+727
+00:30:19,919 --> 00:30:25,080
+through a regular
+
+728
+00:30:21,320 --> 00:30:26,520
+regular metal or assay you may show
+
+729
+00:30:25,080 --> 00:30:28,260
+nothing but if you take it through
+
+730
+00:30:26,520 --> 00:30:31,320
+another process for instance one that
+
+731
+00:30:28,260 --> 00:30:33,899
+uses maybe electricity or pressure you
+
+732
+00:30:31,320 --> 00:30:38,039
+get some type of values out
+
+733
+00:30:33,899 --> 00:30:40,620
+so these these uh High spin elements are
+
+734
+00:30:38,039 --> 00:30:42,840
+very very touchy they don't respond very
+
+735
+00:30:40,620 --> 00:30:44,039
+well to normal chemistry and so you have
+
+736
+00:30:42,840 --> 00:30:45,179
+to be very careful when you're when
+
+737
+00:30:44,039 --> 00:30:46,500
+you're actually dealing with them that
+
+738
+00:30:45,179 --> 00:30:48,120
+you don't just volatize them off and
+
+739
+00:30:46,500 --> 00:30:52,039
+make them all go away
+
+740
+00:30:48,120 --> 00:30:52,039
+let's move on to the next place
+
+741
+00:30:53,159 --> 00:30:58,440
+okay if we can turn the lights down we
+
+742
+00:30:55,860 --> 00:31:00,539
+can see this a little bit better this is
+
+743
+00:30:58,440 --> 00:31:01,919
+an exam more examples for those of you
+
+744
+00:31:00,539 --> 00:31:04,140
+who can't see down here to the front
+
+745
+00:31:01,919 --> 00:31:06,720
+this is this this is the white stone
+
+746
+00:31:04,140 --> 00:31:08,700
+that I am speaking of the white stone
+
+747
+00:31:06,720 --> 00:31:10,260
+that that Temple site was actually made
+
+748
+00:31:08,700 --> 00:31:13,200
+out of
+
+749
+00:31:10,260 --> 00:31:15,960
+and right below it is another Temple
+
+750
+00:31:13,200 --> 00:31:18,140
+site that was very very educational to
+
+751
+00:31:15,960 --> 00:31:18,140
+us
+
+752
+00:31:18,360 --> 00:31:25,559
+excuse me and I'll be getting into it if
+
+753
+00:31:21,840 --> 00:31:29,340
+you can imagine that uh regular matter
+
+754
+00:31:25,559 --> 00:31:31,559
+has three legs in our reality okay three
+
+755
+00:31:29,340 --> 00:31:33,899
+legs in our existence and once again
+
+756
+00:31:31,559 --> 00:31:35,640
+there are quantum physics terms that I
+
+757
+00:31:33,899 --> 00:31:38,000
+could use to describe this but I'm not
+
+758
+00:31:35,640 --> 00:31:38,000
+going to
+
+759
+00:31:38,700 --> 00:31:44,640
+types three High spin superconductors
+
+760
+00:31:42,539 --> 00:31:47,000
+have instead of free legs in this
+
+761
+00:31:44,640 --> 00:31:47,000
+reality
+
+762
+00:31:47,640 --> 00:31:52,860
+they have two in the physical I'm
+
+763
+00:31:51,059 --> 00:31:54,600
+sipping out of the light again they have
+
+764
+00:31:52,860 --> 00:31:56,940
+two in the physical and one in the
+
+765
+00:31:54,600 --> 00:31:59,340
+etheric OR Quantum reality literally for
+
+766
+00:31:56,940 --> 00:32:01,740
+a time period they are
+
+767
+00:31:59,340 --> 00:32:03,059
+all the way into the other reality back
+
+768
+00:32:01,740 --> 00:32:06,059
+into ours
+
+769
+00:32:03,059 --> 00:32:09,059
+and this ancient Society whichever
+
+770
+00:32:06,059 --> 00:32:11,760
+ancient Society built that Temple before
+
+771
+00:32:09,059 --> 00:32:13,500
+uh they understood this this is
+
+772
+00:32:11,760 --> 00:32:15,059
+literally a pictogram and this is a very
+
+773
+00:32:13,500 --> 00:32:17,760
+interesting story this is actually a
+
+774
+00:32:15,059 --> 00:32:20,039
+quite an amazing adventure
+
+775
+00:32:17,760 --> 00:32:22,679
+um this uh this is the beginning
+
+776
+00:32:20,039 --> 00:32:24,779
+pictograms at a temple site in southern
+
+777
+00:32:22,679 --> 00:32:27,720
+here in southern Utah actually
+
+778
+00:32:24,779 --> 00:32:30,179
+and this is actually All That Remains we
+
+779
+00:32:27,720 --> 00:32:32,279
+were led to this Temple site to learn
+
+780
+00:32:30,179 --> 00:32:33,779
+how to make what we call etheric
+
+781
+00:32:32,279 --> 00:32:34,980
+Elements and I'll be defining that in
+
+782
+00:32:33,779 --> 00:32:36,720
+just a moment
+
+783
+00:32:34,980 --> 00:32:40,200
+we were led to this Temple site to learn
+
+784
+00:32:36,720 --> 00:32:43,380
+how to make those elements and shortly
+
+785
+00:32:40,200 --> 00:32:44,340
+thereafter within one year of us going
+
+786
+00:32:43,380 --> 00:32:47,399
+there
+
+787
+00:32:44,340 --> 00:32:49,559
+taking pictures and decoding the
+
+788
+00:32:47,399 --> 00:32:51,779
+pictograms and the language
+
+789
+00:32:49,559 --> 00:32:54,179
+the temple site was nearly completely
+
+790
+00:32:51,779 --> 00:32:55,860
+destroyed as if it was waiting just just
+
+791
+00:32:54,179 --> 00:32:56,580
+for the moment that we needed to be
+
+792
+00:32:55,860 --> 00:32:59,039
+there
+
+793
+00:32:56,580 --> 00:33:01,320
+to uh to learn what was left
+
+794
+00:32:59,039 --> 00:33:04,860
+well recently I was able to actually go
+
+795
+00:33:01,320 --> 00:33:06,899
+back to that Temple site and drink and
+
+796
+00:33:04,860 --> 00:33:08,880
+take in the elements as they did
+
+797
+00:33:06,899 --> 00:33:11,159
+anciently it was a quite quite a quite a
+
+798
+00:33:08,880 --> 00:33:13,380
+wonderful experience let me decode this
+
+799
+00:33:11,159 --> 00:33:15,000
+really quick before we go on and I want
+
+800
+00:33:13,380 --> 00:33:17,519
+to stress before before I start doing
+
+801
+00:33:15,000 --> 00:33:20,700
+this that in this language their written
+
+802
+00:33:17,519 --> 00:33:23,039
+language there were at least three
+
+803
+00:33:20,700 --> 00:33:24,000
+different ways to read their written
+
+804
+00:33:23,039 --> 00:33:27,360
+language
+
+805
+00:33:24,000 --> 00:33:30,840
+one was the secular informational
+
+806
+00:33:27,360 --> 00:33:32,940
+one was their spiritual or religious and
+
+807
+00:33:30,840 --> 00:33:35,640
+one was their technological all right
+
+808
+00:33:32,940 --> 00:33:38,279
+and so we found plates where literally
+
+809
+00:33:35,640 --> 00:33:42,059
+you read them in a spiral
+
+810
+00:33:38,279 --> 00:33:45,000
+and which pictogram or glyph you start
+
+811
+00:33:42,059 --> 00:33:47,700
+with dictates whether or not you're
+
+812
+00:33:45,000 --> 00:33:50,159
+reading for the physical the spiritual
+
+813
+00:33:47,700 --> 00:33:52,620
+or the scientific
+
+814
+00:33:50,159 --> 00:33:55,019
+now this this pictogram right here we
+
+815
+00:33:52,620 --> 00:33:56,519
+have the the pictogram this is archaic
+
+816
+00:33:55,019 --> 00:33:59,399
+Hebrew by the way
+
+817
+00:33:56,519 --> 00:34:02,820
+the archaic Hebrew pictogram for gold it
+
+818
+00:33:59,399 --> 00:34:04,440
+also stands for written or record
+
+819
+00:34:02,820 --> 00:34:07,620
+we have a vessel
+
+820
+00:34:04,440 --> 00:34:11,040
+which this was approximately eight yards
+
+821
+00:34:07,620 --> 00:34:13,020
+from a blast furnace that was so hot The
+
+822
+00:34:11,040 --> 00:34:14,639
+Rock was literally melted and pulled at
+
+823
+00:34:13,020 --> 00:34:16,200
+the bottom that had been so hot that The
+
+824
+00:34:14,639 --> 00:34:18,540
+Rock was melted and pooled at the bottom
+
+825
+00:34:16,200 --> 00:34:21,179
+so we believe that that's actually where
+
+826
+00:34:18,540 --> 00:34:23,460
+they melted it at one point we have a
+
+827
+00:34:21,179 --> 00:34:25,080
+very interesting symbol here
+
+828
+00:34:23,460 --> 00:34:26,879
+and I'll be going more into this later
+
+829
+00:34:25,080 --> 00:34:29,040
+on it is the of course the figure eight
+
+830
+00:34:26,879 --> 00:34:32,220
+we know it as an as basically an
+
+831
+00:34:29,040 --> 00:34:33,720
+infinity symbol also and a magnetic
+
+832
+00:34:32,220 --> 00:34:37,320
+field
+
+833
+00:34:33,720 --> 00:34:41,580
+now anybody recognize this little symbol
+
+834
+00:34:37,320 --> 00:34:45,320
+maybe from this little device right here
+
+835
+00:34:41,580 --> 00:34:45,320
+I'll be showing that a little later on
+
+836
+00:34:46,379 --> 00:34:50,879
+and then we have the arcade or excuse me
+
+837
+00:34:48,960 --> 00:34:53,099
+the classical Egyptian symbol for
+
+838
+00:34:50,879 --> 00:34:55,500
+eternal life the Ankh
+
+839
+00:34:53,099 --> 00:34:57,900
+Now red altogether basically this is
+
+840
+00:34:55,500 --> 00:35:00,660
+talking about taking gold and putting it
+
+841
+00:34:57,900 --> 00:35:02,400
+through a process this is the uh this is
+
+842
+00:35:00,660 --> 00:35:03,599
+the archaic Hebrew symbol for the word
+
+843
+00:35:02,400 --> 00:35:07,380
+mouth
+
+844
+00:35:03,599 --> 00:35:09,900
+and taking basically taking gold through
+
+845
+00:35:07,380 --> 00:35:11,520
+a process into your body
+
+846
+00:35:09,900 --> 00:35:13,800
+for life
+
+847
+00:35:11,520 --> 00:35:15,599
+so we get to start to get a clue and
+
+848
+00:35:13,800 --> 00:35:17,940
+understanding of what these ancients
+
+849
+00:35:15,599 --> 00:35:20,460
+used these elements for
+
+850
+00:35:17,940 --> 00:35:23,760
+and this out they're they're not very
+
+851
+00:35:20,460 --> 00:35:26,160
+many pieces there left but there are
+
+852
+00:35:23,760 --> 00:35:28,740
+similar pieces to that crystalline Rock
+
+853
+00:35:26,160 --> 00:35:31,380
+there little shards and fragments found
+
+854
+00:35:28,740 --> 00:35:34,440
+around that Blast Furnace that are still
+
+855
+00:35:31,380 --> 00:35:35,780
+there that haven't been picked away
+
+856
+00:35:34,440 --> 00:35:38,520
+lastly
+
+857
+00:35:35,780 --> 00:35:40,859
+I want you to find the term etheric now
+
+858
+00:35:38,520 --> 00:35:42,420
+in some of the other lectures I was
+
+859
+00:35:40,859 --> 00:35:44,579
+really fascinated because they were
+
+860
+00:35:42,420 --> 00:35:46,040
+talking about things like dark matter
+
+861
+00:35:44,579 --> 00:35:49,800
+and dark energy
+
+862
+00:35:46,040 --> 00:35:53,220
+Dr Thurston uh
+
+863
+00:35:49,800 --> 00:35:55,920
+Ludwig from uh from Germany was talking
+
+864
+00:35:53,220 --> 00:35:59,820
+about this and it was interesting that
+
+865
+00:35:55,920 --> 00:36:04,079
+he said a 70 30 split Giver tank this is
+
+866
+00:35:59,820 --> 00:36:06,599
+a picture well a radio scopic image of a
+
+867
+00:36:04,079 --> 00:36:07,500
+black hole now as you'll see there is
+
+868
+00:36:06,599 --> 00:36:09,920
+something
+
+869
+00:36:07,500 --> 00:36:13,079
+actually coming out
+
+870
+00:36:09,920 --> 00:36:16,079
+escaping from the black hole and we met
+
+871
+00:36:13,079 --> 00:36:19,560
+a gentleman recently by the name of
+
+872
+00:36:16,079 --> 00:36:22,880
+well we hope his name is there
+
+873
+00:36:19,560 --> 00:36:22,880
+okay that would be great
+
+874
+00:36:24,599 --> 00:36:28,320
+oh okay that's why I can't scroll
+
+875
+00:36:26,579 --> 00:36:31,200
+forward here
+
+876
+00:36:28,320 --> 00:36:32,700
+there we go oh that's fantastic
+
+877
+00:36:31,200 --> 00:36:35,000
+now this is very interesting we'll be
+
+878
+00:36:32,700 --> 00:36:37,560
+going into more into this later because
+
+879
+00:36:35,000 --> 00:36:40,740
+essentially what we're seeing is matter
+
+880
+00:36:37,560 --> 00:36:42,480
+escaping from a black hole now we've
+
+881
+00:36:40,740 --> 00:36:45,359
+always been told that black holes have
+
+882
+00:36:42,480 --> 00:36:49,859
+such a high gravitational density that
+
+883
+00:36:45,359 --> 00:36:54,119
+not even light can escape from it and so
+
+884
+00:36:49,859 --> 00:36:57,480
+uh Dr John milewski formerly of uh
+
+885
+00:36:54,119 --> 00:36:59,160
+formerly of NASA and Los Alamos has
+
+886
+00:36:57,480 --> 00:37:01,560
+defined this as what is called super
+
+887
+00:36:59,160 --> 00:37:03,780
+luminous light now literally there are
+
+888
+00:37:01,560 --> 00:37:06,780
+just as a side note there are thousands
+
+889
+00:37:03,780 --> 00:37:09,660
+and thousands of these black holes
+
+890
+00:37:06,780 --> 00:37:11,160
+emitting the super luminous light and it
+
+891
+00:37:09,660 --> 00:37:13,619
+literally comes through into our
+
+892
+00:37:11,160 --> 00:37:16,260
+atmosphere and it is life-giving energy
+
+893
+00:37:13,619 --> 00:37:18,359
+I'll be going more into that later on as
+
+894
+00:37:16,260 --> 00:37:20,700
+we as we progress here
+
+895
+00:37:18,359 --> 00:37:22,920
+and this is where we came to on what we
+
+896
+00:37:20,700 --> 00:37:25,140
+came to understand was in fact etheric
+
+897
+00:37:22,920 --> 00:37:29,540
+elements what that Temple site that we
+
+898
+00:37:25,140 --> 00:37:29,540
+just visited taught us how to make
+
+899
+00:37:29,640 --> 00:37:34,740
+but these elements are a little bit
+
+900
+00:37:31,140 --> 00:37:37,380
+different they in fact have one leg in
+
+901
+00:37:34,740 --> 00:37:40,800
+our physical reality and they have two
+
+902
+00:37:37,380 --> 00:37:42,480
+legs in the etheric OR Quantum reality
+
+903
+00:37:40,800 --> 00:37:44,880
+this is very interesting because they
+
+904
+00:37:42,480 --> 00:37:47,220
+can be tasted on the tongue you can
+
+905
+00:37:44,880 --> 00:37:48,839
+measure them with an with a total
+
+906
+00:37:47,220 --> 00:37:51,060
+dissolved solids meter they change the
+
+907
+00:37:48,839 --> 00:37:54,000
+conductivity of water and yet gone
+
+908
+00:37:51,060 --> 00:37:55,859
+through a x-ray spectrograph they are
+
+909
+00:37:54,000 --> 00:37:57,900
+invisible
+
+910
+00:37:55,859 --> 00:38:00,839
+it's quite interesting
+
+911
+00:37:57,900 --> 00:38:03,720
+we'll also see how later on how they are
+
+912
+00:38:00,839 --> 00:38:07,260
+under certain circumstances how they are
+
+913
+00:38:03,720 --> 00:38:09,780
+not affected by gravity
+
+914
+00:38:07,260 --> 00:38:12,119
+this is a symbol once again
+
+915
+00:38:09,780 --> 00:38:13,560
+back to the temple site these two
+
+916
+00:38:12,119 --> 00:38:15,480
+symbols which are which are very
+
+917
+00:38:13,560 --> 00:38:18,380
+interesting to us uh well they're all
+
+918
+00:38:15,480 --> 00:38:18,380
+interested what
+
+919
+00:38:18,599 --> 00:38:21,720
+okay thank you
+
+920
+00:38:20,760 --> 00:38:23,280
+um
+
+921
+00:38:21,720 --> 00:38:26,280
+it's very interesting if you decode
+
+922
+00:38:23,280 --> 00:38:27,900
+these two symbols the archaic Hebrew and
+
+923
+00:38:26,280 --> 00:38:29,760
+then the classical Egyptian if you take
+
+924
+00:38:27,900 --> 00:38:31,740
+their two their two meanings and put
+
+925
+00:38:29,760 --> 00:38:34,200
+them together literally you get the
+
+926
+00:38:31,740 --> 00:38:36,300
+phrase to pass over
+
+927
+00:38:34,200 --> 00:38:38,940
+which is very interesting if you study
+
+928
+00:38:36,300 --> 00:38:41,220
+the works of people like Lawrence
+
+929
+00:38:38,940 --> 00:38:44,400
+Gardner and such when they talk about
+
+930
+00:38:41,220 --> 00:38:46,619
+the uh the the Passover bread what was
+
+931
+00:38:44,400 --> 00:38:47,700
+that exactly what was the Egyptian cone
+
+932
+00:38:46,619 --> 00:38:50,040
+bread
+
+933
+00:38:47,700 --> 00:38:52,260
+right next to it we have a symbol but
+
+934
+00:38:50,040 --> 00:38:53,760
+you're wondering what that is that is
+
+935
+00:38:52,260 --> 00:38:56,940
+the
+
+936
+00:38:53,760 --> 00:38:59,220
+um a little bit later age than that this
+
+937
+00:38:56,940 --> 00:39:00,420
+is the uh Egyptian symbol for the word
+
+938
+00:38:59,220 --> 00:39:03,300
+gold
+
+939
+00:39:00,420 --> 00:39:05,880
+and so when we put them all together
+
+940
+00:39:03,300 --> 00:39:07,380
+see the correlation there literally to
+
+941
+00:39:05,880 --> 00:39:09,720
+pass over
+
+942
+00:39:07,380 --> 00:39:11,220
+we have gold here
+
+943
+00:39:09,720 --> 00:39:13,200
+and
+
+944
+00:39:11,220 --> 00:39:14,460
+Robert Patterson's Ram implosion Wing
+
+945
+00:39:13,200 --> 00:39:16,140
+now it was interesting last year he
+
+946
+00:39:14,460 --> 00:39:17,760
+talked about how this implosion Wing
+
+947
+00:39:16,140 --> 00:39:19,980
+would eventually have to be made out of
+
+948
+00:39:17,760 --> 00:39:20,940
+a superconductor well what do we have
+
+949
+00:39:19,980 --> 00:39:22,980
+here
+
+950
+00:39:20,940 --> 00:39:24,359
+but a room temperature type 3
+
+951
+00:39:22,980 --> 00:39:28,200
+superconductor
+
+952
+00:39:24,359 --> 00:39:29,700
+and it is in fact High spin gold
+
+953
+00:39:28,200 --> 00:39:31,260
+that has been gone through a process
+
+954
+00:39:29,700 --> 00:39:35,099
+like it talked about on the other page
+
+955
+00:39:31,260 --> 00:39:36,839
+and so our net one of our next uh
+
+956
+00:39:35,099 --> 00:39:39,780
+one of our next subjects of research is
+
+957
+00:39:36,839 --> 00:39:43,520
+to actually make one of these wings out
+
+958
+00:39:39,780 --> 00:39:43,520
+of that high spin element
+
+959
+00:39:43,920 --> 00:39:47,460
+now I want to talk a little bit about
+
+960
+00:39:45,359 --> 00:39:49,859
+what
+
+961
+00:39:47,460 --> 00:39:52,079
+about what type of elements have been
+
+962
+00:39:49,859 --> 00:39:53,280
+found to to be able to be put in the
+
+963
+00:39:52,079 --> 00:39:55,200
+high spin State and these have been
+
+964
+00:39:53,280 --> 00:39:57,660
+found to be able to be put in there
+
+965
+00:39:55,200 --> 00:39:59,160
+because they've actually been put in to
+
+966
+00:39:57,660 --> 00:40:01,560
+find them in nature is actually very
+
+967
+00:39:59,160 --> 00:40:03,420
+difficult because as I mentioned before
+
+968
+00:40:01,560 --> 00:40:05,760
+some of them many of them are actually
+
+969
+00:40:03,420 --> 00:40:06,900
+spectroscopically invisible so what you
+
+970
+00:40:05,760 --> 00:40:10,680
+have to do is you have to look for
+
+971
+00:40:06,900 --> 00:40:13,320
+markers for instance goal a monatomic or
+
+972
+00:40:10,680 --> 00:40:17,339
+high spin gold is actually found in
+
+973
+00:40:13,320 --> 00:40:19,619
+areas of uh of large doses of aluminum
+
+974
+00:40:17,339 --> 00:40:21,420
+silicate and so you can set when you
+
+975
+00:40:19,619 --> 00:40:24,780
+find that element you can separate this
+
+976
+00:40:21,420 --> 00:40:26,880
+out and utilize it Cobalt
+
+977
+00:40:24,780 --> 00:40:28,680
+has been found to be in a high-spin
+
+978
+00:40:26,880 --> 00:40:31,500
+state I'm just going to run through some
+
+979
+00:40:28,680 --> 00:40:33,000
+of these very quickly nickel copper
+
+980
+00:40:31,500 --> 00:40:35,460
+which
+
+981
+00:40:33,000 --> 00:40:37,859
+if you get on the the website subtle
+
+982
+00:40:35,460 --> 00:40:39,359
+energies.com you can actually see before
+
+983
+00:40:37,859 --> 00:40:42,060
+and after pictures of people taking
+
+984
+00:40:39,359 --> 00:40:44,579
+etheric copper where gray beards have
+
+985
+00:40:42,060 --> 00:40:47,099
+gone completely Brown again that type of
+
+986
+00:40:44,579 --> 00:40:49,260
+thing ruthenium ruthenium is actually
+
+987
+00:40:47,099 --> 00:40:51,000
+being used in conventional science and
+
+988
+00:40:49,260 --> 00:40:53,160
+conventional DNA research and I'll be
+
+989
+00:40:51,000 --> 00:40:56,880
+getting to that in just a few minutes
+
+990
+00:40:53,160 --> 00:41:00,240
+rhodium which is a high spin rhodium is
+
+991
+00:40:56,880 --> 00:41:01,619
+actually one of the major ingredients in
+
+992
+00:41:00,240 --> 00:41:04,920
+your mind
+
+993
+00:41:01,619 --> 00:41:07,280
+rhodium along with iridium
+
+994
+00:41:04,920 --> 00:41:10,680
+Palladium is also very important silver
+
+995
+00:41:07,280 --> 00:41:11,820
+when silver is is put into a high-spin
+
+996
+00:41:10,680 --> 00:41:13,440
+state
+
+997
+00:41:11,820 --> 00:41:15,839
+it becomes an even better
+
+998
+00:41:13,440 --> 00:41:18,660
+bacteriological or a bacteria killer
+
+999
+00:41:15,839 --> 00:41:20,640
+than regular colloidal silver which is
+
+1000
+00:41:18,660 --> 00:41:22,200
+in fact can be in fact very bad for you
+
+1001
+00:41:20,640 --> 00:41:24,300
+you don't want to take that because you
+
+1002
+00:41:22,200 --> 00:41:25,560
+get a whole lot of you can get heavy
+
+1003
+00:41:24,300 --> 00:41:29,220
+metal poisoning
+
+1004
+00:41:25,560 --> 00:41:31,140
+renium osmium now osmium for those of
+
+1005
+00:41:29,220 --> 00:41:33,420
+you in the mining industry osmium knows
+
+1006
+00:41:31,140 --> 00:41:35,040
+that are that they know that osmium is
+
+1007
+00:41:33,420 --> 00:41:37,560
+in fact very very dangerous to the body
+
+1008
+00:41:35,040 --> 00:41:39,180
+if you smell the uh the garlic smell
+
+1009
+00:41:37,560 --> 00:41:42,359
+when you're working with ore you're in
+
+1010
+00:41:39,180 --> 00:41:45,420
+pretty much really big trouble
+
+1011
+00:41:42,359 --> 00:41:47,400
+um osmium will destroy regular osmium
+
+1012
+00:41:45,420 --> 00:41:49,380
+will destroy gold it will take it up and
+
+1013
+00:41:47,400 --> 00:41:50,839
+evaporate it'll be all gone
+
+1014
+00:41:49,380 --> 00:41:54,420
+but
+
+1015
+00:41:50,839 --> 00:41:56,720
+High spin osmium is in fact
+
+1016
+00:41:54,420 --> 00:42:00,900
+not does not have in fact those effects
+
+1017
+00:41:56,720 --> 00:42:02,520
+iridium once again is is utilized inside
+
+1018
+00:42:00,900 --> 00:42:04,740
+of your brain
+
+1019
+00:42:02,520 --> 00:42:07,800
+and that is all there's also research
+
+1020
+00:42:04,740 --> 00:42:10,800
+being done in anti-gravity with iridium
+
+1021
+00:42:07,800 --> 00:42:13,140
+but that's uh kind of the scientific
+
+1022
+00:42:10,800 --> 00:42:16,200
+urban legend the interesting thing is
+
+1023
+00:42:13,140 --> 00:42:18,000
+though that the emerging countries that
+
+1024
+00:42:16,200 --> 00:42:20,099
+are putting uh putting satellites in
+
+1025
+00:42:18,000 --> 00:42:22,440
+orbit they're also buying up huge
+
+1026
+00:42:20,099 --> 00:42:25,500
+amounts of iridium from well just about
+
+1027
+00:42:22,440 --> 00:42:27,359
+any iridium mine they can get a hold of
+
+1028
+00:42:25,500 --> 00:42:29,880
+Platinum also has very interesting
+
+1029
+00:42:27,359 --> 00:42:34,200
+properties Heating and Cooling gold as
+
+1030
+00:42:29,880 --> 00:42:36,900
+we'll get into and Mercury now this is a
+
+1031
+00:42:34,200 --> 00:42:38,880
+Mercury is is often used in alchemical
+
+1032
+00:42:36,900 --> 00:42:40,740
+references but that's another field of
+
+1033
+00:42:38,880 --> 00:42:44,060
+field of study that we don't really need
+
+1034
+00:42:40,740 --> 00:42:44,060
+to get into right at this time
+
+1035
+00:42:45,060 --> 00:42:49,079
+in our quest to understand what these
+
+1036
+00:42:47,280 --> 00:42:50,099
+how these elements work and what they do
+
+1037
+00:42:49,079 --> 00:42:51,900
+in the body
+
+1038
+00:42:50,099 --> 00:42:55,500
+we were actually led to the work of
+
+1039
+00:42:51,900 --> 00:42:58,260
+Victor schauberger and excuse me every
+
+1040
+00:42:55,500 --> 00:43:00,900
+uh some of his defining work was done
+
+1041
+00:42:58,260 --> 00:43:02,579
+with counter rotating vortices in water
+
+1042
+00:43:00,900 --> 00:43:04,740
+and he was a for those of you don't know
+
+1043
+00:43:02,579 --> 00:43:07,520
+he was able to transport water vast
+
+1044
+00:43:04,740 --> 00:43:09,960
+distances he was able to to actually
+
+1045
+00:43:07,520 --> 00:43:12,240
+transport water vast distances very very
+
+1046
+00:43:09,960 --> 00:43:16,020
+quickly he was able to purify water
+
+1047
+00:43:12,240 --> 00:43:18,180
+using using vortices and such even to
+
+1048
+00:43:16,020 --> 00:43:22,260
+the point of desalination I've actually
+
+1049
+00:43:18,180 --> 00:43:24,540
+met a gentleman in Texas if anybody has
+
+1050
+00:43:22,260 --> 00:43:26,520
+ever heard heard of uh
+
+1051
+00:43:24,540 --> 00:43:28,740
+what's that
+
+1052
+00:43:26,520 --> 00:43:31,980
+Joseph
+
+1053
+00:43:28,740 --> 00:43:33,780
+Bender yes thank you he has created
+
+1054
+00:43:31,980 --> 00:43:35,280
+water that is so wet that you could hold
+
+1055
+00:43:33,780 --> 00:43:37,859
+it in your hand and watch it absorb into
+
+1056
+00:43:35,280 --> 00:43:39,359
+your skin and water that is so dry that
+
+1057
+00:43:37,859 --> 00:43:41,040
+no matter how much you drank of it you
+
+1058
+00:43:39,359 --> 00:43:45,599
+would die of dehydration
+
+1059
+00:43:41,040 --> 00:43:49,260
+are using the schauberger vortices okay
+
+1060
+00:43:45,599 --> 00:43:50,880
+and if anybody finds him he uh I'd like
+
+1061
+00:43:49,260 --> 00:43:52,319
+to talk to him again but he seems to
+
+1062
+00:43:50,880 --> 00:43:55,980
+have disappeared
+
+1063
+00:43:52,319 --> 00:43:57,839
+now what we have here is now I mentioned
+
+1064
+00:43:55,980 --> 00:44:00,180
+that I mentioned that ormists are
+
+1065
+00:43:57,839 --> 00:44:01,920
+assuming High spin elements are found in
+
+1066
+00:44:00,180 --> 00:44:04,440
+in many locations and I should probably
+
+1067
+00:44:01,920 --> 00:44:06,240
+talk about that a little bit more
+
+1068
+00:44:04,440 --> 00:44:08,220
+um one of the one of the highest found
+
+1069
+00:44:06,240 --> 00:44:10,680
+locations is as I said Black Sands
+
+1070
+00:44:08,220 --> 00:44:14,160
+another location is any place where
+
+1071
+00:44:10,680 --> 00:44:16,380
+there is salt so oceans Dead Sea we have
+
+1072
+00:44:14,160 --> 00:44:18,240
+this Great Salt Lake up here which a lot
+
+1073
+00:44:16,380 --> 00:44:20,099
+of people are pulling these high spin
+
+1074
+00:44:18,240 --> 00:44:21,900
+elements out problem is you have to be
+
+1075
+00:44:20,099 --> 00:44:24,060
+very very careful because unless you are
+
+1076
+00:44:21,900 --> 00:44:27,599
+a master chemist you will also drop out
+
+1077
+00:44:24,060 --> 00:44:29,460
+heavy metals and if you don't up if you
+
+1078
+00:44:27,599 --> 00:44:32,099
+don't operate within a very limited
+
+1079
+00:44:29,460 --> 00:44:33,780
+range pH balance you will drop out heavy
+
+1080
+00:44:32,099 --> 00:44:36,660
+chemicals and a lot of people that we
+
+1081
+00:44:33,780 --> 00:44:39,420
+found that take High spin elements or
+
+1082
+00:44:36,660 --> 00:44:42,000
+Miss elements per se they in fact have
+
+1083
+00:44:39,420 --> 00:44:43,560
+heavy metal aluminum poisoning so you
+
+1084
+00:44:42,000 --> 00:44:45,060
+have to watch out for that
+
+1085
+00:44:43,560 --> 00:44:47,339
+aluminum
+
+1086
+00:44:45,060 --> 00:44:49,440
+and silica are not the same thing as
+
+1087
+00:44:47,339 --> 00:44:51,440
+aluminum silicate aluminum and silica
+
+1088
+00:44:49,440 --> 00:44:54,000
+does not equal
+
+1089
+00:44:51,440 --> 00:44:55,440
+monatomic or high spin gold okay
+
+1090
+00:44:54,000 --> 00:44:57,660
+remember that
+
+1091
+00:44:55,440 --> 00:45:00,599
+well what they eventually found was that
+
+1092
+00:44:57,660 --> 00:45:02,640
+all water has this and even Victor
+
+1093
+00:45:00,599 --> 00:45:05,400
+schauberger talked about it in his work
+
+1094
+00:45:02,640 --> 00:45:09,260
+he actually mentioned that if you store
+
+1095
+00:45:05,400 --> 00:45:12,660
+water in a Flats in a flat Lake and such
+
+1096
+00:45:09,260 --> 00:45:15,060
+something in that water dies and what we
+
+1097
+00:45:12,660 --> 00:45:17,819
+have found in our research is that the
+
+1098
+00:45:15,060 --> 00:45:21,660
+thing that happens to the water is that
+
+1099
+00:45:17,819 --> 00:45:23,339
+all of the the living High spin elements
+
+1100
+00:45:21,660 --> 00:45:25,140
+start to evaporate off because they
+
+1101
+00:45:23,339 --> 00:45:26,880
+don't like the sunlight they don't like
+
+1102
+00:45:25,140 --> 00:45:28,560
+to be just directly exposed to the
+
+1103
+00:45:26,880 --> 00:45:31,140
+sunlight and they don't like the
+
+1104
+00:45:28,560 --> 00:45:33,240
+stagnant water something dies there and
+
+1105
+00:45:31,140 --> 00:45:34,680
+so utilizing these these counter
+
+1106
+00:45:33,240 --> 00:45:36,240
+rotating vortices he was able to
+
+1107
+00:45:34,680 --> 00:45:38,339
+re-energize water
+
+1108
+00:45:36,240 --> 00:45:40,500
+so some of the people in the in the uh
+
+1109
+00:45:38,339 --> 00:45:41,400
+the high spin element research decided
+
+1110
+00:45:40,500 --> 00:45:44,040
+to
+
+1111
+00:45:41,400 --> 00:45:47,520
+take Victor schauberger's vortices work
+
+1112
+00:45:44,040 --> 00:45:49,560
+and try to create a trap can we focus it
+
+1113
+00:45:47,520 --> 00:45:52,880
+can we concentrate these elements enough
+
+1114
+00:45:49,560 --> 00:45:52,880
+how am I doing on time
+
+1115
+00:45:53,040 --> 00:45:58,500
+you've got about
+
+1116
+00:45:55,319 --> 00:46:00,780
+almost 30 minutes okay great great okay
+
+1117
+00:45:58,500 --> 00:46:02,460
+let me let me show you what this trap is
+
+1118
+00:46:00,780 --> 00:46:04,560
+here this is called enormous trap it
+
+1119
+00:46:02,460 --> 00:46:06,900
+wastes a lot of water I don't actually
+
+1120
+00:46:04,560 --> 00:46:09,240
+recommend this trap at all but anyway
+
+1121
+00:46:06,900 --> 00:46:12,540
+what happens is you have water flowing
+
+1122
+00:46:09,240 --> 00:46:14,819
+in through a hose and it starts to swirl
+
+1123
+00:46:12,540 --> 00:46:16,800
+down this pipe there's it goes in at an
+
+1124
+00:46:14,819 --> 00:46:19,560
+angle so that the whole thing swirls
+
+1125
+00:46:16,800 --> 00:46:22,500
+down this pipe there is a block here at
+
+1126
+00:46:19,560 --> 00:46:25,140
+this end with a cone on it so that the
+
+1127
+00:46:22,500 --> 00:46:27,780
+so that what you do is you create a
+
+1128
+00:46:25,140 --> 00:46:30,540
+counter rotating vortices instead of
+
+1129
+00:46:27,780 --> 00:46:33,420
+instead of letting that travel on you
+
+1130
+00:46:30,540 --> 00:46:36,480
+create a counter rotating field of water
+
+1131
+00:46:33,420 --> 00:46:37,380
+that is that instead travels back up the
+
+1132
+00:46:36,480 --> 00:46:40,380
+tube
+
+1133
+00:46:37,380 --> 00:46:44,180
+when it reaches this other end there is
+
+1134
+00:46:40,380 --> 00:46:45,780
+a filter per se of
+
+1135
+00:46:44,180 --> 00:46:49,200
+Pardon Me
+
+1136
+00:46:45,780 --> 00:46:52,079
+there's a filter of a cloth that only
+
+1137
+00:46:49,200 --> 00:46:55,260
+allows oil to pass through it's a very
+
+1138
+00:46:52,079 --> 00:46:58,079
+interesting material however when you
+
+1139
+00:46:55,260 --> 00:46:59,880
+concentrate High spin elements like this
+
+1140
+00:46:58,079 --> 00:47:02,640
+when you concentrate the ormus in the
+
+1141
+00:46:59,880 --> 00:47:04,980
+water in this manner essentially the
+
+1142
+00:47:02,640 --> 00:47:07,200
+water literally becomes oily and it can
+
+1143
+00:47:04,980 --> 00:47:08,640
+pass through that cloth and flow out
+
+1144
+00:47:07,200 --> 00:47:10,200
+through this tube where it's collected
+
+1145
+00:47:08,640 --> 00:47:11,520
+now I want to tell you an interesting
+
+1146
+00:47:10,200 --> 00:47:13,740
+experience
+
+1147
+00:47:11,520 --> 00:47:16,280
+right after I drink some water
+
+1148
+00:47:13,740 --> 00:47:16,280
+since
+
+1149
+00:47:17,339 --> 00:47:23,640
+absolutely water is life
+
+1150
+00:47:20,099 --> 00:47:25,920
+what is that Dune I think okay
+
+1151
+00:47:23,640 --> 00:47:28,680
+we and we instead instead of making this
+
+1152
+00:47:25,920 --> 00:47:32,579
+which actually wastes a lot of water we
+
+1153
+00:47:28,680 --> 00:47:34,800
+decided to make a a pot trap now I want
+
+1154
+00:47:32,579 --> 00:47:37,319
+to stress this is independent of our
+
+1155
+00:47:34,800 --> 00:47:39,780
+Research into electric water magnetic
+
+1156
+00:47:37,319 --> 00:47:42,599
+water and high spin elements this was uh
+
+1157
+00:47:39,780 --> 00:47:44,460
+for just for informational purposes so
+
+1158
+00:47:42,599 --> 00:47:46,440
+we could further understand what we were
+
+1159
+00:47:44,460 --> 00:47:48,660
+working with
+
+1160
+00:47:46,440 --> 00:47:51,960
+we made this pot trap which is
+
+1161
+00:47:48,660 --> 00:47:54,980
+essentially this stretched into a larger
+
+1162
+00:47:51,960 --> 00:47:59,940
+area the water comes in through the top
+
+1163
+00:47:54,980 --> 00:48:02,339
+begins to spin and form a a vortices
+
+1164
+00:47:59,940 --> 00:48:04,260
+here or assuming a spinning Whirlpool
+
+1165
+00:48:02,339 --> 00:48:07,020
+essentially here in the top of this uh
+
+1166
+00:48:04,260 --> 00:48:10,380
+trap there are magnets placed inside
+
+1167
+00:48:07,020 --> 00:48:13,440
+here and at the base about right here
+
+1168
+00:48:10,380 --> 00:48:16,380
+the water spins and Spins and Spins now
+
+1169
+00:48:13,440 --> 00:48:18,839
+one thing about magnets magnets as we
+
+1170
+00:48:16,380 --> 00:48:21,500
+met as we saw earlier in the uh in the
+
+1171
+00:48:18,839 --> 00:48:24,960
+uh jumping ormus video by Barry Carter
+
+1172
+00:48:21,500 --> 00:48:26,460
+magnets irritate or stimulate the flow
+
+1173
+00:48:24,960 --> 00:48:28,440
+and I thought that was very interesting
+
+1174
+00:48:26,460 --> 00:48:31,079
+in some of the other speakers they have
+
+1175
+00:48:28,440 --> 00:48:35,040
+in their presentations they have been
+
+1176
+00:48:31,079 --> 00:48:37,440
+talking about pulsing magnets and to
+
+1177
+00:48:35,040 --> 00:48:40,200
+stimulate a response now I'll be getting
+
+1178
+00:48:37,440 --> 00:48:41,640
+to that because it's amazing how uh it's
+
+1179
+00:48:40,200 --> 00:48:43,859
+amazing how everything ties in together
+
+1180
+00:48:41,640 --> 00:48:45,839
+isn't it last year the buzzword was
+
+1181
+00:48:43,859 --> 00:48:47,520
+implosion everybody was using it this
+
+1182
+00:48:45,839 --> 00:48:49,079
+year it's it's something different
+
+1183
+00:48:47,520 --> 00:48:52,500
+anyway
+
+1184
+00:48:49,079 --> 00:48:55,260
+these magnets stimulate the high spin
+
+1185
+00:48:52,500 --> 00:48:57,119
+elements in the water and there is a
+
+1186
+00:48:55,260 --> 00:48:59,520
+trap basically in the base here and I
+
+1187
+00:48:57,119 --> 00:49:01,440
+can we can show pictures of this at my
+
+1188
+00:48:59,520 --> 00:49:04,319
+present at my table when we're done here
+
+1189
+00:49:01,440 --> 00:49:06,900
+but it was too much to go into in this
+
+1190
+00:49:04,319 --> 00:49:08,700
+um what happened was we had a we have a
+
+1191
+00:49:06,900 --> 00:49:11,339
+well and we just started flushing the
+
+1192
+00:49:08,700 --> 00:49:13,440
+water through this into a holding tank
+
+1193
+00:49:11,339 --> 00:49:15,540
+which we ran down to our to our bath
+
+1194
+00:49:13,440 --> 00:49:17,640
+house into our greenhouse and such so we
+
+1195
+00:49:15,540 --> 00:49:20,760
+weren't actually wasting any water
+
+1196
+00:49:17,640 --> 00:49:24,720
+but what happened was we let this sit
+
+1197
+00:49:20,760 --> 00:49:27,119
+for about three weeks and the ormus
+
+1198
+00:49:24,720 --> 00:49:29,760
+material in the that collected in the
+
+1199
+00:49:27,119 --> 00:49:31,800
+base here became incredibly concentrated
+
+1200
+00:49:29,760 --> 00:49:33,660
+there was an accident the pot was
+
+1201
+00:49:31,800 --> 00:49:36,119
+knocked over we'd learned what we needed
+
+1202
+00:49:33,660 --> 00:49:39,420
+to learn about about high spin elements
+
+1203
+00:49:36,119 --> 00:49:42,060
+in water at that point anyway and we put
+
+1204
+00:49:39,420 --> 00:49:43,800
+the pots back into use in the kitchen
+
+1205
+00:49:42,060 --> 00:49:47,880
+now what was very interesting was this
+
+1206
+00:49:43,800 --> 00:49:50,640
+one day we had to uh
+
+1207
+00:49:47,880 --> 00:49:52,980
+um evaporate off a bunch of wet salts
+
+1208
+00:49:50,640 --> 00:49:55,980
+that we were that we were that we were
+
+1209
+00:49:52,980 --> 00:49:58,560
+using in something and we put the salt
+
+1210
+00:49:55,980 --> 00:50:00,300
+the wet salt into this stainless steel
+
+1211
+00:49:58,560 --> 00:50:02,280
+pot actually it was the internal
+
+1212
+00:50:00,300 --> 00:50:04,500
+stainless steel pot not this pot but the
+
+1213
+00:50:02,280 --> 00:50:07,079
+internal one that was actually holding
+
+1214
+00:50:04,500 --> 00:50:09,180
+the high spin ormus water
+
+1215
+00:50:07,079 --> 00:50:11,640
+we put the salt in there set it on the
+
+1216
+00:50:09,180 --> 00:50:13,859
+counter just to you know evaporate the
+
+1217
+00:50:11,640 --> 00:50:15,780
+water off what was interesting within
+
+1218
+00:50:13,859 --> 00:50:18,720
+three days
+
+1219
+00:50:15,780 --> 00:50:21,780
+salt was found on the counter it was not
+
+1220
+00:50:18,720 --> 00:50:23,160
+bubbling out of the top of the it was
+
+1221
+00:50:21,780 --> 00:50:26,460
+not evaporating out of the top of the
+
+1222
+00:50:23,160 --> 00:50:29,520
+pot it was literally growing out the
+
+1223
+00:50:26,460 --> 00:50:31,980
+sides of the pot I believe the quantum
+
+1224
+00:50:29,520 --> 00:50:33,540
+physics term is Josephson tunneling I
+
+1225
+00:50:31,980 --> 00:50:36,780
+think is that right
+
+1226
+00:50:33,540 --> 00:50:39,660
+okay literally the plot had become its
+
+1227
+00:50:36,780 --> 00:50:42,060
+own superconductor and the salt was
+
+1228
+00:50:39,660 --> 00:50:43,619
+growing out the sides of that
+
+1229
+00:50:42,060 --> 00:50:45,660
+now that is very interesting because
+
+1230
+00:50:43,619 --> 00:50:47,819
+when you start looking at the idea that
+
+1231
+00:50:45,660 --> 00:50:50,640
+well there didn't seem to be any salt
+
+1232
+00:50:47,819 --> 00:50:52,380
+taken out of the pot it was just growing
+
+1233
+00:50:50,640 --> 00:50:57,300
+out the sides and literally it covered
+
+1234
+00:50:52,380 --> 00:51:01,880
+the counter within about 10 inches
+
+1235
+00:50:57,300 --> 00:51:01,880
+so there's a lot of applications to this
+
+1236
+00:51:02,099 --> 00:51:05,040
+um but we'll get to those we'll get to
+
+1237
+00:51:03,780 --> 00:51:08,280
+those
+
+1238
+00:51:05,040 --> 00:51:10,380
+what we also what we have here is
+
+1239
+00:51:08,280 --> 00:51:13,020
+um I want I want to define the organic
+
+1240
+00:51:10,380 --> 00:51:15,000
+elements term that we used by that we
+
+1241
+00:51:13,020 --> 00:51:15,960
+mean we meant they could be dissolved in
+
+1242
+00:51:15,000 --> 00:51:18,780
+water
+
+1243
+00:51:15,960 --> 00:51:20,760
+and they can be absorbed by the body
+
+1244
+00:51:18,780 --> 00:51:24,059
+well what was interesting about Dave
+
+1245
+00:51:20,760 --> 00:51:25,559
+Hudson's work and I actually met Dave
+
+1246
+00:51:24,059 --> 00:51:27,660
+Hudson's chemist for those of you who
+
+1247
+00:51:25,559 --> 00:51:29,579
+don't know his name is Don Duke it's a
+
+1248
+00:51:27,660 --> 00:51:31,800
+very interesting fellow and he talked
+
+1249
+00:51:29,579 --> 00:51:32,760
+about a 32-step process where they took
+
+1250
+00:51:31,800 --> 00:51:34,800
+the
+
+1251
+00:51:32,760 --> 00:51:37,619
+the high spin gold that they were
+
+1252
+00:51:34,800 --> 00:51:39,240
+collecting off the ground and eventually
+
+1253
+00:51:37,619 --> 00:51:41,700
+turned it into the metal to metal gold
+
+1254
+00:51:39,240 --> 00:51:44,460
+and then turned it into
+
+1255
+00:51:41,700 --> 00:51:46,079
+High spin gold again and he himself was
+
+1256
+00:51:44,460 --> 00:51:49,500
+was uh
+
+1257
+00:51:46,079 --> 00:51:51,359
+um was working on that process now the
+
+1258
+00:51:49,500 --> 00:51:53,640
+problem was that you had to take massive
+
+1259
+00:51:51,359 --> 00:51:55,800
+amounts of the of the material for your
+
+1260
+00:51:53,640 --> 00:51:56,700
+body to absorb even the tiniest tiniest
+
+1261
+00:51:55,800 --> 00:51:58,859
+bit
+
+1262
+00:51:56,700 --> 00:52:00,420
+and so what we what we've worked with
+
+1263
+00:51:58,859 --> 00:52:02,760
+and once again this was done without
+
+1264
+00:52:00,420 --> 00:52:04,920
+even hearing about Dave Hudson as a
+
+1265
+00:52:02,760 --> 00:52:07,680
+matter of fact after shortly after this
+
+1266
+00:52:04,920 --> 00:52:09,599
+work that was when shortly after this
+
+1267
+00:52:07,680 --> 00:52:12,359
+work right here was when we first found
+
+1268
+00:52:09,599 --> 00:52:14,760
+uh found out about Dave Hudson and Don
+
+1269
+00:52:12,359 --> 00:52:17,099
+Duke came to our house and we kind of
+
+1270
+00:52:14,760 --> 00:52:17,760
+blew him away with that right there
+
+1271
+00:52:17,099 --> 00:52:21,359
+um
+
+1272
+00:52:17,760 --> 00:52:23,940
+this is organic rhodium and iridium it
+
+1273
+00:52:21,359 --> 00:52:25,859
+comes from from a plant Source goes
+
+1274
+00:52:23,940 --> 00:52:26,819
+through several processes the developer
+
+1275
+00:52:25,859 --> 00:52:29,460
+of this
+
+1276
+00:52:26,819 --> 00:52:31,260
+who stumbled onto it calls it operiori
+
+1277
+00:52:29,460 --> 00:52:33,420
+which is which is an old term it means
+
+1278
+00:52:31,260 --> 00:52:36,240
+to know without experience
+
+1279
+00:52:33,420 --> 00:52:37,680
+and when that it's actually greenish
+
+1280
+00:52:36,240 --> 00:52:40,500
+powder you can't actually see it there
+
+1281
+00:52:37,680 --> 00:52:42,720
+when that is put into water
+
+1282
+00:52:40,500 --> 00:52:44,640
+what you get is this beautiful Violet
+
+1283
+00:52:42,720 --> 00:52:46,380
+liquid
+
+1284
+00:52:44,640 --> 00:52:48,180
+that's organic rhodium iridium now
+
+1285
+00:52:46,380 --> 00:52:49,859
+remember I said rhodium and iridium is
+
+1286
+00:52:48,180 --> 00:52:50,819
+one of the primary components of your
+
+1287
+00:52:49,859 --> 00:52:52,800
+brain
+
+1288
+00:52:50,819 --> 00:52:54,839
+and when you take this into your into
+
+1289
+00:52:52,800 --> 00:52:56,460
+your body in conjunction with something
+
+1290
+00:52:54,839 --> 00:52:57,420
+else that we'll talk about in a few
+
+1291
+00:52:56,460 --> 00:53:00,059
+minutes
+
+1292
+00:52:57,420 --> 00:53:02,520
+you have incredibly increased mental
+
+1293
+00:53:00,059 --> 00:53:04,140
+awareness all sorts of things happen
+
+1294
+00:53:02,520 --> 00:53:05,579
+that we won't go into at this time but
+
+1295
+00:53:04,140 --> 00:53:06,780
+we can talk about it at the table if you
+
+1296
+00:53:05,579 --> 00:53:07,859
+guys want to visit after the
+
+1297
+00:53:06,780 --> 00:53:10,559
+presentation
+
+1298
+00:53:07,859 --> 00:53:14,880
+what we have here on this side
+
+1299
+00:53:10,559 --> 00:53:17,640
+is a white uh is a white high spin
+
+1300
+00:53:14,880 --> 00:53:20,160
+element gold and goes when you take it
+
+1301
+00:53:17,640 --> 00:53:22,260
+through another process you get to this
+
+1302
+00:53:20,160 --> 00:53:25,380
+right here now this is very interesting
+
+1303
+00:53:22,260 --> 00:53:27,780
+because this is in fact
+
+1304
+00:53:25,380 --> 00:53:29,280
+um used in something that we call an
+
+1305
+00:53:27,780 --> 00:53:31,140
+etheric battery
+
+1306
+00:53:29,280 --> 00:53:34,579
+and it is absolutely essential to some
+
+1307
+00:53:31,140 --> 00:53:34,579
+of the processes that we work with
+
+1308
+00:53:37,640 --> 00:53:44,000
+white nephew okay go for that please let
+
+1309
+00:53:41,099 --> 00:53:44,000
+me find out where I'm at here
+
+1310
+00:53:45,119 --> 00:53:49,559
+okay I want to also stress once again
+
+1311
+00:53:47,700 --> 00:53:52,800
+that these elements are found in many
+
+1312
+00:53:49,559 --> 00:53:54,480
+many locations uh Dr John milewski that
+
+1313
+00:53:52,800 --> 00:53:57,119
+I've mentioned earlier
+
+1314
+00:53:54,480 --> 00:54:00,540
+lives in lives in Arizona he believes
+
+1315
+00:53:57,119 --> 00:54:02,819
+that the white deposits oops that's okay
+
+1316
+00:54:00,540 --> 00:54:04,319
+that's okay we'll just move on he
+
+1317
+00:54:02,819 --> 00:54:07,380
+believes that the white deposits found
+
+1318
+00:54:04,319 --> 00:54:09,660
+on the rocks in the area that collects
+
+1319
+00:54:07,380 --> 00:54:11,520
+there overnight after a rainstorm that
+
+1320
+00:54:09,660 --> 00:54:13,859
+type of thing is in fact the high spin
+
+1321
+00:54:11,520 --> 00:54:16,559
+the high spin elements falling
+
+1322
+00:54:13,859 --> 00:54:18,480
+distilling out of the air
+
+1323
+00:54:16,559 --> 00:54:20,819
+and once again they're also attracted to
+
+1324
+00:54:18,480 --> 00:54:23,760
+anywhere there's salt so if you can find
+
+1325
+00:54:20,819 --> 00:54:25,619
+also salt deposits buried in the ground
+
+1326
+00:54:23,760 --> 00:54:28,079
+for instance Redmond salt that type of
+
+1327
+00:54:25,619 --> 00:54:30,180
+thing you're you're on the trail of high
+
+1328
+00:54:28,079 --> 00:54:32,880
+spin elements
+
+1329
+00:54:30,180 --> 00:54:34,559
+now what we have here is how these
+
+1330
+00:54:32,880 --> 00:54:36,359
+organic L I want to talk about how these
+
+1331
+00:54:34,559 --> 00:54:38,880
+organic elements interact with the body
+
+1332
+00:54:36,359 --> 00:54:40,020
+and in living systems what we have here
+
+1333
+00:54:38,880 --> 00:54:43,619
+on the right
+
+1334
+00:54:40,020 --> 00:54:46,380
+is a I read backwards a lot
+
+1335
+00:54:43,619 --> 00:54:47,880
+it comes from studying archaic Hebrew so
+
+1336
+00:54:46,380 --> 00:54:50,339
+things end up on the right and then move
+
+1337
+00:54:47,880 --> 00:54:53,160
+to the left sometimes what we have here
+
+1338
+00:54:50,339 --> 00:54:55,980
+are conventional walnuts
+
+1339
+00:54:53,160 --> 00:54:57,660
+that are about the same size as any as
+
+1340
+00:54:55,980 --> 00:55:01,079
+regular walnuts
+
+1341
+00:54:57,660 --> 00:55:04,920
+this tree was treated with was basically
+
+1342
+00:55:01,079 --> 00:55:07,940
+fertilized with the high spin elements
+
+1343
+00:55:04,920 --> 00:55:10,619
+and for for one year and the next year
+
+1344
+00:55:07,940 --> 00:55:12,480
+the elements are assuming the walnuts
+
+1345
+00:55:10,619 --> 00:55:15,480
+were much much larger than they were
+
+1346
+00:55:12,480 --> 00:55:18,180
+before same tree same amount of water
+
+1347
+00:55:15,480 --> 00:55:20,520
+the only difference is the high SP is
+
+1348
+00:55:18,180 --> 00:55:23,180
+the high spin elements now we can go
+
+1349
+00:55:20,520 --> 00:55:25,680
+into a whole subject of Agriculture
+
+1350
+00:55:23,180 --> 00:55:29,760
+using these high spin elements they have
+
+1351
+00:55:25,680 --> 00:55:32,640
+done work creating trees that are corn
+
+1352
+00:55:29,760 --> 00:55:33,920
+corn stalks that are 15 feet tall give
+
+1353
+00:55:32,640 --> 00:55:35,940
+or take
+
+1354
+00:55:33,920 --> 00:55:38,160
+some of the research that we have done
+
+1355
+00:55:35,940 --> 00:55:40,800
+has produced uh turnips that are about
+
+1356
+00:55:38,160 --> 00:55:43,800
+10 pounds and five pound carrots stuff
+
+1357
+00:55:40,800 --> 00:55:45,599
+like that really quite amazing using uh
+
+1358
+00:55:43,800 --> 00:55:47,880
+using these ormus elements in
+
+1359
+00:55:45,599 --> 00:55:49,500
+conjunction with an energy form with
+
+1360
+00:55:47,880 --> 00:55:51,059
+basically etheric energy we'll be
+
+1361
+00:55:49,500 --> 00:55:52,980
+talking about that in a minute so
+
+1362
+00:55:51,059 --> 00:55:55,980
+essentially fruits and vegetables grow
+
+1363
+00:55:52,980 --> 00:55:58,020
+faster and larger than
+
+1364
+00:55:55,980 --> 00:56:00,480
+um than they do without without this
+
+1365
+00:55:58,020 --> 00:56:02,220
+type of uh stimulation because they
+
+1366
+00:56:00,480 --> 00:56:04,200
+really really need it now let me talk
+
+1367
+00:56:02,220 --> 00:56:05,640
+about gold in the use of Agriculture
+
+1368
+00:56:04,200 --> 00:56:07,380
+really quickly
+
+1369
+00:56:05,640 --> 00:56:10,260
+um so friends of mine met a gentleman
+
+1370
+00:56:07,380 --> 00:56:12,240
+who was richer than sin just had a lot
+
+1371
+00:56:10,260 --> 00:56:14,400
+of money to throw around and he had
+
+1372
+00:56:12,240 --> 00:56:16,920
+heard that gold will stimulate plant
+
+1373
+00:56:14,400 --> 00:56:18,359
+growth so instead of trying these little
+
+1374
+00:56:16,920 --> 00:56:19,920
+experiments
+
+1375
+00:56:18,359 --> 00:56:22,859
+he went out and built himself a
+
+1376
+00:56:19,920 --> 00:56:24,180
+greenhouse of pounded gold foil now it's
+
+1377
+00:56:22,859 --> 00:56:27,300
+very expensive it's the same stuff they
+
+1378
+00:56:24,180 --> 00:56:29,760
+use on on the astronaut's face Shields
+
+1379
+00:56:27,300 --> 00:56:31,740
+so really expensive stuff he pound gold
+
+1380
+00:56:29,760 --> 00:56:33,300
+flat out to a molecule thick you can see
+
+1381
+00:56:31,740 --> 00:56:35,640
+through it but it reflects certain
+
+1382
+00:56:33,300 --> 00:56:37,920
+amounts of uh radiation and stuff like
+
+1383
+00:56:35,640 --> 00:56:40,740
+that it's an excellent filter he created
+
+1384
+00:56:37,920 --> 00:56:42,720
+an entire Greenhouse like this and he
+
+1385
+00:56:40,740 --> 00:56:45,480
+was also getting this type of response
+
+1386
+00:56:42,720 --> 00:56:49,619
+he did not have tomato plants he had
+
+1387
+00:56:45,480 --> 00:56:51,780
+tomato trees and things like that
+
+1388
+00:56:49,619 --> 00:56:54,420
+so the applications here are tremendous
+
+1389
+00:56:51,780 --> 00:56:57,180
+okay there's a reason why people have
+
+1390
+00:56:54,420 --> 00:56:59,099
+people have desired and wanted gold
+
+1391
+00:56:57,180 --> 00:57:01,140
+since the beginning of time as a matter
+
+1392
+00:56:59,099 --> 00:57:03,420
+of fact I was in a as an interesting
+
+1393
+00:57:01,140 --> 00:57:05,160
+side note I was in a room with some
+
+1394
+00:57:03,420 --> 00:57:08,460
+gentleman and they received their assay
+
+1395
+00:57:05,160 --> 00:57:11,160
+from their mind and their assay was a
+
+1396
+00:57:08,460 --> 00:57:13,619
+huge amount of of rhodium and iridium
+
+1397
+00:57:11,160 --> 00:57:15,780
+and platinum and very very little gold
+
+1398
+00:57:13,619 --> 00:57:18,300
+and they threw the assay down on the
+
+1399
+00:57:15,780 --> 00:57:22,619
+table and by the way at the time rhodium
+
+1400
+00:57:18,300 --> 00:57:26,160
+was around 900 an ounce iridium 12. gold
+
+1401
+00:57:22,619 --> 00:57:27,960
+was maybe 250. and they threw this assay
+
+1402
+00:57:26,160 --> 00:57:30,059
+down on the table and discussed and says
+
+1403
+00:57:27,960 --> 00:57:32,700
+I don't want platinum and rhodium and
+
+1404
+00:57:30,059 --> 00:57:35,220
+iridium I want gold well for crying out
+
+1405
+00:57:32,700 --> 00:57:37,140
+loud there was a Much More Much More
+
+1406
+00:57:35,220 --> 00:57:38,819
+Much More values in the rhodium and
+
+1407
+00:57:37,140 --> 00:57:41,220
+iridium but there's a reason why people
+
+1408
+00:57:38,819 --> 00:57:45,000
+desire the gold and we'll be getting to
+
+1409
+00:57:41,220 --> 00:57:47,099
+that in conventional research
+
+1410
+00:57:45,000 --> 00:57:49,319
+oh I've mentioned the organic rhodium
+
+1411
+00:57:47,099 --> 00:57:50,760
+and iridium found in the brain now we
+
+1412
+00:57:49,319 --> 00:57:51,740
+did some very interesting research with
+
+1413
+00:57:50,760 --> 00:57:54,540
+that
+
+1414
+00:57:51,740 --> 00:57:56,160
+utilizing uh the electric water that
+
+1415
+00:57:54,540 --> 00:57:59,099
+I've been talking about at the table out
+
+1416
+00:57:56,160 --> 00:58:01,140
+there and that beautiful purple liquid
+
+1417
+00:57:59,099 --> 00:58:02,160
+that I talked that we that I showed on
+
+1418
+00:58:01,140 --> 00:58:04,680
+the screen
+
+1419
+00:58:02,160 --> 00:58:06,720
+you take that into your body and in very
+
+1420
+00:58:04,680 --> 00:58:09,000
+interesting things happen inside of your
+
+1421
+00:58:06,720 --> 00:58:11,099
+brain you start having
+
+1422
+00:58:09,000 --> 00:58:14,040
+incredible memory you start having
+
+1423
+00:58:11,099 --> 00:58:15,720
+incredibly lucid dreams and the stories
+
+1424
+00:58:14,040 --> 00:58:18,059
+go on from there we can talk about that
+
+1425
+00:58:15,720 --> 00:58:19,380
+outside now I want to I want to stress
+
+1426
+00:58:18,059 --> 00:58:21,240
+that most of the things I'm talking
+
+1427
+00:58:19,380 --> 00:58:23,220
+about this in particular
+
+1428
+00:58:21,240 --> 00:58:25,680
+this is not anecdotal this is personal
+
+1429
+00:58:23,220 --> 00:58:27,720
+experimental experience okay we did this
+
+1430
+00:58:25,680 --> 00:58:29,700
+we did this work it wasn't somebody else
+
+1431
+00:58:27,720 --> 00:58:30,900
+so I can so everything I'm talking about
+
+1432
+00:58:29,700 --> 00:58:35,160
+with this
+
+1433
+00:58:30,900 --> 00:58:37,619
+was uh is is personal testimony okay
+
+1434
+00:58:35,160 --> 00:58:40,079
+lastly this is conventional research by
+
+1435
+00:58:37,619 --> 00:58:42,839
+the way ruthenium I mentioned that it
+
+1436
+00:58:40,079 --> 00:58:44,880
+has been used in DNA research
+
+1437
+00:58:42,839 --> 00:58:48,000
+they take ruthenium and they put a
+
+1438
+00:58:44,880 --> 00:58:50,940
+single ruthenium molecule right there or
+
+1439
+00:58:48,000 --> 00:58:53,220
+excuse me ruthenium element atom that's
+
+1440
+00:58:50,940 --> 00:58:55,440
+the word Adam right there and right
+
+1441
+00:58:53,220 --> 00:58:57,240
+there at the end of a DNA structure and
+
+1442
+00:58:55,440 --> 00:58:59,700
+you know what it does to the DNA
+
+1443
+00:58:57,240 --> 00:59:02,940
+turns the DNA into a superconductor
+
+1444
+00:58:59,700 --> 00:59:05,040
+the DNA cannot reproduce wrong because
+
+1445
+00:59:02,940 --> 00:59:07,319
+all of the information all of the
+
+1446
+00:59:05,040 --> 00:59:09,599
+information is communicated back and
+
+1447
+00:59:07,319 --> 00:59:11,460
+forth exactly
+
+1448
+00:59:09,599 --> 00:59:13,140
+in other in other convention this this
+
+1449
+00:59:11,460 --> 00:59:15,000
+is conventional research in other
+
+1450
+00:59:13,140 --> 00:59:16,920
+conventional research they do the same
+
+1451
+00:59:15,000 --> 00:59:18,839
+thing with Platinum
+
+1452
+00:59:16,920 --> 00:59:21,740
+they put Platinum here and platinum here
+
+1453
+00:59:18,839 --> 00:59:25,619
+and what happens is that the DNA strand
+
+1454
+00:59:21,740 --> 00:59:28,260
+unwinds and lays flat and then begins to
+
+1455
+00:59:25,619 --> 00:59:32,640
+wind in a manner that is very very
+
+1456
+00:59:28,260 --> 00:59:34,980
+conducive to to healthy regeneration
+
+1457
+00:59:32,640 --> 00:59:36,420
+that's conventional research their
+
+1458
+00:59:34,980 --> 00:59:40,380
+problem is that they can't figure out
+
+1459
+00:59:36,420 --> 00:59:42,480
+how to put the the atoms on the end of
+
+1460
+00:59:40,380 --> 00:59:43,980
+every single molecule in your body but
+
+1461
+00:59:42,480 --> 00:59:46,559
+it's actually quite simple when you go
+
+1462
+00:59:43,980 --> 00:59:48,059
+into the high spin State because they
+
+1463
+00:59:46,559 --> 00:59:49,799
+naturally migrate to where they need to
+
+1464
+00:59:48,059 --> 00:59:52,859
+be anyway and we'll be talking about
+
+1465
+00:59:49,799 --> 00:59:56,640
+that with the water in just a moment
+
+1466
+00:59:52,859 --> 00:59:58,680
+here is gold in the body how many of you
+
+1467
+00:59:56,640 --> 01:00:01,559
+have ever had any work done with dark
+
+1468
+00:59:58,680 --> 01:00:05,040
+field microscopy raise your hand
+
+1469
+01:00:01,559 --> 01:00:07,980
+okay dark field Micron okay wow there we
+
+1470
+01:00:05,040 --> 01:00:10,260
+go not very many but some okay thank you
+
+1471
+01:00:07,980 --> 01:00:12,599
+you can turn that down now so we can see
+
+1472
+01:00:10,260 --> 01:00:15,180
+the screen appreciate that guys
+
+1473
+01:00:12,599 --> 01:00:18,720
+okay what we have here is a dark field
+
+1474
+01:00:15,180 --> 01:00:20,880
+microscopy video of a live blood cell
+
+1475
+01:00:18,720 --> 01:00:23,940
+now there are a lot of things that can
+
+1476
+01:00:20,880 --> 01:00:27,299
+go wrong and uh with with taking a live
+
+1477
+01:00:23,940 --> 01:00:29,160
+blood cell analysis but they can be very
+
+1478
+01:00:27,299 --> 01:00:31,380
+very accurate in certain ways you don't
+
+1479
+01:00:29,160 --> 01:00:33,359
+have to kill the blood you don't have to
+
+1480
+01:00:31,380 --> 01:00:35,339
+stain the blood you're literally looking
+
+1481
+01:00:33,359 --> 01:00:37,740
+at a holographic representation about
+
+1482
+01:00:35,339 --> 01:00:40,319
+what's going on in the body so dark
+
+1483
+01:00:37,740 --> 01:00:42,240
+field microscopy dark field microscopy
+
+1484
+01:00:40,319 --> 01:00:44,880
+or live blood analysis in conjunction
+
+1485
+01:00:42,240 --> 01:00:45,780
+with with the dry layer technique can
+
+1486
+01:00:44,880 --> 01:00:48,000
+tell you
+
+1487
+01:00:45,780 --> 01:00:49,520
+massive amount of things about your body
+
+1488
+01:00:48,000 --> 01:00:51,660
+about what's going on inside of you
+
+1489
+01:00:49,520 --> 01:00:53,220
+unfortunately it doesn't translate very
+
+1490
+01:00:51,660 --> 01:00:54,900
+well to pictures
+
+1491
+01:00:53,220 --> 01:00:56,640
+you need to see it on a moving video
+
+1492
+01:00:54,900 --> 01:00:58,619
+screen in order to really see what's
+
+1493
+01:00:56,640 --> 01:01:00,359
+going on but basically we have what we
+
+1494
+01:00:58,619 --> 01:01:02,339
+have are these cells these are your red
+
+1495
+01:01:00,359 --> 01:01:05,760
+blood cells and this is actually very
+
+1496
+01:01:02,339 --> 01:01:08,160
+unhealthy blood see the the misshapen
+
+1497
+01:01:05,760 --> 01:01:10,500
+blood see how it's uh see how it's
+
+1498
+01:01:08,160 --> 01:01:12,599
+bulged out and star patterns bottle caps
+
+1499
+01:01:10,500 --> 01:01:17,180
+you want to see some because that's
+
+1500
+01:01:12,599 --> 01:01:21,359
+normal but this person has problems well
+
+1501
+01:01:17,180 --> 01:01:23,040
+these little spots right here
+
+1502
+01:01:21,359 --> 01:01:24,480
+and some of them are and some of them
+
+1503
+01:01:23,040 --> 01:01:25,440
+aren't you can only tell if they're
+
+1504
+01:01:24,480 --> 01:01:27,839
+moving
+
+1505
+01:01:25,440 --> 01:01:31,619
+but these little spots are in fact what
+
+1506
+01:01:27,839 --> 01:01:34,500
+are called Regulators or protists or
+
+1507
+01:01:31,619 --> 01:01:37,440
+there's numerous names for them they are
+
+1508
+01:01:34,500 --> 01:01:41,220
+the communicators and digesters of the
+
+1509
+01:01:37,440 --> 01:01:43,079
+body when in a proper pH these run
+
+1510
+01:01:41,220 --> 01:01:45,720
+around and clean off the outside of your
+
+1511
+01:01:43,079 --> 01:01:46,980
+cells they communicate back and forth to
+
+1512
+01:01:45,720 --> 01:01:49,380
+different areas of the body they tell
+
+1513
+01:01:46,980 --> 01:01:51,599
+the white blood cells hey we just had a
+
+1514
+01:01:49,380 --> 01:01:53,220
+scrape and it's totally infected go to
+
+1515
+01:01:51,599 --> 01:01:54,839
+that spot right now and all the white
+
+1516
+01:01:53,220 --> 01:01:56,880
+blood cells run there which are by the
+
+1517
+01:01:54,839 --> 01:01:59,819
+way they're dual nuclei cells they're
+
+1518
+01:01:56,880 --> 01:02:03,059
+also T cells so you increase your immune
+
+1519
+01:01:59,819 --> 01:02:06,059
+system boost up your uh boost up the the
+
+1520
+01:02:03,059 --> 01:02:09,119
+T cell count and naturally of course not
+
+1521
+01:02:06,059 --> 01:02:11,099
+by getting sick and you basically become
+
+1522
+01:02:09,119 --> 01:02:12,599
+more and more taking steps toward
+
+1523
+01:02:11,099 --> 01:02:14,579
+becoming immortal
+
+1524
+01:02:12,599 --> 01:02:16,380
+oh thank you
+
+1525
+01:02:14,579 --> 01:02:19,440
+moving right along
+
+1526
+01:02:16,380 --> 01:02:21,059
+gold what we found in these in this in
+
+1527
+01:02:19,440 --> 01:02:23,040
+our research in our in our particular
+
+1528
+01:02:21,059 --> 01:02:25,319
+research was that gold is in fact the
+
+1529
+01:02:23,040 --> 01:02:26,700
+PowerHouse of the blood
+
+1530
+01:02:25,319 --> 01:02:28,859
+the more
+
+1531
+01:02:26,700 --> 01:02:32,160
+High spin elements gold you have in your
+
+1532
+01:02:28,859 --> 01:02:34,200
+body the less these basically break down
+
+1533
+01:02:32,160 --> 01:02:35,880
+and destroy your body and the more they
+
+1534
+01:02:34,200 --> 01:02:39,240
+the more they actually help and rebuild
+
+1535
+01:02:35,880 --> 01:02:42,480
+and regenerate re-energize your body
+
+1536
+01:02:39,240 --> 01:02:46,079
+and the the father of modern dark field
+
+1537
+01:02:42,480 --> 01:02:48,780
+microscopy Dr enderlein actually calls
+
+1538
+01:02:46,079 --> 01:02:52,740
+these Regulators in the blood which as I
+
+1539
+01:02:48,780 --> 01:02:54,540
+said relate to the amount of ormus or uh
+
+1540
+01:02:52,740 --> 01:02:56,819
+high-spin element gold that you have in
+
+1541
+01:02:54,540 --> 01:02:58,920
+your body he calls them the colloids of
+
+1542
+01:02:56,819 --> 01:03:02,220
+Light which beget the colloids of life
+
+1543
+01:02:58,920 --> 01:03:05,579
+without these we die okay it's just that
+
+1544
+01:03:02,220 --> 01:03:07,380
+simple in space research
+
+1545
+01:03:05,579 --> 01:03:08,700
+let me talk about magnetic fields really
+
+1546
+01:03:07,380 --> 01:03:10,260
+quick and then I'll get into the space
+
+1547
+01:03:08,700 --> 01:03:11,460
+research
+
+1548
+01:03:10,260 --> 01:03:14,180
+um
+
+1549
+01:03:11,460 --> 01:03:14,180
+what's that
+
+1550
+01:03:14,940 --> 01:03:19,079
+oh okay sorry
+
+1551
+01:03:17,099 --> 01:03:20,579
+um
+
+1552
+01:03:19,079 --> 01:03:21,960
+what we have here are pictures of the
+
+1553
+01:03:20,579 --> 01:03:23,280
+magnetic fields of the earth and if we
+
+1554
+01:03:21,960 --> 01:03:25,380
+have enough time I'll tell you a little
+
+1555
+01:03:23,280 --> 01:03:27,420
+secret about magnetic fields that are
+
+1556
+01:03:25,380 --> 01:03:30,240
+that really really benefits anybody that
+
+1557
+01:03:27,420 --> 01:03:33,299
+does any research in uh well let's say
+
+1558
+01:03:30,240 --> 01:03:34,559
+magnetic motors and such but what we're
+
+1559
+01:03:33,299 --> 01:03:37,799
+talk what we're looking at here is the
+
+1560
+01:03:34,559 --> 01:03:39,680
+magnetic fields of the Earth and when we
+
+1561
+01:03:37,799 --> 01:03:42,299
+started measuring them approximately
+
+1562
+01:03:39,680 --> 01:03:44,460
+eighteen hundreds 1900s the field was
+
+1563
+01:03:42,299 --> 01:03:48,000
+about 13 Gauss
+
+1564
+01:03:44,460 --> 01:03:49,859
+now the field is down to 0.3 Gauss
+
+1565
+01:03:48,000 --> 01:03:52,319
+there's a number of reasons why that's
+
+1566
+01:03:49,859 --> 01:03:54,299
+happening huge debate over it but we
+
+1567
+01:03:52,319 --> 01:03:55,859
+know that it is happening we estimate
+
+1568
+01:03:54,299 --> 01:03:58,740
+that at the time of those temples were
+
+1569
+01:03:55,859 --> 01:04:00,240
+built and such the core samples show
+
+1570
+01:03:58,740 --> 01:04:02,579
+that the the
+
+1571
+01:04:00,240 --> 01:04:04,260
+magnetic field was up over a thousand
+
+1572
+01:04:02,579 --> 01:04:06,240
+gals
+
+1573
+01:04:04,260 --> 01:04:08,700
+now what happens in the body when when
+
+1574
+01:04:06,240 --> 01:04:11,579
+the magnetic field goes to zero living
+
+1575
+01:04:08,700 --> 01:04:13,260
+living systems need desperately need
+
+1576
+01:04:11,579 --> 01:04:16,260
+magnetic fields
+
+1577
+01:04:13,260 --> 01:04:18,960
+and this is the Dr Dean bonnelly's work
+
+1578
+01:04:16,260 --> 01:04:20,579
+if you want to look him up he created a
+
+1579
+01:04:18,960 --> 01:04:23,160
+chamber that they could lower the
+
+1580
+01:04:20,579 --> 01:04:25,619
+magnetic field to zero essentially the
+
+1581
+01:04:23,160 --> 01:04:27,299
+first stage the mice spontaneously
+
+1582
+01:04:25,619 --> 01:04:28,859
+developed Cancers and tumors that
+
+1583
+01:04:27,299 --> 01:04:31,319
+normally only only happen when they are
+
+1584
+01:04:28,859 --> 01:04:34,140
+injected by toxins
+
+1585
+01:04:31,319 --> 01:04:35,520
+second stage they had memory loss upon
+
+1586
+01:04:34,140 --> 01:04:38,040
+dissection they had all the symptoms
+
+1587
+01:04:35,520 --> 01:04:40,319
+they had all the problems of Alzheimer's
+
+1588
+01:04:38,040 --> 01:04:41,640
+and third stage they had spontaneous
+
+1589
+01:04:40,319 --> 01:04:42,660
+death now is that happening in the world
+
+1590
+01:04:41,640 --> 01:04:45,420
+today
+
+1591
+01:04:42,660 --> 01:04:48,980
+okay magnetic fields are very important
+
+1592
+01:04:45,420 --> 01:04:48,980
+to living systems oops
+
+1593
+01:04:49,260 --> 01:04:51,920
+what's that
+
+1594
+01:04:52,859 --> 01:04:58,140
+they will go through the reversal after
+
+1595
+01:04:55,020 --> 01:05:00,480
+they after they drop to zero they stay
+
+1596
+01:04:58,140 --> 01:05:02,220
+at zero for three days if you do not
+
+1597
+01:05:00,480 --> 01:05:04,319
+have a magnetic field in those three
+
+1598
+01:05:02,220 --> 01:05:06,960
+days there's a high possibility you will
+
+1599
+01:05:04,319 --> 01:05:09,720
+either die or lose your memory
+
+1600
+01:05:06,960 --> 01:05:10,819
+as evidenced by the mice and and other
+
+1601
+01:05:09,720 --> 01:05:13,920
+evidence
+
+1602
+01:05:10,819 --> 01:05:15,359
+archaeological evidence too by the way
+
+1603
+01:05:13,920 --> 01:05:18,000
+okay
+
+1604
+01:05:15,359 --> 01:05:19,619
+when you Char I'm running out of time
+
+1605
+01:05:18,000 --> 01:05:21,780
+here so I had to skip a little bit I'd
+
+1606
+01:05:19,619 --> 01:05:24,000
+be happy to talk to everybody about some
+
+1607
+01:05:21,780 --> 01:05:25,740
+of the other potentials of these
+
+1608
+01:05:24,000 --> 01:05:28,859
+um out in the lobby after the uh after
+
+1609
+01:05:25,740 --> 01:05:31,260
+the presentation when you charge what or
+
+1610
+01:05:28,859 --> 01:05:33,480
+excuse me when you charge energy
+
+1611
+01:05:31,260 --> 01:05:34,859
+with these etheric elements now I
+
+1612
+01:05:33,480 --> 01:05:36,720
+personally believe I don't know how many
+
+1613
+01:05:34,859 --> 01:05:39,599
+people were here for the presentation
+
+1614
+01:05:36,720 --> 01:05:42,540
+that they were talking about uh Dr Moray
+
+1615
+01:05:39,599 --> 01:05:44,220
+and how and his uh and his um
+
+1616
+01:05:42,540 --> 01:05:46,020
+and the elements that he used in his
+
+1617
+01:05:44,220 --> 01:05:47,400
+tubes I personally believe that these
+
+1618
+01:05:46,020 --> 01:05:50,280
+were the elements that he originally
+
+1619
+01:05:47,400 --> 01:05:52,740
+used before he went into the the uh the
+
+1620
+01:05:50,280 --> 01:05:55,140
+radioactive materials because of the
+
+1621
+01:05:52,740 --> 01:05:57,420
+work that we have that we have done when
+
+1622
+01:05:55,140 --> 01:05:58,920
+you couple the etheric energy generated
+
+1623
+01:05:57,420 --> 01:06:01,680
+by these
+
+1624
+01:05:58,920 --> 01:06:03,540
+um by these elements with regular
+
+1625
+01:06:01,680 --> 01:06:08,220
+electricity
+
+1626
+01:06:03,540 --> 01:06:10,260
+and run them through water literally the
+
+1627
+01:06:08,220 --> 01:06:12,240
+water will hold a magnetic field
+
+1628
+01:06:10,260 --> 01:06:13,619
+it becomes very beneficial to the body
+
+1629
+01:06:12,240 --> 01:06:16,799
+and your spirit I have a buddy who
+
+1630
+01:06:13,619 --> 01:06:19,319
+drinks uh this electric water solely for
+
+1631
+01:06:16,799 --> 01:06:20,760
+the purpose of controlling his temper
+
+1632
+01:06:19,319 --> 01:06:22,440
+because he has a violent temper and when
+
+1633
+01:06:20,760 --> 01:06:23,880
+he drinks about an ounce he's able to
+
+1634
+01:06:22,440 --> 01:06:25,859
+control it so it has something to do
+
+1635
+01:06:23,880 --> 01:06:28,260
+with the magnetic field on the body
+
+1636
+01:06:25,859 --> 01:06:29,700
+so what we have done is essentially
+
+1637
+01:06:28,260 --> 01:06:33,359
+coupled
+
+1638
+01:06:29,700 --> 01:06:35,160
+etheric energy we stimulate
+
+1639
+01:06:33,359 --> 01:06:35,880
+the elements that you see there on the
+
+1640
+01:06:35,160 --> 01:06:39,780
+table
+
+1641
+01:06:35,880 --> 01:06:40,980
+and get a response back now this ties in
+
+1642
+01:06:39,780 --> 01:06:42,839
+very well with some of the other
+
+1643
+01:06:40,980 --> 01:06:45,480
+lectures that have been presenting here
+
+1644
+01:06:42,839 --> 01:06:47,640
+because they are talking about pulsing
+
+1645
+01:06:45,480 --> 01:06:49,920
+with a magnetic field get a response
+
+1646
+01:06:47,640 --> 01:06:52,400
+stimulating or irritating and getting a
+
+1647
+01:06:49,920 --> 01:06:52,400
+response
+
+1648
+01:06:52,440 --> 01:06:54,980
+oh
+
+1649
+01:06:55,079 --> 01:06:59,220
+and lastly we've had very very
+
+1650
+01:06:57,000 --> 01:07:02,039
+interesting temporal dilation effects
+
+1651
+01:06:59,220 --> 01:07:05,280
+with this but we can talk about that out
+
+1652
+01:07:02,039 --> 01:07:06,839
+at the uh out at the booth the future
+
+1653
+01:07:05,280 --> 01:07:09,119
+research
+
+1654
+01:07:06,839 --> 01:07:11,039
+anyone who's doing any research in
+
+1655
+01:07:09,119 --> 01:07:12,720
+things like anti-gravity
+
+1656
+01:07:11,039 --> 01:07:14,819
+can benefit from researching these
+
+1657
+01:07:12,720 --> 01:07:17,220
+elements the reason why as I mentioned
+
+1658
+01:07:14,819 --> 01:07:20,520
+earlier etheric elements or super
+
+1659
+01:07:17,220 --> 01:07:22,799
+luminous light as Dr mileski calls it
+
+1660
+01:07:20,520 --> 01:07:25,200
+under certain circumstances
+
+1661
+01:07:22,799 --> 01:07:28,559
+Coast with an elect excuse me pulse with
+
+1662
+01:07:25,200 --> 01:07:31,200
+a magnetic and pulsed electrical field
+
+1663
+01:07:28,559 --> 01:07:34,980
+not an electrical magnetic AC field but
+
+1664
+01:07:31,200 --> 01:07:39,420
+a magnetic and a pulsed DC field these
+
+1665
+01:07:34,980 --> 01:07:41,640
+elements exhibit anti-gravity tendencies
+
+1666
+01:07:39,420 --> 01:07:44,760
+so these propulsion devices and such
+
+1667
+01:07:41,640 --> 01:07:48,079
+they would if utilizing utilizing DC
+
+1668
+01:07:44,760 --> 01:07:48,079
+pulses is really fantastic
+
+1669
+01:07:48,299 --> 01:07:53,099
+um once again propulsion if you have
+
+1670
+01:07:49,980 --> 01:07:56,220
+lift you can also have propulsion some
+
+1671
+01:07:53,099 --> 01:07:58,280
+people believe that the doctor and now
+
+1672
+01:07:56,220 --> 01:08:00,920
+his name is completely slipped my mind
+
+1673
+01:07:58,280 --> 01:08:02,480
+the doctor in Russia that is doing
+
+1674
+01:08:00,920 --> 01:08:05,819
+anti-gravity
+
+1675
+01:08:02,480 --> 01:08:07,500
+research some of them believe that the
+
+1676
+01:08:05,819 --> 01:08:11,160
+elements that he's using are in fact
+
+1677
+01:08:07,500 --> 01:08:12,960
+these high spin type 3 superconductors
+
+1678
+01:08:11,160 --> 01:08:15,900
+and coils
+
+1679
+01:08:12,960 --> 01:08:18,719
+or working or processing
+
+1680
+01:08:15,900 --> 01:08:20,940
+you need to study these because your
+
+1681
+01:08:18,719 --> 01:08:24,199
+assay for instance the Russian assay is
+
+1682
+01:08:20,940 --> 01:08:28,319
+done in high temperature and
+
+1683
+01:08:24,199 --> 01:08:31,440
+inert gases show one thing but when you
+
+1684
+01:08:28,319 --> 01:08:33,420
+process it out nothing shows up
+
+1685
+01:08:31,440 --> 01:08:35,339
+you need to study why that is happening
+
+1686
+01:08:33,420 --> 01:08:37,799
+and and how to manipulate these to get
+
+1687
+01:08:35,339 --> 01:08:40,679
+out what you want
+
+1688
+01:08:37,799 --> 01:08:43,500
+time dilation effects there are numerous
+
+1689
+01:08:40,679 --> 01:08:45,020
+reports of these even in my own personal
+
+1690
+01:08:43,500 --> 01:08:47,100
+experience
+
+1691
+01:08:45,020 --> 01:08:50,160
+one time
+
+1692
+01:08:47,100 --> 01:08:53,219
+driving with someone who had was very
+
+1693
+01:08:50,160 --> 01:08:57,839
+much charged up on these and we made a
+
+1694
+01:08:53,219 --> 01:09:00,299
+trip that takes six hours and this is
+
+1695
+01:08:57,839 --> 01:09:03,839
+honest truth took us two and a half
+
+1696
+01:09:00,299 --> 01:09:06,179
+hours no speeding whatsoever because of
+
+1697
+01:09:03,839 --> 01:09:08,900
+the mind's interaction with these high
+
+1698
+01:09:06,179 --> 01:09:08,900
+spin elements
+
+1699
+01:09:09,120 --> 01:09:13,799
+and lastly Health and Longevity we we
+
+1700
+01:09:11,400 --> 01:09:15,719
+personally are working on research on
+
+1701
+01:09:13,799 --> 01:09:18,359
+how to extend life
+
+1702
+01:09:15,719 --> 01:09:21,660
+and excuse me
+
+1703
+01:09:18,359 --> 01:09:24,060
+and find out why the body ages how and
+
+1704
+01:09:21,660 --> 01:09:27,120
+how we can stop the breakdown how we can
+
+1705
+01:09:24,060 --> 01:09:29,339
+promote regeneration
+
+1706
+01:09:27,120 --> 01:09:32,420
+so any questions
+
+1707
+01:09:29,339 --> 01:09:32,420
+are we about done
+
+1708
+01:09:33,540 --> 01:09:36,199
+thank you
+
+1709
+01:09:37,020 --> 01:09:40,699
+okay we have uh
+
+1710
+01:09:43,339 --> 01:09:49,020
+that was from 2005. what a great
+
+1711
+01:09:46,440 --> 01:09:51,420
+presentation and that's just a sample of
+
+1712
+01:09:49,020 --> 01:09:52,140
+what you can see at our conferences and
+
+1713
+01:09:51,420 --> 01:09:54,480
+note
+
+1714
+01:09:52,140 --> 01:09:56,820
+how he kept referring to his table for
+
+1715
+01:09:54,480 --> 01:09:59,400
+people who had more more questions and
+
+1716
+01:09:56,820 --> 01:10:00,660
+answers and need some answers
+
+1717
+01:09:59,400 --> 01:10:04,199
+um that's the importance of the
+
+1718
+01:10:00,660 --> 01:10:07,320
+conference I encourage all of you to uh
+
+1719
+01:10:04,199 --> 01:10:09,120
+uh consider uh coming to this year's
+
+1720
+01:10:07,320 --> 01:10:10,320
+conference I think it's going to be a
+
+1721
+01:10:09,120 --> 01:10:12,719
+great conference
+
+1722
+01:10:10,320 --> 01:10:15,000
+uh unfortunately Vern is no longer with
+
+1723
+01:10:12,719 --> 01:10:17,400
+us uh as far as I come to our
+
+1724
+01:10:15,000 --> 01:10:20,219
+conferences we hope to see him come back
+
+1725
+01:10:17,400 --> 01:10:23,820
+one of these days it's been about a good
+
+1726
+01:10:20,219 --> 01:10:25,560
+five years I believe and um
+
+1727
+01:10:23,820 --> 01:10:27,659
+and I hope you know maybe he might have
+
+1728
+01:10:25,560 --> 01:10:30,960
+time this year to show up or maybe he
+
+1729
+01:10:27,659 --> 01:10:34,860
+might even do a paper he's a talented a
+
+1730
+01:10:30,960 --> 01:10:36,900
+researcher and a great presentation
+
+1731
+01:10:34,860 --> 01:10:39,000
+um so um
+
+1732
+01:10:36,900 --> 01:10:40,800
+that's about all I got does anyone have
+
+1733
+01:10:39,000 --> 01:10:43,080
+any questions to shoot over the comments
+
+1734
+01:10:40,800 --> 01:10:43,860
+I'll keep my eyes open there
+
+1735
+01:10:43,080 --> 01:10:46,080
+um
+
+1736
+01:10:43,860 --> 01:10:47,640
+and let me uh go ahead and leave you
+
+1737
+01:10:46,080 --> 01:10:49,679
+with uh
+
+1738
+01:10:47,640 --> 01:10:51,540
+some words from uh Greg has it been
+
+1739
+01:10:49,679 --> 01:10:53,640
+going on for more than 40 years 25
+
+1740
+01:10:51,540 --> 01:10:54,900
+speakers or more each year so that's
+
+1741
+01:10:53,640 --> 01:10:56,820
+like a thousand or more of these
+
+1742
+01:10:54,900 --> 01:10:59,460
+presentations you can get and the fact
+
+1743
+01:10:56,820 --> 01:11:01,140
+is a lot of these guys are inventors and
+
+1744
+01:10:59,460 --> 01:11:02,760
+they had you know stuff that they have
+
+1745
+01:11:01,140 --> 01:11:04,500
+been showing this is the place where
+
+1746
+01:11:02,760 --> 01:11:06,239
+they come to show and tell and many of
+
+1747
+01:11:04,500 --> 01:11:08,699
+them are passed away and so the only
+
+1748
+01:11:06,239 --> 01:11:10,800
+place you can go to recover what they
+
+1749
+01:11:08,699 --> 01:11:14,040
+gave us what they gave to the world is
+
+1750
+01:11:10,800 --> 01:11:17,400
+teslotech magnetic motors water Theory
+
+1751
+01:11:14,040 --> 01:11:20,460
+and inventors uniquely displaying that
+
+1752
+01:11:17,400 --> 01:11:23,100
+great inventions over 50 years of the
+
+1753
+01:11:20,460 --> 01:11:25,860
+greatest Minds you have Royal Rife who
+
+1754
+01:11:23,100 --> 01:11:28,260
+invented the rife microscope Google them
+
+1755
+01:11:25,860 --> 01:11:30,300
+you have John Keeley he was not a
+
+1756
+01:11:28,260 --> 01:11:32,219
+charlatan Victor schomberger another
+
+1757
+01:11:30,300 --> 01:11:34,500
+brilliant mind specialized in vertical
+
+1758
+01:11:32,219 --> 01:11:36,659
+lift my name is Marco Rhoden I'm the
+
+1759
+01:11:34,500 --> 01:11:39,780
+discoverer of The Deco qubit I just
+
+1760
+01:11:36,659 --> 01:11:42,780
+completed a four hour workshop and it is
+
+1761
+01:11:39,780 --> 01:11:44,460
+available for you if you subscribe to
+
+1762
+01:11:42,780 --> 01:11:46,380
+Tesla Tech I was playing around with
+
+1763
+01:11:44,460 --> 01:11:47,880
+these rodent numbers but then I realized
+
+1764
+01:11:46,380 --> 01:11:49,440
+there's an application a really cool one
+
+1765
+01:11:47,880 --> 01:11:51,420
+one I've been working on for 10 years
+
+1766
+01:11:49,440 --> 01:11:53,880
+and that's basically an electron model I
+
+1767
+01:11:51,420 --> 01:11:56,340
+can I can model these numbers like their
+
+1768
+01:11:53,880 --> 01:11:58,980
+frequencies in in the next Direction a y
+
+1769
+01:11:56,340 --> 01:12:00,540
+direction a z Direction and they roll
+
+1770
+01:11:58,980 --> 01:12:02,100
+back into themselves the model is
+
+1771
+01:12:00,540 --> 01:12:03,420
+amazing it's three-dimensional it has
+
+1772
+01:12:02,100 --> 01:12:05,520
+all the properties I've been looking for
+
+1773
+01:12:03,420 --> 01:12:07,739
+for an electron model I'm very excited
+
+1774
+01:12:05,520 --> 01:12:09,260
+about it you're talking about Giants and
+
+1775
+01:12:07,739 --> 01:12:13,199
+free energy
+
+1776
+01:12:09,260 --> 01:12:16,140
+Fusion Electronics mathematics esoteric
+
+1777
+01:12:13,199 --> 01:12:18,239
+knowledge you must check this out it's a
+
+1778
+01:12:16,140 --> 01:12:20,040
+subscription only rightly so because
+
+1779
+01:12:18,239 --> 01:12:22,159
+you're talking about wisdom that you
+
+1780
+01:12:20,040 --> 01:12:25,380
+can't find anywhere on the internet
+
+1781
+01:12:22,159 --> 01:12:27,420
+breakthroughs or discoveries videos that
+
+1782
+01:12:25,380 --> 01:12:29,340
+you'll never find find anywhere else my
+
+1783
+01:12:27,420 --> 01:12:31,140
+name is Mon and I come from Georgia I've
+
+1784
+01:12:29,340 --> 01:12:33,540
+been coming with family and friends to
+
+1785
+01:12:31,140 --> 01:12:36,120
+the Tesla convention for almost 10 years
+
+1786
+01:12:33,540 --> 01:12:39,600
+the most prized possession was coming
+
+1787
+01:12:36,120 --> 01:12:41,640
+back home to Georgia with the CDs so
+
+1788
+01:12:39,600 --> 01:12:44,460
+when I just found out that all this
+
+1789
+01:12:41,640 --> 01:12:46,920
+material is available on YouTube for uh
+
+1790
+01:12:44,460 --> 01:12:49,500
+for a subscription we can go on YouTube
+
+1791
+01:12:46,920 --> 01:12:51,300
+we can subscribe we can sit together
+
+1792
+01:12:49,500 --> 01:12:53,580
+chat
+
+1793
+01:12:51,300 --> 01:12:56,580
+people this conference about this is a
+
+1794
+01:12:53,580 --> 01:12:59,159
+great channel for only 9.99 you get the
+
+1795
+01:12:56,580 --> 01:13:01,320
+legends of this field and you'll find
+
+1796
+01:12:59,159 --> 01:13:04,080
+the greatest array and world's biggest
+
+1797
+01:13:01,320 --> 01:13:07,380
+assortment of free energy over Unity
+
+1798
+01:13:04,080 --> 01:13:10,679
+Zero Point Energy space Power propulsion
+
+1799
+01:13:07,380 --> 01:13:13,260
+medical Counter Culture breakthrough
+
+1800
+01:13:10,679 --> 01:13:15,900
+technology all hosted there it's the
+
+1801
+01:13:13,260 --> 01:13:19,679
+largest video library ever assembled
+
+1802
+01:13:15,900 --> 01:13:21,120
+live on very good video takes and you
+
+1803
+01:13:19,679 --> 01:13:23,659
+can get involved you can be part of this
+
+1804
+01:13:21,120 --> 01:13:27,480
+process right emails have direct contact
+
+1805
+01:13:23,659 --> 01:13:29,580
+with with the speakers and guess what if
+
+1806
+01:13:27,480 --> 01:13:32,260
+you're truly inspired for what you see
+
+1807
+01:13:29,580 --> 01:13:41,219
+over there next year you can join us
+
+1808
+01:13:32,260 --> 01:13:44,420
+[Music]
+
+1809
+01:13:41,219 --> 01:13:46,560
+well uh once again
+
+1810
+01:13:44,420 --> 01:13:48,780
+I like people to sign up for the
+
+1811
+01:13:46,560 --> 01:13:51,960
+conference uh we still have a 30
+
+1812
+01:13:48,780 --> 01:13:54,300
+discount till next week you know so uh
+
+1813
+01:13:51,960 --> 01:13:57,800
+you sign up as soon as you can and Maria
+
+1814
+01:13:54,300 --> 01:13:57,800
+asked us if um
+
+1815
+01:13:57,900 --> 01:14:03,380
+if I remember what he said was a secret
+
+1816
+01:14:00,239 --> 01:14:03,380
+to magnetic fields
+
+1817
+01:14:03,840 --> 01:14:07,679
+I don't think he got back to that I
+
+1818
+01:14:06,239 --> 01:14:09,900
+think he just ran out of time you know
+
+1819
+01:14:07,679 --> 01:14:13,080
+because he covers a lot of material and
+
+1820
+01:14:09,900 --> 01:14:14,460
+uh Vernon has a lot of uh videos up on
+
+1821
+01:14:13,080 --> 01:14:18,679
+our uh
+
+1822
+01:14:14,460 --> 01:14:21,780
+on our uh channel here so uh just go to
+
+1823
+01:14:18,679 --> 01:14:23,699
+testatech.info and look up uh Verona and
+
+1824
+01:14:21,780 --> 01:14:26,640
+Roth you know in the speaker directory
+
+1825
+01:14:23,699 --> 01:14:28,620
+and yeah you see him all that we have up
+
+1826
+01:14:26,640 --> 01:14:32,159
+there right now and we have more to come
+
+1827
+01:14:28,620 --> 01:14:34,920
+and we even have auxilia
+
+1828
+01:14:32,159 --> 01:14:37,380
+videos that that would be relate like he
+
+1829
+01:14:34,920 --> 01:14:38,820
+talks about David Husband well we also
+
+1830
+01:14:37,380 --> 01:14:42,179
+have the Global Science conference
+
+1831
+01:14:38,820 --> 01:14:45,420
+videos up there uh up to 95 I think
+
+1832
+01:14:42,179 --> 01:14:47,159
+maybe 96 and uh we'll be putting more up
+
+1833
+01:14:45,420 --> 01:14:49,620
+there in a couple weeks so when I get
+
+1834
+01:14:47,159 --> 01:14:52,020
+more time and um
+
+1835
+01:14:49,620 --> 01:14:54,480
+and David Hudson is among among them so
+
+1836
+01:14:52,020 --> 01:14:58,320
+you're getting good source material to
+
+1837
+01:14:54,480 --> 01:15:01,620
+build on this okay and uh
+
+1838
+01:14:58,320 --> 01:15:03,480
+and I can't encourage people enough to
+
+1839
+01:15:01,620 --> 01:15:04,520
+just go out and uh come to the
+
+1840
+01:15:03,480 --> 01:15:09,060
+conference
+
+1841
+01:15:04,520 --> 01:15:12,060
+become uh meet the guys okay I think um
+
+1842
+01:15:09,060 --> 01:15:14,219
+I I think him he'll walk away with a
+
+1843
+01:15:12,060 --> 01:15:16,020
+friend that much I could probably I
+
+1844
+01:15:14,219 --> 01:15:18,120
+could probably give a written guarantee
+
+1845
+01:15:16,020 --> 01:15:19,260
+that you're going to meet someone who
+
+1846
+01:15:18,120 --> 01:15:22,980
+you um
+
+1847
+01:15:19,260 --> 01:15:24,360
+can connect with you know because the
+
+1848
+01:15:22,980 --> 01:15:26,880
+people come to this conference are
+
+1849
+01:15:24,360 --> 01:15:30,600
+unique uh
+
+1850
+01:15:26,880 --> 01:15:33,239
+a subset of this our population people
+
+1851
+01:15:30,600 --> 01:15:35,340
+talk to me well there's like a
+
+1852
+01:15:33,239 --> 01:15:38,280
+300 million people in the country or
+
+1853
+01:15:35,340 --> 01:15:42,179
+whatever uh and uh we should be getting
+
+1854
+01:15:38,280 --> 01:15:44,040
+a lot more millions of people well
+
+1855
+01:15:42,179 --> 01:15:46,920
+the people who think are really
+
+1856
+01:15:44,040 --> 01:15:50,580
+interested in this are so intelligent
+
+1857
+01:15:46,920 --> 01:15:51,960
+okay and wide range and and what they do
+
+1858
+01:15:50,580 --> 01:15:55,100
+and they connect a lot of different
+
+1859
+01:15:51,960 --> 01:15:58,260
+fields and that is not really a common
+
+1860
+01:15:55,100 --> 01:15:59,699
+aspect of the general population or any
+
+1861
+01:15:58,260 --> 01:16:01,679
+population
+
+1862
+01:15:59,699 --> 01:16:03,840
+but anyway with that
+
+1863
+01:16:01,679 --> 01:16:04,560
+um I just do want to make one more note
+
+1864
+01:16:03,840 --> 01:16:07,560
+um
+
+1865
+01:16:04,560 --> 01:16:10,920
+and that is when uh Vern was talking
+
+1866
+01:16:07,560 --> 01:16:12,840
+about these uh vast civilizations you
+
+1867
+01:16:10,920 --> 01:16:15,980
+know that we have no records of
+
+1868
+01:16:12,840 --> 01:16:18,900
+well look at our society and all we're
+
+1869
+01:16:15,980 --> 01:16:21,300
+converting more and more of our uh our
+
+1870
+01:16:18,900 --> 01:16:23,040
+resources our records to electronic
+
+1871
+01:16:21,300 --> 01:16:24,300
+means and that and we're getting rid of
+
+1872
+01:16:23,040 --> 01:16:27,179
+paper
+
+1873
+01:16:24,300 --> 01:16:30,120
+and so what I if a civilization has come
+
+1874
+01:16:27,179 --> 01:16:31,860
+along okay and look at our civilization
+
+1875
+01:16:30,120 --> 01:16:33,900
+and
+
+1876
+01:16:31,860 --> 01:16:36,120
+they didn't have the device you needed
+
+1877
+01:16:33,900 --> 01:16:36,960
+to actually read the record
+
+1878
+01:16:36,120 --> 01:16:38,460
+um
+
+1879
+01:16:36,960 --> 01:16:40,199
+doesn't mean that the records aren't
+
+1880
+01:16:38,460 --> 01:16:42,000
+there it just means that
+
+1881
+01:16:40,199 --> 01:16:44,340
+we don't have the technology to actually
+
+1882
+01:16:42,000 --> 01:16:45,900
+access them
+
+1883
+01:16:44,340 --> 01:16:48,900
+um
+
+1884
+01:16:45,900 --> 01:16:50,340
+right now I try to keep I I try to have
+
+1885
+01:16:48,900 --> 01:16:54,120
+some kind of written record whenever
+
+1886
+01:16:50,340 --> 01:16:54,840
+possible but it's just impossible
+
+1887
+01:16:54,120 --> 01:16:58,080
+um
+
+1888
+01:16:54,840 --> 01:16:59,520
+and someday I hope you get my magazine
+
+1889
+01:16:58,080 --> 01:17:00,360
+up and running again I'm working on it
+
+1890
+01:16:59,520 --> 01:17:02,820
+right now
+
+1891
+01:17:00,360 --> 01:17:05,219
+and in our programs I like sitting on
+
+1892
+01:17:02,820 --> 01:17:07,440
+our programs uh I already got this
+
+1893
+01:17:05,219 --> 01:17:09,120
+year's program printed
+
+1894
+01:17:07,440 --> 01:17:12,120
+um and I'd say you'll be getting that in
+
+1895
+01:17:09,120 --> 01:17:14,820
+the mail soon so I am
+
+1896
+01:17:12,120 --> 01:17:16,199
+definitely after Memorial Day uh we'll
+
+1897
+01:17:14,820 --> 01:17:17,340
+be able to get an entrepreneur more of
+
+1898
+01:17:16,199 --> 01:17:18,900
+that I think
+
+1899
+01:17:17,340 --> 01:17:22,860
+and uh
+
+1900
+01:17:18,900 --> 01:17:24,900
+just for a preview I'm not sure who I'm
+
+1901
+01:17:22,860 --> 01:17:27,179
+going to have for next week or what I'm
+
+1902
+01:17:24,900 --> 01:17:32,340
+gonna do uh it's kind of a short notice
+
+1903
+01:17:27,179 --> 01:17:34,400
+at this point but uh the week after
+
+1904
+01:17:32,340 --> 01:17:34,400
+um
+
+1905
+01:17:34,440 --> 01:17:41,159
+okay we will be in um
+
+1906
+01:17:37,620 --> 01:17:43,260
+and Indian Wells at the contact in the
+
+1907
+01:17:41,159 --> 01:17:46,440
+desert conference I come visit us at the
+
+1908
+01:17:43,260 --> 01:17:49,199
+table there we'll have a table there uh
+
+1909
+01:17:46,440 --> 01:17:51,239
+and that will be uh from June 1st uh
+
+1910
+01:17:49,199 --> 01:17:52,920
+this is the third I believe you know I
+
+1911
+01:17:51,239 --> 01:17:56,219
+need to just I'll put something up on
+
+1912
+01:17:52,920 --> 01:17:59,520
+the Internet before I leave uh or before
+
+1913
+01:17:56,219 --> 01:18:01,739
+next week and let you know um uh what's
+
+1914
+01:17:59,520 --> 01:18:03,360
+going on and where it's going to be at
+
+1915
+01:18:01,739 --> 01:18:04,679
+if you're in the neighborhood you might
+
+1916
+01:18:03,360 --> 01:18:08,400
+want to check it out but that's where
+
+1917
+01:18:04,679 --> 01:18:12,000
+I'll be so I I won't have a show
+
+1918
+01:18:08,400 --> 01:18:14,580
+on the week after next you know for sure
+
+1919
+01:18:12,000 --> 01:18:17,100
+uh the next
+
+1920
+01:18:14,580 --> 01:18:19,260
+sure I would definitely have
+
+1921
+01:18:17,100 --> 01:18:22,440
+will be in June
+
+1922
+01:18:19,260 --> 01:18:24,120
+um June 11th and uh
+
+1923
+01:18:22,440 --> 01:18:27,420
+I'm hoping to get some really super
+
+1924
+01:18:24,120 --> 01:18:28,020
+speakers by by that anyway
+
+1925
+01:18:27,420 --> 01:18:30,480
+um
+
+1926
+01:18:28,020 --> 01:18:33,960
+uh coming to our conference sign up this
+
+1927
+01:18:30,480 --> 01:18:34,739
+week if you can opt to get that 30 off
+
+1928
+01:18:33,960 --> 01:18:36,480
+um
+
+1929
+01:18:34,739 --> 01:18:39,300
+and if you
+
+1930
+01:18:36,480 --> 01:18:41,520
+if you bring two if two more sign up
+
+1931
+01:18:39,300 --> 01:18:42,659
+again extra five percent
+
+1932
+01:18:41,520 --> 01:18:46,140
+yeah
+
+1933
+01:18:42,659 --> 01:18:47,699
+and so uh that's a civil savings
+
+1934
+01:18:46,140 --> 01:18:49,560
+and
+
+1935
+01:18:47,699 --> 01:18:52,020
+if you have a
+
+1936
+01:18:49,560 --> 01:18:54,540
+a big group give me a call maybe I can
+
+1937
+01:18:52,020 --> 01:18:56,100
+make a arrangement for you to get you
+
+1938
+01:18:54,540 --> 01:18:58,760
+get you all break if you're all sign up
+
+1939
+01:18:56,100 --> 01:19:02,480
+for one time so anyway uh give me a call
+
+1940
+01:18:58,760 --> 01:19:02,480
+my number is uh
+
+1941
+01:19:02,659 --> 01:19:08,400
+520-463-1994 would be the office number
+
+1942
+01:19:05,960 --> 01:19:10,020
+or you can call me on my show you know
+
+1943
+01:19:08,400 --> 01:19:11,699
+I'll go ahead and take phone calls on my
+
+1944
+01:19:10,020 --> 01:19:14,280
+cell because anyway
+
+1945
+01:19:11,699 --> 01:19:17,580
+uh five two zero two five two zero three
+
+1946
+01:19:14,280 --> 01:19:18,300
+seven four or go to testatech.info
+
+1947
+01:19:17,580 --> 01:19:20,400
+um
+
+1948
+01:19:18,300 --> 01:19:23,219
+and uh check us out
+
+1949
+01:19:20,400 --> 01:19:25,860
+and you all have a great evening and uh
+
+1950
+01:19:23,219 --> 01:19:28,080
+I'll be seeing you all
+
+1951
+01:19:25,860 --> 01:19:30,960
+hopefully next week
+
+1952
+01:19:28,080 --> 01:19:34,040
+so thank you
+
+1953
+01:19:30,960 --> 01:19:34,040
+and that's gonna be a
+

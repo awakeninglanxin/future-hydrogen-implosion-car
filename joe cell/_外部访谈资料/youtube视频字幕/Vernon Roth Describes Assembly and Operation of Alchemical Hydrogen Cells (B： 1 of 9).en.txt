@@ -1,0 +1,396 @@
+hi sterling Allen here at we're at the
+Tesla tech conference 2011 in
+Albuquerque New Mexico July 29th and I'm
+with Vernon Roth here this is actually
+the second part of a two-part a video
+series the first part we'll have a link
+there in the bottom in this YouTube
+video where you can see where he
+described this chemical process where in
+his electrolysis scenario he's found
+that some of the elements that are in
+the water in certain electrolysis
+scenarios are duplicated whether they're
+minerals or whether they are chemicals
+chemical compounds and the question I
+didn't ask him was
+what about molecules like insulin for
+example could you
+he found that elements that are within
+the water are duplicated so that he
+started with one part in some cases he
+saw with the cycling of the water they
+actually had 13 times as much of that
+element at the end than they had at the
+beginning and this is true with gold
+particles and with some fairly complex
+chemical compounds that he that's right
+that's in part a we went through all
+that kind of the philosophy behind it
+and the part this video here is to
+describe the apparatus he's actually
+agreed to go ahead and take things apart
+and show us exactly how he makes that's
+not exactly I mean this is going to be
+fairly technical but you know it's not
+like he's going to show you you know a
+to Z but he is going to give us a good
+overview going through each component
+and now that I given that explanation I
+would like to go ahead and turn it over
+I'm going to go ahead and
+control the camera but I'd like vermin
+to recap what I just said in his words
+to begin with and then we'll we'll make
+this cut this video into what however
+segments we need to as Part B of this
+series all right let's go for it
+well thank you sir Liam thank you for
+everybody for being here and we're going
+to move on forward so I think that one
+of the most important things that we can
+you know that we can do with our energy
+and for the future is to find out more
+and better ways to use water in our
+world that's really a huge portion of my
+research as many of you experienced the
+spark of life water and its various
+incarnations and what that what it's
+used for that's really my driving focus
+the forces to find out different ways to
+use water in the world and so that's
+what I do with hydrogen and then make
+hydrogen and oxygen from from
+electricity and water so that's what
+we're talking about here and this is a
+basic cell this is what we call it dry
+cell before you get into them yeah this
+is actually take two the first thing we
+thought the camera was rolling in it
+wasn't
+tell us about what happened with after
+you gave your presentation two people
+came up to you Oh yesterday after I gave
+my presentation to people independently
+came up to me and said we also have
+experienced the multiplication of
+elements that we did not expect at all
+using energy magnetic fields and
+geometrical structures and occurring on
+a much on a much smaller scale than what
+we're experiencing here but it is
+occurring and so they said we were so
+glad that that someone else talked about
+it because now we know that we're not
+crazy now that we
+we know that this is actually reality so
+it's very exciting stuff and this is
+going to I feel like it's going to be
+happening more and more and many people
+may already actually be doing it and not
+knowing what's going on so with that
+said we will start with we'll start with
+hydrogen while we start where I started
+and what we have over here is a
+conventional well it uses some
+principles above voices work with
+hydrogen uses some principles of George
+Wiseman and Uwe Browns work with
+hydrogen the simple hydrogen cell with
+parallel stainless steel plates in it
+you input 120 volts DC and this it's not
+supposed to be in there and the gas
+comes out of the hydrogen unit goes into
+the reservoir which acts like a trap and
+an expansion chamber to trap vapors and
+then the gas feeds from the reservoir
+into a first stage bubbler which is this
+is a safety bubbler and it and it also
+serves as a a wash for the gas to wash
+off any sodium hydroxide and then the
+gas escapes out the top and this little
+hose you see down at the bottom is the
+water feed to the hydrogen device so gas
+a little bit of water comes out here and
+the water returns to the bottom and then
+fills the device this is a small device
+that well not not a not a very small
+device but it's a it's a simple device
+excuse me and this was commissioned by a
+friend of mine to run a to help run his
+diesel generator on his his mountain
+retreat and it uses the solar panels a
+set of solar panels about about a
+thousand watts of solar panel goes into
+this and boosts his hydrogen our suit
+boost is a diesel engine once it leaves
+that just just on a tangent what kind of
+improvements does he see on the diesel
+generator using that well what we
+calculated was that
+because there is no parasitic drag from
+an alternator to feed his to feed his
+engine using this and one other piece of
+technology that's not mine so I can't
+talk about it but it's a passive device
+he we calculated that he will get about
+a 90 percent boost in his diesel
+generator system so that's almost a
+double of his absolutely and then that's
+taken into account the wattage from the
+solar panel yes that take it's like a
+voltage multiplier we're using you're
+using water instead of and we're using
+water and hydrogen that is not what
+you're going to get if you have a
+parasitic dragon you're running it off
+your own generator that's just what the
+solar panels but he found that it was
+cheaper for him to do that and use a
+generator as his existing power source
+than it was to it to install a big solar
+system with batteries and all the
+electrical components would go along
+with that this is more plug-and-play for
+Hammond II and he likes that so this one
+is built for with 1,000 watt solar
+panels he was able to power his house
+1000 watts and a diesel generator in a
+diesel generator generator right so he's
+running his house on the diesel
+generator with a 1,000 watt solar panel
+right essentially okay and 9 and 10
+percent is this augmenting so he had
+he's also plugged into the grid or is he
+off grid he will be off grid once he
+goes this way because his electricity
+will be cheaper with this method than it
+will be off of the conventional grid
+system so this is also what I brought to
+show a simple system the most simple
+system that you can that you can deal
+that you can create hydrogen device
+reservoir bubbler and this is very safe
+and it's easy to me and it's got a lot
+of safeties built in especially at the
+end when the water or when the hydrogen
+comes out of there and goes into here
+this is our flashback arrestor and the
+last line of defense for this system
+which it's filled with water and it
+bubbles through it and then the gas goes
+so generally
+if we were running a torch we were going
+to run a torch safer welding of in a
+welding shop one more system would be
+installed here and that is this
+flashback arrestor and this is something
+off the shelf this is something off the
+shelf you buy them for forty to sixty
+dollars a pair you get it at any welding
+shop I recommend I highly recommend it
+and it's called a flashback is called a
+flashback or a spark back arrestor they
+use them for oxygen and acetylene
+torches as well as hydrogen torches as
+well I recommend on this system down
+here using any kind of conditioning of
+the DC that's coming into it are using
+it no we're not it's straight line DC
+and I went with I went with straight
+line DC because it's easier to work with
+the only current control that I that I
+put in the system is the number of
+plates and the concentration of catalyst
+when I start working with this I started
+working with electronic gizmos and the
+and the pulse width modulator and all
+that burned him up pretty quick and in
+my experimental phase realized I wanted
+something a little more foolproof and so
+I developed a way of calculating number
+of plates to the current ratios that I
+wanted and also the catalyst the amount
+of catalyst in the system could help
+control the current flow did we go over
+those numbers this morning we have not
+yet and so I was gonna I was going to
+outline that guys I can illustrate it
+very easily praise
+but essentially I'll just give you the
+numbers right now maximum two point two
+three volts per cell maximum one quarter
+watt there's even one quarter amp per
+square inch of plate surface so for
+instance we have a 6 by 6 plate here so
+that's 36 square inches and if we were
+using this the 6x6
+not including the ring in here just
+ignore
+if we were using the 6 by 6 plate
+putting current across that our limit
+would be 9 amps because 9 divided by 36
+is of course 4 so that's our 1/4 and per
+square inch that's a maximum amount I
+actually like to run about about using
+that plate I'd like to learn about 5
+amps just to make certain that there's a
+nice nice margin of safety there so
+whether you had 2 plates or a hundred
+plates you go based on one surface
+you're not going to exceed this cell
+system that's right by 5 amp and by 9
+amps that's right exactly
+now this system you know we'll get into
+that so we've got if we were using these
+plates we would go 9 amps since the
+since we've actually cut off surface
+area in this device I go less than 9
+amps and then we go to 2.3 5 volts or
+2.3 4 volts per cell so there's no
+longer than 2 points no more because
+you'll start to burn up your place okay
+so there's one two three four five six
+cells in there so you would not go more
+than 14 volts before the lay person I'm
+seeing you at 24 so this isn't this is a
+double unit okay there's a there's a
+negative plate in the center and a
+positive plate on one side on a positive
+plate on the other so what you're
+actually seeing is two two sets of
+hydrogen that a two stacked hydrogen
+device and so going from this side to
+this side what are you calling a cell
+the cell is the different distance
+between plates so there's one two three
+four five six cells in there and then we
+go to the other side
+one two three four oh I'm sorry there's
+no there's six the other six okay six so
+there's six on each side with it with an
+with a negative center so there's a
+positive and a negative positive on the
+other side set to positive negative
+twelve piece of metal makes a 6-cell
+plate yeah and this this appears to be
+the conventional cell that you can buy
+on almost any hydrogen cell device but
+it's not and we'll get into the
+difference but we have we have two
+inputs fuel in our Sumeet water in
+hydrogen out say what yeah there's 13
+plates there well 13 pieces of metal
+yeah 13 pieces of metal negative in the
+center and you can see I slip on a
+little super neutral negative you call
+it new neutral neutral are the ones in
+between the negative and the positive
+okay you just put on a little Spade
+connector on the bottom slip it on and
+and then the positive go up there a
+little Spade connector on the edges I
+sell this for about four three hundred
+bucks
+this is actually my breather unit I used
+this to breathe Browns gas but we'll get
+into that as we as we move forward so
+that is the essential that is
+essentially what we're dealing with here
+only that one it's a larger scale so
+there's there's sixty plates in that
+device with a nice nice little water
+jacket on either side to make certain
+things stay cool and 60 plates takes 120
+volts so that's 2 volts per cell so or
+you know there abouts
+and on that one we're dealing with a
+little bit larger larger plates so I can
+actually go up to 12 amps per per per 12
+pounds for the whole unit because the
+plates are actually larger so for the
+voltage it's additive for the number of
+cells right and four amp it's it's based
+on the surface of one a single of cells
+right we start with max we're in a
+series
+system so it's the it's the the amperage
+is based off of one plate versus the
+voltage being based off of the entire
+set of plates okay so that's a little
+bit of the technicalities that we we go
+into with this with this type of
+hydrogen device and these are these are
+rules that have been tried out many
+tried and proven many times if you go
+over amperage you'll start to
+crystallize your plates and they won't
+produce gas very well if you go over
+voltage just start to break down your
+you'll just start to break down your
+plates and let me add rules or whether
+they are chemicals chemical compounds
+and the question I didn't ask him ways
+what about molecules like insulin for
+example could you he founded elements
+that are within the water are duplicated
+so that if he started with one part in
+some cases he saw with the cycling of
+the water they actually had thirteen
+times as much of that element at the end
+than they had at the beginning and this
+is true with gold particles and with
+some fairly complex chemical compounds
+said he that's right that's in Part A we
+went through all that kind of the
+philosophy behind it and the part this
+video here is to describe the apparatus
+he's actually agreed to go ahead and
+take things apart and show us exactly
+how he makes that's not exactly I mean
+this is going to be fairly technical but
+you know it's not like he's going to
+show you you know a to Z but he is going
+to give us a good overview going through
+each component and now that I given that
+explanation I would i sterling Allen
+here I we're at the Tesla tech
+conference 2011 you know
+New Mexico July 29th and I'm with Verna
+Roth here this is actually the second
+part of a two-part a video series the
+first part will have link there in the
+bottom in this YouTube video where you
+can see where he described this chemical
+process where in his electrolysis
+scenario he's found that some of the
+elements that are in the water in
+certain electrolysis scenarios are
+duplicated whether they're armed in
+future is to find out more and better
+ways to use water in our world that's
+really a huge portion of my research as
+many of you experienced the spark of
+life water and its various incarnations
+and what that what it's used for that's
+really my driving forces to find out
+different ways to use water in the world
+and so that's what I do with hydrogen
+and then make hydrogen and oxygen from
+from electricity and water so that's
+what we're talking about here and this
+is a basic cell this is what we call it
+dry sunlight to go ahead and turn it
+over I'm going to go ahead and control
+the camera but I'd like Vernon to recap
+what I just said in his words to begin
+with and then we'll we'll make this cut
+this video into what however segments we
+need to as Part B of this series all
+right let's go for it
+well thank you sterling and thank you
+for everybody for being here and we're
+going to move on forward so I think that
+one of the most important things that we
+can you know that we can do with our
+energy and for the
