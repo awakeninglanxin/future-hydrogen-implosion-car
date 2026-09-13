@@ -1,0 +1,9060 @@
+1
+00:00:00,000 --> 00:00:06,080
+But uh for those who don't know, my name
+
+2
+00:00:01,960 --> 00:00:08,080
+is Danny uh O'Kudanani. So, I uh studied
+
+3
+00:00:06,080 --> 00:00:10,880
+physics and computer science at
+
+4
+00:00:08,080 --> 00:00:12,840
+Georgetown University. Uh may not be the
+
+5
+00:00:10,880 --> 00:00:14,600
+uh brightest classroom student, but I'm
+
+6
+00:00:12,840 --> 00:00:16,400
+definitely probably one of the more
+
+7
+00:00:14,600 --> 00:00:18,320
+sharper ones when it comes to uh
+
+8
+00:00:16,400 --> 00:00:21,000
+hands-on research.
+
+9
+00:00:18,320 --> 00:00:23,840
+Uh about 2 years ago, maybe 3, I don't
+
+10
+00:00:21,000 --> 00:00:26,400
+remember, I got bored and I wanted to
+
+11
+00:00:23,840 --> 00:00:28,760
+apply some of my CAT skills to
+
+12
+00:00:26,400 --> 00:00:30,680
+replicating uh some of Schauberger's
+
+13
+00:00:28,760 --> 00:00:32,920
+work. I have always respected Viktor
+
+14
+00:00:30,680 --> 00:00:34,880
+Schauberger. I've actually been
+
+15
+00:00:32,920 --> 00:00:36,840
+following with a lot of this stuff since
+
+16
+00:00:34,880 --> 00:00:38,880
+I was in high school. So, you know, I'm
+
+17
+00:00:36,840 --> 00:00:40,560
+like crustacean of the internet. So,
+
+18
+00:00:38,880 --> 00:00:42,880
+whatever I can find, I just go and I
+
+19
+00:00:40,560 --> 00:00:45,360
+consume naturally. And it just so
+
+20
+00:00:42,880 --> 00:00:46,880
+happened that uh you know, when I was
+
+21
+00:00:45,360 --> 00:00:49,920
+looking at my old stuff that I've
+
+22
+00:00:46,880 --> 00:00:51,920
+scrapped up, I had enough like images
+
+23
+00:00:49,920 --> 00:00:54,200
+that I could conceive of how I might
+
+24
+00:00:51,920 --> 00:00:55,320
+design certain parts. Now, an argument
+
+25
+00:00:54,200 --> 00:00:57,320
+I'm going to make towards the end of
+
+26
+00:00:55,320 --> 00:00:59,320
+this presentation is that all of the
+
+27
+00:00:57,320 --> 00:01:01,160
+repulsines that we've ever seen today
+
+28
+00:00:59,320 --> 00:01:03,440
+that have been documented in terms of
+
+29
+00:01:01,160 --> 00:01:05,239
+pictures are most likely they most
+
+30
+00:01:03,440 --> 00:01:07,800
+likely never flew. They were probably
+
+31
+00:01:05,239 --> 00:01:09,280
+some sort of prototype or prototypes
+
+32
+00:01:07,800 --> 00:01:11,440
+which were intended to demonstrate
+
+33
+00:01:09,280 --> 00:01:14,000
+fundamental principles like Schauberger
+
+34
+00:01:11,440 --> 00:01:16,560
+principles which could be used for a
+
+35
+00:01:14,000 --> 00:01:18,160
+repulsine which actually did fly. Now,
+
+36
+00:01:16,560 --> 00:01:19,920
+I'm also making the argument that there
+
+37
+00:01:18,160 --> 00:01:21,800
+are there's probably there's more than
+
+38
+00:01:19,920 --> 00:01:23,360
+enough evidence and eyewitness accounts
+
+39
+00:01:21,800 --> 00:01:25,880
+that there was a repulsine which did
+
+40
+00:01:23,360 --> 00:01:27,560
+fly. And without going into all of the
+
+41
+00:01:25,880 --> 00:01:29,480
+nitty-gritty technical details and
+
+42
+00:01:27,560 --> 00:01:31,280
+making a pure and hard science of it,
+
+43
+00:01:29,480 --> 00:01:32,840
+just like a like
+
+44
+00:01:31,280 --> 00:01:34,680
+workable science.
+
+45
+00:01:32,840 --> 00:01:35,960
+Uh we're going to go into maybe how that
+
+46
+00:01:34,680 --> 00:01:37,920
+repulsine would have worked and then
+
+47
+00:01:35,960 --> 00:01:40,120
+some adjacent things as well.
+
+48
+00:01:37,920 --> 00:01:42,480
+Um he also had a submarine that has some
+
+49
+00:01:40,120 --> 00:01:44,200
+good attributes. You'll see things like
+
+50
+00:01:42,480 --> 00:01:46,400
+a common thread like the diaphragm. So,
+
+51
+00:01:44,200 --> 00:01:50,040
+without further ado, let's get into
+
+52
+00:01:46,400 --> 00:01:51,360
+this. So, here we are. And uh so, the
+
+53
+00:01:50,040 --> 00:01:53,680
+road map today is going to be
+
+54
+00:01:51,360 --> 00:01:55,640
+backgrounder intro. Uh you know, I like
+
+55
+00:01:53,680 --> 00:01:57,320
+science. So, I'm going to spend a bit of
+
+56
+00:01:55,640 --> 00:01:59,720
+time kind of clarifying well, what
+
+57
+00:01:57,320 --> 00:02:02,040
+science is within the, you know, world
+
+58
+00:01:59,720 --> 00:02:03,560
+of, well, just in terms of
+
+59
+00:02:02,040 --> 00:02:05,680
+science general, and then we're going to
+
+60
+00:02:03,560 --> 00:02:07,360
+dive into who Viktor Schauberger is,
+
+61
+00:02:05,680 --> 00:02:09,520
+because there's often a lot of
+
+62
+00:02:07,360 --> 00:02:11,800
+misunderstanding with the stuff that
+
+63
+00:02:09,520 --> 00:02:13,800
+Schauberger has done. He's often labeled
+
+64
+00:02:11,800 --> 00:02:14,959
+as a pseudo-scientist, and I find that a
+
+65
+00:02:13,800 --> 00:02:16,400
+lot of people don't even know what that
+
+66
+00:02:14,959 --> 00:02:19,600
+means. It's kind of thrown around like
+
+67
+00:02:16,400 --> 00:02:21,200
+the word conspiracy. And that doesn't
+
+68
+00:02:19,600 --> 00:02:22,840
+work against that doesn't work to
+
+69
+00:02:21,200 --> 00:02:24,520
+scientific progress. And I'm all about
+
+70
+00:02:22,840 --> 00:02:26,400
+people going out there and doing
+
+71
+00:02:24,520 --> 00:02:28,760
+scientific research. I love scientific
+
+72
+00:02:26,400 --> 00:02:30,120
+research, or loved. Still trying to keep
+
+73
+00:02:28,760 --> 00:02:32,760
+that love even though it's been pretty
+
+74
+00:02:30,120 --> 00:02:34,520
+hard hard to do with the mainstream.
+
+75
+00:02:32,760 --> 00:02:36,040
+So, that'll be part one. Then part two
+
+76
+00:02:34,520 --> 00:02:39,720
+we'll talk about what is implosion.
+
+77
+00:02:36,040 --> 00:02:41,200
+Implosion is is is key in describing any
+
+78
+00:02:39,720 --> 00:02:43,480
+of the systems that I generally do
+
+79
+00:02:41,200 --> 00:02:45,959
+research on. So, if you talk to any
+
+80
+00:02:43,480 --> 00:02:47,320
+normal physicist or engineer,
+
+81
+00:02:45,959 --> 00:02:49,320
+most of the time if you're ever going to
+
+82
+00:02:47,320 --> 00:02:51,680
+try to talk about a system which is not
+
+83
+00:02:49,320 --> 00:02:53,560
+like spitting something out, they're
+
+84
+00:02:51,680 --> 00:02:55,600
+going to say it violates Newton's laws
+
+85
+00:02:53,560 --> 00:02:57,200
+in some ways, unless you're articulating
+
+86
+00:02:55,600 --> 00:02:59,000
+unless you're using a provision, a
+
+87
+00:02:57,200 --> 00:03:02,000
+working provision that comes from a
+
+88
+00:02:59,000 --> 00:03:03,920
+technical framework that, you know,
+
+89
+00:03:02,000 --> 00:03:05,840
+mitigates this or like incorporates
+
+90
+00:03:03,920 --> 00:03:08,800
+Newton in some sort of way with like
+
+91
+00:03:05,840 --> 00:03:11,320
+more modern physics. And the reason for
+
+92
+00:03:08,800 --> 00:03:13,680
+that is because physicists and any kind
+
+93
+00:03:11,320 --> 00:03:15,920
+of operational engineering works from
+
+94
+00:03:13,680 --> 00:03:17,680
+the principles of explosion. Implosion
+
+95
+00:03:15,920 --> 00:03:20,200
+hasn't really been well known, and if
+
+96
+00:03:17,680 --> 00:03:22,959
+you start describing implosion, it often
+
+97
+00:03:20,200 --> 00:03:25,720
+sounds like bootstrapping, and it's very
+
+98
+00:03:22,959 --> 00:03:28,320
+distinct and very different. Implosion
+
+99
+00:03:25,720 --> 00:03:30,040
+as a science is you can make you can
+
+100
+00:03:28,320 --> 00:03:32,640
+work with it operatively generally. I
+
+101
+00:03:30,040 --> 00:03:33,959
+use a very distinct formalism of Mach. I
+
+102
+00:03:32,640 --> 00:03:35,360
+didn't even know I was dealing with
+
+103
+00:03:33,959 --> 00:03:37,519
+implosion when I first started this
+
+104
+00:03:35,360 --> 00:03:39,640
+field, but Viktor Schauberger is
+
+105
+00:03:37,519 --> 00:03:41,480
+basically the grandfather or the father
+
+106
+00:03:39,640 --> 00:03:43,120
+of implosion technology. His mind is
+
+107
+00:03:41,480 --> 00:03:44,840
+incredible.
+
+108
+00:03:43,120 --> 00:03:47,320
+Working with Schauberger is like talking
+
+109
+00:03:44,840 --> 00:03:49,640
+about Carl Jung. His work is voluminous
+
+110
+00:03:47,320 --> 00:03:51,600
+and uses very distinct language. And so,
+
+111
+00:03:49,640 --> 00:03:53,880
+it's very easy to say Schauberger is
+
+112
+00:03:51,600 --> 00:03:56,120
+kind of an esoteric, you know, person
+
+113
+00:03:53,880 --> 00:03:57,960
+making up his own cocktail of things,
+
+114
+00:03:56,120 --> 00:04:00,200
+but he wasn't a technically trained
+
+115
+00:03:57,960 --> 00:04:02,040
+scientific person. So, he's not going to
+
+116
+00:04:00,200 --> 00:04:03,680
+go and invoke something like, you know,
+
+117
+00:04:02,040 --> 00:04:06,000
+Archimedes principle or Bernoulli's
+
+118
+00:04:03,680 --> 00:04:08,720
+effect. And so, that's important.
+
+119
+00:04:06,000 --> 00:04:10,800
+So, moving on, part three will be the
+
+120
+00:04:08,720 --> 00:04:12,840
+working science. So, there is a working
+
+121
+00:04:10,800 --> 00:04:14,280
+science and I have generalized a few
+
+122
+00:04:12,840 --> 00:04:16,079
+things, but I'm not going to have time
+
+123
+00:04:14,280 --> 00:04:17,560
+to go into all of those things I've
+
+124
+00:04:16,079 --> 00:04:18,720
+generalized today, especially in terms
+
+125
+00:04:17,560 --> 00:04:20,840
+of the math,
+
+126
+00:04:18,720 --> 00:04:22,600
+how I don't like the math, but it's
+
+127
+00:04:20,840 --> 00:04:24,480
+helpful for those who want to go and
+
+128
+00:04:22,600 --> 00:04:27,360
+apply certain principles.
+
+129
+00:04:24,480 --> 00:04:29,800
+I'll go over three important things
+
+130
+00:04:27,360 --> 00:04:31,200
+within the working science. So,
+
+131
+00:04:29,800 --> 00:04:34,000
+basically, we're going to talk about the
+
+132
+00:04:31,200 --> 00:04:35,400
+PKS method. I'm not going to explain how
+
+133
+00:04:34,000 --> 00:04:37,640
+it all works, but this is the approach
+
+134
+00:04:35,400 --> 00:04:39,840
+that was refined by Victor Schauberger's
+
+135
+00:04:37,640 --> 00:04:41,720
+son, Walter. And then we'll go into
+
+136
+00:04:39,840 --> 00:04:43,520
+Mach's principle because the way that we
+
+137
+00:04:41,720 --> 00:04:45,360
+can justify implosive systems, or at
+
+138
+00:04:43,520 --> 00:04:47,600
+least the way that I've been doing so
+
+139
+00:04:45,360 --> 00:04:49,240
+from the provisions of just normal
+
+140
+00:04:47,600 --> 00:04:52,240
+science without trying to invoke
+
+141
+00:04:49,240 --> 00:04:54,320
+anything new, is by using Mach's
+
+142
+00:04:52,240 --> 00:04:55,840
+principle and a really unique, distinct,
+
+143
+00:04:54,320 --> 00:04:57,760
+incorporate I mean, distinct
+
+144
+00:04:55,840 --> 00:04:59,320
+articulation of Mach's principle. And
+
+145
+00:04:57,760 --> 00:05:00,960
+then we talk about the fluid dynamics
+
+146
+00:04:59,320 --> 00:05:02,440
+and we don't get into too much of the
+
+147
+00:05:00,960 --> 00:05:04,760
+nitty-gritty because it can really get
+
+148
+00:05:02,440 --> 00:05:06,640
+messy. Anybody who is an actual expert
+
+149
+00:05:04,760 --> 00:05:09,120
+on fluid dynamics understands that hate
+
+150
+00:05:06,640 --> 00:05:10,480
+the math. It's a headache. But to
+
+151
+00:05:09,120 --> 00:05:12,600
+describe what are going on, I mean,
+
+152
+00:05:10,480 --> 00:05:14,400
+these are technically fluid mechanical
+
+153
+00:05:12,600 --> 00:05:16,640
+systems. So, by necessity, they
+
+154
+00:05:14,400 --> 00:05:17,760
+necessitate something called kind of
+
+155
+00:05:16,640 --> 00:05:20,200
+putting myself in a circle there,
+
+156
+00:05:17,760 --> 00:05:22,880
+something called solitons. And solitons
+
+157
+00:05:20,200 --> 00:05:25,360
+are just basically the these
+
+158
+00:05:22,880 --> 00:05:28,080
+wave packets that travel at a constant
+
+159
+00:05:25,360 --> 00:05:29,320
+velocity. And they're mechanical when
+
+160
+00:05:28,080 --> 00:05:32,800
+they were first discovered and or at
+
+161
+00:05:29,320 --> 00:05:34,240
+least articulated in the 1800s. But when
+
+162
+00:05:32,800 --> 00:05:36,120
+we're talking about them in terms of
+
+163
+00:05:34,240 --> 00:05:37,400
+Schauberger's work, and actually in any
+
+164
+00:05:36,120 --> 00:05:38,840
+work, when you're going to find with
+
+165
+00:05:37,400 --> 00:05:40,840
+like implosion, we're also going to need
+
+166
+00:05:38,840 --> 00:05:43,000
+to touch on Helmholtz's theorems, which
+
+167
+00:05:40,840 --> 00:05:45,360
+is also often overlooked. A lot of these
+
+168
+00:05:43,000 --> 00:05:47,600
+things are used for very like
+
+169
+00:05:45,360 --> 00:05:50,040
+nuanced things in like physics and other
+
+170
+00:05:47,600 --> 00:05:52,840
+engineering, but their principles of
+
+171
+00:05:50,040 --> 00:05:55,200
+operation actually do scale quite large
+
+172
+00:05:52,840 --> 00:05:56,360
+and apply especially within enclosure.
+
+173
+00:05:55,200 --> 00:05:58,120
+And finally, we'll look at Bernoulli's
+
+174
+00:05:56,360 --> 00:06:00,000
+principle because for the repulsor
+
+175
+00:05:58,120 --> 00:06:02,080
+propulsion to work in principle, it was
+
+176
+00:06:00,000 --> 00:06:03,240
+operating within a media.
+
+177
+00:06:02,080 --> 00:06:05,360
+So, there is no such thing as a
+
+178
+00:06:03,240 --> 00:06:07,920
+perfectly closed system, at least if
+
+179
+00:06:05,360 --> 00:06:09,200
+we're dealing in the universe, right? Uh
+
+180
+00:06:07,920 --> 00:06:11,240
+and that's actually one of the
+
+181
+00:06:09,200 --> 00:06:12,800
+formalizations in Mach is that well, if
+
+182
+00:06:11,240 --> 00:06:15,040
+you assume the entire universe is
+
+183
+00:06:12,800 --> 00:06:16,320
+closed, then the subsystems within it
+
+184
+00:06:15,040 --> 00:06:17,680
+are basically like open when you're
+
+185
+00:06:16,320 --> 00:06:19,200
+dealing with things and exchanging with
+
+186
+00:06:17,680 --> 00:06:21,240
+mass and so,
+
+187
+00:06:19,200 --> 00:06:22,720
+um Bernoulli's principle is important
+
+188
+00:06:21,240 --> 00:06:25,120
+because it's just talking about what
+
+189
+00:06:22,720 --> 00:06:26,840
+happens when we change the surface area
+
+190
+00:06:25,120 --> 00:06:29,240
+of something that's flowing inside of
+
+191
+00:06:26,840 --> 00:06:30,760
+it. And uh there are different ways to
+
+192
+00:06:29,240 --> 00:06:32,520
+demonstrate it. All these like loop
+
+193
+00:06:30,760 --> 00:06:34,400
+together to try and make a working
+
+194
+00:06:32,520 --> 00:06:36,680
+argument of how the repulsor might have
+
+195
+00:06:34,400 --> 00:06:38,440
+worked if it did. Okay, and then we talk
+
+196
+00:06:36,680 --> 00:06:40,600
+about the actual repulsor and I just
+
+197
+00:06:38,440 --> 00:06:42,320
+throw in a few slides of what I did. And
+
+198
+00:06:40,600 --> 00:06:44,040
+then finally, we get into my own work.
+
+199
+00:06:42,320 --> 00:06:46,520
+So, enough yammering, let's just go
+
+200
+00:06:44,040 --> 00:06:48,480
+right into the uh slides, shall we? So,
+
+201
+00:06:46,520 --> 00:06:50,320
+who is Victor Schauberger? Didn't
+
+202
+00:06:48,480 --> 00:06:52,360
+preface this, but I am both millennial
+
+203
+00:06:50,320 --> 00:06:53,880
+and zoomer. And so, whenever you find my
+
+204
+00:06:52,360 --> 00:06:55,720
+slides, you're always going to find a
+
+205
+00:06:53,880 --> 00:06:57,520
+bit of meme culture in it. I can throw
+
+206
+00:06:55,720 --> 00:07:00,560
+that in wherever I can. I like to do
+
+207
+00:06:57,520 --> 00:07:03,560
+that. And so, uh Victor Schauberger as
+
+208
+00:07:00,560 --> 00:07:05,840
+told by Wikipedia, apparently in 2026
+
+209
+00:07:03,560 --> 00:07:07,720
+was a pseudo-scientist. Uh also a
+
+210
+00:07:05,840 --> 00:07:09,000
+naturalist and a philosopher trying to
+
+211
+00:07:07,720 --> 00:07:10,960
+make him sound a bit like, you know,
+
+212
+00:07:09,000 --> 00:07:12,520
+someone who's just, you know, on the a
+
+213
+00:07:10,960 --> 00:07:13,880
+fringe. And being on the fringe isn't
+
+214
+00:07:12,520 --> 00:07:16,120
+necessarily a bad thing, but I think
+
+215
+00:07:13,880 --> 00:07:18,680
+this is a poor representation, a poor
+
+216
+00:07:16,120 --> 00:07:21,040
+representation of uh our Schauberger
+
+217
+00:07:18,680 --> 00:07:22,000
+right here. And so, uh let's carry on.
+
+218
+00:07:21,040 --> 00:07:25,080
+So,
+
+219
+00:07:22,000 --> 00:07:27,080
+uh if you ask Deep Seek or ChatGPT, as
+
+220
+00:07:25,080 --> 00:07:29,200
+it turns out, Deep Seek will do maybe a
+
+221
+00:07:27,080 --> 00:07:31,280
+a better job. Uh it'll say that, you
+
+222
+00:07:29,200 --> 00:07:33,600
+know, there are some conspiracy theories
+
+223
+00:07:31,280 --> 00:07:35,280
+associated with his work. And those
+
+224
+00:07:33,600 --> 00:07:37,280
+usually come out of things related to
+
+225
+00:07:35,280 --> 00:07:39,880
+Nazi crafts and secret things that have
+
+226
+00:07:37,280 --> 00:07:43,000
+happened that uh nobody knows about. And
+
+227
+00:07:39,880 --> 00:07:46,080
+then ChatGPT did did ChatGPT did a more
+
+228
+00:07:43,000 --> 00:07:47,560
+honorable job of presenting him maybe, I
+
+229
+00:07:46,080 --> 00:07:49,880
+don't know, cuz it called him a fringe
+
+230
+00:07:47,560 --> 00:07:52,520
+inventor. And so, I don't know if any of
+
+231
+00:07:49,880 --> 00:07:54,120
+these things are accurate, but let's
+
+232
+00:07:52,520 --> 00:07:55,680
+first tackle this question. Well, what
+
+233
+00:07:54,120 --> 00:07:58,000
+is pseudoscience? I think that's a
+
+234
+00:07:55,680 --> 00:07:59,240
+really important question to tackle.
+
+235
+00:07:58,000 --> 00:08:01,280
+So, [clears throat] as told by
+
+236
+00:07:59,240 --> 00:08:02,840
+Wikipedia, let's also try to get into
+
+237
+00:08:01,280 --> 00:08:05,120
+the minds of the people who are using
+
+238
+00:08:02,840 --> 00:08:06,880
+this word. Pseudoscience consists of
+
+239
+00:08:05,120 --> 00:08:09,120
+statements, beliefs, or practices which
+
+240
+00:08:06,880 --> 00:08:11,000
+claim to be scientific or factual, but
+
+241
+00:08:09,120 --> 00:08:13,080
+are inherently incompatible with the
+
+242
+00:08:11,000 --> 00:08:15,400
+scientific method. Makes you wonder. So,
+
+243
+00:08:13,080 --> 00:08:16,760
+what constitutes a scientific here? And
+
+244
+00:08:15,400 --> 00:08:18,720
+we can also go into well, what
+
+245
+00:08:16,760 --> 00:08:20,160
+constitutes as the scientific method.
+
+246
+00:08:18,720 --> 00:08:21,400
+The scientific method is actually quite
+
+247
+00:08:20,160 --> 00:08:24,040
+broad, and there are different kind of
+
+248
+00:08:21,400 --> 00:08:25,760
+variations to it, but in like its
+
+249
+00:08:24,040 --> 00:08:28,000
+fundamental the fundamental way it's
+
+250
+00:08:25,760 --> 00:08:29,680
+practiced is generally the same.
+
+251
+00:08:28,000 --> 00:08:31,200
+So, let's look at what Cambridge says.
+
+252
+00:08:29,680 --> 00:08:32,760
+This is just a more generalized
+
+253
+00:08:31,200 --> 00:08:34,640
+definition. And you know, to get a
+
+254
+00:08:32,760 --> 00:08:36,599
+better definition of pseudoscience, it's
+
+255
+00:08:34,640 --> 00:08:37,919
+probably more helpful to go into like,
+
+256
+00:08:36,599 --> 00:08:39,760
+you know, the philosophers of science
+
+257
+00:08:37,919 --> 00:08:41,320
+who actually talk about these things.
+
+258
+00:08:39,760 --> 00:08:42,640
+It's a very small niche field within
+
+259
+00:08:41,320 --> 00:08:44,240
+science, but there are a lot of really
+
+260
+00:08:42,640 --> 00:08:45,839
+good philosophers within science which
+
+261
+00:08:44,240 --> 00:08:47,520
+talk about these things. Like, so what
+
+262
+00:08:45,839 --> 00:08:48,440
+is the science of doing science, and
+
+263
+00:08:47,520 --> 00:08:50,320
+what are we doing right? What are we
+
+264
+00:08:48,440 --> 00:08:51,520
+doing wrong? But anyway, so Cambridge
+
+265
+00:08:50,320 --> 00:08:52,880
+dictionary I didn't do that cuz I don't
+
+266
+00:08:51,520 --> 00:08:55,120
+have time for this slide. But anyway,
+
+267
+00:08:52,880 --> 00:08:57,120
+Cambridge dictionary 2020 60 says a
+
+268
+00:08:55,120 --> 00:08:58,480
+thought or theory which is not formed in
+
+269
+00:08:57,120 --> 00:09:00,839
+a scientific way. So, we're going to
+
+270
+00:08:58,480 --> 00:09:02,520
+have to uncover what that is.
+
+271
+00:09:00,839 --> 00:09:04,360
+So, I I made a working definition for
+
+272
+00:09:02,520 --> 00:09:06,640
+this, and it wasn't out of a vacuum.
+
+273
+00:09:04,360 --> 00:09:08,040
+It's based off of those two definitions,
+
+274
+00:09:06,640 --> 00:09:09,839
+and then kind of qualifying a bit
+
+275
+00:09:08,040 --> 00:09:12,600
+because I was actually in institutions
+
+276
+00:09:09,839 --> 00:09:14,400
+of science. Um, and you know, I like sat
+
+277
+00:09:12,600 --> 00:09:17,200
+down and did work on paper, and I also
+
+278
+00:09:14,400 --> 00:09:18,920
+got to be in labs a bit. So, it says
+
+279
+00:09:17,200 --> 00:09:20,960
+pseudoscience it would say is any type
+
+280
+00:09:18,920 --> 00:09:24,000
+of research which rejects or sidesteps
+
+281
+00:09:20,960 --> 00:09:26,240
+the scientific method. And so, it's the
+
+282
+00:09:24,000 --> 00:09:27,960
+practice of treating like subjective
+
+283
+00:09:26,240 --> 00:09:30,440
+principles, beliefs, or dogmas as
+
+284
+00:09:27,960 --> 00:09:32,640
+equivalent to scientific conclusions.
+
+285
+00:09:30,440 --> 00:09:33,720
+And so, the best way I can describe that
+
+286
+00:09:32,640 --> 00:09:34,600
+is
+
+287
+00:09:33,720 --> 00:09:36,920
+um,
+
+288
+00:09:34,600 --> 00:09:39,240
+well, so the sky is blue because it's
+
+289
+00:09:36,920 --> 00:09:40,960
+the color of divine truth. In science,
+
+290
+00:09:39,240 --> 00:09:42,880
+when we talk about truth, I always love
+
+291
+00:09:40,960 --> 00:09:44,800
+to default to Richard Feynman. So, the
+
+292
+00:09:42,880 --> 00:09:46,960
+test of all scientific truth is by
+
+293
+00:09:44,800 --> 00:09:48,520
+experiment. When science or scientists
+
+294
+00:09:46,960 --> 00:09:50,640
+are talking about truth, what we are
+
+295
+00:09:48,520 --> 00:09:53,000
+generally talking about is what we have
+
+296
+00:09:50,640 --> 00:09:54,560
+seen um objectively, like testing
+
+297
+00:09:53,000 --> 00:09:56,920
+something in lab again and again and
+
+298
+00:09:54,560 --> 00:09:59,040
+again, everyone individually, um and
+
+299
+00:09:56,920 --> 00:10:00,760
+kind of reaching a kind of a consensus
+
+300
+00:09:59,040 --> 00:10:02,960
+usually more or less on something which
+
+301
+00:10:00,760 --> 00:10:05,320
+has happened again. Uh it's not
+
+302
+00:10:02,960 --> 00:10:07,520
+something is going to be true because we
+
+303
+00:10:05,320 --> 00:10:09,040
+have a really strong reaction to it or,
+
+304
+00:10:07,520 --> 00:10:11,280
+you know, it's like a subjective thing.
+
+305
+00:10:09,040 --> 00:10:12,800
+It's an objective thing that happens.
+
+306
+00:10:11,280 --> 00:10:14,440
+But, you know, what we consider to be
+
+307
+00:10:12,800 --> 00:10:16,200
+objective, especially if we're trying to
+
+308
+00:10:14,440 --> 00:10:17,840
+use like certain working models, is
+
+309
+00:10:16,200 --> 00:10:20,280
+subject to change, and I'm going to talk
+
+310
+00:10:17,840 --> 00:10:21,880
+a bit about that, right? So, what are
+
+311
+00:10:20,280 --> 00:10:23,600
+some concrete examples of pseudoscience?
+
+312
+00:10:21,880 --> 00:10:25,720
+I have to be very careful with this. And
+
+313
+00:10:23,600 --> 00:10:27,040
+so, I don't mean to offend anybody, but
+
+314
+00:10:25,720 --> 00:10:29,000
+like I was just thinking about like in
+
+315
+00:10:27,040 --> 00:10:30,320
+the modern day, I think most people
+
+316
+00:10:29,000 --> 00:10:32,200
+would um
+
+317
+00:10:30,320 --> 00:10:33,680
+And it again, disagreements are welcome
+
+318
+00:10:32,200 --> 00:10:35,680
+because I think we need more of that in
+
+319
+00:10:33,680 --> 00:10:37,160
+science, but I think the most concrete
+
+320
+00:10:35,680 --> 00:10:38,560
+examples of pseudoscience I can think of
+
+321
+00:10:37,160 --> 00:10:39,760
+is the flat Earth just because, you
+
+322
+00:10:38,560 --> 00:10:41,560
+know, like recently there was the
+
+323
+00:10:39,760 --> 00:10:43,600
+mission again with Artemis and some of
+
+324
+00:10:41,560 --> 00:10:45,960
+the other stuff. So, we saw all those
+
+325
+00:10:43,600 --> 00:10:47,680
+nice balls floating out. So, and then
+
+326
+00:10:45,960 --> 00:10:49,800
+another one would be geocentrism, which
+
+327
+00:10:47,680 --> 00:10:51,920
+is the idea that the Earth is the center
+
+328
+00:10:49,800 --> 00:10:53,640
+of everything in the universe, right?
+
+329
+00:10:51,920 --> 00:10:55,240
+And like, you know, the sun orbits
+
+330
+00:10:53,640 --> 00:10:57,640
+around the Earth, right? So, something
+
+331
+00:10:55,240 --> 00:10:59,920
+like that. Um I guess by definition that
+
+332
+00:10:57,640 --> 00:11:01,839
+would be uh pseudoscience, right? So,
+
+333
+00:10:59,920 --> 00:11:03,320
+that's something which when we all take
+
+334
+00:11:01,839 --> 00:11:04,440
+our instruments and our tools and we
+
+335
+00:11:03,320 --> 00:11:06,800
+look at it,
+
+336
+00:11:04,440 --> 00:11:08,400
+um we would probably disagree because
+
+337
+00:11:06,800 --> 00:11:10,040
+based on what we're seeing or what we're
+
+338
+00:11:08,400 --> 00:11:11,080
+observing, the measurements are telling
+
+339
+00:11:10,040 --> 00:11:11,720
+us
+
+340
+00:11:11,080 --> 00:11:13,839
+um
+
+341
+00:11:11,720 --> 00:11:16,440
+the this these statements don't hold,
+
+342
+00:11:13,839 --> 00:11:18,280
+right? Okay. So, pseudoscience, let's
+
+343
+00:11:16,440 --> 00:11:21,040
+talk about the raven paradox. So,
+
+344
+00:11:18,280 --> 00:11:22,960
+science is not true just because 99 out
+
+345
+00:11:21,040 --> 00:11:24,920
+of 100 specialists say it's true. This
+
+346
+00:11:22,960 --> 00:11:27,360
+is a very common mentality that I've
+
+347
+00:11:24,920 --> 00:11:29,000
+grown up with as a like millennial and a
+
+348
+00:11:27,360 --> 00:11:30,839
+zoomer on the internet seeing people
+
+349
+00:11:29,000 --> 00:11:32,560
+say, "This works because science." And
+
+350
+00:11:30,839 --> 00:11:35,200
+science is like kind of put forward like
+
+351
+00:11:32,560 --> 00:11:38,600
+a god or religion. And science is a
+
+352
+00:11:35,200 --> 00:11:40,600
+democratic process, but it's also not
+
+353
+00:11:38,600 --> 00:11:42,280
+democratic in some regards. So, just
+
+354
+00:11:40,600 --> 00:11:43,880
+because 100 people are saying something
+
+355
+00:11:42,280 --> 00:11:46,240
+is true doesn't mean it's true. Science
+
+356
+00:11:43,880 --> 00:11:47,720
+is reliable because claims claims can be
+
+357
+00:11:46,240 --> 00:11:50,000
+tested, they can be challenged, and they
+
+358
+00:11:47,720 --> 00:11:52,360
+can be revised. So, that means that even
+
+359
+00:11:50,000 --> 00:11:53,600
+if 99 people, you know, believe that, I
+
+360
+00:11:52,360 --> 00:11:55,480
+don't know,
+
+361
+00:11:53,600 --> 00:11:57,800
+uh there's no such thing as an albino
+
+362
+00:11:55,480 --> 00:11:59,960
+pigeon or raven, not pigeon, right? As
+
+363
+00:11:57,800 --> 00:12:02,480
+long as one person finds evidence hard
+
+364
+00:11:59,960 --> 00:12:04,560
+evidence that there is an albino pigeon,
+
+365
+00:12:02,480 --> 00:12:06,480
+then that is an objective truth that's
+
+366
+00:12:04,560 --> 00:12:07,880
+been observed. And so, it's going to
+
+367
+00:12:06,480 --> 00:12:09,480
+have to cause some revision with the way
+
+368
+00:12:07,880 --> 00:12:11,320
+we do things. And that's the cool power
+
+369
+00:12:09,480 --> 00:12:13,040
+with science is anyone can go out there
+
+370
+00:12:11,320 --> 00:12:15,400
+and test things if they're following the
+
+371
+00:12:13,040 --> 00:12:17,800
+method faithfully. And uh
+
+372
+00:12:15,400 --> 00:12:19,440
+bring, you know, good data is what we
+
+373
+00:12:17,800 --> 00:12:21,040
+use to change and rework things. So, the
+
+374
+00:12:19,440 --> 00:12:23,040
+claim that all ravens are black can be
+
+375
+00:12:21,040 --> 00:12:24,720
+overturned by only one verified raven in
+
+376
+00:12:23,040 --> 00:12:26,720
+the same way that scientific consensus
+
+377
+00:12:24,720 --> 00:12:28,760
+is powerful, but it's not absolute
+
+378
+00:12:26,720 --> 00:12:30,320
+proof. So, then,
+
+379
+00:12:28,760 --> 00:12:32,160
+as I said before, I kind of alluded to
+
+380
+00:12:30,320 --> 00:12:34,000
+this, here is Richard Feynman. The test
+
+381
+00:12:32,160 --> 00:12:36,000
+of all knowledge is experiment, and sign
+
+382
+00:12:34,000 --> 00:12:38,520
+and experiment is the sole judge of
+
+383
+00:12:36,000 --> 00:12:40,640
+scientific truth. So, uh I love using
+
+384
+00:12:38,520 --> 00:12:43,280
+this as an operational definition for
+
+385
+00:12:40,640 --> 00:12:44,600
+like for truth in science uh without
+
+386
+00:12:43,280 --> 00:12:46,280
+getting too nitty-gritty philosophy
+
+387
+00:12:44,600 --> 00:12:47,880
+because I do love to moonlight as a
+
+388
+00:12:46,280 --> 00:12:49,200
+philosopher as well, but that's
+
+389
+00:12:47,880 --> 00:12:51,680
+something entirely different when it
+
+390
+00:12:49,200 --> 00:12:54,960
+comes to science. I am by nature an
+
+391
+00:12:51,680 --> 00:12:57,960
+experimentalist uh and a theoretician
+
+392
+00:12:54,960 --> 00:12:59,600
+only where uh necessity may call. So,
+
+393
+00:12:57,960 --> 00:13:01,360
+let's take a look here. I also got my
+
+394
+00:12:59,600 --> 00:13:03,040
+notes here separately on an iPad, so I'm
+
+395
+00:13:01,360 --> 00:13:05,680
+looking. So, I want to bring in a
+
+396
+00:13:03,040 --> 00:13:07,720
+caution here. So, it's very important.
+
+397
+00:13:05,680 --> 00:13:10,080
+So, uh scientific heresy does not equal
+
+398
+00:13:07,720 --> 00:13:12,000
+pseudoscience. So, by definition, heresy
+
+399
+00:13:10,080 --> 00:13:13,720
+is a teaching or dogma that differs from
+
+400
+00:13:12,000 --> 00:13:15,520
+what has already been formally uh put
+
+401
+00:13:13,720 --> 00:13:18,120
+forth by an authoritative body. That's a
+
+402
+00:13:15,520 --> 00:13:20,839
+very concrete like general definition of
+
+403
+00:13:18,120 --> 00:13:22,920
+heresy that is like interdisciplinary.
+
+404
+00:13:20,839 --> 00:13:24,800
+So, scientific heresy is a teaching or
+
+405
+00:13:22,920 --> 00:13:26,600
+approach to a subject which differs from
+
+406
+00:13:24,800 --> 00:13:28,880
+what has widely been taught or expressed
+
+407
+00:13:26,600 --> 00:13:31,320
+by a consensus of professionals or
+
+408
+00:13:28,880 --> 00:13:33,560
+experts. So, as illustrated in the raven
+
+409
+00:13:31,320 --> 00:13:35,920
+paradox, even scientific heresy can be
+
+410
+00:13:33,560 --> 00:13:38,200
+overturned and canonized into scientific
+
+411
+00:13:35,920 --> 00:13:39,520
+dogma. So, this is why whenever we're
+
+412
+00:13:38,200 --> 00:13:41,480
+doing science, we have to be very
+
+413
+00:13:39,520 --> 00:13:43,560
+careful and we have to give a lot of
+
+414
+00:13:41,480 --> 00:13:45,280
+patience to people, even the weird stuff
+
+415
+00:13:43,560 --> 00:13:46,680
+that we don't understand or the weird
+
+416
+00:13:45,280 --> 00:13:48,480
+stuff that we think we understand
+
+417
+00:13:46,680 --> 00:13:49,920
+thoroughly because that can always be
+
+418
+00:13:48,480 --> 00:13:51,480
+overturned by, you know, someone
+
+419
+00:13:49,920 --> 00:13:52,960
+bringing in a caged pigeon that we've
+
+420
+00:13:51,480 --> 00:13:54,880
+never seen. Here is some like actual
+
+421
+00:13:52,960 --> 00:13:58,080
+historical examples where this has
+
+422
+00:13:54,880 --> 00:14:00,280
+happened, right? So, we got
+
+423
+00:13:58,080 --> 00:14:02,000
+uh spooky action at a distance with uh
+
+424
+00:14:00,280 --> 00:14:03,560
+Louis de I'm going to screw up his name.
+
+425
+00:14:02,000 --> 00:14:05,120
+I'm not French. Uh de Broglie. So, we
+
+426
+00:14:03,560 --> 00:14:06,800
+got spooky action at a distance. We got
+
+427
+00:14:05,120 --> 00:14:09,720
+matter waves, very important and
+
+428
+00:14:06,800 --> 00:14:11,320
+fundamental. Um we got Eric Laithwaite
+
+429
+00:14:09,720 --> 00:14:13,840
+who is an incredible professor. He
+
+430
+00:14:11,320 --> 00:14:16,080
+actually uh was challenging Isaac Newton
+
+431
+00:14:13,840 --> 00:14:18,240
+for a time and then he repented and
+
+432
+00:14:16,080 --> 00:14:20,080
+said, "Yeah, Newton was right." But that
+
+433
+00:14:18,240 --> 00:14:21,760
+kind of wrestling is so, so important in
+
+434
+00:14:20,080 --> 00:14:24,120
+science and he was a real scientific man
+
+435
+00:14:21,760 --> 00:14:26,120
+and a man of experiment. And then I
+
+436
+00:14:24,120 --> 00:14:28,280
+can't say this name correctly, but this
+
+437
+00:14:26,120 --> 00:14:29,800
+fo- this fellow, he convinced us that
+
+438
+00:14:28,280 --> 00:14:31,560
+washing our hands could save life and
+
+439
+00:14:29,800 --> 00:14:33,480
+you'd think like that's, well, common
+
+440
+00:14:31,560 --> 00:14:34,880
+sense. Who wouldn't wash their hands?
+
+441
+00:14:33,480 --> 00:14:37,000
+Well, back in the day that wasn't really
+
+442
+00:14:34,880 --> 00:14:38,640
+a thing and so uh
+
+443
+00:14:37,000 --> 00:14:41,760
+again, scientific heresy, not
+
+444
+00:14:38,640 --> 00:14:43,360
+necessarily pseudoscience. Um but uh
+
+445
+00:14:41,760 --> 00:14:47,240
+yes. So, now let's talk about well, what
+
+446
+00:14:43,360 --> 00:14:49,480
+is real science, okay? So, real science
+
+447
+00:14:47,240 --> 00:14:51,240
+is not what a personality says and
+
+448
+00:14:49,480 --> 00:14:53,080
+sometimes it's not even what leading
+
+449
+00:14:51,240 --> 00:14:54,280
+theorists might tell you. So, like I've
+
+450
+00:14:53,080 --> 00:14:57,400
+been saying before, the scientific
+
+451
+00:14:54,280 --> 00:14:59,640
+method is accessible to everyone. Um
+
+452
+00:14:57,400 --> 00:15:01,200
+it's democratic in practice, but it's
+
+453
+00:14:59,640 --> 00:15:03,400
+objective in outcome. That's very
+
+454
+00:15:01,200 --> 00:15:05,080
+important. It is limited only by the
+
+455
+00:15:03,400 --> 00:15:07,600
+creativity of the human mind. The
+
+456
+00:15:05,080 --> 00:15:09,720
+scientific method is not an oligarchy of
+
+457
+00:15:07,600 --> 00:15:11,560
+qualified specialists. It's not limited
+
+458
+00:15:09,720 --> 00:15:13,400
+by um assumptions or prevalent
+
+459
+00:15:11,560 --> 00:15:15,760
+theoretical works. And it's also not
+
+460
+00:15:13,400 --> 00:15:18,040
+necessarily constrained by a special
+
+461
+00:15:15,760 --> 00:15:20,120
+faculties, right? So, just because
+
+462
+00:15:18,040 --> 00:15:22,480
+somebody has access to a billion-dollar
+
+463
+00:15:20,120 --> 00:15:24,320
+facility or, you know, something else
+
+464
+00:15:22,480 --> 00:15:26,560
+like all these special tools does not
+
+465
+00:15:24,320 --> 00:15:28,560
+mean does not mean that other people are
+
+466
+00:15:26,560 --> 00:15:30,680
+like prevented from doing any kind of
+
+467
+00:15:28,560 --> 00:15:32,920
+good work. In fact, you'll find many,
+
+468
+00:15:30,680 --> 00:15:35,120
+many times in science, the human mind is
+
+469
+00:15:32,920 --> 00:15:37,000
+so powerful that it's able to overcome
+
+470
+00:15:35,120 --> 00:15:38,960
+the barriers of having all of the nice
+
+471
+00:15:37,000 --> 00:15:41,080
+whistles. I can't remember the name, but
+
+472
+00:15:38,960 --> 00:15:43,080
+this is for anyone to go and study
+
+473
+00:15:41,080 --> 00:15:46,000
+in the field of like neuroscience. We
+
+474
+00:15:43,080 --> 00:15:48,560
+have colorized images of like incredible
+
+475
+00:15:46,000 --> 00:15:50,920
+images of neurons. Like before we had
+
+476
+00:15:48,560 --> 00:15:53,120
+any kind of MRI scanning and we all know
+
+477
+00:15:50,920 --> 00:15:54,640
+that MRIs, for them to work, we had to
+
+478
+00:15:53,120 --> 00:15:56,040
+have quantum mechanics worked out and
+
+479
+00:15:54,640 --> 00:15:58,040
+that wasn't worked out at all when we
+
+480
+00:15:56,040 --> 00:15:59,440
+got some of these images. And whenever I
+
+481
+00:15:58,040 --> 00:16:01,040
+look at some of these images, it's just
+
+482
+00:15:59,440 --> 00:16:02,720
+like a testament to me that if we really
+
+483
+00:16:01,040 --> 00:16:04,720
+want to learn something, we will find a
+
+484
+00:16:02,720 --> 00:16:06,800
+method of doing it. And there's kind of
+
+485
+00:16:04,720 --> 00:16:08,880
+an art to it. It's very difficult and it
+
+486
+00:16:06,800 --> 00:16:10,280
+seems impossible, but people are able to
+
+487
+00:16:08,880 --> 00:16:11,960
+get through that hurdle
+
+488
+00:16:10,280 --> 00:16:13,320
+with even their primitive tools. And you
+
+489
+00:16:11,960 --> 00:16:15,760
+know, they're able to graduate into
+
+490
+00:16:13,320 --> 00:16:17,440
+something that is quite workable, right?
+
+491
+00:16:15,760 --> 00:16:18,880
+And so I can't remember the fellow's
+
+492
+00:16:17,440 --> 00:16:20,640
+name. Anyone can go and look at it, but
+
+493
+00:16:18,880 --> 00:16:22,480
+anyway, he figured out a way to like
+
+494
+00:16:20,640 --> 00:16:24,560
+actually get a picture of the neurons
+
+495
+00:16:22,480 --> 00:16:26,040
+and it just colors absolutely gorgeous
+
+496
+00:16:24,560 --> 00:16:28,280
+and absolutely great for scientific
+
+497
+00:16:26,040 --> 00:16:29,760
+observation. And that's just one of one
+
+498
+00:16:28,280 --> 00:16:31,280
+example. There are many, many more
+
+499
+00:16:29,760 --> 00:16:33,120
+examples of this where we're able to
+
+500
+00:16:31,280 --> 00:16:34,960
+prove like really
+
+501
+00:16:33,120 --> 00:16:37,720
+really huge and important principles by
+
+502
+00:16:34,960 --> 00:16:38,760
+using very basic things around us.
+
+503
+00:16:37,720 --> 00:16:40,760
+So
+
+504
+00:16:38,760 --> 00:16:42,120
+going on, we got the scientific method.
+
+505
+00:16:40,760 --> 00:16:44,320
+Well, what is it? So this is a
+
+506
+00:16:42,120 --> 00:16:45,760
+non-exhaustive outline of the scientific
+
+507
+00:16:44,320 --> 00:16:48,080
+method. So it's just for the
+
+508
+00:16:45,760 --> 00:16:50,000
+intellectually curious. So basically,
+
+509
+00:16:48,080 --> 00:16:51,440
+what is the problem or I like to say
+
+510
+00:16:50,000 --> 00:16:53,640
+impossibility because most things are
+
+511
+00:16:51,440 --> 00:16:55,320
+generally impossible when our knowledge
+
+512
+00:16:53,640 --> 00:16:57,400
+is limited, right? And so that's where
+
+513
+00:16:55,320 --> 00:16:59,120
+science steps in. Is it truly impossible
+
+514
+00:16:57,400 --> 00:17:01,360
+or is are we thinking about this wrong?
+
+515
+00:16:59,120 --> 00:17:03,480
+So we have a good question and then from
+
+516
+00:17:01,360 --> 00:17:05,760
+that question we graduate into a
+
+517
+00:17:03,480 --> 00:17:06,920
+hypothesis or an educated guess. So it's
+
+518
+00:17:05,760 --> 00:17:09,079
+a very important that this is
+
+519
+00:17:06,920 --> 00:17:10,720
+falsifiable. So falsifiable means that
+
+520
+00:17:09,079 --> 00:17:12,280
+you're able to prove that it is wrong.
+
+521
+00:17:10,720 --> 00:17:13,760
+If it's not, then
+
+522
+00:17:12,280 --> 00:17:15,439
+it's not it doesn't work well with
+
+523
+00:17:13,760 --> 00:17:17,600
+science. It sounds like more of a matter
+
+524
+00:17:15,439 --> 00:17:19,079
+for philosophy or something else, right?
+
+525
+00:17:17,600 --> 00:17:20,800
+And I'm not trying to necessarily put a
+
+526
+00:17:19,079 --> 00:17:22,760
+barrier between them because I think
+
+527
+00:17:20,800 --> 00:17:24,319
+that the two sometimes they meet and
+
+528
+00:17:22,760 --> 00:17:26,800
+then they go away and they do other
+
+529
+00:17:24,319 --> 00:17:28,600
+things. But just in terms of like pure
+
+530
+00:17:26,800 --> 00:17:30,280
+science as an experiment, it is
+
+531
+00:17:28,600 --> 00:17:31,360
+important that you can disprove this,
+
+532
+00:17:30,280 --> 00:17:34,000
+right?
+
+533
+00:17:31,360 --> 00:17:35,880
+So then um then you create an experiment
+
+534
+00:17:34,000 --> 00:17:37,960
+and it's advisable that the experiment
+
+535
+00:17:35,880 --> 00:17:39,320
+which you're creating is repeatable. So
+
+536
+00:17:37,960 --> 00:17:41,120
+other people can do it, right? That's
+
+537
+00:17:39,320 --> 00:17:43,200
+very important. You also want to be very
+
+538
+00:17:41,120 --> 00:17:45,440
+wary of confirmation bias and the sunken
+
+539
+00:17:43,200 --> 00:17:48,160
+child fallacy. So as someone who's, you
+
+540
+00:17:45,440 --> 00:17:50,120
+know, done work in and out of the lab,
+
+541
+00:17:48,160 --> 00:17:51,960
+independent research, the sunken child
+
+542
+00:17:50,120 --> 00:17:53,840
+fallacy can manage it work against you,
+
+543
+00:17:51,960 --> 00:17:55,880
+right? You put you pour so much time and
+
+544
+00:17:53,840 --> 00:17:57,520
+effort into something hoping it'll work
+
+545
+00:17:55,880 --> 00:17:59,200
+and then all of a sudden it's like, man,
+
+546
+00:17:57,520 --> 00:18:02,040
+my experiment didn't go the way I
+
+547
+00:17:59,200 --> 00:18:04,560
+expected. Why is that? Okay. So then you
+
+548
+00:18:02,040 --> 00:18:07,240
+get data analysis and then you try to
+
+549
+00:18:04,560 --> 00:18:09,800
+use the tools of mathematics or rational
+
+550
+00:18:07,240 --> 00:18:11,360
+um or applicable rationale to try and
+
+551
+00:18:09,800 --> 00:18:13,320
+understand what is going on. See if
+
+552
+00:18:11,360 --> 00:18:14,400
+there's a pattern. Uh there isn't a
+
+553
+00:18:13,320 --> 00:18:16,040
+pattern, then just write down your
+
+554
+00:18:14,400 --> 00:18:18,240
+findings and then finally, as I like to
+
+555
+00:18:16,040 --> 00:18:20,720
+say, you have show and tell or you
+
+556
+00:18:18,240 --> 00:18:22,800
+replicate um you report and then people
+
+557
+00:18:20,720 --> 00:18:24,240
+replicate what you did independently to
+
+558
+00:18:22,800 --> 00:18:26,400
+see if there's any credence to what you
+
+559
+00:18:24,240 --> 00:18:27,360
+did. People might criticize the process.
+
+560
+00:18:26,400 --> 00:18:29,320
+Maybe there's nothing wrong with the
+
+561
+00:18:27,360 --> 00:18:30,920
+process itself and people just need to
+
+562
+00:18:29,320 --> 00:18:32,320
+see, well, what were you doing here and
+
+563
+00:18:30,920 --> 00:18:34,840
+follow with it.
+
+564
+00:18:32,320 --> 00:18:36,360
+So uh again, just again restating this
+
+565
+00:18:34,840 --> 00:18:37,520
+another way, it's important to outline
+
+566
+00:18:36,360 --> 00:18:39,040
+that there's several attributes in the
+
+567
+00:18:37,520 --> 00:18:40,400
+scientific method. The first and the
+
+568
+00:18:39,040 --> 00:18:42,040
+most important is probably that the
+
+569
+00:18:40,400 --> 00:18:43,840
+process is accessible to anyone. I've
+
+570
+00:18:42,040 --> 00:18:45,440
+already said this. The second attribute
+
+571
+00:18:43,840 --> 00:18:47,240
+is that the scientific method is a
+
+572
+00:18:45,440 --> 00:18:48,560
+democratic process. I think I'm just
+
+573
+00:18:47,240 --> 00:18:49,920
+repeating myself here, so I'm not even
+
+574
+00:18:48,560 --> 00:18:51,840
+going to bother with that commentary. So
+
+575
+00:18:49,920 --> 00:18:53,920
+let's just move on to the next slide. So
+
+576
+00:18:51,840 --> 00:18:56,160
+thou shalt not remove from from the
+
+577
+00:18:53,920 --> 00:18:58,400
+scientific method and yet
+
+578
+00:18:56,160 --> 00:19:00,680
+uh what do we have here? Saint Nikolai
+
+579
+00:18:58,400 --> 00:19:02,080
+Tesla. This guy was a legend, right?
+
+580
+00:19:00,680 --> 00:19:03,680
+Oftentimes he's just looked as an
+
+581
+00:19:02,080 --> 00:19:05,440
+engineer and I'm also going to put him
+
+582
+00:19:03,680 --> 00:19:07,160
+on a pedestal here because technically
+
+583
+00:19:05,440 --> 00:19:09,240
+he did not finish his university degree,
+
+584
+00:19:07,160 --> 00:19:10,600
+but this guy was brilliant. I mean, if I
+
+585
+00:19:09,240 --> 00:19:11,880
+had his mind,
+
+586
+00:19:10,600 --> 00:19:14,560
+I would do so many things. He could do
+
+587
+00:19:11,880 --> 00:19:17,200
+calculus in his head like without any
+
+588
+00:19:14,560 --> 00:19:19,320
+problems whatsoever. And he understood
+
+589
+00:19:17,200 --> 00:19:20,920
+he was like just such a brilliant
+
+590
+00:19:19,320 --> 00:19:22,640
+scientist, right? Such an incredible
+
+591
+00:19:20,920 --> 00:19:24,400
+scientist. But anyway, here's a famous
+
+592
+00:19:22,640 --> 00:19:25,520
+quote by him. The greatest woe of modern
+
+593
+00:19:24,400 --> 00:19:28,560
+science
+
+594
+00:19:25,520 --> 00:19:30,360
+is that today's scientists have replaced
+
+595
+00:19:28,560 --> 00:19:32,280
+um substituted mathematics for
+
+596
+00:19:30,360 --> 00:19:34,200
+experiments and they've wandered off
+
+597
+00:19:32,280 --> 00:19:35,640
+through equation after equation and
+
+598
+00:19:34,200 --> 00:19:37,920
+eventually building a structure which
+
+599
+00:19:35,640 --> 00:19:39,720
+has no relation to reality.
+
+600
+00:19:37,920 --> 00:19:40,880
+So he is a visionary and I think this is
+
+601
+00:19:39,720 --> 00:19:42,680
+really important especially when we're
+
+602
+00:19:40,880 --> 00:19:44,840
+going to dive into Schauberger's work
+
+603
+00:19:42,680 --> 00:19:47,280
+because the distinction here is that a
+
+604
+00:19:44,840 --> 00:19:49,080
+lot of things related to Schauberger um
+
+605
+00:19:47,280 --> 00:19:50,880
+are they're dealt with like hands-on
+
+606
+00:19:49,080 --> 00:19:52,800
+work, actually doing experiment and
+
+607
+00:19:50,880 --> 00:19:54,480
+looking at physical principles, right?
+
+608
+00:19:52,800 --> 00:19:56,960
+They're very important. Not everything
+
+609
+00:19:54,480 --> 00:19:58,320
+can be done with pen and paper alone. Uh
+
+610
+00:19:56,960 --> 00:20:00,080
+pen and paper with the tools of
+
+611
+00:19:58,320 --> 00:20:01,680
+mathematics is meant to enlighten us and
+
+612
+00:20:00,080 --> 00:20:03,640
+help us formalize those things so we
+
+613
+00:20:01,680 --> 00:20:05,280
+can, you know, take that information and
+
+614
+00:20:03,640 --> 00:20:07,080
+share it with other people. Okay. So
+
+615
+00:20:05,280 --> 00:20:09,000
+moving on, next slide. So what is real
+
+616
+00:20:07,080 --> 00:20:12,040
+science in Schauberger's camp? Well, I
+
+617
+00:20:09,000 --> 00:20:13,720
+mean, I took some of these from the uh
+
+618
+00:20:12,040 --> 00:20:14,920
+like fundamental Schauberger's if
+
+619
+00:20:13,720 --> 00:20:16,200
+there's a fundamental literary
+
+620
+00:20:14,920 --> 00:20:17,840
+collection of Schauberger you find
+
+621
+00:20:16,200 --> 00:20:19,560
+these. And then from other external
+
+622
+00:20:17,840 --> 00:20:21,560
+independent research that's been done. I
+
+623
+00:20:19,560 --> 00:20:23,080
+mean, Schauberger's work is broad,
+
+624
+00:20:21,560 --> 00:20:24,840
+everywhere. We're talking about in terms
+
+625
+00:20:23,080 --> 00:20:26,880
+of environment, we're talking in terms
+
+626
+00:20:24,840 --> 00:20:28,760
+of like environmental science, even in
+
+627
+00:20:26,880 --> 00:20:31,080
+terms of like medicine and processing
+
+628
+00:20:28,760 --> 00:20:33,120
+other things. And there are a lot of
+
+629
+00:20:31,080 --> 00:20:35,680
+businesses which are using the um
+
+630
+00:20:33,120 --> 00:20:37,120
+precepts of Schauberger to, you know, uh
+
+631
+00:20:35,680 --> 00:20:39,680
+have their processes made more
+
+632
+00:20:37,120 --> 00:20:41,480
+efficient. So here's a lot of just pure
+
+633
+00:20:39,680 --> 00:20:42,880
+data like observational data. I didn't
+
+634
+00:20:41,480 --> 00:20:44,400
+make up these numbers and I didn't make
+
+635
+00:20:42,880 --> 00:20:45,520
+up these processes and there are a lot
+
+636
+00:20:44,400 --> 00:20:47,560
+of people who are doing this in an
+
+637
+00:20:45,520 --> 00:20:48,960
+objective scientific way. So whenever
+
+638
+00:20:47,560 --> 00:20:50,720
+somebody tries to say, "Well, it's
+
+639
+00:20:48,960 --> 00:20:51,680
+unscientific and it's pseudoscience
+
+640
+00:20:50,720 --> 00:20:53,600
+because,
+
+641
+00:20:51,680 --> 00:20:55,640
+you know, I don't know, somebody said it
+
+642
+00:20:53,600 --> 00:20:56,960
+and he had like a PhD." I just kind of
+
+643
+00:20:55,640 --> 00:20:59,600
+go like, "Yeah, that's kind of
+
+644
+00:20:56,960 --> 00:21:01,520
+problematic. You need to use the brain.
+
+645
+00:20:59,600 --> 00:21:04,120
+Use the not not the brain, the mind, the
+
+646
+00:21:01,520 --> 00:21:05,880
+human mind uh to think about that a bit
+
+647
+00:21:04,120 --> 00:21:07,920
+more critically." So okay, so what is
+
+648
+00:21:05,880 --> 00:21:09,200
+real science again? I put this here just
+
+649
+00:21:07,920 --> 00:21:10,520
+to show that there are variations within
+
+650
+00:21:09,200 --> 00:21:12,480
+the scientific method. So many
+
+651
+00:21:10,520 --> 00:21:13,800
+variations, right? But fundamentally,
+
+652
+00:21:12,480 --> 00:21:15,360
+you're still doing the same thing and
+
+653
+00:21:13,800 --> 00:21:17,040
+you're still going to get the same
+
+654
+00:21:15,360 --> 00:21:18,480
+fundamental outcome. So, as I like to
+
+655
+00:21:17,040 --> 00:21:21,440
+say, the scientific method is a
+
+656
+00:21:18,480 --> 00:21:23,400
+democratic uh it's democratic in process
+
+657
+00:21:21,440 --> 00:21:25,680
+and then objective in outcome in which
+
+658
+00:21:23,400 --> 00:21:27,400
+you get, right? And so, bottom line,
+
+659
+00:21:25,680 --> 00:21:29,000
+because I'm a cat lover, especially a
+
+660
+00:21:27,400 --> 00:21:31,560
+black cat lover, there are many ways to
+
+661
+00:21:29,000 --> 00:21:34,800
+skin a chicken because most um most
+
+662
+00:21:31,560 --> 00:21:36,440
+people love cats. Um so, many ways to do
+
+663
+00:21:34,800 --> 00:21:38,400
+the scientific method, although the
+
+664
+00:21:36,440 --> 00:21:40,880
+scientific method remains concretely the
+
+665
+00:21:38,400 --> 00:21:43,520
+same. So, let's move on. So, this is
+
+666
+00:21:40,880 --> 00:21:45,520
+just a final uh note. Uh so, scientific
+
+667
+00:21:43,520 --> 00:21:47,120
+ignorance often breeds pseudoscience,
+
+668
+00:21:45,520 --> 00:21:48,680
+right? So, much of the work to be
+
+669
+00:21:47,120 --> 00:21:50,120
+covered in the presentation has remained
+
+670
+00:21:48,680 --> 00:21:53,080
+stagnant because of this trend of
+
+671
+00:21:50,120 --> 00:21:54,280
+ignorance. Um so, ignorance uh can
+
+672
+00:21:53,080 --> 00:21:55,600
+happen in two ways. The first is
+
+673
+00:21:54,280 --> 00:21:57,280
+obvious, people can promote claims
+
+674
+00:21:55,600 --> 00:21:59,440
+without evidence, but the second is more
+
+675
+00:21:57,280 --> 00:22:01,200
+subtle. When experts dismiss a claim
+
+676
+00:21:59,440 --> 00:22:02,680
+purely by appeal to their own status
+
+677
+00:22:01,200 --> 00:22:04,800
+without examining it carefully, they can
+
+678
+00:22:02,680 --> 00:22:06,600
+also damage the scientific process.
+
+679
+00:22:04,800 --> 00:22:08,640
+Science is not protected by rhetoric,
+
+680
+00:22:06,600 --> 00:22:10,200
+it's protected by a method. And if a
+
+681
+00:22:08,640 --> 00:22:12,080
+claim is wrong, then it should be shown
+
+682
+00:22:10,200 --> 00:22:14,600
+to be wrong through evidence, analysis,
+
+683
+00:22:12,080 --> 00:22:16,800
+and clear reasoning. But if the response
+
+684
+00:22:14,600 --> 00:22:18,440
+is only ridicule or credential-based um
+
+685
+00:22:16,800 --> 00:22:20,680
+dismissal, then the public is left with
+
+686
+00:22:18,440 --> 00:22:22,600
+rhetoric on both sides. So, this is how
+
+687
+00:22:20,680 --> 00:22:24,520
+confusion grows. So, we should always
+
+688
+00:22:22,600 --> 00:22:26,200
+reserve judgments after we've completed
+
+689
+00:22:24,520 --> 00:22:28,160
+the scientific process. So, it's very,
+
+690
+00:22:26,200 --> 00:22:31,480
+very important, otherwise it spreads
+
+691
+00:22:28,160 --> 00:22:33,200
+like wildfire fire like a virus. So,
+
+692
+00:22:31,480 --> 00:22:35,000
+let's move on. So, who was a Victor
+
+693
+00:22:33,200 --> 00:22:36,400
+Schauberger truly? We can finally get
+
+694
+00:22:35,000 --> 00:22:38,680
+into the meat.
+
+695
+00:22:36,400 --> 00:22:42,560
+So, Victor Schauberger, he was born in
+
+696
+00:22:38,680 --> 00:22:44,760
+1885. I can't say where per- correctly
+
+697
+00:22:42,560 --> 00:22:47,840
+cuz my German is bad since high school.
+
+698
+00:22:44,760 --> 00:22:49,520
+Hochschlag in Mühlviertel, I can't do
+
+699
+00:22:47,840 --> 00:22:50,840
+this correctly. So, in Upper Austria.
+
+700
+00:22:49,520 --> 00:22:52,760
+His early life and professional
+
+701
+00:22:50,840 --> 00:22:53,760
+formation um they were not only
+
+702
+00:22:52,760 --> 00:22:55,680
+academic, but they're also
+
+703
+00:22:53,760 --> 00:22:57,600
+observational. He worked as a forest
+
+704
+00:22:55,680 --> 00:22:58,960
+warden, a senior forest warden,
+
+705
+00:22:57,600 --> 00:23:00,680
+gamekeeper, and eventually became the
+
+706
+00:22:58,960 --> 00:23:02,640
+head warden of the forest. Central theme
+
+707
+00:23:00,680 --> 00:23:04,880
+in his work is the contrast between
+
+708
+00:23:02,640 --> 00:23:06,400
+explosion and implosion. And he believed
+
+709
+00:23:04,880 --> 00:23:09,320
+that modern technology relied too
+
+710
+00:23:06,400 --> 00:23:11,840
+heavily on explosive expanse produce and
+
+711
+00:23:09,320 --> 00:23:14,040
+heat producing processes. Um so he
+
+712
+00:23:11,840 --> 00:23:16,720
+really focused on this idea of implosion
+
+713
+00:23:14,040 --> 00:23:17,800
+which was supposed to work with nature.
+
+714
+00:23:16,720 --> 00:23:20,880
+So
+
+715
+00:23:17,800 --> 00:23:23,360
+uh he better framed these systems as uh
+
+716
+00:23:20,880 --> 00:23:25,880
+in like as flowing internally through
+
+717
+00:23:23,360 --> 00:23:27,720
+like natural vortices um and then other
+
+718
+00:23:25,880 --> 00:23:29,680
+things related to them, the attributes
+
+719
+00:23:27,720 --> 00:23:32,320
+I'm going to get into later. So his
+
+720
+00:23:29,680 --> 00:23:33,720
+family motto was reportedly to the
+
+721
+00:23:32,320 --> 00:23:35,840
+silent force. He was truly an
+
+722
+00:23:33,720 --> 00:23:39,160
+environmentalist at his core.
+
+723
+00:23:35,840 --> 00:23:40,920
+And um the only reason that you see that
+
+724
+00:23:39,160 --> 00:23:43,400
+uh straight point uh that I've included
+
+725
+00:23:40,920 --> 00:23:45,120
+in this slide uh regarding his work in
+
+726
+00:23:43,400 --> 00:23:46,920
+World War II so decisively is because
+
+727
+00:23:45,120 --> 00:23:48,480
+somehow despite all of the primary
+
+728
+00:23:46,920 --> 00:23:50,400
+sources which talk about this and it's
+
+729
+00:23:48,480 --> 00:23:53,040
+well documented and now uh it's still
+
+730
+00:23:50,400 --> 00:23:55,160
+considered a conspiracy that he was like
+
+731
+00:23:53,040 --> 00:23:57,760
+literally slurped by the Nazis and
+
+732
+00:23:55,160 --> 00:23:58,800
+forced to do work for them um during
+
+733
+00:23:57,760 --> 00:24:00,440
+World War II. Like that's not a
+
+734
+00:23:58,800 --> 00:24:02,440
+conspiracy, that's well documented. It
+
+735
+00:24:00,440 --> 00:24:04,440
+happened. Um they the Nazis really
+
+736
+00:24:02,440 --> 00:24:05,560
+wanted to uh use Schauberger's work and
+
+737
+00:24:04,440 --> 00:24:06,960
+actually when the Americans came and
+
+738
+00:24:05,560 --> 00:24:09,000
+discovered him
+
+739
+00:24:06,960 --> 00:24:10,680
+uh they like kind of
+
+740
+00:24:09,000 --> 00:24:12,480
+uh I guess the word is quarantined him a
+
+741
+00:24:10,680 --> 00:24:14,160
+bit. Not actually quarantined him but
+
+742
+00:24:12,480 --> 00:24:15,800
+said this guy's working on some advanced
+
+743
+00:24:14,160 --> 00:24:18,000
+stuff. We don't quite understand it but
+
+744
+00:24:15,800 --> 00:24:20,000
+it seems to be maybe atomic in nature.
+
+745
+00:24:18,000 --> 00:24:21,840
+So he might be a little bit dangerous.
+
+746
+00:24:20,000 --> 00:24:24,160
+Uh let's take a look at that. So uh
+
+747
+00:24:21,840 --> 00:24:26,440
+expanding who's uh Schauberger for real,
+
+748
+00:24:24,160 --> 00:24:28,680
+he continues in this experimentalist
+
+749
+00:24:26,440 --> 00:24:31,120
+lineage. So we got Nikolai Tesla, right?
+
+750
+00:24:28,680 --> 00:24:33,440
+Who uh mastered electro-magnetism
+
+751
+00:24:31,120 --> 00:24:34,920
+and was largely dismissed by mainstream
+
+752
+00:24:33,440 --> 00:24:36,760
+science, right?
+
+753
+00:24:34,920 --> 00:24:37,800
+So none of these individuals by the way,
+
+754
+00:24:36,760 --> 00:24:39,480
+I just want to let you know, had a
+
+755
+00:24:37,800 --> 00:24:41,120
+university degree.
+
+756
+00:24:39,480 --> 00:24:42,760
+Tesla failed to finish college. Faraday
+
+757
+00:24:41,120 --> 00:24:44,680
+proved himself by taking exceptional
+
+758
+00:24:42,760 --> 00:24:46,800
+lecture notes. And Ben Franklin was
+
+759
+00:24:44,680 --> 00:24:47,920
+almost completely uh self-taught. So the
+
+760
+00:24:46,800 --> 00:24:49,960
+works of these individuals, they
+
+761
+00:24:47,920 --> 00:24:52,480
+surpassed many of uh the of their
+
+762
+00:24:49,960 --> 00:24:55,320
+contemporaries who had high pedigree.
+
+763
+00:24:52,480 --> 00:24:57,000
+But so few remember Proteus Steinmetz.
+
+764
+00:24:55,320 --> 00:24:58,560
+And yet Tesla was the one who developed
+
+765
+00:24:57,000 --> 00:25:00,080
+the uh most exceptional form of the
+
+766
+00:24:58,560 --> 00:25:01,680
+alternating motor. And then Michael
+
+767
+00:25:00,080 --> 00:25:03,320
+Faraday had no formal training in math,
+
+768
+00:25:01,680 --> 00:25:06,000
+yet his experiments fell perfectly in
+
+769
+00:25:03,320 --> 00:25:07,640
+line with uh the work of uh Maxwell. And
+
+770
+00:25:06,000 --> 00:25:09,200
+Einstein was known to have a portrait of
+
+771
+00:25:07,640 --> 00:25:10,560
+him in his office. And then Benjamin
+
+772
+00:25:09,200 --> 00:25:13,160
+Franklin proved that lightning was
+
+773
+00:25:10,560 --> 00:25:14,440
+actually electric in nature. And for
+
+774
+00:25:13,160 --> 00:25:16,360
+better for worse, he's the reason we
+
+775
+00:25:14,440 --> 00:25:18,280
+have conventional current uh in the
+
+776
+00:25:16,360 --> 00:25:20,200
+opposite direction. So, this is the
+
+777
+00:25:18,280 --> 00:25:23,640
+lineage that Schauberger also um
+
+778
+00:25:20,200 --> 00:25:26,120
+continues on in. Um so, many famous
+
+779
+00:25:23,640 --> 00:25:27,480
+brilliant minds who have done a lot of
+
+780
+00:25:26,120 --> 00:25:29,280
+experimenting and made a lot of
+
+781
+00:25:27,480 --> 00:25:31,400
+contributions to science. Nobody can
+
+782
+00:25:29,280 --> 00:25:33,560
+dismiss Faraday. And nobody nowadays
+
+783
+00:25:31,400 --> 00:25:35,200
+will dismiss Tesla. Tesla, getting him
+
+784
+00:25:33,560 --> 00:25:37,400
+to be like also like known in the
+
+785
+00:25:35,200 --> 00:25:39,240
+mainstream as just a brilliant mind has
+
+786
+00:25:37,400 --> 00:25:41,320
+been hard, a huge hike. So, anyway,
+
+787
+00:25:39,240 --> 00:25:42,600
+these are AI-enhanced images of
+
+788
+00:25:41,320 --> 00:25:44,240
+Schauberger. They're cleaned up, but
+
+789
+00:25:42,600 --> 00:25:46,520
+they're still I think they're probably
+
+790
+00:25:44,240 --> 00:25:48,680
+the best representations I can get of
+
+791
+00:25:46,520 --> 00:25:50,400
+his sketches without being in the actual
+
+792
+00:25:48,680 --> 00:25:52,120
+Schauberger estate.
+
+793
+00:25:50,400 --> 00:25:54,640
+So, uh he worked on all manner of
+
+794
+00:25:52,120 --> 00:25:56,600
+things, right? So, the first image is a
+
+795
+00:25:54,640 --> 00:25:58,200
+trout tur- turbine sketch. And I think
+
+796
+00:25:56,600 --> 00:26:00,320
+it's really more of like concept art
+
+797
+00:25:58,200 --> 00:26:03,000
+more than anything else. And then the
+
+798
+00:26:00,320 --> 00:26:04,600
+next one is a bio impeller, right? So,
+
+799
+00:26:03,000 --> 00:26:06,520
+just his uh conceptual ideas. And
+
+800
+00:26:04,600 --> 00:26:08,000
+Schauberger, he was a great artist. If I
+
+801
+00:26:06,520 --> 00:26:09,640
+could draw, I think that would make me a
+
+802
+00:26:08,000 --> 00:26:12,040
+better designer as well. That's
+
+803
+00:26:09,640 --> 00:26:15,080
+something I I kind of struggle to do.
+
+804
+00:26:12,040 --> 00:26:18,080
+But um a lot of his stuff that you see
+
+805
+00:26:15,080 --> 00:26:19,560
+is not like uh say Tesla drawing. Tesla,
+
+806
+00:26:18,080 --> 00:26:21,440
+when he draws things, he'll draw them to
+
+807
+00:26:19,560 --> 00:26:23,520
+scale and he'll have specific dimensions
+
+808
+00:26:21,440 --> 00:26:25,880
+and stuff. Since Schauberger understood
+
+809
+00:26:23,520 --> 00:26:28,080
+principles well, uh and he was also good
+
+810
+00:26:25,880 --> 00:26:30,360
+at drawing. Uh I think in a lot of his
+
+811
+00:26:28,080 --> 00:26:32,600
+drawings he would have the conceptual
+
+812
+00:26:30,360 --> 00:26:33,960
+part down, and then that would be it
+
+813
+00:26:32,600 --> 00:26:36,120
+would be the work of maybe like a more
+
+814
+00:26:33,960 --> 00:26:38,600
+technical-oriented person to draw these
+
+815
+00:26:36,120 --> 00:26:40,560
+things. I did find an old schematic of a
+
+816
+00:26:38,600 --> 00:26:41,880
+home generator, which is signed by him,
+
+817
+00:26:40,560 --> 00:26:43,480
+and I wonder if he actually like sat
+
+818
+00:26:41,880 --> 00:26:45,440
+down and did the measurements. That is a
+
+819
+00:26:43,480 --> 00:26:47,160
+pretty technical design. I think it was
+
+820
+00:26:45,440 --> 00:26:48,920
+a earlier design that he wanted of the
+
+821
+00:26:47,160 --> 00:26:50,320
+home gener- generator that wasn't
+
+822
+00:26:48,920 --> 00:26:52,880
+realized. But anyway, so we have the
+
+823
+00:26:50,320 --> 00:26:55,040
+submarine. Then we have a bio-impeller,
+
+824
+00:26:52,880 --> 00:26:57,200
+which is often like pegged onto the
+
+825
+00:26:55,040 --> 00:26:59,400
+repulsine in a lot of replications. A
+
+826
+00:26:57,200 --> 00:27:01,040
+lot of people like to just peg on this a
+
+827
+00:26:59,400 --> 00:27:03,520
+bio-impeller thinking that it solves the
+
+828
+00:27:01,040 --> 00:27:04,840
+problem of why it won't lift is that it
+
+829
+00:27:03,520 --> 00:27:06,400
+needs to have some sort of suction
+
+830
+00:27:04,840 --> 00:27:08,240
+thing, but I also have my own kind of
+
+831
+00:27:06,400 --> 00:27:10,720
+ideas as to how the thing might have
+
+832
+00:27:08,240 --> 00:27:12,200
+taken off. Uh we don't have a key
+
+833
+00:27:10,720 --> 00:27:14,440
+component that's related to it. Then we
+
+834
+00:27:12,200 --> 00:27:16,520
+have an embryonic implosion chamber, as
+
+835
+00:27:14,440 --> 00:27:18,160
+I call it. Uh it's really probably for
+
+836
+00:27:16,520 --> 00:27:22,720
+mixing. I'll talk about this in a later
+
+837
+00:27:18,160 --> 00:27:24,920
+slide. Um so uh let's move on, okay? So,
+
+838
+00:27:22,720 --> 00:27:26,800
+next slide we got So, Schauberger again
+
+839
+00:27:24,920 --> 00:27:28,280
+for real. These are basically the
+
+840
+00:27:26,800 --> 00:27:29,640
+fundamental works with Schauberger. If
+
+841
+00:27:28,280 --> 00:27:31,160
+you want to like find and consume all
+
+842
+00:27:29,640 --> 00:27:32,400
+that you can with Schauberger, uh you
+
+843
+00:27:31,160 --> 00:27:34,680
+can take a look at any one of these
+
+844
+00:27:32,400 --> 00:27:36,560
+books here. It's He's just incredibly
+
+845
+00:27:34,680 --> 00:27:38,920
+voluminous, but he's also like reading
+
+846
+00:27:36,560 --> 00:27:40,520
+Carl Jung for anyone who's done that. He
+
+847
+00:27:38,920 --> 00:27:42,480
+has his own kind of language, and it's
+
+848
+00:27:40,520 --> 00:27:43,720
+very, very important that you don't like
+
+849
+00:27:42,480 --> 00:27:46,200
+look if you especially if you're a
+
+850
+00:27:43,720 --> 00:27:47,760
+scientist, you don't get taken back by
+
+851
+00:27:46,200 --> 00:27:49,560
+Schauberger's language and say this guy
+
+852
+00:27:47,760 --> 00:27:51,920
+is practicing pseudoscience because he's
+
+853
+00:27:49,560 --> 00:27:54,040
+saying gravitation is like, you know,
+
+854
+00:27:51,920 --> 00:27:55,320
+juxtaposed with this other thing, you
+
+855
+00:27:54,040 --> 00:27:57,240
+know, and you know, you're you're
+
+856
+00:27:55,320 --> 00:27:58,960
+misunderstanding the guy, right? Like
+
+857
+00:27:57,240 --> 00:28:01,080
+for a lot of people who are practicing
+
+858
+00:27:58,960 --> 00:28:03,800
+science purely experimentally and have
+
+859
+00:28:01,080 --> 00:28:06,320
+not had any opportunity to uh you know,
+
+860
+00:28:03,800 --> 00:28:08,280
+go through institutional channels. Uh I
+
+861
+00:28:06,320 --> 00:28:10,320
+should say be domesticated within most
+
+862
+00:28:08,280 --> 00:28:12,160
+institutional channels today.
+
+863
+00:28:10,320 --> 00:28:13,960
+Uh they use the languages that are most
+
+864
+00:28:12,160 --> 00:28:15,240
+like natural to them to communicate the
+
+865
+00:28:13,960 --> 00:28:17,200
+processes which are happening. The
+
+866
+00:28:15,240 --> 00:28:18,400
+processes are true. The language might
+
+867
+00:28:17,200 --> 00:28:19,920
+be a little bit flowery, but the
+
+868
+00:28:18,400 --> 00:28:22,240
+processes are true.
+
+869
+00:28:19,920 --> 00:28:24,800
+And so, his language is extremely uh
+
+870
+00:28:22,240 --> 00:28:26,440
+descriptive and pictorial, and uh it
+
+871
+00:28:24,800 --> 00:28:27,840
+often lacks technical scientific
+
+872
+00:28:26,440 --> 00:28:29,920
+parlance, and it's prone to being
+
+873
+00:28:27,840 --> 00:28:32,440
+treated as pseudoscience because the way
+
+874
+00:28:29,920 --> 00:28:35,080
+uh the uh translator may qualify his
+
+875
+00:28:32,440 --> 00:28:37,280
+words. So, I principally in the English
+
+876
+00:28:35,080 --> 00:28:38,920
+language uh most of the books that have
+
+877
+00:28:37,280 --> 00:28:41,400
+been translated I think if not all have
+
+878
+00:28:38,920 --> 00:28:44,640
+been have been done so by Callum Coats.
+
+879
+00:28:41,400 --> 00:28:47,000
+And uh Olaf Anderson is also an engineer
+
+880
+00:28:44,640 --> 00:28:50,000
+who did a lot of great work with uh
+
+881
+00:28:47,000 --> 00:28:52,720
+Schauberger stuff. So, uh let's see what
+
+882
+00:28:50,000 --> 00:28:54,920
+else I got on my notes here. So, in some
+
+883
+00:28:52,720 --> 00:28:56,520
+respects, he reads like Tesla who lacked
+
+884
+00:28:54,920 --> 00:28:58,120
+formal institutional scientific
+
+885
+00:28:56,520 --> 00:29:00,120
+training, but he retained the essence of
+
+886
+00:28:58,120 --> 00:29:01,760
+fundamental principles. If someone
+
+887
+00:29:00,120 --> 00:29:03,240
+joined to any one of these books and
+
+888
+00:29:01,760 --> 00:29:05,640
+read through some of the commentary left
+
+889
+00:29:03,240 --> 00:29:06,960
+behind by Coats, they might be more
+
+890
+00:29:05,640 --> 00:29:09,000
+inclined to believe that Schauberger's
+
+891
+00:29:06,960 --> 00:29:10,840
+work was a bit of the esoteric
+
+892
+00:29:09,000 --> 00:29:12,440
+scientific variety. I think that's just
+
+893
+00:29:10,840 --> 00:29:14,000
+because sometimes when the translators
+
+894
+00:29:12,440 --> 00:29:16,480
+provide this information, they want to
+
+895
+00:29:14,000 --> 00:29:18,680
+give some historical a context and some
+
+896
+00:29:16,480 --> 00:29:20,640
+other background. So, quote will
+
+897
+00:29:18,680 --> 00:29:23,320
+sometimes quote people who by
+
+898
+00:29:20,640 --> 00:29:25,040
+association will turn off maybe a few
+
+899
+00:29:23,320 --> 00:29:26,000
+like technical guys. Like, so there are
+
+900
+00:29:25,040 --> 00:29:28,160
+sections where they're like, "So, if you
+
+901
+00:29:26,000 --> 00:29:29,640
+look at like Helena Blavatsky who's
+
+902
+00:29:28,160 --> 00:29:31,640
+talked about this and this and that in
+
+903
+00:29:29,640 --> 00:29:32,840
+the esotericism and all this stuff."
+
+904
+00:29:31,640 --> 00:29:34,680
+We're like, "Ah, I don't know what this
+
+905
+00:29:32,840 --> 00:29:37,120
+has to do with science." But, what he's
+
+906
+00:29:34,680 --> 00:29:39,200
+just trying to do is, I guess, help the
+
+907
+00:29:37,120 --> 00:29:41,720
+reader understand
+
+908
+00:29:39,200 --> 00:29:43,080
+get a more generalized worldview of
+
+909
+00:29:41,720 --> 00:29:46,200
+what's going on.
+
+910
+00:29:43,080 --> 00:29:47,880
+I don't not a lot of that isn't really
+
+911
+00:29:46,200 --> 00:29:49,680
+fundamentally important in terms of
+
+912
+00:29:47,880 --> 00:29:51,800
+understanding the operative science
+
+913
+00:29:49,680 --> 00:29:53,880
+within Schauberger. Historically, it's
+
+914
+00:29:51,800 --> 00:29:55,600
+important, I guess, and then also, I
+
+915
+00:29:53,880 --> 00:29:56,760
+guess, in terms of the context when
+
+916
+00:29:55,600 --> 00:29:58,600
+you're trying to like get your mind
+
+917
+00:29:56,760 --> 00:29:59,800
+into, "Okay, well, how is he How are
+
+918
+00:29:58,600 --> 00:30:01,440
+people seeing this?" Like, it's like
+
+919
+00:29:59,800 --> 00:30:03,280
+looking at ancient people and trying to
+
+920
+00:30:01,440 --> 00:30:04,640
+understand why were they building
+
+921
+00:30:03,280 --> 00:30:05,920
+things. They might say that, "Well, this
+
+922
+00:30:04,640 --> 00:30:07,760
+was because of the principle of a
+
+923
+00:30:05,920 --> 00:30:09,320
+tadpole which like to move up the water
+
+924
+00:30:07,760 --> 00:30:10,520
+in some sort of way." And so, they draw
+
+925
+00:30:09,320 --> 00:30:12,000
+with a lot of pictorial things, but
+
+926
+00:30:10,520 --> 00:30:13,720
+there's a scientific principle behind
+
+927
+00:30:12,000 --> 00:30:15,760
+that. That's the secret sauce that
+
+928
+00:30:13,720 --> 00:30:17,360
+researchers are interested in.
+
+929
+00:30:15,760 --> 00:30:18,880
+So, moving on,
+
+930
+00:30:17,360 --> 00:30:20,840
+there are so many parallels with
+
+931
+00:30:18,880 --> 00:30:22,760
+Schauberger's work when you look at more
+
+932
+00:30:20,840 --> 00:30:25,520
+like refined
+
+933
+00:30:22,760 --> 00:30:27,240
+uh experimentalists like Tesla. Like,
+
+934
+00:30:25,520 --> 00:30:28,680
+what I'm showing you right here is from
+
+935
+00:30:27,240 --> 00:30:30,240
+Schauberger himself, independent. I
+
+936
+00:30:28,680 --> 00:30:32,280
+don't know that Schauberger had any kind
+
+937
+00:30:30,240 --> 00:30:34,200
+of communication with Tesla. In some
+
+938
+00:30:32,280 --> 00:30:35,920
+ways, he predates Tesla, right? This
+
+939
+00:30:34,200 --> 00:30:38,240
+right here is like one-to-one with a
+
+940
+00:30:35,920 --> 00:30:40,720
+Tesla valve, and he did this purely from
+
+941
+00:30:38,240 --> 00:30:42,720
+his purely from looking at nature.
+
+942
+00:30:40,720 --> 00:30:44,800
+So, these are his meandering valves, and
+
+943
+00:30:42,720 --> 00:30:46,466
+so I have a Tesla valve right here in
+
+944
+00:30:44,800 --> 00:30:47,800
+the lower left-hand corner. And that's
+
+945
+00:30:46,466 --> 00:30:49,800
+[laughter] exactly what a Tesla valve
+
+946
+00:30:47,800 --> 00:30:51,240
+is. Tesla is also brilliant because it
+
+947
+00:30:49,800 --> 00:30:53,600
+just goes to show you the power of the
+
+948
+00:30:51,240 --> 00:30:56,040
+principle that he's understood, right?
+
+949
+00:30:53,600 --> 00:30:57,880
+And this is the meandering valve. I I'm
+
+950
+00:30:56,040 --> 00:30:59,560
+guessing it's the meandering valve at uh
+
+951
+00:30:57,880 --> 00:31:01,640
+the PKS Society. It looked like that
+
+952
+00:30:59,560 --> 00:31:04,560
+when I saw it. Um, so I just scraped
+
+953
+00:31:01,640 --> 00:31:07,160
+these uh as some examples of like like
+
+954
+00:31:04,560 --> 00:31:09,040
+actual hardcore innovation that he did
+
+955
+00:31:07,160 --> 00:31:10,840
+that is not pseudoscience that's used in
+
+956
+00:31:09,040 --> 00:31:11,920
+modern day today and also by other
+
+957
+00:31:10,840 --> 00:31:14,840
+people.
+
+958
+00:31:11,920 --> 00:31:16,640
+So we also got his logs here. So some
+
+959
+00:31:14,840 --> 00:31:18,880
+important information on the logs. By
+
+960
+00:31:16,640 --> 00:31:21,760
+1922 Schauberger had designed and built
+
+961
+00:31:18,880 --> 00:31:24,040
+timber flotation installations um or log
+
+962
+00:31:21,760 --> 00:31:25,800
+flumes in Steyrling. So these were based
+
+963
+00:31:24,040 --> 00:31:27,760
+on his observations of nature and they
+
+964
+00:31:25,800 --> 00:31:30,440
+reduced logging costs to a tenth their
+
+965
+00:31:27,760 --> 00:31:32,960
+previous level. So the success of this
+
+966
+00:31:30,440 --> 00:31:35,240
+led to many other things and by 1930
+
+967
+00:31:32,960 --> 00:31:37,120
+there is a film. Uh you can find it. It
+
+968
+00:31:35,240 --> 00:31:39,080
+exists somewhere on the internet there
+
+969
+00:31:37,120 --> 00:31:41,960
+uh which is a documentary based on this.
+
+970
+00:31:39,080 --> 00:31:43,280
+Um, so from Schauberger's work here it
+
+971
+00:31:41,960 --> 00:31:45,000
+well, Schauberger's work in general
+
+972
+00:31:43,280 --> 00:31:47,000
+expanded into forestry, water
+
+973
+00:31:45,000 --> 00:31:49,600
+technology, and many other things. And
+
+974
+00:31:47,000 --> 00:31:51,240
+by 1931 he started the uh experiments
+
+975
+00:31:49,600 --> 00:31:54,240
+involving the extraction of electrical
+
+976
+00:31:51,240 --> 00:31:56,360
+energy electrical energy from water. Um,
+
+977
+00:31:54,240 --> 00:31:58,560
+connected to water capillary action
+
+978
+00:31:56,360 --> 00:32:00,960
+research and Lord Kelvin's fallen wa-
+
+979
+00:31:58,560 --> 00:32:02,320
+falling water experiments. By 1932 his
+
+980
+00:32:00,960 --> 00:32:04,320
+work included the production of pure
+
+981
+00:32:02,320 --> 00:32:05,320
+water and even fuel production from
+
+982
+00:32:04,320 --> 00:32:07,480
+water.
+
+983
+00:32:05,320 --> 00:32:10,240
+1933 he published his first and only
+
+984
+00:32:07,480 --> 00:32:12,520
+book Our Senseless Toil where he um
+
+985
+00:32:10,240 --> 00:32:13,800
+criticized modern practices working
+
+986
+00:32:12,520 --> 00:32:15,680
+against nature rather than with it.
+
+987
+00:32:13,800 --> 00:32:18,680
+Definitely a environmentalist at his
+
+988
+00:32:15,680 --> 00:32:20,280
+core. Okay, so moving on. Here are some
+
+989
+00:32:18,680 --> 00:32:21,760
+pictures of his home generator. So I
+
+990
+00:32:20,280 --> 00:32:23,680
+mentioned earlier that there was a
+
+991
+00:32:21,760 --> 00:32:25,640
+technical design and this is signed by
+
+992
+00:32:23,680 --> 00:32:27,360
+Viktor Schauberger is what it says
+
+993
+00:32:25,640 --> 00:32:30,080
+there. I'm not sure if he actually like
+
+994
+00:32:27,360 --> 00:32:31,440
+prepared this image but at the very
+
+995
+00:32:30,080 --> 00:32:33,560
+least it looks like he knew what he was
+
+996
+00:32:31,440 --> 00:32:36,160
+doing. So the home generator um is
+
+997
+00:32:33,560 --> 00:32:37,560
+supposed to be able to create
+
+998
+00:32:36,160 --> 00:32:40,440
+well, I'm not going to go into that in
+
+999
+00:32:37,560 --> 00:32:43,000
+this slide, but and then I don't want to
+
+1000
+00:32:40,440 --> 00:32:44,000
+I don't want to oversimplify how it's
+
+1001
+00:32:43,000 --> 00:32:46,040
+going to work and also don't want to
+
+1002
+00:32:44,000 --> 00:32:47,640
+misrepresent how it's supposed to work.
+
+1003
+00:32:46,040 --> 00:32:50,000
+But it's supposed to also reach a kind
+
+1004
+00:32:47,640 --> 00:32:51,640
+of like equilibrium within implosion.
+
+1005
+00:32:50,000 --> 00:32:54,600
+There's a something I call kind of like
+
+1006
+00:32:51,640 --> 00:32:56,280
+a static equilibrium. And it
+
+1007
+00:32:54,600 --> 00:32:58,680
+basically supposed to keep creating a
+
+1008
+00:32:56,280 --> 00:33:00,520
+vacuum where it's rotating at a nice
+
+1009
+00:32:58,680 --> 00:33:03,120
+even pace and then that can be like
+
+1010
+00:33:00,520 --> 00:33:05,440
+adjusted. So that was his
+
+1011
+00:33:03,120 --> 00:33:07,040
+hope with the home generator. And I
+
+1012
+00:33:05,440 --> 00:33:09,000
+think if I remember correctly, I'm not
+
+1013
+00:33:07,040 --> 00:33:11,600
+sure. I think that this home generator
+
+1014
+00:33:09,000 --> 00:33:13,360
+which was a built wasn't actually the
+
+1015
+00:33:11,600 --> 00:33:15,720
+idealized home generator he want. I
+
+1016
+00:33:13,360 --> 00:33:17,000
+don't know that it actually worked. And
+
+1017
+00:33:15,720 --> 00:33:18,600
+I think when they tested it, they were
+
+1018
+00:33:17,000 --> 00:33:20,000
+careful because, you know,
+
+1019
+00:33:18,600 --> 00:33:21,840
+the thing is old, so it's just better as
+
+1020
+00:33:20,000 --> 00:33:23,160
+a historical item. Let's see what other
+
+1021
+00:33:21,840 --> 00:33:25,000
+notes I got.
+
+1022
+00:33:23,160 --> 00:33:26,240
+There are many vortex layers to this
+
+1023
+00:33:25,000 --> 00:33:28,240
+device.
+
+1024
+00:33:26,240 --> 00:33:29,320
+And implosive principles will cover
+
+1025
+00:33:28,240 --> 00:33:31,680
+later
+
+1026
+00:33:29,320 --> 00:33:33,800
+in the lecture. So
+
+1027
+00:33:31,680 --> 00:33:35,800
+when they're built in an ideal way, the
+
+1028
+00:33:33,800 --> 00:33:37,280
+several aftereffects related to
+
+1029
+00:33:35,800 --> 00:33:38,600
+temperature, pressure, and fluid flow
+
+1030
+00:33:37,280 --> 00:33:40,160
+become quite manifest. These are the
+
+1031
+00:33:38,600 --> 00:33:42,200
+things I don't want to talk about
+
+1032
+00:33:40,160 --> 00:33:43,920
+because there actually nuanced to them.
+
+1033
+00:33:42,200 --> 00:33:45,440
+And you know, there's a whole science to
+
+1034
+00:33:43,920 --> 00:33:47,280
+them depending on what avenue you want
+
+1035
+00:33:45,440 --> 00:33:48,400
+to take. So for any student of science,
+
+1036
+00:33:47,280 --> 00:33:50,680
+temperature and pressure are not
+
+1037
+00:33:48,400 --> 00:33:52,360
+naturally unrelated. So it makes sense
+
+1038
+00:33:50,680 --> 00:33:53,840
+that, you know, he would talk about
+
+1039
+00:33:52,360 --> 00:33:55,760
+these things and take them into effect.
+
+1040
+00:33:53,840 --> 00:33:57,760
+He's always talking about temperature
+
+1041
+00:33:55,760 --> 00:33:59,280
+falling and like decreasing. I remember
+
+1042
+00:33:57,760 --> 00:34:00,320
+in high school I was always bored by
+
+1043
+00:33:59,280 --> 00:34:01,840
+this. It's like, why is he talking about
+
+1044
+00:34:00,320 --> 00:34:03,440
+temperature? I don't care about that.
+
+1045
+00:34:01,840 --> 00:34:05,160
+Difference in pressure like air pressure
+
+1046
+00:34:03,440 --> 00:34:06,720
+is like differential. I get that. But
+
+1047
+00:34:05,160 --> 00:34:07,960
+like temperature things, why is that
+
+1048
+00:34:06,720 --> 00:34:10,639
+important? You study physics and you
+
+1049
+00:34:07,960 --> 00:34:12,840
+realize, ah, you know, these drops in
+
+1050
+00:34:10,639 --> 00:34:15,240
+like pressure can also cause, you know,
+
+1051
+00:34:12,840 --> 00:34:17,639
+an effect on temperature and vice versa.
+
+1052
+00:34:15,240 --> 00:34:19,679
+Thermo is interesting, also very
+
+1053
+00:34:17,639 --> 00:34:21,159
+annoying course that I didn't like. But
+
+1054
+00:34:19,679 --> 00:34:22,600
+anyway, that's beside the point. It's
+
+1055
+00:34:21,159 --> 00:34:25,240
+also very important for my field of
+
+1056
+00:34:22,600 --> 00:34:27,080
+research because force is a process. But
+
+1057
+00:34:25,240 --> 00:34:30,080
+anyway, so Schauberger for real, some
+
+1058
+00:34:27,080 --> 00:34:32,240
+innovations. Here is the innovations we
+
+1059
+00:34:30,080 --> 00:34:33,600
+have we see in like pharmaceutical
+
+1060
+00:34:32,240 --> 00:34:35,679
+industries
+
+1061
+00:34:33,600 --> 00:34:37,360
+and treatments and stuff. So, it should
+
+1062
+00:34:35,679 --> 00:34:39,240
+be noted that Walter Schauberger, not
+
+1063
+00:34:37,360 --> 00:34:40,919
+Victor Schauberger, accomplished a great
+
+1064
+00:34:39,240 --> 00:34:42,720
+deal of developing several types of
+
+1065
+00:34:40,919 --> 00:34:44,960
+spiral treatment systems involving both
+
+1066
+00:34:42,720 --> 00:34:47,240
+gas and fluids. And here are some of
+
+1067
+00:34:44,960 --> 00:34:50,399
+them. The first image shows Marcus
+
+1068
+00:34:47,240 --> 00:34:53,720
+Kieser, Kieser, head of the head of
+
+1069
+00:34:50,399 --> 00:34:55,639
+production at Walla Heumeter, Heumeter,
+
+1070
+00:34:53,720 --> 00:34:56,919
+using the apparatus designed to mix
+
+1071
+00:34:55,639 --> 00:34:58,920
+plant juices.
+
+1072
+00:34:56,919 --> 00:35:00,480
+Mistletoe, winter mistletoe, and summer
+
+1073
+00:34:58,920 --> 00:35:04,040
+mistletoe. And so, the purpose of this
+
+1074
+00:35:00,480 --> 00:35:05,840
+process is to separate the mineral comp-
+
+1075
+00:35:04,040 --> 00:35:07,680
+components from freshly harvested
+
+1076
+00:35:05,840 --> 00:35:09,720
+mistletoe through a specialized form of
+
+1077
+00:35:07,680 --> 00:35:11,200
+motion and mixing. So, the device
+
+1078
+00:35:09,720 --> 00:35:14,200
+actually emerged from discussions
+
+1079
+00:35:11,200 --> 00:35:16,720
+related to Rudolf Steiner's ideas
+
+1080
+00:35:14,200 --> 00:35:19,760
+and with Schauberger. So, Steiner had
+
+1081
+00:35:16,720 --> 00:35:21,480
+envisioned a separate preparation method
+
+1082
+00:35:19,760 --> 00:35:22,960
+for mixing these materials. So,
+
+1083
+00:35:21,480 --> 00:35:24,880
+actually, excuse me.
+
+1084
+00:35:22,960 --> 00:35:26,520
+Correction, it was Karl Koller who was
+
+1085
+00:35:24,880 --> 00:35:28,560
+familiar with Steiner's thought who
+
+1086
+00:35:26,520 --> 00:35:31,000
+later met Victor Schauberger. And then,
+
+1087
+00:35:28,560 --> 00:35:32,720
+following this encounter, the egg-shaped
+
+1088
+00:35:31,000 --> 00:35:34,800
+device was developed and it produced a
+
+1089
+00:35:32,720 --> 00:35:38,400
+distinct kind of vortex-based mixing
+
+1090
+00:35:34,800 --> 00:35:40,240
+process. So, in 1976, the first version
+
+1091
+00:35:38,400 --> 00:35:41,440
+of this device was transferred to Walla
+
+1092
+00:35:40,240 --> 00:35:42,600
+and that is shown in the image to the
+
+1093
+00:35:41,440 --> 00:35:44,160
+left.
+
+1094
+00:35:42,600 --> 00:35:45,960
+It's a photograph of Kieser. The next
+
+1095
+00:35:44,160 --> 00:35:47,720
+example is a water appliance which is
+
+1096
+00:35:45,960 --> 00:35:51,200
+designed to revitalize distilled water
+
+1097
+00:35:47,720 --> 00:35:52,880
+based on Schauberger's designs in 1938.
+
+1098
+00:35:51,200 --> 00:35:54,760
+So, if one looks just above his hand,
+
+1099
+00:35:52,880 --> 00:35:56,560
+they can see a silver prototype of a
+
+1100
+00:35:54,760 --> 00:35:58,360
+Schauberger's transparent wave
+
+1101
+00:35:56,560 --> 00:36:00,360
+diaphragm. So, I'm speaking now of this
+
+1102
+00:35:58,360 --> 00:36:03,400
+image here. This was taken and this is
+
+1103
+00:36:00,360 --> 00:36:05,160
+Klaus Rauber and it was in well-known,
+
+1104
+00:36:03,400 --> 00:36:08,240
+like the most well-known Schauberger
+
+1105
+00:36:05,160 --> 00:36:09,640
+documentary that or maybe not. It might
+
+1106
+00:36:08,240 --> 00:36:10,480
+have been 2004. I can't remember which
+
+1107
+00:36:09,640 --> 00:36:12,080
+one.
+
+1108
+00:36:10,480 --> 00:36:13,760
+But anyway, you'll see the diaphragm
+
+1109
+00:36:12,080 --> 00:36:15,400
+plates which will be kind of like this
+
+1110
+00:36:13,760 --> 00:36:17,240
+reoccurring theme, especially with the
+
+1111
+00:36:15,400 --> 00:36:18,600
+whirlpool thing and his like trout
+
+1112
+00:36:17,240 --> 00:36:20,600
+turbine here.
+
+1113
+00:36:18,600 --> 00:36:21,840
+So,
+
+1114
+00:36:20,600 --> 00:36:23,720
+basically, the way this is supposed to
+
+1115
+00:36:21,840 --> 00:36:25,320
+work is the water is pulsed through the
+
+1116
+00:36:23,720 --> 00:36:27,480
+diaphragm and then it continues along
+
+1117
+00:36:25,320 --> 00:36:29,400
+the screw-like meandering path, vertical
+
+1118
+00:36:27,480 --> 00:36:31,360
+path. In Schauberger's words, the hole
+
+1119
+00:36:29,400 --> 00:36:33,120
+is covered by a lid to so that light is
+
+1120
+00:36:31,360 --> 00:36:34,600
+excluded. This is another thing with
+
+1121
+00:36:33,120 --> 00:36:36,840
+Schauberger, he thought that water
+
+1122
+00:36:34,600 --> 00:36:38,720
+became more energetic within darkness.
+
+1123
+00:36:36,840 --> 00:36:40,640
+And so uh Schauberger believed that the
+
+1124
+00:36:38,720 --> 00:36:42,080
+more energetic yeah, more energetic in
+
+1125
+00:36:40,640 --> 00:36:44,160
+darkness especially in the presence of
+
+1126
+00:36:42,080 --> 00:36:46,000
+moonlight rather than um direct exposure
+
+1127
+00:36:44,160 --> 00:36:48,280
+to light. So that was those were some of
+
+1128
+00:36:46,000 --> 00:36:50,480
+his uh environmental practices being put
+
+1129
+00:36:48,280 --> 00:36:52,000
+into use the best they could for uh
+
+1130
+00:36:50,480 --> 00:36:54,080
+producing some of these systems. Moving
+
+1131
+00:36:52,000 --> 00:36:55,880
+on. Now we're going into the uh his
+
+1132
+00:36:54,080 --> 00:36:58,760
+actual direct lineage. So Viktor
+
+1133
+00:36:55,880 --> 00:37:00,520
+Schauberger uh so Viktor Schauberger uh
+
+1134
+00:36:58,760 --> 00:37:02,120
+is also an incredible person. I didn't
+
+1135
+00:37:00,520 --> 00:37:03,720
+know this until I did a bit of digging.
+
+1136
+00:37:02,120 --> 00:37:05,240
+He studied mechanical and electrical
+
+1137
+00:37:03,720 --> 00:37:06,760
+engineering. So he was a bit more
+
+1138
+00:37:05,240 --> 00:37:08,720
+technical oriented and believe me it
+
+1139
+00:37:06,760 --> 00:37:10,160
+does show. So rather than simply
+
+1140
+00:37:08,720 --> 00:37:12,440
+preserving his father's ideas and
+
+1141
+00:37:10,160 --> 00:37:14,640
+historical curiosities, uh he tried to
+
+1142
+00:37:12,440 --> 00:37:17,160
+systematize them uh through principles
+
+1143
+00:37:14,640 --> 00:37:18,440
+and uh through like physics, biology,
+
+1144
+00:37:17,160 --> 00:37:20,400
+and all sorts of other scientific
+
+1145
+00:37:18,440 --> 00:37:21,960
+principles. In 1949, he helped found the
+
+1146
+00:37:20,400 --> 00:37:23,960
+Green Front considered Austria's first
+
+1147
+00:37:21,960 --> 00:37:25,880
+environmental organization. Make the
+
+1148
+00:37:23,960 --> 00:37:28,120
+Earth fertile again was their kind of
+
+1149
+00:37:25,880 --> 00:37:30,200
+mantra. And then in the 1970s, his work
+
+1150
+00:37:28,120 --> 00:37:31,520
+expanded into the PKS school, the
+
+1151
+00:37:30,200 --> 00:37:33,360
+Pythagoras-Kepler School where he
+
+1152
+00:37:31,520 --> 00:37:35,240
+invented harmonic theory, non-Euclidean
+
+1153
+00:37:33,360 --> 00:37:37,200
+geometry, and prime numbers, nuclear
+
+1154
+00:37:35,240 --> 00:37:38,600
+physics, what he called the tonal nature
+
+1155
+00:37:37,200 --> 00:37:40,440
+of physics. It might sound a bit
+
+1156
+00:37:38,600 --> 00:37:41,480
+esoteric to people because
+
+1157
+00:37:40,440 --> 00:37:43,320
+again, it's just kind of a
+
+1158
+00:37:41,480 --> 00:37:44,520
+misrepresentation, but a lot of times
+
+1159
+00:37:43,320 --> 00:37:45,920
+when people go into subjects that
+
+1160
+00:37:44,520 --> 00:37:47,920
+haven't really been covered in
+
+1161
+00:37:45,920 --> 00:37:49,600
+mainstream circles, the moment they
+
+1162
+00:37:47,920 --> 00:37:50,960
+start talking about like fundamental
+
+1163
+00:37:49,600 --> 00:37:53,320
+properties, then it sounds like you're
+
+1164
+00:37:50,960 --> 00:37:55,480
+saying, "Well, seven is the you know
+
+1165
+00:37:53,320 --> 00:37:56,960
+best nature is the best number to use to
+
+1166
+00:37:55,480 --> 00:37:59,000
+tune everything in nature because it's
+
+1167
+00:37:56,960 --> 00:38:00,920
+the number of divine cosmic truth." And
+
+1168
+00:37:59,000 --> 00:38:02,760
+that's not so. We all know Pythagoras
+
+1169
+00:38:00,920 --> 00:38:04,680
+and his work with mathematics. Uh
+
+1170
+00:38:02,760 --> 00:38:06,120
+everyone loves him, right? Because of
+
+1171
+00:38:04,680 --> 00:38:08,160
+all of the triangles and squares we've
+
+1172
+00:38:06,120 --> 00:38:10,440
+had to work with in primary school for
+
+1173
+00:38:08,160 --> 00:38:13,400
+all those painful standardized tests. So
+
+1174
+00:38:10,440 --> 00:38:15,240
+no one doubts his work, but um
+
+1175
+00:38:13,400 --> 00:38:16,920
+uh a lot of people don't actually
+
+1176
+00:38:15,240 --> 00:38:18,800
+understand the more fundamental nature
+
+1177
+00:38:16,920 --> 00:38:20,320
+of things like Euclid and so on and so
+
+1178
+00:38:18,800 --> 00:38:22,040
+forth. And that that that's like the
+
+1179
+00:38:20,320 --> 00:38:24,520
+ground level, like the base like
+
+1180
+00:38:22,040 --> 00:38:27,000
+assembly language level, where a lot of
+
+1181
+00:38:24,520 --> 00:38:29,440
+Schauberger's work came from and uh
+
+1182
+00:38:27,000 --> 00:38:31,520
+Walter worked to formalize a lot of like
+
+1183
+00:38:29,440 --> 00:38:32,920
+like that to like say, "Okay, so when
+
+1184
+00:38:31,520 --> 00:38:34,600
+we're talking about implosion and things
+
+1185
+00:38:32,920 --> 00:38:36,680
+which are happening in a process, a good
+
+1186
+00:38:34,600 --> 00:38:38,280
+way to illustrate this is by using some
+
+1187
+00:38:36,680 --> 00:38:39,640
+of these tools which already exist here
+
+1188
+00:38:38,280 --> 00:38:40,880
+in terms of mathematics." So, he was a
+
+1189
+00:38:39,640 --> 00:38:43,120
+smart guy.
+
+1190
+00:38:40,880 --> 00:38:45,200
+And here are just some pictures from the
+
+1191
+00:38:43,120 --> 00:38:46,480
+uh PKS society. I'm not going to go into
+
+1192
+00:38:45,200 --> 00:38:48,200
+any of them. They're actually really
+
+1193
+00:38:46,480 --> 00:38:50,000
+really useful when you're designing any
+
+1194
+00:38:48,200 --> 00:38:51,800
+kind of Schauberger system. So, you can
+
+1195
+00:38:50,000 --> 00:38:53,560
+basically create anything that Victor
+
+1196
+00:38:51,800 --> 00:38:55,440
+Schauberger, if you ever want to make
+
+1197
+00:38:53,560 --> 00:38:57,840
+anything from Victor Schauberger, you
+
+1198
+00:38:55,440 --> 00:38:59,680
+can start off by making a hyper This is
+
+1199
+00:38:57,840 --> 00:39:02,760
+like just the secret sauce in terms of
+
+1200
+00:38:59,680 --> 00:39:04,760
+the industry making stuff. So, um just
+
+1201
+00:39:02,760 --> 00:39:06,120
+start off with like a hyperbolic cone
+
+1202
+00:39:04,760 --> 00:39:08,280
+and then slice that. There's so many
+
+1203
+00:39:06,120 --> 00:39:10,360
+different ways to slice that and you can
+
+1204
+00:39:08,280 --> 00:39:12,160
+create any kind of geometry you want and
+
+1205
+00:39:10,360 --> 00:39:15,560
+it'll be very easy to create a
+
+1206
+00:39:12,160 --> 00:39:17,320
+geometrically advantageous object. Um
+
+1207
+00:39:15,560 --> 00:39:19,440
+how you do that in terms of the 3D
+
+1208
+00:39:17,320 --> 00:39:20,880
+becomes a bit of a method, but this can
+
+1209
+00:39:19,440 --> 00:39:23,040
+help you. Um
+
+1210
+00:39:20,880 --> 00:39:24,760
+and so, moving on to the next slide,
+
+1211
+00:39:23,040 --> 00:39:27,400
+this is a another It's like looking at
+
+1212
+00:39:24,760 --> 00:39:30,480
+the hyperbolic cone from far away.
+
+1213
+00:39:27,400 --> 00:39:31,960
+And so, uh these are just things that he
+
+1214
+00:39:30,480 --> 00:39:32,960
+developed. He didn't really develop
+
+1215
+00:39:31,960 --> 00:39:35,600
+them. They've all been there, but
+
+1216
+00:39:32,960 --> 00:39:37,080
+they're just useful in terms of uh
+
+1217
+00:39:35,600 --> 00:39:38,600
+I guess the science of Victor
+
+1218
+00:39:37,080 --> 00:39:40,520
+Schauberger. And then we Everyone knows
+
+1219
+00:39:38,600 --> 00:39:42,800
+this lovely face. This is Jörg
+
+1220
+00:39:40,520 --> 00:39:46,040
+Schauberger, which is the grandson or
+
+1221
+00:39:42,800 --> 00:39:47,440
+son of a grandson of a Victor, son of
+
+1222
+00:39:46,040 --> 00:39:49,160
+Walter. And he carries on the legacy of
+
+1223
+00:39:47,440 --> 00:39:51,080
+both his father and his grandfather,
+
+1224
+00:39:49,160 --> 00:39:53,280
+spokesperson and lecturer and
+
+1225
+00:39:51,080 --> 00:39:54,800
+collaborator of Schauberger material and
+
+1226
+00:39:53,280 --> 00:39:57,400
+the current presenter and overseer of
+
+1227
+00:39:54,800 --> 00:39:59,200
+the PKS estate. So, he's overseen many
+
+1228
+00:39:57,400 --> 00:40:01,320
+of the independent studies of the work
+
+1229
+00:39:59,200 --> 00:40:02,760
+of both his father and his grandfather.
+
+1230
+00:40:01,320 --> 00:40:04,440
+Okay, so we've done it. We've gone
+
+1231
+00:40:02,760 --> 00:40:06,560
+through uh Victor Schauberger the best
+
+1232
+00:40:04,440 --> 00:40:07,600
+we can and we've done so fairly fast.
+
+1233
+00:40:06,560 --> 00:40:09,000
+And now we're going to go into the more
+
+1234
+00:40:07,600 --> 00:40:11,280
+technical details. So, this is the
+
+1235
+00:40:09,000 --> 00:40:13,280
+general part. So, we're on to part two.
+
+1236
+00:40:11,280 --> 00:40:15,000
+So, what is implosion? That's a very
+
+1237
+00:40:13,280 --> 00:40:16,520
+good question here. So, let's look at
+
+1238
+00:40:15,000 --> 00:40:19,480
+implosion. What is implosion as a
+
+1239
+00:40:16,520 --> 00:40:20,920
+science? So, implosion is the process.
+
+1240
+00:40:19,480 --> 00:40:22,880
+Let's talk about it. So, you can think
+
+1241
+00:40:20,920 --> 00:40:24,720
+of it usually as the inverse of
+
+1242
+00:40:22,880 --> 00:40:26,840
+explosion. So, if explosion goes out,
+
+1243
+00:40:24,720 --> 00:40:29,560
+then I guess the inverse is it goes in.
+
+1244
+00:40:26,840 --> 00:40:32,120
+So, explosion is a process whereby mass,
+
+1245
+00:40:29,560 --> 00:40:33,840
+energy is released outwardly, usually in
+
+1246
+00:40:32,120 --> 00:40:36,680
+the form of heat, and that causes an
+
+1247
+00:40:33,840 --> 00:40:38,760
+expansion of a given volume or space.
+
+1248
+00:40:36,680 --> 00:40:41,000
+So, implosion differs a little bit. So,
+
+1249
+00:40:38,760 --> 00:40:43,840
+implosion is a process where mass,
+
+1250
+00:40:41,000 --> 00:40:46,000
+energy of a given volume or space is
+
+1251
+00:40:43,840 --> 00:40:48,200
+concentrated inwardly by a kind of
+
+1252
+00:40:46,000 --> 00:40:50,440
+compression. It can be a compression.
+
+1253
+00:40:48,200 --> 00:40:52,040
+And it's actually also directed as well.
+
+1254
+00:40:50,440 --> 00:40:55,040
+It can be directed. So, instead of
+
+1255
+00:40:52,040 --> 00:40:56,360
+spitting stuff out to get kind of like,
+
+1256
+00:40:55,040 --> 00:40:59,840
+you know, energy,
+
+1257
+00:40:56,360 --> 00:41:03,080
+energetic, uh I'd say useful energetic
+
+1258
+00:40:59,840 --> 00:41:04,920
+motiveness, you contain things and you
+
+1259
+00:41:03,080 --> 00:41:07,240
+just kind of like, uh
+
+1260
+00:41:04,920 --> 00:41:07,880
+you have that directed in a way,
+
+1261
+00:41:07,240 --> 00:41:09,480
+uh
+
+1262
+00:41:07,880 --> 00:41:11,560
+within a contained sort of way. Okay, so
+
+1263
+00:41:09,480 --> 00:41:13,120
+moving on to the next place. Uh next
+
+1264
+00:41:11,560 --> 00:41:14,640
+These These are really cool slides. So,
+
+1265
+00:41:13,120 --> 00:41:16,160
+this is really important. Um so, the
+
+1266
+00:41:14,640 --> 00:41:18,040
+explosive process is basically
+
+1267
+00:41:16,160 --> 00:41:19,360
+summarized really well here in this very
+
+1268
+00:41:18,040 --> 00:41:21,520
+simple diagram here. This is what you
+
+1269
+00:41:19,360 --> 00:41:23,000
+learn, I remember in like mechanics, uh
+
+1270
+00:41:21,520 --> 00:41:23,920
+fundamental physics course where we had
+
+1271
+00:41:23,000 --> 00:41:25,520
+to use
+
+1272
+00:41:23,920 --> 00:41:27,520
+uh the rocket equation for this. But
+
+1273
+00:41:25,520 --> 00:41:29,280
+basically, as I was saying, in my crude
+
+1274
+00:41:27,520 --> 00:41:31,160
+millennial language, you just take So,
+
+1275
+00:41:29,280 --> 00:41:32,920
+when you take mass and you spit out mass
+
+1276
+00:41:31,160 --> 00:41:34,680
+to get something to move in another way
+
+1277
+00:41:32,920 --> 00:41:37,440
+because of Newton's third law.
+
+1278
+00:41:34,680 --> 00:41:39,280
+So, the implosive process honors Newton
+
+1279
+00:41:37,440 --> 00:41:41,160
+in every single respect. There is no
+
+1280
+00:41:39,280 --> 00:41:43,000
+such thing as a reactionless system, so
+
+1281
+00:41:41,160 --> 00:41:44,640
+far as I understand. Everything must be
+
+1282
+00:41:43,000 --> 00:41:45,640
+reactionary if it's having some sort of
+
+1283
+00:41:44,640 --> 00:41:47,360
+motion.
+
+1284
+00:41:45,640 --> 00:41:49,520
+This image I took [clears throat] is
+
+1285
+00:41:47,360 --> 00:41:51,280
+actually comes out of a NASA document.
+
+1286
+00:41:49,520 --> 00:41:53,320
+Uh anyone who's done the field of like
+
+1287
+00:41:51,280 --> 00:41:55,520
+researching any type of alternative
+
+1288
+00:41:53,320 --> 00:41:58,000
+propulsion uh critically and rigorously.
+
+1289
+00:41:55,520 --> 00:42:00,480
+It's like a huge thousand-page document
+
+1290
+00:41:58,000 --> 00:42:04,400
+or maybe 500 pages, I can't remember,
+
+1291
+00:42:00,480 --> 00:42:06,440
+uh by AIAA in Advances of uh Propulsion.
+
+1292
+00:42:04,400 --> 00:42:07,960
+And when it introduces Mach's principle
+
+1293
+00:42:06,440 --> 00:42:09,520
+and Woodward's work, it had an
+
+1294
+00:42:07,960 --> 00:42:11,960
+illustrative, which is actually just a
+
+1295
+00:42:09,520 --> 00:42:13,800
+powerful illustrative overall. And this
+
+1296
+00:42:11,960 --> 00:42:15,560
+is why I will go on to talk about why
+
+1297
+00:42:13,800 --> 00:42:17,480
+Mach's principle, at least the formalism
+
+1298
+00:42:15,560 --> 00:42:19,560
+I'm using, is a very powerful tool in
+
+1299
+00:42:17,480 --> 00:42:21,360
+describing implosive processes. And as
+
+1300
+00:42:19,560 --> 00:42:22,720
+you can see here, I mean this isn't If
+
+1301
+00:42:21,360 --> 00:42:24,200
+you actually built this mechanism, this
+
+1302
+00:42:22,720 --> 00:42:25,400
+is not necessarily how it would work
+
+1303
+00:42:24,200 --> 00:42:27,480
+unless you had some sort of like
+
+1304
+00:42:25,400 --> 00:42:29,480
+pressure differential. But the idea is
+
+1305
+00:42:27,480 --> 00:42:30,320
+that, you know, uh
+
+1306
+00:42:29,480 --> 00:42:33,240
+as
+
+1307
+00:42:30,320 --> 00:42:34,880
+as M is changing, like mass isn't mass
+
+1308
+00:42:33,240 --> 00:42:37,040
+is changing, right? So the delta M is
+
+1309
+00:42:34,880 --> 00:42:39,160
+changing. So as there's a slower
+
+1310
+00:42:37,040 --> 00:42:41,280
+contraction and then a full expansion,
+
+1311
+00:42:39,160 --> 00:42:43,240
+it's moving forward, right? It's kind of
+
+1312
+00:42:41,280 --> 00:42:44,920
+breathing. And actually I defer to a
+
+1313
+00:42:43,240 --> 00:42:46,840
+lecture before this about a month ago,
+
+1314
+00:42:44,920 --> 00:42:48,280
+which was given by Michelle Boisvert.
+
+1315
+00:42:46,840 --> 00:42:50,120
+Forgive me if I mispronounced her name.
+
+1316
+00:42:48,280 --> 00:42:52,360
+And she does an excellent job in talking
+
+1317
+00:42:50,120 --> 00:42:54,680
+about how uh Woodward's Mach effect
+
+1318
+00:42:52,360 --> 00:42:56,360
+thrusters like work because a lot of the
+
+1319
+00:42:54,680 --> 00:42:58,480
+principle fundamentally we work with the
+
+1320
+00:42:56,360 --> 00:43:00,600
+same kind of principles, right? In terms
+
+1321
+00:42:58,480 --> 00:43:02,960
+of the breathing and the pushing. And
+
+1322
+00:43:00,600 --> 00:43:04,720
+the push the push is basically the pull
+
+1323
+00:43:02,960 --> 00:43:06,520
+and the push and the pull is basically
+
+1324
+00:43:04,720 --> 00:43:09,520
+the push sort of deal is what's going
+
+1325
+00:43:06,520 --> 00:43:11,280
+on. Um and so this is the implosive
+
+1326
+00:43:09,520 --> 00:43:13,160
+process illustrated mechanically and the
+
+1327
+00:43:11,280 --> 00:43:14,680
+explosive process chemically. Which is
+
+1328
+00:43:13,160 --> 00:43:16,120
+also, I mean if you want the mechanical
+
+1329
+00:43:14,680 --> 00:43:18,800
+process, just open the hood of your car
+
+1330
+00:43:16,120 --> 00:43:20,240
+engine. Okay, so moving on, what are
+
+1331
+00:43:18,800 --> 00:43:23,000
+some good analogs for those who don't
+
+1332
+00:43:20,240 --> 00:43:24,760
+understand with my word food salad? So a
+
+1333
+00:43:23,000 --> 00:43:26,800
+useful analog would probably be fission
+
+1334
+00:43:24,760 --> 00:43:29,200
+versus fusion. Fission generates energy
+
+1335
+00:43:26,800 --> 00:43:30,520
+by splitting mass energy. It's
+
+1336
+00:43:29,200 --> 00:43:31,840
+probably even more powerful than an
+
+1337
+00:43:30,520 --> 00:43:34,720
+analog. It's still the same kind of
+
+1338
+00:43:31,840 --> 00:43:36,240
+thing, an explosive process, no? So it
+
+1339
+00:43:34,720 --> 00:43:37,800
+generates energy by splitting mass
+
+1340
+00:43:36,240 --> 00:43:39,960
+energy, right? The contents within an
+
+1341
+00:43:37,800 --> 00:43:41,920
+atomic nucleon nucleus. And then fusion
+
+1342
+00:43:39,960 --> 00:43:44,160
+generates energy by combining the mass
+
+1343
+00:43:41,920 --> 00:43:46,440
+energy of atomic nuclei, right? And so I
+
+1344
+00:43:44,160 --> 00:43:48,320
+mean this is probably a very good way of
+
+1345
+00:43:46,440 --> 00:43:50,000
+explaining how implosive works. So then
+
+1346
+00:43:48,320 --> 00:43:52,040
+what is an implosive system? That's a
+
+1347
+00:43:50,000 --> 00:43:53,720
+really good question. Okay, so these are
+
+1348
+00:43:52,040 --> 00:43:55,040
+enhanced images I had. Actually I
+
+1349
+00:43:53,720 --> 00:43:57,400
+believe this This doesn't come from a
+
+1350
+00:43:55,040 --> 00:43:59,680
+Roger Penrose thing. Penrose has some
+
+1351
+00:43:57,400 --> 00:44:02,280
+interesting work as well with rotation
+
+1352
+00:43:59,680 --> 00:44:03,480
+matrices. Um I'm not even going to go
+
+1353
+00:44:02,280 --> 00:44:05,080
+into that like with spinner theory and
+
+1354
+00:44:03,480 --> 00:44:06,520
+some other stuff. But the illustrative
+
+1355
+00:44:05,080 --> 00:44:07,680
+is a very powerful illustrative that can
+
+1356
+00:44:06,520 --> 00:44:09,840
+be used anywhere. So, I had it
+
+1357
+00:44:07,680 --> 00:44:11,800
+color-coded, right? This is a very, very
+
+1358
+00:44:09,840 --> 00:44:13,600
+powerful illustrative for many different
+
+1359
+00:44:11,800 --> 00:44:15,240
+reasons. But anyway, an implosive
+
+1360
+00:44:13,600 --> 00:44:16,800
+system, this is a very good illustrative
+
+1361
+00:44:15,240 --> 00:44:19,400
+for illustrating an implosive system. An
+
+1362
+00:44:16,800 --> 00:44:21,840
+implosive system is a system which is
+
+1363
+00:44:19,400 --> 00:44:24,440
+driven by an implosive process. So, that
+
+1364
+00:44:21,840 --> 00:44:26,360
+is a process where mass energy or
+
+1365
+00:44:24,440 --> 00:44:29,280
+inertially or the inertial content is
+
+1366
+00:44:26,360 --> 00:44:31,320
+cyclically retained and redirected. So,
+
+1367
+00:44:29,280 --> 00:44:34,200
+it differs from an explosive process
+
+1368
+00:44:31,320 --> 00:44:36,240
+where mass energy or inertial content is
+
+1369
+00:44:34,200 --> 00:44:38,240
+either expelled or discarded throughout
+
+1370
+00:44:36,240 --> 00:44:39,880
+an impulse. So, the flows or the
+
+1371
+00:44:38,240 --> 00:44:42,360
+transfers of mass energy within an
+
+1372
+00:44:39,880 --> 00:44:44,760
+implosive process tend to be vertical or
+
+1373
+00:44:42,360 --> 00:44:46,720
+vortal. They're the ver- the words that
+
+1374
+00:44:44,760 --> 00:44:48,520
+we're using here I I they're not really
+
+1375
+00:44:46,720 --> 00:44:49,880
+neo no- localisms, but like, you know,
+
+1376
+00:44:48,520 --> 00:44:53,000
+they're a lot of people haven't been
+
+1377
+00:44:49,880 --> 00:44:54,560
+doing work in vortex stuff in
+
+1378
+00:44:53,000 --> 00:44:56,480
+mainstream. So, it's kind of hard to
+
+1379
+00:44:54,560 --> 00:44:58,520
+give this an adjective word. So, a
+
+1380
+00:44:56,480 --> 00:44:59,480
+vertical or vortal, both should work,
+
+1381
+00:44:58,520 --> 00:45:01,040
+right?
+
+1382
+00:44:59,480 --> 00:45:02,600
+Usually, it's vortal or vortal and then
+
+1383
+00:45:01,040 --> 00:45:04,160
+you'll have a particular vector of
+
+1384
+00:45:02,600 --> 00:45:06,080
+movement. You don't always have a vector
+
+1385
+00:45:04,160 --> 00:45:09,200
+of movement. Uh you can have like a
+
+1386
+00:45:06,080 --> 00:45:12,000
+counter-rotating vector system. And I
+
+1387
+00:45:09,200 --> 00:45:14,280
+might talk about this a bit with the
+
+1388
+00:45:12,000 --> 00:45:16,320
+repulsing, but basically, you end up
+
+1389
+00:45:14,280 --> 00:45:19,040
+having like two counter-rotating
+
+1390
+00:45:16,320 --> 00:45:21,160
+vortex within like a gas or media. And
+
+1391
+00:45:19,040 --> 00:45:23,040
+then within that, you have an embedded
+
+1392
+00:45:21,160 --> 00:45:25,080
+bigger vortex, and that general vortex
+
+1393
+00:45:23,040 --> 00:45:27,000
+often just looks like a giant donut. But
+
+1394
+00:45:25,080 --> 00:45:29,200
+a lot of times, people don't count
+
+1395
+00:45:27,000 --> 00:45:30,200
+don't see the counter vortexing that
+
+1396
+00:45:29,200 --> 00:45:32,600
+goes on.
+
+1397
+00:45:30,200 --> 00:45:33,920
+But uh it's just a different thing to
+
+1398
+00:45:32,600 --> 00:45:35,640
+talk about. It can get a little bit
+
+1399
+00:45:33,920 --> 00:45:38,120
+complicated. So, anyway, what is an
+
+1400
+00:45:35,640 --> 00:45:40,360
+implosive propulsive system? Um a
+
+1401
+00:45:38,120 --> 00:45:42,040
+reactionary implosive-driven device
+
+1402
+00:45:40,360 --> 00:45:43,840
+which does not expel mass in the same
+
+1403
+00:45:42,040 --> 00:45:46,200
+sense as an explosive process to
+
+1404
+00:45:43,840 --> 00:45:48,400
+generate thrust. Um an opened or
+
+1405
+00:45:46,200 --> 00:45:49,960
+mock-admitting system whose process of
+
+1406
+00:45:48,400 --> 00:45:51,600
+force generation is implicated with the
+
+1407
+00:45:49,960 --> 00:45:54,520
+rest of its surroundings. I say opened
+
+1408
+00:45:51,600 --> 00:45:56,240
+or mock-admitting system because I'm not
+
+1409
+00:45:54,520 --> 00:45:57,560
+when we're talking about these systems,
+
+1410
+00:45:56,240 --> 00:45:58,640
+there are different ways to qualify
+
+1411
+00:45:57,560 --> 00:46:00,240
+them. And over the years, I've seen a
+
+1412
+00:45:58,640 --> 00:46:01,600
+lot of people go to great lengths to
+
+1413
+00:46:00,240 --> 00:46:04,760
+make very
+
+1414
+00:46:01,600 --> 00:46:06,160
+very nice frameworks that are distinct.
+
+1415
+00:46:04,760 --> 00:46:07,320
+Sometimes they say like Newton is
+
+1416
+00:46:06,160 --> 00:46:09,080
+lacking.
+
+1417
+00:46:07,320 --> 00:46:11,560
+Like Newton is lacking completely or
+
+1418
+00:46:09,080 --> 00:46:13,800
+this doesn't work, but Mach is very easy
+
+1419
+00:46:11,560 --> 00:46:15,960
+to use. Well, it's not not because of
+
+1420
+00:46:13,800 --> 00:46:17,760
+convenience, but in terms of doing the
+
+1421
+00:46:15,960 --> 00:46:19,040
+science, right? There is nothing
+
+1422
+00:46:17,760 --> 00:46:20,040
+necessarily fundamentally wrong with the
+
+1423
+00:46:19,040 --> 00:46:21,520
+science, but there has been a
+
+1424
+00:46:20,040 --> 00:46:24,280
+misunderstanding in how the science has
+
+1425
+00:46:21,520 --> 00:46:25,400
+been applied. And so everything that
+
+1426
+00:46:24,280 --> 00:46:27,080
+modern Mach had already been
+
+1427
+00:46:25,400 --> 00:46:29,280
+articulating in things like mechanics
+
+1428
+00:46:27,080 --> 00:46:31,520
+and on fits snugly with things like
+
+1429
+00:46:29,280 --> 00:46:33,520
+this. It's just that in a world where
+
+1430
+00:46:31,520 --> 00:46:36,960
+explosion is kind of like the way that
+
+1431
+00:46:33,520 --> 00:46:39,360
+everyone understands energetic processes
+
+1432
+00:46:36,960 --> 00:46:40,720
+and motion, it's very hard to talk about
+
+1433
+00:46:39,360 --> 00:46:42,440
+implosive systems. They almost sound
+
+1434
+00:46:40,720 --> 00:46:45,280
+like fantasy or something made up,
+
+1435
+00:46:42,440 --> 00:46:47,560
+right? And so Mach helps to offset that
+
+1436
+00:46:45,280 --> 00:46:49,680
+and also helps to formalize that in a
+
+1437
+00:46:47,560 --> 00:46:51,040
+scientific process that can be like
+
+1438
+00:46:49,680 --> 00:46:53,160
+replicated.
+
+1439
+00:46:51,040 --> 00:46:55,760
+So, what is an implosive system? What
+
+1440
+00:46:53,160 --> 00:46:58,400
+are the types? So, my area of specialty
+
+1441
+00:46:55,760 --> 00:47:00,560
+I would say is in solid state inertial
+
+1442
+00:46:58,400 --> 00:47:02,160
+mechanics or solid state implosive
+
+1443
+00:47:00,560 --> 00:47:04,320
+systems. And to the left we have one
+
+1444
+00:47:02,160 --> 00:47:05,920
+which is mechanical. And so,
+
+1445
+00:47:04,320 --> 00:47:07,640
+as the name implies, solid state that
+
+1446
+00:47:05,920 --> 00:47:10,400
+means I deal with actual concrete
+
+1447
+00:47:07,640 --> 00:47:11,960
+masses. What we do is we arrange those
+
+1448
+00:47:10,400 --> 00:47:14,000
+in space
+
+1449
+00:47:11,960 --> 00:47:16,120
+according to an advantageous geometry.
+
+1450
+00:47:14,000 --> 00:47:17,680
+Use a 2π Mobius band and that's just
+
+1451
+00:47:16,120 --> 00:47:19,800
+because it has some really nice
+
+1452
+00:47:17,680 --> 00:47:21,720
+attributes. It's non-orientable and that
+
+1453
+00:47:19,800 --> 00:47:22,840
+non-orientability it almost sounds like
+
+1454
+00:47:21,720 --> 00:47:24,400
+I'm talking about general relativity
+
+1455
+00:47:22,840 --> 00:47:26,400
+here because anyone who practices not
+
+1456
+00:47:24,400 --> 00:47:28,440
+practices but uses GR knows that there
+
+1457
+00:47:26,400 --> 00:47:30,240
+are advantageous geometries which allow
+
+1458
+00:47:28,440 --> 00:47:32,560
+you to do special things in space time
+
+1459
+00:47:30,240 --> 00:47:34,480
+when say you want to traverse a wormhole
+
+1460
+00:47:32,560 --> 00:47:37,080
+or make a really fast kind of like you
+
+1461
+00:47:34,480 --> 00:47:39,160
+know system that displaces space time.
+
+1462
+00:47:37,080 --> 00:47:40,920
+And the principle, even though general
+
+1463
+00:47:39,160 --> 00:47:42,960
+relativity is not at all necessitated
+
+1464
+00:47:40,920 --> 00:47:44,640
+with the formulas of Mach I use,
+
+1465
+00:47:42,960 --> 00:47:46,800
+the principle is absolutely the same. Is
+
+1466
+00:47:44,640 --> 00:47:48,840
+that I mean, it goes back to even Walter
+
+1467
+00:47:46,800 --> 00:47:50,160
+who's using PKS stuff, right? Is that
+
+1468
+00:47:48,840 --> 00:47:52,160
+there are geometrically some
+
+1469
+00:47:50,160 --> 00:47:55,040
+advantageous geometries that let the
+
+1470
+00:47:52,160 --> 00:47:56,640
+implosive process work with great ease.
+
+1471
+00:47:55,040 --> 00:47:58,280
+You're able to achieve a kind of static
+
+1472
+00:47:56,640 --> 00:48:00,360
+equilibrium and I qualify that in a
+
+1473
+00:47:58,280 --> 00:48:01,760
+different paper I released last month,
+
+1474
+00:48:00,360 --> 00:48:03,560
+uh with
+
+1475
+00:48:01,760 --> 00:48:05,360
+uh a 2 pi Mobius band. But, there are
+
+1476
+00:48:03,560 --> 00:48:07,200
+other kind of geometries that you can
+
+1477
+00:48:05,360 --> 00:48:09,000
+use as well. So, we have a fluid base or
+
+1478
+00:48:07,200 --> 00:48:10,440
+hydrodynamic base system here,
+
+1479
+00:48:09,000 --> 00:48:11,520
+hydraulic, and that is the repulsine.
+
+1480
+00:48:10,440 --> 00:48:13,840
+I'm going to have to speed through this
+
+1481
+00:48:11,520 --> 00:48:16,360
+a bit more. Okay. So, we have perfectly
+
+1482
+00:48:13,840 --> 00:48:18,000
+ideal uh implosive systems here. So,
+
+1483
+00:48:16,360 --> 00:48:19,760
+what happens in a perfectly ideal
+
+1484
+00:48:18,000 --> 00:48:21,360
+implosive system? Okay. So, if you have
+
+1485
+00:48:19,760 --> 00:48:23,560
+a system like the Schauberger system,
+
+1486
+00:48:21,360 --> 00:48:25,000
+you have the gaseous reactant. So, that
+
+1487
+00:48:23,560 --> 00:48:26,840
+means it's working with an air. So, I
+
+1488
+00:48:25,000 --> 00:48:28,440
+call it a new pneumatic system. Then,
+
+1489
+00:48:26,840 --> 00:48:30,080
+you have the hydraulic system, which is
+
+1490
+00:48:28,440 --> 00:48:33,400
+like what you see in kind of like the
+
+1491
+00:48:30,080 --> 00:48:35,120
+submarines. Okay. So, for the hydraulic
+
+1492
+00:48:33,400 --> 00:48:37,080
+systems here, uh this is really
+
+1493
+00:48:35,120 --> 00:48:38,680
+important because eyewitness accounts uh
+
+1494
+00:48:37,080 --> 00:48:40,040
+of the repulsine if it took off. And
+
+1495
+00:48:38,680 --> 00:48:42,000
+this is Victor Schauberger's own word,
+
+1496
+00:48:40,040 --> 00:48:44,040
+the apparatus it first functioned at the
+
+1497
+00:48:42,000 --> 00:48:45,600
+first attempt it rose upwards trailing a
+
+1498
+00:48:44,040 --> 00:48:47,080
+blue-green and then silver-colored glow.
+
+1499
+00:48:45,600 --> 00:48:48,680
+That implies to me some sort of
+
+1500
+00:48:47,080 --> 00:48:51,440
+ionization with like stepping up the
+
+1501
+00:48:48,680 --> 00:48:53,320
+energy levels. So, in an ideal implosive
+
+1502
+00:48:51,440 --> 00:48:55,480
+system that is a pneumatic type working
+
+1503
+00:48:53,320 --> 00:48:57,440
+with air as the media, uh gaseous
+
+1504
+00:48:55,480 --> 00:48:59,680
+reactant. Um perhaps there's a sort of
+
+1505
+00:48:57,440 --> 00:49:01,840
+concentrated coronal discharge, right?
+
+1506
+00:48:59,680 --> 00:49:03,720
+So, tribo- triboluminescence takes place
+
+1507
+00:49:01,840 --> 00:49:05,280
+when a material is mechanically stressed
+
+1508
+00:49:03,720 --> 00:49:06,640
+by rubbing against something else. In
+
+1509
+00:49:05,280 --> 00:49:08,120
+this case, the rubbing the something
+
+1510
+00:49:06,640 --> 00:49:09,720
+else is the air. For something like the
+
+1511
+00:49:08,120 --> 00:49:11,080
+repulsine, that thing which was rubbed
+
+1512
+00:49:09,720 --> 00:49:12,600
+against is probably the air, like I
+
+1513
+00:49:11,080 --> 00:49:14,040
+said. For this condition to take place,
+
+1514
+00:49:12,600 --> 00:49:15,840
+one must consider the type of material
+
+1515
+00:49:14,040 --> 00:49:18,600
+which is being used, the construction of
+
+1516
+00:49:15,840 --> 00:49:20,000
+the turbine, and again, it's it's
+
+1517
+00:49:18,600 --> 00:49:21,440
+possible that this is a stand-alone
+
+1518
+00:49:20,000 --> 00:49:23,000
+effect or it's concurrent with
+
+1519
+00:49:21,440 --> 00:49:24,200
+ionization. I'm not sure because I
+
+1520
+00:49:23,000 --> 00:49:26,480
+haven't been able to replicate this
+
+1521
+00:49:24,200 --> 00:49:28,040
+effect myself. So, for those who don't
+
+1522
+00:49:26,480 --> 00:49:30,960
+know, ionization is when the orbitals of
+
+1523
+00:49:28,040 --> 00:49:33,600
+an an atom lose um they lose or receive
+
+1524
+00:49:30,960 --> 00:49:34,880
+an additional electron. Um so, uh we
+
+1525
+00:49:33,600 --> 00:49:37,360
+physicists like to say it's something
+
+1526
+00:49:34,880 --> 00:49:39,280
+like positively or negatively ionized.
+
+1527
+00:49:37,360 --> 00:49:40,680
+So, coronal discharge occurs when the
+
+1528
+00:49:39,280 --> 00:49:42,080
+electric field around a conductor
+
+1529
+00:49:40,680 --> 00:49:43,800
+becomes strong enough to ionize the
+
+1530
+00:49:42,080 --> 00:49:45,440
+surrounding gas, but not strong enough
+
+1531
+00:49:43,800 --> 00:49:47,600
+to form the full spark between the two
+
+1532
+00:49:45,440 --> 00:49:49,200
+conductors. So, the repulsine most most
+
+1533
+00:49:47,600 --> 00:49:51,320
+likely behaved as an advanced pressure
+
+1534
+00:49:49,200 --> 00:49:53,960
+transformer or Van de Graaff generator
+
+1535
+00:49:51,320 --> 00:49:55,960
+and in its most ideal conditions, having
+
+1536
+00:49:53,960 --> 00:49:58,840
+a concentrated charge of ionization
+
+1537
+00:49:55,960 --> 00:50:00,640
+within the right below the cowl, um when
+
+1538
+00:49:58,840 --> 00:50:02,600
+the conditions were just right. If the
+
+1539
+00:50:00,640 --> 00:50:04,400
+historical accounts of the prototype are
+
+1540
+00:50:02,600 --> 00:50:06,160
+as described, um then it probably looked
+
+1541
+00:50:04,400 --> 00:50:08,200
+a lot like this. So, here are some
+
+1542
+00:50:06,160 --> 00:50:10,120
+coronal discharge examples. Obviously,
+
+1543
+00:50:08,200 --> 00:50:12,320
+we have the Tesla coil. So, when you
+
+1544
+00:50:10,120 --> 00:50:14,720
+have systems that work really well, um
+
+1545
+00:50:12,320 --> 00:50:16,480
+physical systems, then the physical
+
+1546
+00:50:14,720 --> 00:50:18,480
+environment around them also become
+
+1547
+00:50:16,480 --> 00:50:19,760
+integrated into the circuit. And that's
+
+1548
+00:50:18,480 --> 00:50:21,920
+exactly what happens with the Tesla
+
+1549
+00:50:19,760 --> 00:50:23,680
+circuit. I mean, Tesla coil as well, is
+
+1550
+00:50:21,920 --> 00:50:25,600
+that air itself is also a great
+
+1551
+00:50:23,680 --> 00:50:26,960
+capacitor. And so, the air around it
+
+1552
+00:50:25,600 --> 00:50:28,280
+becomes uh
+
+1553
+00:50:26,960 --> 00:50:30,520
+uh discharged and not discharged,
+
+1554
+00:50:28,280 --> 00:50:32,400
+becomes ionized as well. This is a very
+
+1555
+00:50:30,520 --> 00:50:34,560
+specific kind of bandy graph generator,
+
+1556
+00:50:32,400 --> 00:50:37,040
+and I forgot why it was made. It was
+
+1557
+00:50:34,560 --> 00:50:38,920
+like to the research. It was done in a
+
+1558
+00:50:37,040 --> 00:50:40,400
+very particular place, around Hill bandy
+
+1559
+00:50:38,920 --> 00:50:42,920
+graph. Someone can look into that. This
+
+1560
+00:50:40,400 --> 00:50:44,520
+is really important in terms of uh
+
+1561
+00:50:42,920 --> 00:50:48,120
+what's it called? Victor Schauberger's
+
+1562
+00:50:44,520 --> 00:50:50,960
+work. So, like a Mirabou, so uh so more
+
+1563
+00:50:48,120 --> 00:50:52,840
+immediate demonstration um uh what the
+
+1564
+00:50:50,960 --> 00:50:54,360
+the region beneath the cowling system of
+
+1565
+00:50:52,840 --> 00:50:55,920
+Schauberger, what it looked like with a
+
+1566
+00:50:54,360 --> 00:50:57,680
+highly energized craft when it was
+
+1567
+00:50:55,920 --> 00:51:00,080
+highly energized. We can get an idea
+
+1568
+00:50:57,680 --> 00:51:02,240
+from borrowing from the work of Dr. uh
+
+1569
+00:51:00,080 --> 00:51:04,040
+like Mirabou and his laser beam powered
+
+1570
+00:51:02,240 --> 00:51:05,880
+light craft in White Sands, New Mexico.
+
+1571
+00:51:04,040 --> 00:51:07,200
+So, geometry plays a critical role, and
+
+1572
+00:51:05,880 --> 00:51:09,760
+if you look at this, it has quite the
+
+1573
+00:51:07,200 --> 00:51:11,920
+hyperbolic geometry, you know? And so,
+
+1574
+00:51:09,760 --> 00:51:13,600
+uh what he does uh in his design, it's
+
+1575
+00:51:11,920 --> 00:51:14,960
+much like a normal implosive system
+
+1576
+00:51:13,600 --> 00:51:16,840
+design. So, the light craft is a
+
+1577
+00:51:14,960 --> 00:51:18,920
+specially a specially shaped object
+
+1578
+00:51:16,840 --> 00:51:20,480
+resembling an upside down spinning top.
+
+1579
+00:51:18,920 --> 00:51:22,640
+Its base has a cross section, which is
+
+1580
+00:51:20,480 --> 00:51:24,000
+similar to the hyperbolic parabola. And
+
+1581
+00:51:22,640 --> 00:51:26,080
+so, the region is energized by an
+
+1582
+00:51:24,000 --> 00:51:28,920
+intense laser beam, heating up the craft
+
+1583
+00:51:26,080 --> 00:51:30,800
+somewhere between 20 and uh 30 K Kelvin.
+
+1584
+00:51:28,920 --> 00:51:32,840
+So, saliently, his light craft is also
+
+1585
+00:51:30,800 --> 00:51:33,760
+able to incorporate a shroud or cowl,
+
+1586
+00:51:32,840 --> 00:51:35,360
+which you can see, which helps
+
+1587
+00:51:33,760 --> 00:51:37,520
+concentrate the directed laser beam
+
+1588
+00:51:35,360 --> 00:51:39,280
+energy to a focal region. And once the
+
+1589
+00:51:37,520 --> 00:51:41,000
+energy reaches a critical intensity, the
+
+1590
+00:51:39,280 --> 00:51:43,160
+air beneath the craft breaks down into a
+
+1591
+00:51:41,000 --> 00:51:45,080
+plasma and expands violently. It creates
+
+1592
+00:51:43,160 --> 00:51:46,520
+shock waves, um propelling the model
+
+1593
+00:51:45,080 --> 00:51:48,720
+upward. So, maybe that's what we were
+
+1594
+00:51:46,520 --> 00:51:50,800
+seeing with Schauberger and and just to
+
+1595
+00:51:48,720 --> 00:51:52,440
+give like to help the imagination to see
+
+1596
+00:51:50,800 --> 00:51:54,120
+what that looks like. This is what it
+
+1597
+00:51:52,440 --> 00:51:56,080
+looks like when Mir Bow is doing some
+
+1598
+00:51:54,120 --> 00:51:59,000
+work with his life crafts. And I'm
+
+1599
+00:51:56,080 --> 00:52:00,960
+certain that if the eyewitness accounts
+
+1600
+00:51:59,000 --> 00:52:02,520
+regarding the repulsine were as, you
+
+1601
+00:52:00,960 --> 00:52:04,040
+know, stated before then this is
+
+1602
+00:52:02,520 --> 00:52:06,160
+probably what they saw, right? In an
+
+1603
+00:52:04,040 --> 00:52:08,160
+ideal condition. Now, this is incredible
+
+1604
+00:52:06,160 --> 00:52:09,960
+because here Mir Bow is
+
+1605
+00:52:08,160 --> 00:52:11,760
+energizing the thing to reach a really
+
+1606
+00:52:09,960 --> 00:52:13,640
+high critical temperature and then it
+
+1607
+00:52:11,760 --> 00:52:15,600
+does this. But the repulsine seemed to
+
+1608
+00:52:13,640 --> 00:52:18,120
+had really nice principles that were
+
+1609
+00:52:15,600 --> 00:52:19,280
+just working. You know, like where it
+
+1610
+00:52:18,120 --> 00:52:20,800
+somehow achieved this. This is an
+
+1611
+00:52:19,280 --> 00:52:22,040
+incredible aftereffect. I don't know how
+
+1612
+00:52:20,800 --> 00:52:23,760
+you would achieve that. The way I
+
+1613
+00:52:22,040 --> 00:52:25,280
+designed my repulsines, they have a
+
+1614
+00:52:23,760 --> 00:52:27,440
+little Easter egg where you can kind of
+
+1615
+00:52:25,280 --> 00:52:30,120
+induce this effect. Well, I shouldn't
+
+1616
+00:52:27,440 --> 00:52:31,760
+say induce this effect, but induce some
+
+1617
+00:52:30,120 --> 00:52:34,240
+appreciable effects similar to this.
+
+1618
+00:52:31,760 --> 00:52:35,240
+Okay, so moving on. Another ideal thing
+
+1619
+00:52:34,240 --> 00:52:36,640
+we're just going to touch on this real
+
+1620
+00:52:35,240 --> 00:52:38,560
+quickly because it's adjacent to the
+
+1621
+00:52:36,640 --> 00:52:40,080
+repulsines, cavitation. So, in an
+
+1622
+00:52:38,560 --> 00:52:42,440
+implosive system. So, cavitation takes
+
+1623
+00:52:40,080 --> 00:52:44,680
+place when a local pressure in water
+
+1624
+00:52:42,440 --> 00:52:46,480
+falls below the liquid vapor
+
+1625
+00:52:44,680 --> 00:52:48,360
+uh causing bubbles or vapor cavities to
+
+1626
+00:52:46,480 --> 00:52:49,840
+form. This can occur within the wakes of
+
+1627
+00:52:48,360 --> 00:52:51,880
+low pressure regions around rapidly
+
+1628
+00:52:49,840 --> 00:52:54,360
+moving objects. So, this is the process
+
+1629
+00:52:51,880 --> 00:52:56,120
+here. Got to go through this. I actually
+
+1630
+00:52:54,360 --> 00:52:57,560
+had the opportunity to speak speak with
+
+1631
+00:52:56,120 --> 00:52:58,880
+some of these Schauberger veterans
+
+1632
+00:52:57,560 --> 00:53:00,840
+who've been doing Schauberger research
+
+1633
+00:52:58,880 --> 00:53:02,520
+like since the '80s, right? And I I sent
+
+1634
+00:53:00,840 --> 00:53:04,520
+them some of my PowerPoints and I was I
+
+1635
+00:53:02,520 --> 00:53:07,080
+didn't even know. I got on an email with
+
+1636
+00:53:04,520 --> 00:53:08,120
+this guy I Kurt uh Halberg who owns this
+
+1637
+00:53:07,080 --> 00:53:10,280
+company uh
+
+1638
+00:53:08,120 --> 00:53:12,120
+uh Waltr Wekow. And so anyway, I grabbed
+
+1639
+00:53:10,280 --> 00:53:14,000
+this because I think this might be an
+
+1640
+00:53:12,120 --> 00:53:15,560
+example of cavitation within one of the
+
+1641
+00:53:14,000 --> 00:53:16,920
+Schauberger systems with the hyperbolic
+
+1642
+00:53:15,560 --> 00:53:18,240
+geometry here.
+
+1643
+00:53:16,920 --> 00:53:20,120
+And I'm just going to speed through this
+
+1644
+00:53:18,240 --> 00:53:21,800
+again. These are trout engines. So, in
+
+1645
+00:53:20,120 --> 00:53:23,600
+their ideal case, the analog of the
+
+1646
+00:53:21,800 --> 00:53:25,000
+triboluminescence which goes on should
+
+1647
+00:53:23,600 --> 00:53:28,080
+be cavitation.
+
+1648
+00:53:25,000 --> 00:53:30,440
+And uh this is uh these are just some of
+
+1649
+00:53:28,080 --> 00:53:31,960
+the diagrams again. Uh so, trout engine
+
+1650
+00:53:30,440 --> 00:53:33,360
+same you'll find things like the
+
+1651
+00:53:31,960 --> 00:53:35,480
+diaphragm and some other stuff. Okay, so
+
+1652
+00:53:33,360 --> 00:53:37,600
+moving on. A working science. So,
+
+1653
+00:53:35,480 --> 00:53:41,240
+working science we have the
+
+1654
+00:53:37,600 --> 00:53:43,720
+the PKS school. So, basically
+
+1655
+00:53:41,240 --> 00:53:47,360
+uh the tradition just deals with tone,
+
+1656
+00:53:43,720 --> 00:53:48,840
+it deals with raw ratio and proportion.
+
+1657
+00:53:47,360 --> 00:53:50,920
+Okay, what do we got here? The PKS
+
+1658
+00:53:48,840 --> 00:53:52,680
+system. This is nothing new. I'm really
+
+1659
+00:53:50,920 --> 00:53:56,560
+not going to go into the nitty-gritty of
+
+1660
+00:53:52,680 --> 00:53:58,600
+how this works, but again, it's just
+
+1661
+00:53:56,560 --> 00:54:01,000
+fundamental Pythagoras here. So, these
+
+1662
+00:53:58,600 --> 00:54:03,280
+are just some slides I AI enhanced them
+
+1663
+00:54:01,000 --> 00:54:04,880
+that you'll find within the PKS society.
+
+1664
+00:54:03,280 --> 00:54:07,400
+Uh we can talk a bit about Mach's
+
+1665
+00:54:04,880 --> 00:54:09,720
+principle. So, because I have done quite
+
+1666
+00:54:07,400 --> 00:54:10,880
+a lot, at least in my own formalization
+
+1667
+00:54:09,720 --> 00:54:12,240
+of that. So, Mach's principle of
+
+1668
+00:54:10,880 --> 00:54:14,320
+impulsive forces, if the universe is a
+
+1669
+00:54:12,240 --> 00:54:16,360
+closed box, then the constituent parts
+
+1670
+00:54:14,320 --> 00:54:17,680
+are just basically subsystems. Mass,
+
+1671
+00:54:16,360 --> 00:54:19,800
+energy, and inertia are transferred
+
+1672
+00:54:17,680 --> 00:54:21,320
+through corridors of interaction. So,
+
+1673
+00:54:19,800 --> 00:54:22,760
+this is important for describing
+
+1674
+00:54:21,320 --> 00:54:25,200
+Schauberger-type systems since these
+
+1675
+00:54:22,760 --> 00:54:26,800
+systems are fundamentally impulsive. So,
+
+1676
+00:54:25,200 --> 00:54:28,520
+um the thesis of Mach's principle is
+
+1677
+00:54:26,800 --> 00:54:30,320
+predicated on the idea that matter in
+
+1678
+00:54:28,520 --> 00:54:32,320
+this place does not go uninfluenced by
+
+1679
+00:54:30,320 --> 00:54:33,440
+matter elsewhere. So, from a theoretical
+
+1680
+00:54:32,320 --> 00:54:35,960
+approach, there are several ways to
+
+1681
+00:54:33,440 --> 00:54:38,120
+approach this into a working theory,
+
+1682
+00:54:35,960 --> 00:54:40,120
+um but most are usually only familiar
+
+1683
+00:54:38,120 --> 00:54:42,280
+with Woodward's approach, which does a
+
+1684
+00:54:40,120 --> 00:54:45,720
+great job of formalizing Mach within the
+
+1685
+00:54:42,280 --> 00:54:48,080
+bounds of GR. So, many of the So, the
+
+1686
+00:54:45,720 --> 00:54:49,440
+systems I work in don't necessitate GR,
+
+1687
+00:54:48,080 --> 00:54:51,440
+but it's still Mach's principle
+
+1688
+00:54:49,440 --> 00:54:53,560
+fundamentally. So, an impulsive system
+
+1689
+00:54:51,440 --> 00:54:55,440
+does not expel mass, it reorganizes
+
+1690
+00:54:53,560 --> 00:54:57,600
+motion inwardly. It produces a force
+
+1691
+00:54:55,440 --> 00:54:59,160
+through a localized redistribution or
+
+1692
+00:54:57,600 --> 00:55:00,880
+contained wave packet, essentially
+
+1693
+00:54:59,160 --> 00:55:02,440
+soliton. This is a soliton here. I
+
+1694
+00:55:00,880 --> 00:55:04,440
+didn't even know what a soliton was when
+
+1695
+00:55:02,440 --> 00:55:07,440
+I made these designs way back in like
+
+1696
+00:55:04,440 --> 00:55:10,200
+2018. So, I use something where force is
+
+1697
+00:55:07,440 --> 00:55:11,680
+a process of inertial confrontation. So,
+
+1698
+00:55:10,200 --> 00:55:12,920
+force treated as a process is something
+
+1699
+00:55:11,680 --> 00:55:14,440
+which isn't actually really done
+
+1700
+00:55:12,920 --> 00:55:16,160
+standard in physics, and there are
+
+1701
+00:55:14,440 --> 00:55:17,480
+different ways to do that.
+
+1702
+00:55:16,160 --> 00:55:18,720
+So, Mach's principle of impulsive
+
+1703
+00:55:17,480 --> 00:55:20,760
+forces, this is just something I took
+
+1704
+00:55:18,720 --> 00:55:23,680
+from another slide of mine as well. And
+
+1705
+00:55:20,760 --> 00:55:25,520
+so, we got here basically confrontation
+
+1706
+00:55:23,680 --> 00:55:27,600
+is basically when you apply some sort of
+
+1707
+00:55:25,520 --> 00:55:29,120
+action to one mass part, but then that
+
+1708
+00:55:27,600 --> 00:55:30,040
+does not uninfluence the other part
+
+1709
+00:55:29,120 --> 00:55:33,040
+here.
+
+1710
+00:55:30,040 --> 00:55:34,880
+So, you can leverage this kind of
+
+1711
+00:55:33,040 --> 00:55:37,000
+principle to create unidirectional
+
+1712
+00:55:34,880 --> 00:55:38,320
+force, so that's force in one sort of
+
+1713
+00:55:37,000 --> 00:55:40,560
+direction
+
+1714
+00:55:38,320 --> 00:55:42,760
+or just a static equilibrium of a
+
+1715
+00:55:40,560 --> 00:55:44,960
+motion. So, you need to apply Newton's
+
+1716
+00:55:42,760 --> 00:55:46,400
+forces concurrently. And so, now let's
+
+1717
+00:55:44,960 --> 00:55:48,320
+go into the fluid dynamics of the
+
+1718
+00:55:46,400 --> 00:55:49,480
+implosion process, right? So, we're
+
+1719
+00:55:48,320 --> 00:55:50,640
+going to talk about three things here.
+
+1720
+00:55:49,480 --> 00:55:53,920
+The first thing we're going to talk
+
+1721
+00:55:50,640 --> 00:55:55,480
+about is a soliton, right? So, a soliton
+
+1722
+00:55:53,920 --> 00:55:56,640
+can be classified as three things. So,
+
+1723
+00:55:55,480 --> 00:55:58,600
+basically a soliton is a
+
+1724
+00:55:56,640 --> 00:56:01,160
+self-reinforcing wave packet having a
+
+1725
+00:55:58,600 --> 00:56:03,400
+constant velocity. So, first, it is of
+
+1726
+00:56:01,160 --> 00:56:05,640
+constant form. Hello, hello, hello. Can
+
+1727
+00:56:03,400 --> 00:56:08,240
+anyone hear me? My AirPods died, but
+
+1728
+00:56:05,640 --> 00:56:09,480
+hopefully uh I'm still
+
+1729
+00:56:08,240 --> 00:56:11,480
+heard loud and clear. I don't know if I
+
+1730
+00:56:09,480 --> 00:56:13,320
+am. Okay, so first, a soliton is of
+
+1731
+00:56:11,480 --> 00:56:15,120
+permanent form and it's localized within
+
+1732
+00:56:13,320 --> 00:56:17,160
+a region. It can interact with other
+
+1733
+00:56:15,120 --> 00:56:19,200
+solitons and it can emerge from the
+
+1734
+00:56:17,160 --> 00:56:20,480
+collision unchanged except with phase
+
+1735
+00:56:19,200 --> 00:56:22,240
+shift. So, that means you can have two
+
+1736
+00:56:20,480 --> 00:56:23,800
+soliton things that like run into one
+
+1737
+00:56:22,240 --> 00:56:25,880
+another, but their forces are still
+
+1738
+00:56:23,800 --> 00:56:27,600
+remaining the same. And the image to the
+
+1739
+00:56:25,880 --> 00:56:29,960
+left is a diagram. It just shows like
+
+1740
+00:56:27,600 --> 00:56:31,760
+how solitons work. And then the images
+
+1741
+00:56:29,960 --> 00:56:33,760
+to the right are actual solitons as
+
+1742
+00:56:31,760 --> 00:56:36,240
+well, mathematical solitons, uh most
+
+1743
+00:56:33,760 --> 00:56:37,200
+notable the 2-pi. So, then next we got
+
+1744
+00:56:36,240 --> 00:56:38,960
+the uh
+
+1745
+00:56:37,200 --> 00:56:40,760
+fluid dynamics Bernoulli's principle.
+
+1746
+00:56:38,960 --> 00:56:42,560
+So, I stole this from a Shaw burger
+
+1747
+00:56:40,760 --> 00:56:44,480
+slide. Basically, fluid speed increases
+
+1748
+00:56:42,560 --> 00:56:46,760
+static pressure. As fluid speed
+
+1749
+00:56:44,480 --> 00:56:48,480
+increases, static pressure decreases.
+
+1750
+00:56:46,760 --> 00:56:49,840
+Okay? So, don't have time to really go
+
+1751
+00:56:48,480 --> 00:56:51,760
+into that. And then we're going to dive
+
+1752
+00:56:49,840 --> 00:56:53,520
+into Helmholtz's theorems a bit. So,
+
+1753
+00:56:51,760 --> 00:56:56,720
+Helmholtz's theorems in short basically
+
+1754
+00:56:53,520 --> 00:56:58,640
+how a fluid system works uh will uh be
+
+1755
+00:56:56,720 --> 00:57:00,000
+uh contingent upon these things. I don't
+
+1756
+00:56:58,640 --> 00:57:01,160
+have time to go into great detail about
+
+1757
+00:57:00,000 --> 00:57:02,800
+these, but anyone who's really
+
+1758
+00:57:01,160 --> 00:57:04,560
+interested in the nitty-gritty, there's
+
+1759
+00:57:02,800 --> 00:57:07,200
+a great book by Saffman which has all
+
+1760
+00:57:04,560 --> 00:57:09,240
+manner of uh really hard I shouldn't say
+
+1761
+00:57:07,200 --> 00:57:11,400
+hard, it is complicated math dealing
+
+1762
+00:57:09,240 --> 00:57:13,400
+with fluid dynamics uh using some uh
+
+1763
+00:57:11,400 --> 00:57:15,720
+calculus, higher-level calc. But uh
+
+1764
+00:57:13,400 --> 00:57:17,320
+anyway, so uh this is the first theorem
+
+1765
+00:57:15,720 --> 00:57:18,760
+here. So, the first theorem is basically
+
+1766
+00:57:17,320 --> 00:57:21,960
+it strikes a similarity between
+
+1767
+00:57:18,760 --> 00:57:24,080
+Maxwell's equations for magnetic field.
+
+1768
+00:57:21,960 --> 00:57:25,640
+Um but here it says a tube's structural
+
+1769
+00:57:24,080 --> 00:57:27,240
+integrity will remain constant with
+
+1770
+00:57:25,640 --> 00:57:28,760
+respect to time.
+
+1771
+00:57:27,240 --> 00:57:30,840
+So, the strength of a vortex line is
+
+1772
+00:57:28,760 --> 00:57:33,080
+constant along its path. And then this
+
+1773
+00:57:30,840 --> 00:57:34,200
+next one over here, basically again,
+
+1774
+00:57:33,080 --> 00:57:36,080
+extraordinarily similar to
+
+1775
+00:57:34,200 --> 00:57:38,080
+electrodynamics, a vortex will go on
+
+1776
+00:57:36,080 --> 00:57:39,840
+into some boundary like a wall or wrap
+
+1777
+00:57:38,080 --> 00:57:41,000
+itself into a coil.
+
+1778
+00:57:39,840 --> 00:57:42,240
+So that's what we have. This is very,
+
+1779
+00:57:41,000 --> 00:57:44,120
+very similar to some of the
+
+1780
+00:57:42,240 --> 00:57:45,480
+electrodynamic principles you'll find
+
+1781
+00:57:44,120 --> 00:57:46,960
+when using Maxwell's equation. And then
+
+1782
+00:57:45,480 --> 00:57:49,000
+finally, we have here vortex theorem
+
+1783
+00:57:46,960 --> 00:57:50,760
+three, a fluid element that is initially
+
+1784
+00:57:49,000 --> 00:57:52,480
+irrotational remains irrotational. And a
+
+1785
+00:57:50,760 --> 00:57:53,840
+fluid element which is free of vortices
+
+1786
+00:57:52,480 --> 00:57:55,680
+continues to remain free of vortices. So
+
+1787
+00:57:53,840 --> 00:57:57,000
+if you've got no vortex, no spinning,
+
+1788
+00:57:55,680 --> 00:57:58,920
+then it won't be spinning. If it already
+
+1789
+00:57:57,000 --> 00:58:00,600
+is spinning, will tend to be spinning.
+
+1790
+00:57:58,920 --> 00:58:03,080
+Okay, so let's go in and we finally made
+
+1791
+00:58:00,600 --> 00:58:05,400
+it. So the repulsine {slash} repulsator,
+
+1792
+00:58:03,080 --> 00:58:07,160
+okay? So you'll notice that I have left
+
+1793
+00:58:05,400 --> 00:58:08,520
+out the maths and all that stuff cuz we
+
+1794
+00:58:07,160 --> 00:58:10,640
+just don't have time for that. We got to
+
+1795
+00:58:08,520 --> 00:58:11,720
+get into the real sauce. And I had to
+
+1796
+00:58:10,640 --> 00:58:14,120
+like, you know, give all of the
+
+1797
+00:58:11,720 --> 00:58:15,520
+background for this. So let's go into
+
+1798
+00:58:14,120 --> 00:58:17,240
+the lore, right? Cuz there's so much
+
+1799
+00:58:15,520 --> 00:58:19,080
+lore surrounding this. I have to bring
+
+1800
+00:58:17,240 --> 00:58:21,600
+some clarification into this.
+
+1801
+00:58:19,080 --> 00:58:23,240
+Okay, so these are taken from books,
+
+1802
+00:58:21,600 --> 00:58:25,760
+assortment of Calvin Coats and
+
+1803
+00:58:23,240 --> 00:58:27,800
+Alexanderson's books as well. So
+
+1804
+00:58:25,760 --> 00:58:29,360
+basically, here's what happened. So in
+
+1805
+00:58:27,800 --> 00:58:32,200
+1943,
+
+1806
+00:58:29,360 --> 00:58:34,440
+Victor was declared fit for active duty
+
+1807
+00:58:32,200 --> 00:58:36,360
+by the SS and under the control of
+
+1808
+00:58:34,440 --> 00:58:38,440
+Heinrich Himmler forced him to develop a
+
+1809
+00:58:36,360 --> 00:58:39,800
+new secret weapon. And so he had to work
+
+1810
+00:58:38,440 --> 00:58:41,560
+at I think it was Mauthausen
+
+1811
+00:58:39,800 --> 00:58:43,040
+concentration camp to supply the work
+
+1812
+00:58:41,560 --> 00:58:44,600
+which was supplied with a workforce of
+
+1813
+00:58:43,040 --> 00:58:46,440
+prisoners. He was strongly opposed to
+
+1814
+00:58:44,600 --> 00:58:47,800
+this. He didn't like this. And so, you
+
+1815
+00:58:46,440 --> 00:58:50,240
+know, he was trying to resisting and
+
+1816
+00:58:47,800 --> 00:58:52,560
+finding unique ways to work around the
+
+1817
+00:58:50,240 --> 00:58:54,840
+working conditions. So
+
+1818
+00:58:52,560 --> 00:58:56,920
+this here I my highlight portion talks
+
+1819
+00:58:54,840 --> 00:58:58,600
+about the device. So
+
+1820
+00:58:56,920 --> 00:59:01,080
+basically, let's see if my notes can
+
+1821
+00:58:58,600 --> 00:59:04,520
+condense this a bit more. So the excerpt
+
+1822
+00:59:01,080 --> 00:59:06,240
+on the left is in 1956 letter to Franz
+
+1823
+00:59:04,520 --> 00:59:07,520
+Strauss. Schauberger claimed that a
+
+1824
+00:59:06,240 --> 00:59:09,440
+working model of his repulsine had
+
+1825
+00:59:07,520 --> 00:59:10,400
+actually been flown by the Oh, this
+
+1826
+00:59:09,440 --> 00:59:11,760
+might be
+
+1827
+00:59:10,400 --> 00:59:13,320
+This will Well, I'll read this anyway.
+
+1828
+00:59:11,760 --> 00:59:14,840
+So by American intelligence
+
+1829
+00:59:13,320 --> 00:59:16,640
+investigators after being seized, the
+
+1830
+00:59:14,840 --> 00:59:18,240
+same account also reports an important
+
+1831
+00:59:16,640 --> 00:59:19,680
+component which had been removed by in
+
+1832
+00:59:18,240 --> 00:59:21,960
+Vienna by
+
+1833
+00:59:19,680 --> 00:59:23,280
+Russians. If the component really exist
+
+1834
+00:59:21,960 --> 00:59:25,520
+and given that the visible
+
+1835
+00:59:23,280 --> 00:59:27,760
+incompleteness of the present repulsine
+
+1836
+00:59:25,520 --> 00:59:29,640
+designs, it's this is not unreasonable,
+
+1837
+00:59:27,760 --> 00:59:31,760
+then an obvious question is why did
+
+1838
+00:59:29,640 --> 00:59:33,600
+Schauberger not redraw the component or
+
+1839
+00:59:31,760 --> 00:59:35,440
+provide a more previous um detailed
+
+1840
+00:59:33,600 --> 00:59:36,880
+description of it? Perhaps he forgot,
+
+1841
+00:59:35,440 --> 00:59:39,280
+perhaps they were the ones who figured
+
+1842
+00:59:36,880 --> 00:59:40,720
+out how the how to make this component
+
+1843
+00:59:39,280 --> 00:59:42,120
+and understood enough Schauberger that
+
+1844
+00:59:40,720 --> 00:59:44,200
+they just went off and made it
+
+1845
+00:59:42,120 --> 00:59:45,800
+themselves. So one possible answer is
+
+1846
+00:59:44,200 --> 00:59:47,320
+that by this point too much time had
+
+1847
+00:59:45,800 --> 00:59:48,640
+passed, the war was over, his
+
+1848
+00:59:47,320 --> 00:59:49,960
+circumstances had changed, and his
+
+1849
+00:59:48,640 --> 00:59:51,600
+attention had been shifted into other
+
+1850
+00:59:49,960 --> 00:59:53,720
+projects. It's also possible that the
+
+1851
+00:59:51,600 --> 00:59:54,840
+component was simply not a detachable
+
+1852
+00:59:53,720 --> 00:59:56,680
+part, but something whose function
+
+1853
+00:59:54,840 --> 00:59:58,600
+didn't depend on tolerances, material
+
+1854
+00:59:56,680 --> 00:59:59,840
+pressures, internal conditions, and
+
+1855
+00:59:58,600 --> 01:00:02,320
+other things which were difficult to
+
+1856
+00:59:59,840 --> 01:00:04,480
+reconstruct from a material um memory
+
+1857
+01:00:02,320 --> 01:00:06,600
+alone, okay? I may have preemptively
+
+1858
+01:00:04,480 --> 01:00:07,880
+read those notes, but uh
+
+1859
+01:00:06,600 --> 01:00:10,560
+again, these are just like primary
+
+1860
+01:00:07,880 --> 01:00:14,080
+things related to lore. So yeah, uh
+
+1861
+01:00:10,560 --> 01:00:16,200
+that Moving on. So lore part two we got
+
+1862
+01:00:14,080 --> 01:00:17,800
+here. So this excerpt is quite important
+
+1863
+01:00:16,200 --> 01:00:20,360
+because Schauberger himself says that
+
+1864
+01:00:17,800 --> 01:00:22,480
+the device which worked um during uh a
+
+1865
+01:00:20,360 --> 01:00:23,720
+try had a trailing blue-green silvery
+
+1866
+01:00:22,480 --> 01:00:25,720
+glow. That's why I brought up like
+
+1867
+01:00:23,720 --> 01:00:27,120
+Mirabeau's work. And it's even to
+
+1868
+01:00:25,720 --> 01:00:29,440
+consider because if the conditions were
+
+1869
+01:00:27,120 --> 01:00:30,640
+ideal, then a truly operational device
+
+1870
+01:00:29,440 --> 01:00:32,320
+might have looked closer to the light
+
+1871
+01:00:30,640 --> 01:00:34,880
+craft like uh Mirabeau's work, which
+
+1872
+01:00:32,320 --> 01:00:37,200
+produces a trailing kind of energetic uh
+
+1873
+01:00:34,880 --> 01:00:39,240
+light streak from shock waves and the
+
+1874
+01:00:37,200 --> 01:00:41,320
+craft as it continually ascended upward,
+
+1875
+01:00:39,240 --> 01:00:42,600
+right? So I prefer the alternative and
+
+1876
+01:00:41,320 --> 01:00:44,760
+about a year later the first flying
+
+1877
+01:00:42,600 --> 01:00:47,240
+saucer rose up unexpectedly at first
+
+1878
+01:00:44,760 --> 01:00:48,480
+attempt. The ceiling was then wrecked. A
+
+1879
+01:00:47,240 --> 01:00:49,920
+few weeks later an American group
+
+1880
+01:00:48,480 --> 01:00:52,080
+appeared who seemed to understand what
+
+1881
+01:00:49,920 --> 01:00:54,680
+was happening and seized everything. And
+
+1882
+01:00:52,080 --> 01:00:56,600
+so again here in Callum Coats' book uh
+
+1883
+01:00:54,680 --> 01:00:58,280
+he says that the compact side, so I
+
+1884
+01:00:56,600 --> 01:00:59,840
+think referring to this event, um the
+
+1885
+01:00:58,280 --> 01:01:01,520
+machine generated such a powerful
+
+1886
+01:00:59,840 --> 01:01:02,960
+levitation force that when it was first
+
+1887
+01:01:01,520 --> 01:01:06,040
+switched on without Schauberger's
+
+1888
+01:01:02,960 --> 01:01:09,760
+permission, it sheared the six uh
+
+1889
+01:01:06,040 --> 01:01:11,920
+1 1/4 in 1/4 in I guess diameter tensile
+
+1890
+01:01:09,760 --> 01:01:13,920
+steel anchor bolts and shot upwards and
+
+1891
+01:01:11,920 --> 01:01:16,840
+smashed against the floor. Very powerful
+
+1892
+01:01:13,920 --> 01:01:18,720
+principle, like implosion then.
+
+1893
+01:01:16,840 --> 01:01:20,600
+So anyway, uh moving on. Next slide. So
+
+1894
+01:01:18,720 --> 01:01:21,960
+here we got more lore. So at the end of
+
+1895
+01:01:20,600 --> 01:01:23,880
+the war he was confined for a year by
+
+1896
+01:01:21,960 --> 01:01:25,560
+American forces uh because of his
+
+1897
+01:01:23,880 --> 01:01:26,640
+knowledge of atomic energy production,
+
+1898
+01:01:25,560 --> 01:01:28,480
+right?
+
+1899
+01:01:26,640 --> 01:01:29,920
+And after his release under the threat
+
+1900
+01:01:28,480 --> 01:01:32,360
+of re-arrest he was forbidden to take up
+
+1901
+01:01:29,920 --> 01:01:34,360
+any research again in atomic energy
+
+1902
+01:01:32,360 --> 01:01:35,480
+field. Although
+
+1903
+01:01:34,360 --> 01:01:36,840
+I guess other people have been
+
+1904
+01:01:35,480 --> 01:01:38,880
+interested in it also by the way that
+
+1905
+01:01:36,840 --> 01:01:41,400
+was taken from Alexanderson's book. So
+
+1906
+01:01:38,880 --> 01:01:43,400
+let's look at some past and present
+
+1907
+01:01:41,400 --> 01:01:45,160
+current reconstructions of the
+
+1908
+01:01:43,400 --> 01:01:46,760
+Repulsine. Okay, so this is the
+
+1909
+01:01:45,160 --> 01:01:48,480
+Repulsine B. I may have switched them
+
+1910
+01:01:46,760 --> 01:01:50,720
+up. This might be A, I don't know. But
+
+1911
+01:01:48,480 --> 01:01:52,360
+again, like I said earlier preface, I
+
+1912
+01:01:50,720 --> 01:01:53,760
+don't believe any of the historical
+
+1913
+01:01:52,360 --> 01:01:56,080
+Repulsine crafts that we have today
+
+1914
+01:01:53,760 --> 01:01:57,760
+actually ever took off. I think if they
+
+1915
+01:01:56,080 --> 01:01:59,400
+were pretty sure so when they were
+
+1916
+01:01:57,760 --> 01:02:00,960
+constructed they were probably like, you
+
+1917
+01:01:59,400 --> 01:02:04,280
+know, little step ladders to get them to
+
+1918
+01:02:00,960 --> 01:02:06,360
+the real Repulsine which did work. And
+
+1919
+01:02:04,280 --> 01:02:08,080
+one reason for this is because we still
+
+1920
+01:02:06,360 --> 01:02:10,680
+have mostly all of the parts for these
+
+1921
+01:02:08,080 --> 01:02:12,640
+things intact. And so we know for a fact
+
+1922
+01:02:10,680 --> 01:02:14,520
+that for the one that did work there was
+
+1923
+01:02:12,640 --> 01:02:17,480
+a part that was intact and it was
+
+1924
+01:02:14,520 --> 01:02:19,080
+destroyed. I think in Victor's
+
+1925
+01:02:17,480 --> 01:02:20,480
+department. If you look in the lore that
+
+1926
+01:02:19,080 --> 01:02:22,640
+I provided before.
+
+1927
+01:02:20,480 --> 01:02:23,960
+So historically there are only two major
+
+1928
+01:02:22,640 --> 01:02:26,160
+versions of the Repulsine. A lot of
+
+1929
+01:02:23,960 --> 01:02:28,240
+times these also get misunderstood and
+
+1930
+01:02:26,160 --> 01:02:30,840
+mismatched incorrectly. So this version
+
+1931
+01:02:28,240 --> 01:02:31,880
+is probably the earliest patented form.
+
+1932
+01:02:30,840 --> 01:02:33,640
+And another thing to know with the
+
+1933
+01:02:31,880 --> 01:02:35,560
+patents and just Victor Schauberger in
+
+1934
+01:02:33,640 --> 01:02:37,280
+general is I get a lot of faithful
+
+1935
+01:02:35,560 --> 01:02:38,880
+Victor Schauberger followers who will be
+
+1936
+01:02:37,280 --> 01:02:41,000
+like, you did Schauberger wrong, you did
+
+1937
+01:02:38,880 --> 01:02:42,720
+this. And like I said in the beginning,
+
+1938
+01:02:41,000 --> 01:02:45,440
+Victor Schauberger's work a lot of times
+
+1939
+01:02:42,720 --> 01:02:47,200
+is pictorial and descriptive. And so
+
+1940
+01:02:45,440 --> 01:02:48,920
+what you see in drawings, especially as
+
+1941
+01:02:47,200 --> 01:02:50,600
+somebody who loves patent dumping so
+
+1942
+01:02:48,920 --> 01:02:52,280
+that's basically going into the dumpster
+
+1943
+01:02:50,600 --> 01:02:54,160
+trash of patents and looking at that
+
+1944
+01:02:52,280 --> 01:02:55,960
+like patent designs. What you see in a
+
+1945
+01:02:54,160 --> 01:02:57,960
+patent is not necessarily one-to-one
+
+1946
+01:02:55,960 --> 01:02:59,720
+with a design. And so you should
+
+1947
+01:02:57,960 --> 01:03:01,720
+probably be it's better you understand
+
+1948
+01:02:59,720 --> 01:03:03,840
+the principles that the inventor meant
+
+1949
+01:03:01,720 --> 01:03:05,760
+for the design but sometimes those don't
+
+1950
+01:03:03,840 --> 01:03:08,720
+equate to having the thing actually work
+
+1951
+01:03:05,760 --> 01:03:10,880
+one-to-one, right? Okay. So here for
+
+1952
+01:03:08,720 --> 01:03:12,920
+this design here in this model you have
+
+1953
+01:03:10,880 --> 01:03:14,560
+a series of covering tongues. So they're
+
+1954
+01:03:12,920 --> 01:03:16,520
+about 60 degrees from one another.
+
+1955
+01:03:14,560 --> 01:03:18,680
+There's also a large snake-like opening
+
+1956
+01:03:16,520 --> 01:03:20,200
+almost associated with lower membrane uh
+
+1957
+01:03:18,680 --> 01:03:21,640
+with internal features whose exact
+
+1958
+01:03:20,200 --> 01:03:23,240
+function remain really difficult to
+
+1959
+01:03:21,640 --> 01:03:25,080
+interpret. This version is not known to
+
+1960
+01:03:23,240 --> 01:03:26,560
+produce lift. Um for this reason, I
+
+1961
+01:03:25,080 --> 01:03:29,320
+treat it as an earlier prototype than a
+
+1962
+01:03:26,560 --> 01:03:30,720
+final operational form. This operation
+
+1963
+01:03:29,320 --> 01:03:32,400
+uh this interpretation also seems
+
+1964
+01:03:30,720 --> 01:03:34,400
+reasonable when examining the patent
+
+1965
+01:03:32,400 --> 01:03:35,680
+since the device is more explanatory and
+
+1966
+01:03:34,400 --> 01:03:37,680
+structurally
+
+1967
+01:03:35,680 --> 01:03:40,240
+uh and structurally developmental than
+
+1968
+01:03:37,680 --> 01:03:42,320
+the later repulsine. Okay, so uh
+
+1969
+01:03:40,240 --> 01:03:43,520
+repulsine A, so that is the repulsine
+
+1970
+01:03:42,320 --> 01:03:46,120
+that everybody knows when they think
+
+1971
+01:03:43,520 --> 01:03:48,080
+about it. So, over time Coats and uh
+
+1972
+01:03:46,120 --> 01:03:50,720
+Fried Friedbanda, I forgot his name,
+
+1973
+01:03:48,080 --> 01:03:52,240
+established a relationship. So, uh I
+
+1974
+01:03:50,720 --> 01:03:54,320
+this actually Oh, so in a lecture given
+
+1975
+01:03:52,240 --> 01:03:56,360
+by Richard Friedband, a Fried
+
+1976
+01:03:54,320 --> 01:03:57,960
+Friedbanda, a former US airman, Callum
+
+1977
+01:03:56,360 --> 01:03:59,520
+Coats was reportedly in attendance. In
+
+1978
+01:03:57,960 --> 01:04:00,880
+this lecture, Friedbanda presented
+
+1979
+01:03:59,520 --> 01:04:02,560
+images of what he claimed to be Viktor
+
+1980
+01:04:00,880 --> 01:04:04,520
+Schauberger's last repulsine. So, over
+
+1981
+01:04:02,560 --> 01:04:07,040
+time the two got a relationship and then
+
+1982
+01:04:04,520 --> 01:04:09,400
+through the exchange uh basically word
+
+1983
+01:04:07,040 --> 01:04:12,320
+got over to the uh Schauberger estate.
+
+1984
+01:04:09,400 --> 01:04:14,640
+Jörg uh went over to go and visit uh uh
+
+1985
+01:04:12,320 --> 01:04:16,360
+uh Richard Fried Richard Friedband's uh
+
+1986
+01:04:14,640 --> 01:04:17,720
+widow in the United States. And during
+
+1987
+01:04:16,360 --> 01:04:19,080
+that visit, several important primary
+
+1988
+01:04:17,720 --> 01:04:21,480
+documents were uncovered. Among them was
+
+1989
+01:04:19,080 --> 01:04:23,120
+the so-called purple report, a 1952
+
+1990
+01:04:21,480 --> 01:04:25,640
+paper associated with the University of
+
+1991
+01:04:23,120 --> 01:04:28,280
+Stuttgart um uh bearing the signature of
+
+1992
+01:04:25,640 --> 01:04:30,960
+the professor, but also uh more things
+
+1993
+01:04:28,280 --> 01:04:32,840
+related to the repulsine A as we have
+
+1994
+01:04:30,960 --> 01:04:34,240
+here. So, in my view, the photograph on
+
+1995
+01:04:32,840 --> 01:04:35,520
+the left appears to show the same
+
+1996
+01:04:34,240 --> 01:04:36,640
+device. A lot of people say these are
+
+1997
+01:04:35,520 --> 01:04:38,040
+two different devices, but I think it's
+
+1998
+01:04:36,640 --> 01:04:40,320
+the same device with just a different
+
+1999
+01:04:38,040 --> 01:04:41,640
+top, a different upper component. Many
+
+2000
+01:04:40,320 --> 01:04:43,400
+people, including Callum Coats, have
+
+2001
+01:04:41,640 --> 01:04:45,560
+treated these as distinct repulsines
+
+2002
+01:04:43,400 --> 01:04:46,880
+with one being with the one being the
+
+2003
+01:04:45,560 --> 01:04:48,440
+earlier version covered from the
+
+2004
+01:04:46,880 --> 01:04:49,800
+previous slide. I've come to a different
+
+2005
+01:04:48,440 --> 01:04:51,120
+conclusion. These images most likely
+
+2006
+01:04:49,800 --> 01:04:53,200
+represent the same repulsine with
+
+2007
+01:04:51,120 --> 01:04:54,960
+interchangeable uh modified upper
+
+2008
+01:04:53,200 --> 01:04:56,720
+sections. What remains unclear to me is
+
+2009
+01:04:54,960 --> 01:04:58,680
+whether the impeller-type cone in the
+
+2010
+01:04:56,720 --> 01:05:00,600
+lower section was used uh together with
+
+2011
+01:04:58,680 --> 01:05:02,000
+the acorn structure of the upper piece.
+
+2012
+01:05:00,600 --> 01:05:04,160
+So, basically, uh what's unclear to me
+
+2013
+01:05:02,000 --> 01:05:05,520
+is whether the images here
+
+2014
+01:05:04,160 --> 01:05:07,800
+were both like combined and used
+
+2015
+01:05:05,520 --> 01:05:10,040
+together or separate. I still think
+
+2016
+01:05:07,800 --> 01:05:12,040
+there was a crucial piece that might
+
+2017
+01:05:10,040 --> 01:05:14,880
+have been uh missing. I'm not sure. So,
+
+2018
+01:05:12,040 --> 01:05:16,240
+what uh what else? Let's see what else.
+
+2019
+01:05:14,880 --> 01:05:18,080
+Uh for example, the impeller cone could
+
+2020
+01:05:16,240 --> 01:05:19,960
+not easily coexist in the same position
+
+2021
+01:05:18,080 --> 01:05:21,920
+with the bio impeller type thing deal.
+
+2022
+01:05:19,960 --> 01:05:23,640
+And there are images that you see here,
+
+2023
+01:05:21,920 --> 01:05:25,360
+obviously the bio impeller. And this
+
+2024
+01:05:23,640 --> 01:05:26,840
+doesn't really look like an ideal bio
+
+2025
+01:05:25,360 --> 01:05:28,880
+impeller. Some of these look more for
+
+2026
+01:05:26,840 --> 01:05:30,480
+show, trying to work off of Schauberger
+
+2027
+01:05:28,880 --> 01:05:32,520
+rather than like functional engineering
+
+2028
+01:05:30,480 --> 01:05:34,840
+stuff, in my personal opinion. So, this
+
+2029
+01:05:32,520 --> 01:05:36,440
+is where the engineering begins to blur,
+
+2030
+01:05:34,840 --> 01:05:37,680
+and the myth if there is a missing
+
+2031
+01:05:36,440 --> 01:05:39,400
+component that enabled the machine to
+
+2032
+01:05:37,680 --> 01:05:41,080
+lift, it was likely connected to this
+
+2033
+01:05:39,400 --> 01:05:42,400
+upper section in some way. And that
+
+2034
+01:05:41,080 --> 01:05:43,720
+upper section seems to be the area where
+
+2035
+01:05:42,400 --> 01:05:45,800
+the most significant functional
+
+2036
+01:05:43,720 --> 01:05:47,680
+variations occurred. Okay, so then this
+
+2037
+01:05:45,800 --> 01:05:48,960
+is another important thing to Oh,
+
+2038
+01:05:47,680 --> 01:05:50,640
+running out of time here, so I might go
+
+2039
+01:05:48,960 --> 01:05:53,160
+over just about 5 minutes. There has
+
+2040
+01:05:50,640 --> 01:05:55,160
+been a emulsifier misattribution. So,
+
+2041
+01:05:53,160 --> 01:05:56,640
+this device has never required a
+
+2042
+01:05:55,160 --> 01:05:58,720
+emulsifier. And if you look at all of
+
+2043
+01:05:56,640 --> 01:06:00,480
+the primary documents, you will see that
+
+2044
+01:05:58,720 --> 01:06:02,640
+the only case that you ever hear of an
+
+2045
+01:06:00,480 --> 01:06:05,080
+emulsifier being mentioned within uh
+
+2046
+01:06:02,640 --> 01:06:07,120
+Schauberger's work is with mixtures. And
+
+2047
+01:06:05,080 --> 01:06:09,120
+then also, this was taken from the
+
+2048
+01:06:07,120 --> 01:06:10,760
+tornado turbine, which I had translated
+
+2049
+01:06:09,120 --> 01:06:13,240
+in English, and with my own little
+
+2050
+01:06:10,760 --> 01:06:15,040
+hand-drawn notes. In a documentary, I
+
+2051
+01:06:13,240 --> 01:06:17,800
+think Jörg made the mistake of
+
+2052
+01:06:15,040 --> 01:06:19,600
+accidentally uh misattributing this the
+
+2053
+01:06:17,800 --> 01:06:21,840
+the the ability of the repulsine not
+
+2054
+01:06:19,600 --> 01:06:24,200
+working to a emulsifier that was needed.
+
+2055
+01:06:21,840 --> 01:06:26,600
+There was never an emulsifier needed. Um
+
+2056
+01:06:24,200 --> 01:06:28,440
+when the thing took off accidentally and
+
+2057
+01:06:26,600 --> 01:06:30,560
+sheared its way through stuff, there was
+
+2058
+01:06:28,440 --> 01:06:32,160
+no speak of any kind of emulsifier. I
+
+2059
+01:06:30,560 --> 01:06:33,720
+think it was purely from the implosive
+
+2060
+01:06:32,160 --> 01:06:35,480
+principles that it worked. I think it's
+
+2061
+01:06:33,720 --> 01:06:38,320
+more than likely more than possible for
+
+2062
+01:06:35,480 --> 01:06:39,520
+such a thing to take place. Okay. So, uh
+
+2063
+01:06:38,320 --> 01:06:42,320
+moving on.
+
+2064
+01:06:39,520 --> 01:06:44,200
+Here are some images from a repulsine
+
+2065
+01:06:42,320 --> 01:06:46,960
+which was replicated by somebody in the
+
+2066
+01:06:44,200 --> 01:06:49,040
+aerodynamic industry. Uh this was from a
+
+2067
+01:06:46,960 --> 01:06:51,000
+global BEM presentation by Jörg in
+
+2068
+01:06:49,040 --> 01:06:52,720
+November of 2019. He said there were
+
+2069
+01:06:51,000 --> 01:06:54,480
+folks uh trying to replicate it, and the
+
+2070
+01:06:52,720 --> 01:06:56,520
+quote is, "There is interest from the
+
+2071
+01:06:54,480 --> 01:06:58,200
+aircraft industry. It was remodeled some
+
+2072
+01:06:56,520 --> 01:07:00,480
+years ago, but they told us there wasn't
+
+2073
+01:06:58,200 --> 01:07:02,200
+any effect." And so, as someone who
+
+2074
+01:07:00,480 --> 01:07:05,240
+worked on this particular model, I'm not
+
+2075
+01:07:02,200 --> 01:07:06,480
+surprised because uh just some principal
+
+2076
+01:07:05,240 --> 01:07:07,640
+things in mind when you're thinking
+
+2077
+01:07:06,480 --> 01:07:08,360
+about it.
+
+2078
+01:07:07,640 --> 01:07:10,040
+Um
+
+2079
+01:07:08,360 --> 01:07:12,200
+it doesn't look like this will just give
+
+2080
+01:07:10,040 --> 01:07:15,160
+you an aerodynamic effect from the
+
+2081
+01:07:12,200 --> 01:07:16,960
+images alone, right? So, my own work,
+
+2082
+01:07:15,160 --> 01:07:18,120
+very quickly here. So, basically this is
+
+2083
+01:07:16,960 --> 01:07:19,800
+what I did, you know, I had a lot of
+
+2084
+01:07:18,120 --> 01:07:21,520
+time on my hands and I was bored. I went
+
+2085
+01:07:19,800 --> 01:07:23,600
+through and I counted all of the slots
+
+2086
+01:07:21,520 --> 01:07:25,000
+and I, you know, did some digging on the
+
+2087
+01:07:23,600 --> 01:07:26,760
+internet and found like people who'd
+
+2088
+01:07:25,000 --> 01:07:29,160
+actually gone to PKS and posted those
+
+2089
+01:07:26,760 --> 01:07:31,600
+images. I counted all of the rills or
+
+2090
+01:07:29,160 --> 01:07:32,960
+gills and then I counted the waves
+
+2091
+01:07:31,600 --> 01:07:34,080
+within the diaphragms. A lot of people
+
+2092
+01:07:32,960 --> 01:07:35,680
+get on my case saying, "You did the
+
+2093
+01:07:34,080 --> 01:07:37,440
+waves wrong, this and that and that."
+
+2094
+01:07:35,680 --> 01:07:38,880
+Whatever. If you look at the designs,
+
+2095
+01:07:37,440 --> 01:07:40,880
+the historical designs which were made,
+
+2096
+01:07:38,880 --> 01:07:42,560
+I assure you that the people who were
+
+2097
+01:07:40,880 --> 01:07:44,680
+making these were not paying attention
+
+2098
+01:07:42,560 --> 01:07:46,280
+to the finer details. They weren't as
+
+2099
+01:07:44,680 --> 01:07:47,800
+refined as we read Schauberger
+
+2100
+01:07:46,280 --> 01:07:49,960
+researchers are. And so, they had no
+
+2101
+01:07:47,800 --> 01:07:53,040
+cares for things like kudal horns or,
+
+2102
+01:07:49,960 --> 01:07:54,680
+you know, harmonic, you know, distances
+
+2103
+01:07:53,040 --> 01:07:56,240
+for the waves to be there, right? And
+
+2104
+01:07:54,680 --> 01:07:57,360
+so, my intention in making this was just
+
+2105
+01:07:56,240 --> 01:07:58,920
+trying to
+
+2106
+01:07:57,360 --> 01:08:02,120
+make a historical craft that could be
+
+2107
+01:07:58,920 --> 01:08:04,560
+replicated by anyone anywhere and reused
+
+2108
+01:08:02,120 --> 01:08:05,920
+or reused and then improved upon.
+
+2109
+01:08:04,560 --> 01:08:07,840
+And so, that's what I did here. These
+
+2110
+01:08:05,920 --> 01:08:10,320
+are my notes of studying that image
+
+2111
+01:08:07,840 --> 01:08:12,640
+which was provided for Callum Coats.
+
+2112
+01:08:10,320 --> 01:08:14,880
+Distinct The only distinct things you'll
+
+2113
+01:08:12,640 --> 01:08:16,520
+find in my design is I made the the
+
+2114
+01:08:14,880 --> 01:08:17,680
+plates a little bit thicker for 3D
+
+2115
+01:08:16,520 --> 01:08:18,880
+printing. If they're too thin, it's
+
+2116
+01:08:17,680 --> 01:08:20,839
+going to give you a nightmare and give
+
+2117
+01:08:18,880 --> 01:08:22,120
+you like a squirrel's nest for 3D
+
+2118
+01:08:20,839 --> 01:08:23,799
+printing.
+
+2119
+01:08:22,120 --> 01:08:25,120
+And I've also combined some parts, but I
+
+2120
+01:08:23,799 --> 01:08:27,359
+also have the parts which are not
+
+2121
+01:08:25,120 --> 01:08:29,560
+combined. It is not necessary for many
+
+2122
+01:08:27,359 --> 01:08:31,640
+of the components here to be like
+
+2123
+01:08:29,560 --> 01:08:32,839
+separated. Some of them can be fused
+
+2124
+01:08:31,640 --> 01:08:33,920
+together and that's perfectly fine, but
+
+2125
+01:08:32,839 --> 01:08:35,120
+you have to be careful with where you're
+
+2126
+01:08:33,920 --> 01:08:37,520
+doing that.
+
+2127
+01:08:35,120 --> 01:08:39,759
+So, uh here is the annual ring. For
+
+2128
+01:08:37,520 --> 01:08:42,600
+example, the annual ring part was more
+
+2129
+01:08:39,759 --> 01:08:44,560
+of a like separator between the function
+
+2130
+01:08:42,600 --> 01:08:46,240
+functional parts. It really had no It
+
+2131
+01:08:44,560 --> 01:08:47,640
+was just a separator between the cowl
+
+2132
+01:08:46,240 --> 01:08:49,720
+and then the lower
+
+2133
+01:08:47,640 --> 01:08:51,600
+frame wing waves. You didn't need it
+
+2134
+01:08:49,720 --> 01:08:54,359
+there. And so, I was able to get rid of
+
+2135
+01:08:51,600 --> 01:08:57,640
+it. It was more of like man-made
+
+2136
+01:08:54,359 --> 01:08:59,880
+need. This was reproduced by Puthoff Lab
+
+2137
+01:08:57,640 --> 01:09:01,359
+when they did research back in whatever
+
+2138
+01:08:59,880 --> 01:09:03,720
+they They research. He's disappeared
+
+2139
+01:09:01,359 --> 01:09:05,279
+now. And so uh these are some of the
+
+2140
+01:09:03,720 --> 01:09:08,000
+internal slots.
+
+2141
+01:09:05,279 --> 01:09:09,680
+And then I went to the CAD Fusion 360. I
+
+2142
+01:09:08,000 --> 01:09:12,160
+reproduced things the best I can with
+
+2143
+01:09:09,680 --> 01:09:13,640
+the nice sweeping gradient edges. And I
+
+2144
+01:09:12,160 --> 01:09:15,400
+made different variations. So these are
+
+2145
+01:09:13,640 --> 01:09:17,080
+just some of the variations I have here.
+
+2146
+01:09:15,400 --> 01:09:18,839
+This was the 3D printing design. I
+
+2147
+01:09:17,080 --> 01:09:20,440
+forgot how long this took because I
+
+2148
+01:09:18,839 --> 01:09:23,040
+tried to make it as large as possible.
+
+2149
+01:09:20,440 --> 01:09:25,359
+And I think the printer was like a three
+
+2150
+01:09:23,040 --> 01:09:27,200
+an Ultimaker 3. I can't remember, but my
+
+2151
+01:09:25,359 --> 01:09:29,319
+library school library had some really
+
+2152
+01:09:27,200 --> 01:09:30,799
+nice 3D printers then. And so I would
+
+2153
+01:09:29,319 --> 01:09:32,200
+always come in and instinctively do my
+
+2154
+01:09:30,799 --> 01:09:34,440
+work and leave. I didn't like talking to
+
+2155
+01:09:32,200 --> 01:09:36,160
+people because in the past well
+
+2156
+01:09:34,440 --> 01:09:37,839
+you get bullied quite a lot for working
+
+2157
+01:09:36,160 --> 01:09:39,400
+on things that everyone in institutional
+
+2158
+01:09:37,839 --> 01:09:40,960
+science is like yeah, this is stupid.
+
+2159
+01:09:39,400 --> 01:09:42,480
+This doesn't work. It's not real, right?
+
+2160
+01:09:40,960 --> 01:09:44,240
+And so I mean if you're not working for
+
+2161
+01:09:42,480 --> 01:09:46,440
+me and not helping me then it's better
+
+2162
+01:09:44,240 --> 01:09:48,359
+to keep it hush-hush, right? So anyway,
+
+2163
+01:09:46,440 --> 01:09:50,240
+I finished the end product. I did end up
+
+2164
+01:09:48,359 --> 01:09:52,880
+showcasing it in one of our little
+
+2165
+01:09:50,240 --> 01:09:54,400
+library presentations. And I did not
+
+2166
+01:09:52,880 --> 01:09:57,040
+test it. This one probably wouldn't be
+
+2167
+01:09:54,400 --> 01:09:58,680
+good for testing. It's weak. But the
+
+2168
+01:09:57,040 --> 01:10:00,120
+good news is that with all of the files
+
+2169
+01:09:58,680 --> 01:10:02,120
+that I've open sourced for anyone, you
+
+2170
+01:10:00,120 --> 01:10:04,080
+can go and rebuild this.
+
+2171
+01:10:02,120 --> 01:10:05,440
+And you can actually use a CNC machine
+
+2172
+01:10:04,080 --> 01:10:07,080
+to make it as well. And so you can do
+
+2173
+01:10:05,440 --> 01:10:08,800
+some really interesting things if maybe
+
+2174
+01:10:07,080 --> 01:10:10,920
+you get it up to speed or improve upon
+
+2175
+01:10:08,800 --> 01:10:12,320
+it and solve the mystery of the upper
+
+2176
+01:10:10,920 --> 01:10:13,960
+chamber that all of us are trying to
+
+2177
+01:10:12,320 --> 01:10:17,360
+figure out. But I think it's a pretty
+
+2178
+01:10:13,960 --> 01:10:19,480
+darn close replication as is just on
+
+2179
+01:10:17,360 --> 01:10:21,520
+based on eyes. Our work in future work,
+
+2180
+01:10:19,480 --> 01:10:23,280
+I just haven't had the time. I've been
+
+2181
+01:10:21,520 --> 01:10:25,280
+procrastinating. And to be honest, I've
+
+2182
+01:10:23,280 --> 01:10:26,840
+been a bit on the low
+
+2183
+01:10:25,280 --> 01:10:28,840
+trying to
+
+2184
+01:10:26,840 --> 01:10:30,280
+get back into doing this work. But I've
+
+2185
+01:10:28,840 --> 01:10:31,880
+been working on Schauberger tubes.
+
+2186
+01:10:30,280 --> 01:10:33,680
+That's probably the best place to start
+
+2187
+01:10:31,880 --> 01:10:36,520
+when making Schauberger
+
+2188
+01:10:33,680 --> 01:10:38,360
+and doing so using the PKS stuff like
+
+2189
+01:10:36,520 --> 01:10:39,720
+mathematically. So you want to start
+
+2190
+01:10:38,360 --> 01:10:41,160
+with these three geometries with the
+
+2191
+01:10:39,720 --> 01:10:42,720
+tubes. We have the hyperbolic thing. We
+
+2192
+01:10:41,160 --> 01:10:44,200
+have the general cone. And then we have
+
+2193
+01:10:42,720 --> 01:10:45,640
+This was really hard to make, but it's
+
+2194
+01:10:44,200 --> 01:10:48,200
+also easy. Again, just make the
+
+2195
+01:10:45,640 --> 01:10:49,560
+hyperbolic cone cross that's I mean cut
+
+2196
+01:10:48,200 --> 01:10:51,960
+into it and then you can get all of the
+
+2197
+01:10:49,560 --> 01:10:53,880
+nice little geometries you'd like. And
+
+2198
+01:10:51,960 --> 01:10:55,400
+so then you can wrap around that and
+
+2199
+01:10:53,880 --> 01:10:56,880
+make any kind of tube that you like. And
+
+2200
+01:10:55,400 --> 01:10:59,960
+then you get some of the nice little
+
+2201
+01:10:56,880 --> 01:11:01,680
+aftereffects scrolls, right? Okay, so uh
+
+2202
+01:10:59,960 --> 01:11:03,240
+uh wow, I guess I finally did make it to
+
+2203
+01:11:01,680 --> 01:11:04,800
+the end, and I made it to the end
+
+2204
+01:11:03,240 --> 01:11:07,000
+unfortunately going a bit 5 minutes
+
+2205
+01:11:04,800 --> 01:11:08,280
+over. Uh I was going to give some final
+
+2206
+01:11:07,000 --> 01:11:10,720
+remarks. So, I don't think that I have
+
+2207
+01:11:08,280 --> 01:11:12,520
+any, but uh here are the links I have.
+
+2208
+01:11:10,720 --> 01:11:14,360
+My guiltless plug is the inertial
+
+2209
+01:11:12,520 --> 01:11:16,320
+propulsion workshop, which was started
+
+2210
+01:11:14,360 --> 01:11:18,760
+uh Brian St. Clair. It's a nice little
+
+2211
+01:11:16,320 --> 01:11:21,000
+cozy community for those of us who have
+
+2212
+01:11:18,760 --> 01:11:24,640
+been uh doing work. Again, my field of
+
+2213
+01:11:21,000 --> 01:11:26,880
+specialty is in um impulsive solid-state
+
+2214
+01:11:24,640 --> 01:11:28,720
+impulsive systems. So, a lot of times
+
+2215
+01:11:26,880 --> 01:11:30,440
+that roughly translates into inertial
+
+2216
+01:11:28,720 --> 01:11:32,120
+propulsion systems, but I have
+
+2217
+01:11:30,440 --> 01:11:33,520
+distinction and nuance within that
+
+2218
+01:11:32,120 --> 01:11:35,400
+because a lot of people say, "Yeah,
+
+2219
+01:11:33,520 --> 01:11:37,840
+inertial propulsion, I know that." But,
+
+2220
+01:11:35,400 --> 01:11:39,760
+it a lot of the work I've done is very
+
+2221
+01:11:37,840 --> 01:11:41,480
+distinct within inertial propulsion, and
+
+2222
+01:11:39,760 --> 01:11:44,160
+I do make distinctions when I talk about
+
+2223
+01:11:41,480 --> 01:11:45,560
+it. But anyway, um it's a cool community
+
+2224
+01:11:44,160 --> 01:11:47,040
+uh regardless of whatever you're doing,
+
+2225
+01:11:45,560 --> 01:11:48,160
+it doesn't matter. It might not even be
+
+2226
+01:11:47,040 --> 01:11:49,720
+a no sure propulsion, it's trying to
+
+2227
+01:11:48,160 --> 01:11:51,320
+make it more expensive. Uh you're
+
+2228
+01:11:49,720 --> 01:11:52,760
+welcome to come and join us. Uh if you
+
+2229
+01:11:51,320 --> 01:11:54,280
+have any questions for me, you can
+
+2230
+01:11:52,760 --> 01:11:56,800
+always shoot me an email. There's my
+
+2231
+01:11:54,280 --> 01:11:58,280
+YouTube, please give me a subscribe. And
+
+2232
+01:11:56,800 --> 01:12:01,080
+Patreon, I'm still setting up. It would
+
+2233
+01:11:58,280 --> 01:12:02,480
+be nice to get some money's. Um and I
+
+2234
+01:12:01,080 --> 01:12:04,280
+open source all of my work. Uh
+
+2235
+01:12:02,480 --> 01:12:06,840
+ResearchGate has all of my papers and
+
+2236
+01:12:04,280 --> 01:12:08,880
+stuff for anyone who's interested. Uh I
+
+2237
+01:12:06,840 --> 01:12:10,920
+have also kind of branched into other
+
+2238
+01:12:08,880 --> 01:12:13,880
+things, you know, I talk about time a
+
+2239
+01:12:10,920 --> 01:12:16,280
+bit, but that's just because Mach effect
+
+2240
+01:12:13,880 --> 01:12:19,760
+when you treat force as a process, then
+
+2241
+01:12:16,280 --> 01:12:22,040
+mass also is not necessarily uh just
+
+2242
+01:12:19,760 --> 01:12:23,840
+like a simple spherical point cow as you
+
+2243
+01:12:22,040 --> 01:12:26,000
+think, right? And as a computer
+
+2244
+01:12:23,840 --> 01:12:28,120
+scientist, or maybe a fake computer
+
+2245
+01:12:26,000 --> 01:12:30,160
+scientist, maybe more of a vibe computer
+
+2246
+01:12:28,120 --> 01:12:33,000
+scientist these days, right? Cuz I I
+
+2247
+01:12:30,160 --> 01:12:35,600
+have great apathy for many things. Um
+
+2248
+01:12:33,000 --> 01:12:37,720
+I like to explore some physics things
+
+2249
+01:12:35,600 --> 01:12:39,880
+without using physics. So, I used like
+
+2250
+01:12:37,720 --> 01:12:41,000
+for example Leslie Lamport's
+
+2251
+01:12:39,880 --> 01:12:42,760
+uh
+
+2252
+01:12:41,000 --> 01:12:44,600
+He's done incredible work, Leslie
+
+2253
+01:12:42,760 --> 01:12:46,440
+Lamport. And there's a way to talk about
+
+2254
+01:12:44,600 --> 01:12:47,600
+like things related to like Everett in
+
+2255
+01:12:46,440 --> 01:12:49,520
+the many-world theory of quantum
+
+2256
+01:12:47,600 --> 01:12:51,880
+mechanics using the work of Leslie
+
+2257
+01:12:49,520 --> 01:12:54,320
+Lamport. So, I tried to do that. I have
+
+2258
+01:12:51,880 --> 01:12:55,680
+that in a paper up somewhere uh or at
+
+2259
+01:12:54,320 --> 01:12:57,415
+least my crude attempt. I don't even
+
+2260
+01:12:55,680 --> 01:12:57,760
+know if I understand it.
+
+2261
+01:12:57,415 --> 01:12:59,400
+>> [laughter]
+
+2262
+01:12:57,760 --> 01:13:00,760
+>> So, just being completely honest, it
+
+2263
+01:12:59,400 --> 01:13:02,480
+gets really weird and wacky. But,
+
+2264
+01:13:00,760 --> 01:13:05,960
+generally, yeah, I'm into you these kind
+
+2265
+01:13:02,480 --> 01:13:05,960
+of systems. But, I guess that's it.
+

@@ -1,0 +1,2265 @@
+But uh for those who don't know, my name
+is Danny uh O'Kudanani. So, I uh studied
+physics and computer science at
+Georgetown University. Uh may not be the
+uh brightest classroom student, but I'm
+definitely probably one of the more
+sharper ones when it comes to uh
+hands-on research.
+Uh about 2 years ago, maybe 3, I don't
+remember, I got bored and I wanted to
+apply some of my CAT skills to
+replicating uh some of Schauberger's
+work. I have always respected Viktor
+Schauberger. I've actually been
+following with a lot of this stuff since
+I was in high school. So, you know, I'm
+like crustacean of the internet. So,
+whatever I can find, I just go and I
+consume naturally. And it just so
+happened that uh you know, when I was
+looking at my old stuff that I've
+scrapped up, I had enough like images
+that I could conceive of how I might
+design certain parts. Now, an argument
+I'm going to make towards the end of
+this presentation is that all of the
+repulsines that we've ever seen today
+that have been documented in terms of
+pictures are most likely they most
+likely never flew. They were probably
+some sort of prototype or prototypes
+which were intended to demonstrate
+fundamental principles like Schauberger
+principles which could be used for a
+repulsine which actually did fly. Now,
+I'm also making the argument that there
+are there's probably there's more than
+enough evidence and eyewitness accounts
+that there was a repulsine which did
+fly. And without going into all of the
+nitty-gritty technical details and
+making a pure and hard science of it,
+just like a like
+workable science.
+Uh we're going to go into maybe how that
+repulsine would have worked and then
+some adjacent things as well.
+Um he also had a submarine that has some
+good attributes. You'll see things like
+a common thread like the diaphragm. So,
+without further ado, let's get into
+this. So, here we are. And uh so, the
+road map today is going to be
+backgrounder intro. Uh you know, I like
+science. So, I'm going to spend a bit of
+time kind of clarifying well, what
+science is within the, you know, world
+of, well, just in terms of
+science general, and then we're going to
+dive into who Viktor Schauberger is,
+because there's often a lot of
+misunderstanding with the stuff that
+Schauberger has done. He's often labeled
+as a pseudo-scientist, and I find that a
+lot of people don't even know what that
+means. It's kind of thrown around like
+the word conspiracy. And that doesn't
+work against that doesn't work to
+scientific progress. And I'm all about
+people going out there and doing
+scientific research. I love scientific
+research, or loved. Still trying to keep
+that love even though it's been pretty
+hard hard to do with the mainstream.
+So, that'll be part one. Then part two
+we'll talk about what is implosion.
+Implosion is is is key in describing any
+of the systems that I generally do
+research on. So, if you talk to any
+normal physicist or engineer,
+most of the time if you're ever going to
+try to talk about a system which is not
+like spitting something out, they're
+going to say it violates Newton's laws
+in some ways, unless you're articulating
+unless you're using a provision, a
+working provision that comes from a
+technical framework that, you know,
+mitigates this or like incorporates
+Newton in some sort of way with like
+more modern physics. And the reason for
+that is because physicists and any kind
+of operational engineering works from
+the principles of explosion. Implosion
+hasn't really been well known, and if
+you start describing implosion, it often
+sounds like bootstrapping, and it's very
+distinct and very different. Implosion
+as a science is you can make you can
+work with it operatively generally. I
+use a very distinct formalism of Mach. I
+didn't even know I was dealing with
+implosion when I first started this
+field, but Viktor Schauberger is
+basically the grandfather or the father
+of implosion technology. His mind is
+incredible.
+Working with Schauberger is like talking
+about Carl Jung. His work is voluminous
+and uses very distinct language. And so,
+it's very easy to say Schauberger is
+kind of an esoteric, you know, person
+making up his own cocktail of things,
+but he wasn't a technically trained
+scientific person. So, he's not going to
+go and invoke something like, you know,
+Archimedes principle or Bernoulli's
+effect. And so, that's important.
+So, moving on, part three will be the
+working science. So, there is a working
+science and I have generalized a few
+things, but I'm not going to have time
+to go into all of those things I've
+generalized today, especially in terms
+of the math,
+how I don't like the math, but it's
+helpful for those who want to go and
+apply certain principles.
+I'll go over three important things
+within the working science. So,
+basically, we're going to talk about the
+PKS method. I'm not going to explain how
+it all works, but this is the approach
+that was refined by Victor Schauberger's
+son, Walter. And then we'll go into
+Mach's principle because the way that we
+can justify implosive systems, or at
+least the way that I've been doing so
+from the provisions of just normal
+science without trying to invoke
+anything new, is by using Mach's
+principle and a really unique, distinct,
+incorporate I mean, distinct
+articulation of Mach's principle. And
+then we talk about the fluid dynamics
+and we don't get into too much of the
+nitty-gritty because it can really get
+messy. Anybody who is an actual expert
+on fluid dynamics understands that hate
+the math. It's a headache. But to
+describe what are going on, I mean,
+these are technically fluid mechanical
+systems. So, by necessity, they
+necessitate something called kind of
+putting myself in a circle there,
+something called solitons. And solitons
+are just basically the these
+wave packets that travel at a constant
+velocity. And they're mechanical when
+they were first discovered and or at
+least articulated in the 1800s. But when
+we're talking about them in terms of
+Schauberger's work, and actually in any
+work, when you're going to find with
+like implosion, we're also going to need
+to touch on Helmholtz's theorems, which
+is also often overlooked. A lot of these
+things are used for very like
+nuanced things in like physics and other
+engineering, but their principles of
+operation actually do scale quite large
+and apply especially within enclosure.
+And finally, we'll look at Bernoulli's
+principle because for the repulsor
+propulsion to work in principle, it was
+operating within a media.
+So, there is no such thing as a
+perfectly closed system, at least if
+we're dealing in the universe, right? Uh
+and that's actually one of the
+formalizations in Mach is that well, if
+you assume the entire universe is
+closed, then the subsystems within it
+are basically like open when you're
+dealing with things and exchanging with
+mass and so,
+um Bernoulli's principle is important
+because it's just talking about what
+happens when we change the surface area
+of something that's flowing inside of
+it. And uh there are different ways to
+demonstrate it. All these like loop
+together to try and make a working
+argument of how the repulsor might have
+worked if it did. Okay, and then we talk
+about the actual repulsor and I just
+throw in a few slides of what I did. And
+then finally, we get into my own work.
+So, enough yammering, let's just go
+right into the uh slides, shall we? So,
+who is Victor Schauberger? Didn't
+preface this, but I am both millennial
+and zoomer. And so, whenever you find my
+slides, you're always going to find a
+bit of meme culture in it. I can throw
+that in wherever I can. I like to do
+that. And so, uh Victor Schauberger as
+told by Wikipedia, apparently in 2026
+was a pseudo-scientist. Uh also a
+naturalist and a philosopher trying to
+make him sound a bit like, you know,
+someone who's just, you know, on the a
+fringe. And being on the fringe isn't
+necessarily a bad thing, but I think
+this is a poor representation, a poor
+representation of uh our Schauberger
+right here. And so, uh let's carry on.
+So,
+uh if you ask Deep Seek or ChatGPT, as
+it turns out, Deep Seek will do maybe a
+a better job. Uh it'll say that, you
+know, there are some conspiracy theories
+associated with his work. And those
+usually come out of things related to
+Nazi crafts and secret things that have
+happened that uh nobody knows about. And
+then ChatGPT did did ChatGPT did a more
+honorable job of presenting him maybe, I
+don't know, cuz it called him a fringe
+inventor. And so, I don't know if any of
+these things are accurate, but let's
+first tackle this question. Well, what
+is pseudoscience? I think that's a
+really important question to tackle.
+So, [clears throat] as told by
+Wikipedia, let's also try to get into
+the minds of the people who are using
+this word. Pseudoscience consists of
+statements, beliefs, or practices which
+claim to be scientific or factual, but
+are inherently incompatible with the
+scientific method. Makes you wonder. So,
+what constitutes a scientific here? And
+we can also go into well, what
+constitutes as the scientific method.
+The scientific method is actually quite
+broad, and there are different kind of
+variations to it, but in like its
+fundamental the fundamental way it's
+practiced is generally the same.
+So, let's look at what Cambridge says.
+This is just a more generalized
+definition. And you know, to get a
+better definition of pseudoscience, it's
+probably more helpful to go into like,
+you know, the philosophers of science
+who actually talk about these things.
+It's a very small niche field within
+science, but there are a lot of really
+good philosophers within science which
+talk about these things. Like, so what
+is the science of doing science, and
+what are we doing right? What are we
+doing wrong? But anyway, so Cambridge
+dictionary I didn't do that cuz I don't
+have time for this slide. But anyway,
+Cambridge dictionary 2020 60 says a
+thought or theory which is not formed in
+a scientific way. So, we're going to
+have to uncover what that is.
+So, I I made a working definition for
+this, and it wasn't out of a vacuum.
+It's based off of those two definitions,
+and then kind of qualifying a bit
+because I was actually in institutions
+of science. Um, and you know, I like sat
+down and did work on paper, and I also
+got to be in labs a bit. So, it says
+pseudoscience it would say is any type
+of research which rejects or sidesteps
+the scientific method. And so, it's the
+practice of treating like subjective
+principles, beliefs, or dogmas as
+equivalent to scientific conclusions.
+And so, the best way I can describe that
+is
+um,
+well, so the sky is blue because it's
+the color of divine truth. In science,
+when we talk about truth, I always love
+to default to Richard Feynman. So, the
+test of all scientific truth is by
+experiment. When science or scientists
+are talking about truth, what we are
+generally talking about is what we have
+seen um objectively, like testing
+something in lab again and again and
+again, everyone individually, um and
+kind of reaching a kind of a consensus
+usually more or less on something which
+has happened again. Uh it's not
+something is going to be true because we
+have a really strong reaction to it or,
+you know, it's like a subjective thing.
+It's an objective thing that happens.
+But, you know, what we consider to be
+objective, especially if we're trying to
+use like certain working models, is
+subject to change, and I'm going to talk
+a bit about that, right? So, what are
+some concrete examples of pseudoscience?
+I have to be very careful with this. And
+so, I don't mean to offend anybody, but
+like I was just thinking about like in
+the modern day, I think most people
+would um
+And it again, disagreements are welcome
+because I think we need more of that in
+science, but I think the most concrete
+examples of pseudoscience I can think of
+is the flat Earth just because, you
+know, like recently there was the
+mission again with Artemis and some of
+the other stuff. So, we saw all those
+nice balls floating out. So, and then
+another one would be geocentrism, which
+is the idea that the Earth is the center
+of everything in the universe, right?
+And like, you know, the sun orbits
+around the Earth, right? So, something
+like that. Um I guess by definition that
+would be uh pseudoscience, right? So,
+that's something which when we all take
+our instruments and our tools and we
+look at it,
+um we would probably disagree because
+based on what we're seeing or what we're
+observing, the measurements are telling
+us
+um
+the this these statements don't hold,
+right? Okay. So, pseudoscience, let's
+talk about the raven paradox. So,
+science is not true just because 99 out
+of 100 specialists say it's true. This
+is a very common mentality that I've
+grown up with as a like millennial and a
+zoomer on the internet seeing people
+say, "This works because science." And
+science is like kind of put forward like
+a god or religion. And science is a
+democratic process, but it's also not
+democratic in some regards. So, just
+because 100 people are saying something
+is true doesn't mean it's true. Science
+is reliable because claims claims can be
+tested, they can be challenged, and they
+can be revised. So, that means that even
+if 99 people, you know, believe that, I
+don't know,
+uh there's no such thing as an albino
+pigeon or raven, not pigeon, right? As
+long as one person finds evidence hard
+evidence that there is an albino pigeon,
+then that is an objective truth that's
+been observed. And so, it's going to
+have to cause some revision with the way
+we do things. And that's the cool power
+with science is anyone can go out there
+and test things if they're following the
+method faithfully. And uh
+bring, you know, good data is what we
+use to change and rework things. So, the
+claim that all ravens are black can be
+overturned by only one verified raven in
+the same way that scientific consensus
+is powerful, but it's not absolute
+proof. So, then,
+as I said before, I kind of alluded to
+this, here is Richard Feynman. The test
+of all knowledge is experiment, and sign
+and experiment is the sole judge of
+scientific truth. So, uh I love using
+this as an operational definition for
+like for truth in science uh without
+getting too nitty-gritty philosophy
+because I do love to moonlight as a
+philosopher as well, but that's
+something entirely different when it
+comes to science. I am by nature an
+experimentalist uh and a theoretician
+only where uh necessity may call. So,
+let's take a look here. I also got my
+notes here separately on an iPad, so I'm
+looking. So, I want to bring in a
+caution here. So, it's very important.
+So, uh scientific heresy does not equal
+pseudoscience. So, by definition, heresy
+is a teaching or dogma that differs from
+what has already been formally uh put
+forth by an authoritative body. That's a
+very concrete like general definition of
+heresy that is like interdisciplinary.
+So, scientific heresy is a teaching or
+approach to a subject which differs from
+what has widely been taught or expressed
+by a consensus of professionals or
+experts. So, as illustrated in the raven
+paradox, even scientific heresy can be
+overturned and canonized into scientific
+dogma. So, this is why whenever we're
+doing science, we have to be very
+careful and we have to give a lot of
+patience to people, even the weird stuff
+that we don't understand or the weird
+stuff that we think we understand
+thoroughly because that can always be
+overturned by, you know, someone
+bringing in a caged pigeon that we've
+never seen. Here is some like actual
+historical examples where this has
+happened, right? So, we got
+uh spooky action at a distance with uh
+Louis de I'm going to screw up his name.
+I'm not French. Uh de Broglie. So, we
+got spooky action at a distance. We got
+matter waves, very important and
+fundamental. Um we got Eric Laithwaite
+who is an incredible professor. He
+actually uh was challenging Isaac Newton
+for a time and then he repented and
+said, "Yeah, Newton was right." But that
+kind of wrestling is so, so important in
+science and he was a real scientific man
+and a man of experiment. And then I
+can't say this name correctly, but this
+fo- this fellow, he convinced us that
+washing our hands could save life and
+you'd think like that's, well, common
+sense. Who wouldn't wash their hands?
+Well, back in the day that wasn't really
+a thing and so uh
+again, scientific heresy, not
+necessarily pseudoscience. Um but uh
+yes. So, now let's talk about well, what
+is real science, okay? So, real science
+is not what a personality says and
+sometimes it's not even what leading
+theorists might tell you. So, like I've
+been saying before, the scientific
+method is accessible to everyone. Um
+it's democratic in practice, but it's
+objective in outcome. That's very
+important. It is limited only by the
+creativity of the human mind. The
+scientific method is not an oligarchy of
+qualified specialists. It's not limited
+by um assumptions or prevalent
+theoretical works. And it's also not
+necessarily constrained by a special
+faculties, right? So, just because
+somebody has access to a billion-dollar
+facility or, you know, something else
+like all these special tools does not
+mean does not mean that other people are
+like prevented from doing any kind of
+good work. In fact, you'll find many,
+many times in science, the human mind is
+so powerful that it's able to overcome
+the barriers of having all of the nice
+whistles. I can't remember the name, but
+this is for anyone to go and study
+in the field of like neuroscience. We
+have colorized images of like incredible
+images of neurons. Like before we had
+any kind of MRI scanning and we all know
+that MRIs, for them to work, we had to
+have quantum mechanics worked out and
+that wasn't worked out at all when we
+got some of these images. And whenever I
+look at some of these images, it's just
+like a testament to me that if we really
+want to learn something, we will find a
+method of doing it. And there's kind of
+an art to it. It's very difficult and it
+seems impossible, but people are able to
+get through that hurdle
+with even their primitive tools. And you
+know, they're able to graduate into
+something that is quite workable, right?
+And so I can't remember the fellow's
+name. Anyone can go and look at it, but
+anyway, he figured out a way to like
+actually get a picture of the neurons
+and it just colors absolutely gorgeous
+and absolutely great for scientific
+observation. And that's just one of one
+example. There are many, many more
+examples of this where we're able to
+prove like really
+really huge and important principles by
+using very basic things around us.
+So
+going on, we got the scientific method.
+Well, what is it? So this is a
+non-exhaustive outline of the scientific
+method. So it's just for the
+intellectually curious. So basically,
+what is the problem or I like to say
+impossibility because most things are
+generally impossible when our knowledge
+is limited, right? And so that's where
+science steps in. Is it truly impossible
+or is are we thinking about this wrong?
+So we have a good question and then from
+that question we graduate into a
+hypothesis or an educated guess. So it's
+a very important that this is
+falsifiable. So falsifiable means that
+you're able to prove that it is wrong.
+If it's not, then
+it's not it doesn't work well with
+science. It sounds like more of a matter
+for philosophy or something else, right?
+And I'm not trying to necessarily put a
+barrier between them because I think
+that the two sometimes they meet and
+then they go away and they do other
+things. But just in terms of like pure
+science as an experiment, it is
+important that you can disprove this,
+right?
+So then um then you create an experiment
+and it's advisable that the experiment
+which you're creating is repeatable. So
+other people can do it, right? That's
+very important. You also want to be very
+wary of confirmation bias and the sunken
+child fallacy. So as someone who's, you
+know, done work in and out of the lab,
+independent research, the sunken child
+fallacy can manage it work against you,
+right? You put you pour so much time and
+effort into something hoping it'll work
+and then all of a sudden it's like, man,
+my experiment didn't go the way I
+expected. Why is that? Okay. So then you
+get data analysis and then you try to
+use the tools of mathematics or rational
+um or applicable rationale to try and
+understand what is going on. See if
+there's a pattern. Uh there isn't a
+pattern, then just write down your
+findings and then finally, as I like to
+say, you have show and tell or you
+replicate um you report and then people
+replicate what you did independently to
+see if there's any credence to what you
+did. People might criticize the process.
+Maybe there's nothing wrong with the
+process itself and people just need to
+see, well, what were you doing here and
+follow with it.
+So uh again, just again restating this
+another way, it's important to outline
+that there's several attributes in the
+scientific method. The first and the
+most important is probably that the
+process is accessible to anyone. I've
+already said this. The second attribute
+is that the scientific method is a
+democratic process. I think I'm just
+repeating myself here, so I'm not even
+going to bother with that commentary. So
+let's just move on to the next slide. So
+thou shalt not remove from from the
+scientific method and yet
+uh what do we have here? Saint Nikolai
+Tesla. This guy was a legend, right?
+Oftentimes he's just looked as an
+engineer and I'm also going to put him
+on a pedestal here because technically
+he did not finish his university degree,
+but this guy was brilliant. I mean, if I
+had his mind,
+I would do so many things. He could do
+calculus in his head like without any
+problems whatsoever. And he understood
+he was like just such a brilliant
+scientist, right? Such an incredible
+scientist. But anyway, here's a famous
+quote by him. The greatest woe of modern
+science
+is that today's scientists have replaced
+um substituted mathematics for
+experiments and they've wandered off
+through equation after equation and
+eventually building a structure which
+has no relation to reality.
+So he is a visionary and I think this is
+really important especially when we're
+going to dive into Schauberger's work
+because the distinction here is that a
+lot of things related to Schauberger um
+are they're dealt with like hands-on
+work, actually doing experiment and
+looking at physical principles, right?
+They're very important. Not everything
+can be done with pen and paper alone. Uh
+pen and paper with the tools of
+mathematics is meant to enlighten us and
+help us formalize those things so we
+can, you know, take that information and
+share it with other people. Okay. So
+moving on, next slide. So what is real
+science in Schauberger's camp? Well, I
+mean, I took some of these from the uh
+like fundamental Schauberger's if
+there's a fundamental literary
+collection of Schauberger you find
+these. And then from other external
+independent research that's been done. I
+mean, Schauberger's work is broad,
+everywhere. We're talking about in terms
+of environment, we're talking in terms
+of like environmental science, even in
+terms of like medicine and processing
+other things. And there are a lot of
+businesses which are using the um
+precepts of Schauberger to, you know, uh
+have their processes made more
+efficient. So here's a lot of just pure
+data like observational data. I didn't
+make up these numbers and I didn't make
+up these processes and there are a lot
+of people who are doing this in an
+objective scientific way. So whenever
+somebody tries to say, "Well, it's
+unscientific and it's pseudoscience
+because,
+you know, I don't know, somebody said it
+and he had like a PhD." I just kind of
+go like, "Yeah, that's kind of
+problematic. You need to use the brain.
+Use the not not the brain, the mind, the
+human mind uh to think about that a bit
+more critically." So okay, so what is
+real science again? I put this here just
+to show that there are variations within
+the scientific method. So many
+variations, right? But fundamentally,
+you're still doing the same thing and
+you're still going to get the same
+fundamental outcome. So, as I like to
+say, the scientific method is a
+democratic uh it's democratic in process
+and then objective in outcome in which
+you get, right? And so, bottom line,
+because I'm a cat lover, especially a
+black cat lover, there are many ways to
+skin a chicken because most um most
+people love cats. Um so, many ways to do
+the scientific method, although the
+scientific method remains concretely the
+same. So, let's move on. So, this is
+just a final uh note. Uh so, scientific
+ignorance often breeds pseudoscience,
+right? So, much of the work to be
+covered in the presentation has remained
+stagnant because of this trend of
+ignorance. Um so, ignorance uh can
+happen in two ways. The first is
+obvious, people can promote claims
+without evidence, but the second is more
+subtle. When experts dismiss a claim
+purely by appeal to their own status
+without examining it carefully, they can
+also damage the scientific process.
+Science is not protected by rhetoric,
+it's protected by a method. And if a
+claim is wrong, then it should be shown
+to be wrong through evidence, analysis,
+and clear reasoning. But if the response
+is only ridicule or credential-based um
+dismissal, then the public is left with
+rhetoric on both sides. So, this is how
+confusion grows. So, we should always
+reserve judgments after we've completed
+the scientific process. So, it's very,
+very important, otherwise it spreads
+like wildfire fire like a virus. So,
+let's move on. So, who was a Victor
+Schauberger truly? We can finally get
+into the meat.
+So, Victor Schauberger, he was born in
+1885. I can't say where per- correctly
+cuz my German is bad since high school.
+Hochschlag in Mühlviertel, I can't do
+this correctly. So, in Upper Austria.
+His early life and professional
+formation um they were not only
+academic, but they're also
+observational. He worked as a forest
+warden, a senior forest warden,
+gamekeeper, and eventually became the
+head warden of the forest. Central theme
+in his work is the contrast between
+explosion and implosion. And he believed
+that modern technology relied too
+heavily on explosive expanse produce and
+heat producing processes. Um so he
+really focused on this idea of implosion
+which was supposed to work with nature.
+So
+uh he better framed these systems as uh
+in like as flowing internally through
+like natural vortices um and then other
+things related to them, the attributes
+I'm going to get into later. So his
+family motto was reportedly to the
+silent force. He was truly an
+environmentalist at his core.
+And um the only reason that you see that
+uh straight point uh that I've included
+in this slide uh regarding his work in
+World War II so decisively is because
+somehow despite all of the primary
+sources which talk about this and it's
+well documented and now uh it's still
+considered a conspiracy that he was like
+literally slurped by the Nazis and
+forced to do work for them um during
+World War II. Like that's not a
+conspiracy, that's well documented. It
+happened. Um they the Nazis really
+wanted to uh use Schauberger's work and
+actually when the Americans came and
+discovered him
+uh they like kind of
+uh I guess the word is quarantined him a
+bit. Not actually quarantined him but
+said this guy's working on some advanced
+stuff. We don't quite understand it but
+it seems to be maybe atomic in nature.
+So he might be a little bit dangerous.
+Uh let's take a look at that. So uh
+expanding who's uh Schauberger for real,
+he continues in this experimentalist
+lineage. So we got Nikolai Tesla, right?
+Who uh mastered electro-magnetism
+and was largely dismissed by mainstream
+science, right?
+So none of these individuals by the way,
+I just want to let you know, had a
+university degree.
+Tesla failed to finish college. Faraday
+proved himself by taking exceptional
+lecture notes. And Ben Franklin was
+almost completely uh self-taught. So the
+works of these individuals, they
+surpassed many of uh the of their
+contemporaries who had high pedigree.
+But so few remember Proteus Steinmetz.
+And yet Tesla was the one who developed
+the uh most exceptional form of the
+alternating motor. And then Michael
+Faraday had no formal training in math,
+yet his experiments fell perfectly in
+line with uh the work of uh Maxwell. And
+Einstein was known to have a portrait of
+him in his office. And then Benjamin
+Franklin proved that lightning was
+actually electric in nature. And for
+better for worse, he's the reason we
+have conventional current uh in the
+opposite direction. So, this is the
+lineage that Schauberger also um
+continues on in. Um so, many famous
+brilliant minds who have done a lot of
+experimenting and made a lot of
+contributions to science. Nobody can
+dismiss Faraday. And nobody nowadays
+will dismiss Tesla. Tesla, getting him
+to be like also like known in the
+mainstream as just a brilliant mind has
+been hard, a huge hike. So, anyway,
+these are AI-enhanced images of
+Schauberger. They're cleaned up, but
+they're still I think they're probably
+the best representations I can get of
+his sketches without being in the actual
+Schauberger estate.
+So, uh he worked on all manner of
+things, right? So, the first image is a
+trout tur- turbine sketch. And I think
+it's really more of like concept art
+more than anything else. And then the
+next one is a bio impeller, right? So,
+just his uh conceptual ideas. And
+Schauberger, he was a great artist. If I
+could draw, I think that would make me a
+better designer as well. That's
+something I I kind of struggle to do.
+But um a lot of his stuff that you see
+is not like uh say Tesla drawing. Tesla,
+when he draws things, he'll draw them to
+scale and he'll have specific dimensions
+and stuff. Since Schauberger understood
+principles well, uh and he was also good
+at drawing. Uh I think in a lot of his
+drawings he would have the conceptual
+part down, and then that would be it
+would be the work of maybe like a more
+technical-oriented person to draw these
+things. I did find an old schematic of a
+home generator, which is signed by him,
+and I wonder if he actually like sat
+down and did the measurements. That is a
+pretty technical design. I think it was
+a earlier design that he wanted of the
+home gener- generator that wasn't
+realized. But anyway, so we have the
+submarine. Then we have a bio-impeller,
+which is often like pegged onto the
+repulsine in a lot of replications. A
+lot of people like to just peg on this a
+bio-impeller thinking that it solves the
+problem of why it won't lift is that it
+needs to have some sort of suction
+thing, but I also have my own kind of
+ideas as to how the thing might have
+taken off. Uh we don't have a key
+component that's related to it. Then we
+have an embryonic implosion chamber, as
+I call it. Uh it's really probably for
+mixing. I'll talk about this in a later
+slide. Um so uh let's move on, okay? So,
+next slide we got So, Schauberger again
+for real. These are basically the
+fundamental works with Schauberger. If
+you want to like find and consume all
+that you can with Schauberger, uh you
+can take a look at any one of these
+books here. It's He's just incredibly
+voluminous, but he's also like reading
+Carl Jung for anyone who's done that. He
+has his own kind of language, and it's
+very, very important that you don't like
+look if you especially if you're a
+scientist, you don't get taken back by
+Schauberger's language and say this guy
+is practicing pseudoscience because he's
+saying gravitation is like, you know,
+juxtaposed with this other thing, you
+know, and you know, you're you're
+misunderstanding the guy, right? Like
+for a lot of people who are practicing
+science purely experimentally and have
+not had any opportunity to uh you know,
+go through institutional channels. Uh I
+should say be domesticated within most
+institutional channels today.
+Uh they use the languages that are most
+like natural to them to communicate the
+processes which are happening. The
+processes are true. The language might
+be a little bit flowery, but the
+processes are true.
+And so, his language is extremely uh
+descriptive and pictorial, and uh it
+often lacks technical scientific
+parlance, and it's prone to being
+treated as pseudoscience because the way
+uh the uh translator may qualify his
+words. So, I principally in the English
+language uh most of the books that have
+been translated I think if not all have
+been have been done so by Callum Coats.
+And uh Olaf Anderson is also an engineer
+who did a lot of great work with uh
+Schauberger stuff. So, uh let's see what
+else I got on my notes here. So, in some
+respects, he reads like Tesla who lacked
+formal institutional scientific
+training, but he retained the essence of
+fundamental principles. If someone
+joined to any one of these books and
+read through some of the commentary left
+behind by Coats, they might be more
+inclined to believe that Schauberger's
+work was a bit of the esoteric
+scientific variety. I think that's just
+because sometimes when the translators
+provide this information, they want to
+give some historical a context and some
+other background. So, quote will
+sometimes quote people who by
+association will turn off maybe a few
+like technical guys. Like, so there are
+sections where they're like, "So, if you
+look at like Helena Blavatsky who's
+talked about this and this and that in
+the esotericism and all this stuff."
+We're like, "Ah, I don't know what this
+has to do with science." But, what he's
+just trying to do is, I guess, help the
+reader understand
+get a more generalized worldview of
+what's going on.
+I don't not a lot of that isn't really
+fundamentally important in terms of
+understanding the operative science
+within Schauberger. Historically, it's
+important, I guess, and then also, I
+guess, in terms of the context when
+you're trying to like get your mind
+into, "Okay, well, how is he How are
+people seeing this?" Like, it's like
+looking at ancient people and trying to
+understand why were they building
+things. They might say that, "Well, this
+was because of the principle of a
+tadpole which like to move up the water
+in some sort of way." And so, they draw
+with a lot of pictorial things, but
+there's a scientific principle behind
+that. That's the secret sauce that
+researchers are interested in.
+So, moving on,
+there are so many parallels with
+Schauberger's work when you look at more
+like refined
+uh experimentalists like Tesla. Like,
+what I'm showing you right here is from
+Schauberger himself, independent. I
+don't know that Schauberger had any kind
+of communication with Tesla. In some
+ways, he predates Tesla, right? This
+right here is like one-to-one with a
+Tesla valve, and he did this purely from
+his purely from looking at nature.
+So, these are his meandering valves, and
+so I have a Tesla valve right here in
+the lower left-hand corner. And that's
+[laughter] exactly what a Tesla valve
+is. Tesla is also brilliant because it
+just goes to show you the power of the
+principle that he's understood, right?
+And this is the meandering valve. I I'm
+guessing it's the meandering valve at uh
+the PKS Society. It looked like that
+when I saw it. Um, so I just scraped
+these uh as some examples of like like
+actual hardcore innovation that he did
+that is not pseudoscience that's used in
+modern day today and also by other
+people.
+So we also got his logs here. So some
+important information on the logs. By
+1922 Schauberger had designed and built
+timber flotation installations um or log
+flumes in Steyrling. So these were based
+on his observations of nature and they
+reduced logging costs to a tenth their
+previous level. So the success of this
+led to many other things and by 1930
+there is a film. Uh you can find it. It
+exists somewhere on the internet there
+uh which is a documentary based on this.
+Um, so from Schauberger's work here it
+well, Schauberger's work in general
+expanded into forestry, water
+technology, and many other things. And
+by 1931 he started the uh experiments
+involving the extraction of electrical
+energy electrical energy from water. Um,
+connected to water capillary action
+research and Lord Kelvin's fallen wa-
+falling water experiments. By 1932 his
+work included the production of pure
+water and even fuel production from
+water.
+1933 he published his first and only
+book Our Senseless Toil where he um
+criticized modern practices working
+against nature rather than with it.
+Definitely a environmentalist at his
+core. Okay, so moving on. Here are some
+pictures of his home generator. So I
+mentioned earlier that there was a
+technical design and this is signed by
+Viktor Schauberger is what it says
+there. I'm not sure if he actually like
+prepared this image but at the very
+least it looks like he knew what he was
+doing. So the home generator um is
+supposed to be able to create
+well, I'm not going to go into that in
+this slide, but and then I don't want to
+I don't want to oversimplify how it's
+going to work and also don't want to
+misrepresent how it's supposed to work.
+But it's supposed to also reach a kind
+of like equilibrium within implosion.
+There's a something I call kind of like
+a static equilibrium. And it
+basically supposed to keep creating a
+vacuum where it's rotating at a nice
+even pace and then that can be like
+adjusted. So that was his
+hope with the home generator. And I
+think if I remember correctly, I'm not
+sure. I think that this home generator
+which was a built wasn't actually the
+idealized home generator he want. I
+don't know that it actually worked. And
+I think when they tested it, they were
+careful because, you know,
+the thing is old, so it's just better as
+a historical item. Let's see what other
+notes I got.
+There are many vortex layers to this
+device.
+And implosive principles will cover
+later
+in the lecture. So
+when they're built in an ideal way, the
+several aftereffects related to
+temperature, pressure, and fluid flow
+become quite manifest. These are the
+things I don't want to talk about
+because there actually nuanced to them.
+And you know, there's a whole science to
+them depending on what avenue you want
+to take. So for any student of science,
+temperature and pressure are not
+naturally unrelated. So it makes sense
+that, you know, he would talk about
+these things and take them into effect.
+He's always talking about temperature
+falling and like decreasing. I remember
+in high school I was always bored by
+this. It's like, why is he talking about
+temperature? I don't care about that.
+Difference in pressure like air pressure
+is like differential. I get that. But
+like temperature things, why is that
+important? You study physics and you
+realize, ah, you know, these drops in
+like pressure can also cause, you know,
+an effect on temperature and vice versa.
+Thermo is interesting, also very
+annoying course that I didn't like. But
+anyway, that's beside the point. It's
+also very important for my field of
+research because force is a process. But
+anyway, so Schauberger for real, some
+innovations. Here is the innovations we
+have we see in like pharmaceutical
+industries
+and treatments and stuff. So, it should
+be noted that Walter Schauberger, not
+Victor Schauberger, accomplished a great
+deal of developing several types of
+spiral treatment systems involving both
+gas and fluids. And here are some of
+them. The first image shows Marcus
+Kieser, Kieser, head of the head of
+production at Walla Heumeter, Heumeter,
+using the apparatus designed to mix
+plant juices.
+Mistletoe, winter mistletoe, and summer
+mistletoe. And so, the purpose of this
+process is to separate the mineral comp-
+components from freshly harvested
+mistletoe through a specialized form of
+motion and mixing. So, the device
+actually emerged from discussions
+related to Rudolf Steiner's ideas
+and with Schauberger. So, Steiner had
+envisioned a separate preparation method
+for mixing these materials. So,
+actually, excuse me.
+Correction, it was Karl Koller who was
+familiar with Steiner's thought who
+later met Victor Schauberger. And then,
+following this encounter, the egg-shaped
+device was developed and it produced a
+distinct kind of vortex-based mixing
+process. So, in 1976, the first version
+of this device was transferred to Walla
+and that is shown in the image to the
+left.
+It's a photograph of Kieser. The next
+example is a water appliance which is
+designed to revitalize distilled water
+based on Schauberger's designs in 1938.
+So, if one looks just above his hand,
+they can see a silver prototype of a
+Schauberger's transparent wave
+diaphragm. So, I'm speaking now of this
+image here. This was taken and this is
+Klaus Rauber and it was in well-known,
+like the most well-known Schauberger
+documentary that or maybe not. It might
+have been 2004. I can't remember which
+one.
+But anyway, you'll see the diaphragm
+plates which will be kind of like this
+reoccurring theme, especially with the
+whirlpool thing and his like trout
+turbine here.
+So,
+basically, the way this is supposed to
+work is the water is pulsed through the
+diaphragm and then it continues along
+the screw-like meandering path, vertical
+path. In Schauberger's words, the hole
+is covered by a lid to so that light is
+excluded. This is another thing with
+Schauberger, he thought that water
+became more energetic within darkness.
+And so uh Schauberger believed that the
+more energetic yeah, more energetic in
+darkness especially in the presence of
+moonlight rather than um direct exposure
+to light. So that was those were some of
+his uh environmental practices being put
+into use the best they could for uh
+producing some of these systems. Moving
+on. Now we're going into the uh his
+actual direct lineage. So Viktor
+Schauberger uh so Viktor Schauberger uh
+is also an incredible person. I didn't
+know this until I did a bit of digging.
+He studied mechanical and electrical
+engineering. So he was a bit more
+technical oriented and believe me it
+does show. So rather than simply
+preserving his father's ideas and
+historical curiosities, uh he tried to
+systematize them uh through principles
+and uh through like physics, biology,
+and all sorts of other scientific
+principles. In 1949, he helped found the
+Green Front considered Austria's first
+environmental organization. Make the
+Earth fertile again was their kind of
+mantra. And then in the 1970s, his work
+expanded into the PKS school, the
+Pythagoras-Kepler School where he
+invented harmonic theory, non-Euclidean
+geometry, and prime numbers, nuclear
+physics, what he called the tonal nature
+of physics. It might sound a bit
+esoteric to people because
+again, it's just kind of a
+misrepresentation, but a lot of times
+when people go into subjects that
+haven't really been covered in
+mainstream circles, the moment they
+start talking about like fundamental
+properties, then it sounds like you're
+saying, "Well, seven is the you know
+best nature is the best number to use to
+tune everything in nature because it's
+the number of divine cosmic truth." And
+that's not so. We all know Pythagoras
+and his work with mathematics. Uh
+everyone loves him, right? Because of
+all of the triangles and squares we've
+had to work with in primary school for
+all those painful standardized tests. So
+no one doubts his work, but um
+uh a lot of people don't actually
+understand the more fundamental nature
+of things like Euclid and so on and so
+forth. And that that that's like the
+ground level, like the base like
+assembly language level, where a lot of
+Schauberger's work came from and uh
+Walter worked to formalize a lot of like
+like that to like say, "Okay, so when
+we're talking about implosion and things
+which are happening in a process, a good
+way to illustrate this is by using some
+of these tools which already exist here
+in terms of mathematics." So, he was a
+smart guy.
+And here are just some pictures from the
+uh PKS society. I'm not going to go into
+any of them. They're actually really
+really useful when you're designing any
+kind of Schauberger system. So, you can
+basically create anything that Victor
+Schauberger, if you ever want to make
+anything from Victor Schauberger, you
+can start off by making a hyper This is
+like just the secret sauce in terms of
+the industry making stuff. So, um just
+start off with like a hyperbolic cone
+and then slice that. There's so many
+different ways to slice that and you can
+create any kind of geometry you want and
+it'll be very easy to create a
+geometrically advantageous object. Um
+how you do that in terms of the 3D
+becomes a bit of a method, but this can
+help you. Um
+and so, moving on to the next slide,
+this is a another It's like looking at
+the hyperbolic cone from far away.
+And so, uh these are just things that he
+developed. He didn't really develop
+them. They've all been there, but
+they're just useful in terms of uh
+I guess the science of Victor
+Schauberger. And then we Everyone knows
+this lovely face. This is Jörg
+Schauberger, which is the grandson or
+son of a grandson of a Victor, son of
+Walter. And he carries on the legacy of
+both his father and his grandfather,
+spokesperson and lecturer and
+collaborator of Schauberger material and
+the current presenter and overseer of
+the PKS estate. So, he's overseen many
+of the independent studies of the work
+of both his father and his grandfather.
+Okay, so we've done it. We've gone
+through uh Victor Schauberger the best
+we can and we've done so fairly fast.
+And now we're going to go into the more
+technical details. So, this is the
+general part. So, we're on to part two.
+So, what is implosion? That's a very
+good question here. So, let's look at
+implosion. What is implosion as a
+science? So, implosion is the process.
+Let's talk about it. So, you can think
+of it usually as the inverse of
+explosion. So, if explosion goes out,
+then I guess the inverse is it goes in.
+So, explosion is a process whereby mass,
+energy is released outwardly, usually in
+the form of heat, and that causes an
+expansion of a given volume or space.
+So, implosion differs a little bit. So,
+implosion is a process where mass,
+energy of a given volume or space is
+concentrated inwardly by a kind of
+compression. It can be a compression.
+And it's actually also directed as well.
+It can be directed. So, instead of
+spitting stuff out to get kind of like,
+you know, energy,
+energetic, uh I'd say useful energetic
+motiveness, you contain things and you
+just kind of like, uh
+you have that directed in a way,
+uh
+within a contained sort of way. Okay, so
+moving on to the next place. Uh next
+These These are really cool slides. So,
+this is really important. Um so, the
+explosive process is basically
+summarized really well here in this very
+simple diagram here. This is what you
+learn, I remember in like mechanics, uh
+fundamental physics course where we had
+to use
+uh the rocket equation for this. But
+basically, as I was saying, in my crude
+millennial language, you just take So,
+when you take mass and you spit out mass
+to get something to move in another way
+because of Newton's third law.
+So, the implosive process honors Newton
+in every single respect. There is no
+such thing as a reactionless system, so
+far as I understand. Everything must be
+reactionary if it's having some sort of
+motion.
+This image I took [clears throat] is
+actually comes out of a NASA document.
+Uh anyone who's done the field of like
+researching any type of alternative
+propulsion uh critically and rigorously.
+It's like a huge thousand-page document
+or maybe 500 pages, I can't remember,
+uh by AIAA in Advances of uh Propulsion.
+And when it introduces Mach's principle
+and Woodward's work, it had an
+illustrative, which is actually just a
+powerful illustrative overall. And this
+is why I will go on to talk about why
+Mach's principle, at least the formalism
+I'm using, is a very powerful tool in
+describing implosive processes. And as
+you can see here, I mean this isn't If
+you actually built this mechanism, this
+is not necessarily how it would work
+unless you had some sort of like
+pressure differential. But the idea is
+that, you know, uh
+as
+as M is changing, like mass isn't mass
+is changing, right? So the delta M is
+changing. So as there's a slower
+contraction and then a full expansion,
+it's moving forward, right? It's kind of
+breathing. And actually I defer to a
+lecture before this about a month ago,
+which was given by Michelle Boisvert.
+Forgive me if I mispronounced her name.
+And she does an excellent job in talking
+about how uh Woodward's Mach effect
+thrusters like work because a lot of the
+principle fundamentally we work with the
+same kind of principles, right? In terms
+of the breathing and the pushing. And
+the push the push is basically the pull
+and the push and the pull is basically
+the push sort of deal is what's going
+on. Um and so this is the implosive
+process illustrated mechanically and the
+explosive process chemically. Which is
+also, I mean if you want the mechanical
+process, just open the hood of your car
+engine. Okay, so moving on, what are
+some good analogs for those who don't
+understand with my word food salad? So a
+useful analog would probably be fission
+versus fusion. Fission generates energy
+by splitting mass energy. It's
+probably even more powerful than an
+analog. It's still the same kind of
+thing, an explosive process, no? So it
+generates energy by splitting mass
+energy, right? The contents within an
+atomic nucleon nucleus. And then fusion
+generates energy by combining the mass
+energy of atomic nuclei, right? And so I
+mean this is probably a very good way of
+explaining how implosive works. So then
+what is an implosive system? That's a
+really good question. Okay, so these are
+enhanced images I had. Actually I
+believe this This doesn't come from a
+Roger Penrose thing. Penrose has some
+interesting work as well with rotation
+matrices. Um I'm not even going to go
+into that like with spinner theory and
+some other stuff. But the illustrative
+is a very powerful illustrative that can
+be used anywhere. So, I had it
+color-coded, right? This is a very, very
+powerful illustrative for many different
+reasons. But anyway, an implosive
+system, this is a very good illustrative
+for illustrating an implosive system. An
+implosive system is a system which is
+driven by an implosive process. So, that
+is a process where mass energy or
+inertially or the inertial content is
+cyclically retained and redirected. So,
+it differs from an explosive process
+where mass energy or inertial content is
+either expelled or discarded throughout
+an impulse. So, the flows or the
+transfers of mass energy within an
+implosive process tend to be vertical or
+vortal. They're the ver- the words that
+we're using here I I they're not really
+neo no- localisms, but like, you know,
+they're a lot of people haven't been
+doing work in vortex stuff in
+mainstream. So, it's kind of hard to
+give this an adjective word. So, a
+vertical or vortal, both should work,
+right?
+Usually, it's vortal or vortal and then
+you'll have a particular vector of
+movement. You don't always have a vector
+of movement. Uh you can have like a
+counter-rotating vector system. And I
+might talk about this a bit with the
+repulsing, but basically, you end up
+having like two counter-rotating
+vortex within like a gas or media. And
+then within that, you have an embedded
+bigger vortex, and that general vortex
+often just looks like a giant donut. But
+a lot of times, people don't count
+don't see the counter vortexing that
+goes on.
+But uh it's just a different thing to
+talk about. It can get a little bit
+complicated. So, anyway, what is an
+implosive propulsive system? Um a
+reactionary implosive-driven device
+which does not expel mass in the same
+sense as an explosive process to
+generate thrust. Um an opened or
+mock-admitting system whose process of
+force generation is implicated with the
+rest of its surroundings. I say opened
+or mock-admitting system because I'm not
+when we're talking about these systems,
+there are different ways to qualify
+them. And over the years, I've seen a
+lot of people go to great lengths to
+make very
+very nice frameworks that are distinct.
+Sometimes they say like Newton is
+lacking.
+Like Newton is lacking completely or
+this doesn't work, but Mach is very easy
+to use. Well, it's not not because of
+convenience, but in terms of doing the
+science, right? There is nothing
+necessarily fundamentally wrong with the
+science, but there has been a
+misunderstanding in how the science has
+been applied. And so everything that
+modern Mach had already been
+articulating in things like mechanics
+and on fits snugly with things like
+this. It's just that in a world where
+explosion is kind of like the way that
+everyone understands energetic processes
+and motion, it's very hard to talk about
+implosive systems. They almost sound
+like fantasy or something made up,
+right? And so Mach helps to offset that
+and also helps to formalize that in a
+scientific process that can be like
+replicated.
+So, what is an implosive system? What
+are the types? So, my area of specialty
+I would say is in solid state inertial
+mechanics or solid state implosive
+systems. And to the left we have one
+which is mechanical. And so,
+as the name implies, solid state that
+means I deal with actual concrete
+masses. What we do is we arrange those
+in space
+according to an advantageous geometry.
+Use a 2π Mobius band and that's just
+because it has some really nice
+attributes. It's non-orientable and that
+non-orientability it almost sounds like
+I'm talking about general relativity
+here because anyone who practices not
+practices but uses GR knows that there
+are advantageous geometries which allow
+you to do special things in space time
+when say you want to traverse a wormhole
+or make a really fast kind of like you
+know system that displaces space time.
+And the principle, even though general
+relativity is not at all necessitated
+with the formulas of Mach I use,
+the principle is absolutely the same. Is
+that I mean, it goes back to even Walter
+who's using PKS stuff, right? Is that
+there are geometrically some
+advantageous geometries that let the
+implosive process work with great ease.
+You're able to achieve a kind of static
+equilibrium and I qualify that in a
+different paper I released last month,
+uh with
+uh a 2 pi Mobius band. But, there are
+other kind of geometries that you can
+use as well. So, we have a fluid base or
+hydrodynamic base system here,
+hydraulic, and that is the repulsine.
+I'm going to have to speed through this
+a bit more. Okay. So, we have perfectly
+ideal uh implosive systems here. So,
+what happens in a perfectly ideal
+implosive system? Okay. So, if you have
+a system like the Schauberger system,
+you have the gaseous reactant. So, that
+means it's working with an air. So, I
+call it a new pneumatic system. Then,
+you have the hydraulic system, which is
+like what you see in kind of like the
+submarines. Okay. So, for the hydraulic
+systems here, uh this is really
+important because eyewitness accounts uh
+of the repulsine if it took off. And
+this is Victor Schauberger's own word,
+the apparatus it first functioned at the
+first attempt it rose upwards trailing a
+blue-green and then silver-colored glow.
+That implies to me some sort of
+ionization with like stepping up the
+energy levels. So, in an ideal implosive
+system that is a pneumatic type working
+with air as the media, uh gaseous
+reactant. Um perhaps there's a sort of
+concentrated coronal discharge, right?
+So, tribo- triboluminescence takes place
+when a material is mechanically stressed
+by rubbing against something else. In
+this case, the rubbing the something
+else is the air. For something like the
+repulsine, that thing which was rubbed
+against is probably the air, like I
+said. For this condition to take place,
+one must consider the type of material
+which is being used, the construction of
+the turbine, and again, it's it's
+possible that this is a stand-alone
+effect or it's concurrent with
+ionization. I'm not sure because I
+haven't been able to replicate this
+effect myself. So, for those who don't
+know, ionization is when the orbitals of
+an an atom lose um they lose or receive
+an additional electron. Um so, uh we
+physicists like to say it's something
+like positively or negatively ionized.
+So, coronal discharge occurs when the
+electric field around a conductor
+becomes strong enough to ionize the
+surrounding gas, but not strong enough
+to form the full spark between the two
+conductors. So, the repulsine most most
+likely behaved as an advanced pressure
+transformer or Van de Graaff generator
+and in its most ideal conditions, having
+a concentrated charge of ionization
+within the right below the cowl, um when
+the conditions were just right. If the
+historical accounts of the prototype are
+as described, um then it probably looked
+a lot like this. So, here are some
+coronal discharge examples. Obviously,
+we have the Tesla coil. So, when you
+have systems that work really well, um
+physical systems, then the physical
+environment around them also become
+integrated into the circuit. And that's
+exactly what happens with the Tesla
+circuit. I mean, Tesla coil as well, is
+that air itself is also a great
+capacitor. And so, the air around it
+becomes uh
+uh discharged and not discharged,
+becomes ionized as well. This is a very
+specific kind of bandy graph generator,
+and I forgot why it was made. It was
+like to the research. It was done in a
+very particular place, around Hill bandy
+graph. Someone can look into that. This
+is really important in terms of uh
+what's it called? Victor Schauberger's
+work. So, like a Mirabou, so uh so more
+immediate demonstration um uh what the
+the region beneath the cowling system of
+Schauberger, what it looked like with a
+highly energized craft when it was
+highly energized. We can get an idea
+from borrowing from the work of Dr. uh
+like Mirabou and his laser beam powered
+light craft in White Sands, New Mexico.
+So, geometry plays a critical role, and
+if you look at this, it has quite the
+hyperbolic geometry, you know? And so,
+uh what he does uh in his design, it's
+much like a normal implosive system
+design. So, the light craft is a
+specially a specially shaped object
+resembling an upside down spinning top.
+Its base has a cross section, which is
+similar to the hyperbolic parabola. And
+so, the region is energized by an
+intense laser beam, heating up the craft
+somewhere between 20 and uh 30 K Kelvin.
+So, saliently, his light craft is also
+able to incorporate a shroud or cowl,
+which you can see, which helps
+concentrate the directed laser beam
+energy to a focal region. And once the
+energy reaches a critical intensity, the
+air beneath the craft breaks down into a
+plasma and expands violently. It creates
+shock waves, um propelling the model
+upward. So, maybe that's what we were
+seeing with Schauberger and and just to
+give like to help the imagination to see
+what that looks like. This is what it
+looks like when Mir Bow is doing some
+work with his life crafts. And I'm
+certain that if the eyewitness accounts
+regarding the repulsine were as, you
+know, stated before then this is
+probably what they saw, right? In an
+ideal condition. Now, this is incredible
+because here Mir Bow is
+energizing the thing to reach a really
+high critical temperature and then it
+does this. But the repulsine seemed to
+had really nice principles that were
+just working. You know, like where it
+somehow achieved this. This is an
+incredible aftereffect. I don't know how
+you would achieve that. The way I
+designed my repulsines, they have a
+little Easter egg where you can kind of
+induce this effect. Well, I shouldn't
+say induce this effect, but induce some
+appreciable effects similar to this.
+Okay, so moving on. Another ideal thing
+we're just going to touch on this real
+quickly because it's adjacent to the
+repulsines, cavitation. So, in an
+implosive system. So, cavitation takes
+place when a local pressure in water
+falls below the liquid vapor
+uh causing bubbles or vapor cavities to
+form. This can occur within the wakes of
+low pressure regions around rapidly
+moving objects. So, this is the process
+here. Got to go through this. I actually
+had the opportunity to speak speak with
+some of these Schauberger veterans
+who've been doing Schauberger research
+like since the '80s, right? And I I sent
+them some of my PowerPoints and I was I
+didn't even know. I got on an email with
+this guy I Kurt uh Halberg who owns this
+company uh
+uh Waltr Wekow. And so anyway, I grabbed
+this because I think this might be an
+example of cavitation within one of the
+Schauberger systems with the hyperbolic
+geometry here.
+And I'm just going to speed through this
+again. These are trout engines. So, in
+their ideal case, the analog of the
+triboluminescence which goes on should
+be cavitation.
+And uh this is uh these are just some of
+the diagrams again. Uh so, trout engine
+same you'll find things like the
+diaphragm and some other stuff. Okay, so
+moving on. A working science. So,
+working science we have the
+the PKS school. So, basically
+uh the tradition just deals with tone,
+it deals with raw ratio and proportion.
+Okay, what do we got here? The PKS
+system. This is nothing new. I'm really
+not going to go into the nitty-gritty of
+how this works, but again, it's just
+fundamental Pythagoras here. So, these
+are just some slides I AI enhanced them
+that you'll find within the PKS society.
+Uh we can talk a bit about Mach's
+principle. So, because I have done quite
+a lot, at least in my own formalization
+of that. So, Mach's principle of
+impulsive forces, if the universe is a
+closed box, then the constituent parts
+are just basically subsystems. Mass,
+energy, and inertia are transferred
+through corridors of interaction. So,
+this is important for describing
+Schauberger-type systems since these
+systems are fundamentally impulsive. So,
+um the thesis of Mach's principle is
+predicated on the idea that matter in
+this place does not go uninfluenced by
+matter elsewhere. So, from a theoretical
+approach, there are several ways to
+approach this into a working theory,
+um but most are usually only familiar
+with Woodward's approach, which does a
+great job of formalizing Mach within the
+bounds of GR. So, many of the So, the
+systems I work in don't necessitate GR,
+but it's still Mach's principle
+fundamentally. So, an impulsive system
+does not expel mass, it reorganizes
+motion inwardly. It produces a force
+through a localized redistribution or
+contained wave packet, essentially
+soliton. This is a soliton here. I
+didn't even know what a soliton was when
+I made these designs way back in like
+2018. So, I use something where force is
+a process of inertial confrontation. So,
+force treated as a process is something
+which isn't actually really done
+standard in physics, and there are
+different ways to do that.
+So, Mach's principle of impulsive
+forces, this is just something I took
+from another slide of mine as well. And
+so, we got here basically confrontation
+is basically when you apply some sort of
+action to one mass part, but then that
+does not uninfluence the other part
+here.
+So, you can leverage this kind of
+principle to create unidirectional
+force, so that's force in one sort of
+direction
+or just a static equilibrium of a
+motion. So, you need to apply Newton's
+forces concurrently. And so, now let's
+go into the fluid dynamics of the
+implosion process, right? So, we're
+going to talk about three things here.
+The first thing we're going to talk
+about is a soliton, right? So, a soliton
+can be classified as three things. So,
+basically a soliton is a
+self-reinforcing wave packet having a
+constant velocity. So, first, it is of
+constant form. Hello, hello, hello. Can
+anyone hear me? My AirPods died, but
+hopefully uh I'm still
+heard loud and clear. I don't know if I
+am. Okay, so first, a soliton is of
+permanent form and it's localized within
+a region. It can interact with other
+solitons and it can emerge from the
+collision unchanged except with phase
+shift. So, that means you can have two
+soliton things that like run into one
+another, but their forces are still
+remaining the same. And the image to the
+left is a diagram. It just shows like
+how solitons work. And then the images
+to the right are actual solitons as
+well, mathematical solitons, uh most
+notable the 2-pi. So, then next we got
+the uh
+fluid dynamics Bernoulli's principle.
+So, I stole this from a Shaw burger
+slide. Basically, fluid speed increases
+static pressure. As fluid speed
+increases, static pressure decreases.
+Okay? So, don't have time to really go
+into that. And then we're going to dive
+into Helmholtz's theorems a bit. So,
+Helmholtz's theorems in short basically
+how a fluid system works uh will uh be
+uh contingent upon these things. I don't
+have time to go into great detail about
+these, but anyone who's really
+interested in the nitty-gritty, there's
+a great book by Saffman which has all
+manner of uh really hard I shouldn't say
+hard, it is complicated math dealing
+with fluid dynamics uh using some uh
+calculus, higher-level calc. But uh
+anyway, so uh this is the first theorem
+here. So, the first theorem is basically
+it strikes a similarity between
+Maxwell's equations for magnetic field.
+Um but here it says a tube's structural
+integrity will remain constant with
+respect to time.
+So, the strength of a vortex line is
+constant along its path. And then this
+next one over here, basically again,
+extraordinarily similar to
+electrodynamics, a vortex will go on
+into some boundary like a wall or wrap
+itself into a coil.
+So that's what we have. This is very,
+very similar to some of the
+electrodynamic principles you'll find
+when using Maxwell's equation. And then
+finally, we have here vortex theorem
+three, a fluid element that is initially
+irrotational remains irrotational. And a
+fluid element which is free of vortices
+continues to remain free of vortices. So
+if you've got no vortex, no spinning,
+then it won't be spinning. If it already
+is spinning, will tend to be spinning.
+Okay, so let's go in and we finally made
+it. So the repulsine {slash} repulsator,
+okay? So you'll notice that I have left
+out the maths and all that stuff cuz we
+just don't have time for that. We got to
+get into the real sauce. And I had to
+like, you know, give all of the
+background for this. So let's go into
+the lore, right? Cuz there's so much
+lore surrounding this. I have to bring
+some clarification into this.
+Okay, so these are taken from books,
+assortment of Calvin Coats and
+Alexanderson's books as well. So
+basically, here's what happened. So in
+1943,
+Victor was declared fit for active duty
+by the SS and under the control of
+Heinrich Himmler forced him to develop a
+new secret weapon. And so he had to work
+at I think it was Mauthausen
+concentration camp to supply the work
+which was supplied with a workforce of
+prisoners. He was strongly opposed to
+this. He didn't like this. And so, you
+know, he was trying to resisting and
+finding unique ways to work around the
+working conditions. So
+this here I my highlight portion talks
+about the device. So
+basically, let's see if my notes can
+condense this a bit more. So the excerpt
+on the left is in 1956 letter to Franz
+Strauss. Schauberger claimed that a
+working model of his repulsine had
+actually been flown by the Oh, this
+might be
+This will Well, I'll read this anyway.
+So by American intelligence
+investigators after being seized, the
+same account also reports an important
+component which had been removed by in
+Vienna by
+Russians. If the component really exist
+and given that the visible
+incompleteness of the present repulsine
+designs, it's this is not unreasonable,
+then an obvious question is why did
+Schauberger not redraw the component or
+provide a more previous um detailed
+description of it? Perhaps he forgot,
+perhaps they were the ones who figured
+out how the how to make this component
+and understood enough Schauberger that
+they just went off and made it
+themselves. So one possible answer is
+that by this point too much time had
+passed, the war was over, his
+circumstances had changed, and his
+attention had been shifted into other
+projects. It's also possible that the
+component was simply not a detachable
+part, but something whose function
+didn't depend on tolerances, material
+pressures, internal conditions, and
+other things which were difficult to
+reconstruct from a material um memory
+alone, okay? I may have preemptively
+read those notes, but uh
+again, these are just like primary
+things related to lore. So yeah, uh
+that Moving on. So lore part two we got
+here. So this excerpt is quite important
+because Schauberger himself says that
+the device which worked um during uh a
+try had a trailing blue-green silvery
+glow. That's why I brought up like
+Mirabeau's work. And it's even to
+consider because if the conditions were
+ideal, then a truly operational device
+might have looked closer to the light
+craft like uh Mirabeau's work, which
+produces a trailing kind of energetic uh
+light streak from shock waves and the
+craft as it continually ascended upward,
+right? So I prefer the alternative and
+about a year later the first flying
+saucer rose up unexpectedly at first
+attempt. The ceiling was then wrecked. A
+few weeks later an American group
+appeared who seemed to understand what
+was happening and seized everything. And
+so again here in Callum Coats' book uh
+he says that the compact side, so I
+think referring to this event, um the
+machine generated such a powerful
+levitation force that when it was first
+switched on without Schauberger's
+permission, it sheared the six uh
+1 1/4 in 1/4 in I guess diameter tensile
+steel anchor bolts and shot upwards and
+smashed against the floor. Very powerful
+principle, like implosion then.
+So anyway, uh moving on. Next slide. So
+here we got more lore. So at the end of
+the war he was confined for a year by
+American forces uh because of his
+knowledge of atomic energy production,
+right?
+And after his release under the threat
+of re-arrest he was forbidden to take up
+any research again in atomic energy
+field. Although
+I guess other people have been
+interested in it also by the way that
+was taken from Alexanderson's book. So
+let's look at some past and present
+current reconstructions of the
+Repulsine. Okay, so this is the
+Repulsine B. I may have switched them
+up. This might be A, I don't know. But
+again, like I said earlier preface, I
+don't believe any of the historical
+Repulsine crafts that we have today
+actually ever took off. I think if they
+were pretty sure so when they were
+constructed they were probably like, you
+know, little step ladders to get them to
+the real Repulsine which did work. And
+one reason for this is because we still
+have mostly all of the parts for these
+things intact. And so we know for a fact
+that for the one that did work there was
+a part that was intact and it was
+destroyed. I think in Victor's
+department. If you look in the lore that
+I provided before.
+So historically there are only two major
+versions of the Repulsine. A lot of
+times these also get misunderstood and
+mismatched incorrectly. So this version
+is probably the earliest patented form.
+And another thing to know with the
+patents and just Victor Schauberger in
+general is I get a lot of faithful
+Victor Schauberger followers who will be
+like, you did Schauberger wrong, you did
+this. And like I said in the beginning,
+Victor Schauberger's work a lot of times
+is pictorial and descriptive. And so
+what you see in drawings, especially as
+somebody who loves patent dumping so
+that's basically going into the dumpster
+trash of patents and looking at that
+like patent designs. What you see in a
+patent is not necessarily one-to-one
+with a design. And so you should
+probably be it's better you understand
+the principles that the inventor meant
+for the design but sometimes those don't
+equate to having the thing actually work
+one-to-one, right? Okay. So here for
+this design here in this model you have
+a series of covering tongues. So they're
+about 60 degrees from one another.
+There's also a large snake-like opening
+almost associated with lower membrane uh
+with internal features whose exact
+function remain really difficult to
+interpret. This version is not known to
+produce lift. Um for this reason, I
+treat it as an earlier prototype than a
+final operational form. This operation
+uh this interpretation also seems
+reasonable when examining the patent
+since the device is more explanatory and
+structurally
+uh and structurally developmental than
+the later repulsine. Okay, so uh
+repulsine A, so that is the repulsine
+that everybody knows when they think
+about it. So, over time Coats and uh
+Fried Friedbanda, I forgot his name,
+established a relationship. So, uh I
+this actually Oh, so in a lecture given
+by Richard Friedband, a Fried
+Friedbanda, a former US airman, Callum
+Coats was reportedly in attendance. In
+this lecture, Friedbanda presented
+images of what he claimed to be Viktor
+Schauberger's last repulsine. So, over
+time the two got a relationship and then
+through the exchange uh basically word
+got over to the uh Schauberger estate.
+Jörg uh went over to go and visit uh uh
+uh Richard Fried Richard Friedband's uh
+widow in the United States. And during
+that visit, several important primary
+documents were uncovered. Among them was
+the so-called purple report, a 1952
+paper associated with the University of
+Stuttgart um uh bearing the signature of
+the professor, but also uh more things
+related to the repulsine A as we have
+here. So, in my view, the photograph on
+the left appears to show the same
+device. A lot of people say these are
+two different devices, but I think it's
+the same device with just a different
+top, a different upper component. Many
+people, including Callum Coats, have
+treated these as distinct repulsines
+with one being with the one being the
+earlier version covered from the
+previous slide. I've come to a different
+conclusion. These images most likely
+represent the same repulsine with
+interchangeable uh modified upper
+sections. What remains unclear to me is
+whether the impeller-type cone in the
+lower section was used uh together with
+the acorn structure of the upper piece.
+So, basically, uh what's unclear to me
+is whether the images here
+were both like combined and used
+together or separate. I still think
+there was a crucial piece that might
+have been uh missing. I'm not sure. So,
+what uh what else? Let's see what else.
+Uh for example, the impeller cone could
+not easily coexist in the same position
+with the bio impeller type thing deal.
+And there are images that you see here,
+obviously the bio impeller. And this
+doesn't really look like an ideal bio
+impeller. Some of these look more for
+show, trying to work off of Schauberger
+rather than like functional engineering
+stuff, in my personal opinion. So, this
+is where the engineering begins to blur,
+and the myth if there is a missing
+component that enabled the machine to
+lift, it was likely connected to this
+upper section in some way. And that
+upper section seems to be the area where
+the most significant functional
+variations occurred. Okay, so then this
+is another important thing to Oh,
+running out of time here, so I might go
+over just about 5 minutes. There has
+been a emulsifier misattribution. So,
+this device has never required a
+emulsifier. And if you look at all of
+the primary documents, you will see that
+the only case that you ever hear of an
+emulsifier being mentioned within uh
+Schauberger's work is with mixtures. And
+then also, this was taken from the
+tornado turbine, which I had translated
+in English, and with my own little
+hand-drawn notes. In a documentary, I
+think Jörg made the mistake of
+accidentally uh misattributing this the
+the the ability of the repulsine not
+working to a emulsifier that was needed.
+There was never an emulsifier needed. Um
+when the thing took off accidentally and
+sheared its way through stuff, there was
+no speak of any kind of emulsifier. I
+think it was purely from the implosive
+principles that it worked. I think it's
+more than likely more than possible for
+such a thing to take place. Okay. So, uh
+moving on.
+Here are some images from a repulsine
+which was replicated by somebody in the
+aerodynamic industry. Uh this was from a
+global BEM presentation by Jörg in
+November of 2019. He said there were
+folks uh trying to replicate it, and the
+quote is, "There is interest from the
+aircraft industry. It was remodeled some
+years ago, but they told us there wasn't
+any effect." And so, as someone who
+worked on this particular model, I'm not
+surprised because uh just some principal
+things in mind when you're thinking
+about it.
+Um
+it doesn't look like this will just give
+you an aerodynamic effect from the
+images alone, right? So, my own work,
+very quickly here. So, basically this is
+what I did, you know, I had a lot of
+time on my hands and I was bored. I went
+through and I counted all of the slots
+and I, you know, did some digging on the
+internet and found like people who'd
+actually gone to PKS and posted those
+images. I counted all of the rills or
+gills and then I counted the waves
+within the diaphragms. A lot of people
+get on my case saying, "You did the
+waves wrong, this and that and that."
+Whatever. If you look at the designs,
+the historical designs which were made,
+I assure you that the people who were
+making these were not paying attention
+to the finer details. They weren't as
+refined as we read Schauberger
+researchers are. And so, they had no
+cares for things like kudal horns or,
+you know, harmonic, you know, distances
+for the waves to be there, right? And
+so, my intention in making this was just
+trying to
+make a historical craft that could be
+replicated by anyone anywhere and reused
+or reused and then improved upon.
+And so, that's what I did here. These
+are my notes of studying that image
+which was provided for Callum Coats.
+Distinct The only distinct things you'll
+find in my design is I made the the
+plates a little bit thicker for 3D
+printing. If they're too thin, it's
+going to give you a nightmare and give
+you like a squirrel's nest for 3D
+printing.
+And I've also combined some parts, but I
+also have the parts which are not
+combined. It is not necessary for many
+of the components here to be like
+separated. Some of them can be fused
+together and that's perfectly fine, but
+you have to be careful with where you're
+doing that.
+So, uh here is the annual ring. For
+example, the annual ring part was more
+of a like separator between the function
+functional parts. It really had no It
+was just a separator between the cowl
+and then the lower
+frame wing waves. You didn't need it
+there. And so, I was able to get rid of
+it. It was more of like man-made
+need. This was reproduced by Puthoff Lab
+when they did research back in whatever
+they They research. He's disappeared
+now. And so uh these are some of the
+internal slots.
+And then I went to the CAD Fusion 360. I
+reproduced things the best I can with
+the nice sweeping gradient edges. And I
+made different variations. So these are
+just some of the variations I have here.
+This was the 3D printing design. I
+forgot how long this took because I
+tried to make it as large as possible.
+And I think the printer was like a three
+an Ultimaker 3. I can't remember, but my
+library school library had some really
+nice 3D printers then. And so I would
+always come in and instinctively do my
+work and leave. I didn't like talking to
+people because in the past well
+you get bullied quite a lot for working
+on things that everyone in institutional
+science is like yeah, this is stupid.
+This doesn't work. It's not real, right?
+And so I mean if you're not working for
+me and not helping me then it's better
+to keep it hush-hush, right? So anyway,
+I finished the end product. I did end up
+showcasing it in one of our little
+library presentations. And I did not
+test it. This one probably wouldn't be
+good for testing. It's weak. But the
+good news is that with all of the files
+that I've open sourced for anyone, you
+can go and rebuild this.
+And you can actually use a CNC machine
+to make it as well. And so you can do
+some really interesting things if maybe
+you get it up to speed or improve upon
+it and solve the mystery of the upper
+chamber that all of us are trying to
+figure out. But I think it's a pretty
+darn close replication as is just on
+based on eyes. Our work in future work,
+I just haven't had the time. I've been
+procrastinating. And to be honest, I've
+been a bit on the low
+trying to
+get back into doing this work. But I've
+been working on Schauberger tubes.
+That's probably the best place to start
+when making Schauberger
+and doing so using the PKS stuff like
+mathematically. So you want to start
+with these three geometries with the
+tubes. We have the hyperbolic thing. We
+have the general cone. And then we have
+This was really hard to make, but it's
+also easy. Again, just make the
+hyperbolic cone cross that's I mean cut
+into it and then you can get all of the
+nice little geometries you'd like. And
+so then you can wrap around that and
+make any kind of tube that you like. And
+then you get some of the nice little
+aftereffects scrolls, right? Okay, so uh
+uh wow, I guess I finally did make it to
+the end, and I made it to the end
+unfortunately going a bit 5 minutes
+over. Uh I was going to give some final
+remarks. So, I don't think that I have
+any, but uh here are the links I have.
+My guiltless plug is the inertial
+propulsion workshop, which was started
+uh Brian St. Clair. It's a nice little
+cozy community for those of us who have
+been uh doing work. Again, my field of
+specialty is in um impulsive solid-state
+impulsive systems. So, a lot of times
+that roughly translates into inertial
+propulsion systems, but I have
+distinction and nuance within that
+because a lot of people say, "Yeah,
+inertial propulsion, I know that." But,
+it a lot of the work I've done is very
+distinct within inertial propulsion, and
+I do make distinctions when I talk about
+it. But anyway, um it's a cool community
+uh regardless of whatever you're doing,
+it doesn't matter. It might not even be
+a no sure propulsion, it's trying to
+make it more expensive. Uh you're
+welcome to come and join us. Uh if you
+have any questions for me, you can
+always shoot me an email. There's my
+YouTube, please give me a subscribe. And
+Patreon, I'm still setting up. It would
+be nice to get some money's. Um and I
+open source all of my work. Uh
+ResearchGate has all of my papers and
+stuff for anyone who's interested. Uh I
+have also kind of branched into other
+things, you know, I talk about time a
+bit, but that's just because Mach effect
+when you treat force as a process, then
+mass also is not necessarily uh just
+like a simple spherical point cow as you
+think, right? And as a computer
+scientist, or maybe a fake computer
+scientist, maybe more of a vibe computer
+scientist these days, right? Cuz I I
+have great apathy for many things. Um
+I like to explore some physics things
+without using physics. So, I used like
+for example Leslie Lamport's
+uh
+He's done incredible work, Leslie
+Lamport. And there's a way to talk about
+like things related to like Everett in
+the many-world theory of quantum
+mechanics using the work of Leslie
+Lamport. So, I tried to do that. I have
+that in a paper up somewhere uh or at
+least my crude attempt. I don't even
+know if I understand it.
+>> [laughter]
+>> So, just being completely honest, it
+gets really weird and wacky. But,
+generally, yeah, I'm into you these kind
+of systems. But, I guess that's it.

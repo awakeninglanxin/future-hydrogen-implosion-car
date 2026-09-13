@@ -249,6 +249,8 @@ python _复算28_圆锥角与胡夫金字塔.py
 | 想深挖 **Vernon Roth（Schauberger+Тесла 路线的核心演讲者）** | ★ `joe cell/28_VernonRoth专项深挖_内爆谱系档案.md`（人物档案 ＋ **2007《内爆、炼金与宇宙发动机》** ＋ **Type 3 室温超导** ＋ 炼金氢 B1–B9） |
 | 想读 **Joe 的 60 分钟答问 + Peter Stevens 频道档案** | ★ `joe cell/29_AIR系列收录_PeterStevens频道_Joe答问.md`（**waste spark = 内爆** ＋ **90° 尖峰** ＋ **「cold implosion」** ＋ Bill Williams 的 **1.5V 电池** ＋ ASTRO「**200 RPM 比 800 转还顺**」） |
 | 想知道 **「磁化水 / 聚合水」是怎么讲的** | ★ `joe cell/30_磁现象系列收录_PeterStevens磁学档案.md`（**poly water** 工艺链 ＋ **Walter Russell《The Secret of Light》** ＋ Joe 讲**火花被吸引**/「**1 英寸**」＋ ★「poly water」与 1960s 已证伪「polywater」的**同名不同物**辨析） |
+| 想了解 **Repulsine「内爆引擎」的当代深度讲解（73 分钟 4K）** | ★ `joe cell/31_Repulsine深度讲解收录_AltPropulsion_DennyOkudinani.md`（**主张总表 19 条分档** ＋ 95 条时间码引文 ＋ 史料（1943/苏军取件/六锚栓）＋ **航业界复刻「无任何效果」反证** ＋ CAD 开源） |
+| 想找 **「孤子 / 马赫 / 内爆」的现代物理支撑论据** | ★ `joe cell/32_论据一_孤子与涡流力学.md` ／ `33_论据二_马赫原理与开放系统.md` ／ `34_论据三_内爆发光与等离子.md`（**孤子全史＋南海实测** ／ **GP-B 拖曳实测** ／ **声致发光·光船·NIF 点火**；均标注支撑边界） |
 | **想动手** | `joe cell/` ★ 报告 §8 安全 + §9 验收；`HHO书本精读/06` A1–C4 施工稿 |
 
 ---
